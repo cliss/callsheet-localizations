@@ -21,7 +21,7 @@ This isn't _super_ obvious in Loca Studio:
 
 <img width="410" alt="Screenshot 2024-05-10 at 8 24 59 PM" src="https://github.com/cliss/callsheet-localizations/assets/282460/af01548a-6f2a-4b2d-aa5d-3139ba935370">
 
-Note that the `Source` column kind of hints at what's going on here, but the `ID` column shows `plural-one` for the singular version and `plural-other` for the plural version. Fill each in as appropriate, please.
+Note that the `Source` column kind of hints at what's going on here, but the `ID` column shows `plural.one` for the singular version and `plural.other` for the plural version. Fill each in as appropriate, please.
 
 [Language Plural Rules](https://www.unicode.org/cldr/charts/45/supplemental/language_plural_rules.html)
 
