@@ -6,11 +6,11 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Callsheet</source>
+        <source>Callsheet</source><target>Callsheet</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>Callsheet</source>
+        <source>Callsheet</source><target>Callsheet</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
@@ -69,47 +69,47 @@
         <note/>
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.one" xml:space="preserve">
-        <source>%lld Season</source>
+        <source>%lld Season</source><target>%lld Staffel</target>
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.other" xml:space="preserve">
-        <source>%lld Seasons</source>
+        <source>%lld Seasons</source><target>%lld Staffeln</target>
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.one" xml:space="preserve">
-        <source>%lld episode</source>
+        <source>%lld episode</source><target>%lld Episode</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.other" xml:space="preserve">
-        <source>%lld episodes</source>
+        <source>%lld episodes</source><target>%lld Episoden</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.one" xml:space="preserve">
-        <source>%lld minute</source>
+        <source>%lld minute</source><target>%lld Minute</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.other" xml:space="preserve">
-        <source>%lld minutes</source>
+        <source>%lld minutes</source><target>%lld Minuten</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld of %lld" xml:space="preserve">
-        <source>%1$lld of %2$lld</source>
+        <source>%1$lld of %2$lld</source><target>%1$lld von %2$lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.one" xml:space="preserve">
-        <source>%lld year old</source>
+        <source>%lld year old</source><target>%lld Jahr alt</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
-        <source>%lld years old</source>
+        <source>%lld years old</source><target>%lld Jahre alt</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
-        <source>%lld years</source>
+        <source>%lld years</source><target>%lld Jahre</target>
         <note>How old a person was when they passed</note>
       </trans-unit>
       <trans-unit id="%lld years old" xml:space="preserve">
-        <source>%lld years old</source>
+        <source>%lld years old</source><target>%lld Jahre alt</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld — " xml:space="preserve">
@@ -117,119 +117,119 @@
         <note/>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
-        <source>About Callsheet</source>
+        <source>About Callsheet</source><target>Über Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
-        <source>Add Pin</source>
+        <source>Add Pin</source><target>PIN hinzufügen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
-        <source>Add pin</source>
+        <source>Add pin</source><target>PIN hinzufügen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ages" xml:space="preserve">
-        <source>Ages</source>
+        <source>Ages</source><target>Altersstufen</target>
         <note>Heading in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
-        <source>All</source>
+        <source>All</source><target>Alle</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Messages" xml:space="preserve">
-        <source>All Messages</source>
+        <source>All Messages</source><target>Alle Nachrichten</target>
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
-        <source>App Icon</source>
+        <source>App Icon</source><target>App Icon</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
-        <source>Are you sure?</source>
+        <source>Are you sure?</source><target>Bist du sicher?</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="As rated by users of" xml:space="preserve">
-        <source>As rated by users of</source>
+        <source>As rated by users of</source><target>Bewertung der Benutzer von</target>
         <note>Shown in a popover explaining TV/movie scores</note>
       </trans-unit>
       <trans-unit id="Average runtime" xml:space="preserve">
-        <source>Average runtime</source>
+        <source>Average runtime</source><target>Durchschnittliche Laufzeit</target>
         <note>How long episodes run in a single season of TV</note>
       </trans-unit>
       <trans-unit id="Be a hero and support independent apps" xml:space="preserve">
-        <source>Be a hero and support independent apps</source>
+        <source>Be a hero and support independent apps</source><target>Sei ein toller Mensch und supporte Indie-Apps</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
-        <source>Be like the many other beautiful people who have rated this version.</source>
+        <source>Be like the many other beautiful people who have rated this version.</source><target>Sei wie all die anderen wunderbaren Menschen und bewerte diese Version.</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
-        <source>Began Airing</source>
+        <source>Began Airing</source><target>Austrahlungsstart</target>
         <note>When a TV season started airing</note>
       </trans-unit>
       <trans-unit id="Begins Airing" xml:space="preserve">
-        <source>Begins Airing</source>
+        <source>Begins Airing</source><target>Ausstrahlungsende</target>
         <note>When a TV season will start airing</note>
       </trans-unit>
       <trans-unit id="Biography" xml:space="preserve">
-        <source>Biography</source>
+        <source>Biography</source><target>Biographie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Born" xml:space="preserve">
-        <source>Born</source>
+        <source>Born</source><target>Geboren am</target>
         <note/>
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
-        <source>Browser</source>
+        <source>Browser</source><target>Browser</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
-        <source>Callsheet</source>
+        <source>Callsheet</source><target>Callsheet</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Callsheet Premium" xml:space="preserve">
-        <source>Callsheet Premium</source>
+        <source>Callsheet Premium</source><target>Callsheet Premium</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet couldn't parse the information from The Movie Database." xml:space="preserve">
-        <source>Callsheet couldn't parse the information from The Movie Database.</source>
+        <source>Callsheet couldn't parse the information from The Movie Database.</source><target>Callsheet konnte die Information von der Movie Database nicht verarbeiten</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet couldn't reach The Movie Database." xml:space="preserve">
-        <source>Callsheet couldn't reach The Movie Database.</source>
+        <source>Callsheet couldn't reach The Movie Database.</source><target>Callsheet konnte die Movie Database nicht erreichen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**." xml:space="preserve">
-        <source>Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**.</source>
+        <source>Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**.</source><target>Callsheet wurde in Virginia von **[Casey Liss](https://www.caseyliss.com/)** erschaffen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
-        <source>Cancel</source>
+        <source>Cancel</source><target>Abbrechen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel Subscription" xml:space="preserve">
-        <source>Cancel Subscription</source>
+        <source>Cancel Subscription</source><target>Abo beenden</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cast" xml:space="preserve">
-        <source>Cast</source>
+        <source>Cast</source><target>Mitwirkende</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cast or Crew" xml:space="preserve">
-        <source>Cast or Crew</source>
+        <source>Cast or Crew</source><target>Mitwirkende und Crew</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
-        <source>Choose New Subscription</source>
+        <source>Choose New Subscription</source><target>Wähle ein neues Abo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose a link:" xml:space="preserve">
-        <source>Choose a link:</source>
+        <source>Choose a link:</source><target>Wähle einen Link:</target>
         <note>Shown in settings for the quick access link</note>
       </trans-unit>
       <trans-unit id="Choose a quick link" xml:space="preserve">
-        <source>Choose a quick link</source>
+        <source>Choose a quick link</source><target>Wähle einen Schnell-Link</target>
         <note>Accessibility label for the quick access picker in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
@@ -1038,7 +1038,7 @@
         <note>Only shown on a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
-        <source>`%@` is unimplemented</source>
+        <source>`%@` is unimplemented</source><target>`%@` ist nicht implementiert</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
@@ -1054,15 +1054,15 @@
         <note/>
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
-        <source>© 2023%@ Limitliss LLC</source>
+        <source>© 2023%@ Limitliss LLC</source><target>© 2023%@ Limitliss LLC</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
-        <source>🤝</source>
+        <source>🤝</source><target>🤝</target>
         <note/>
       </trans-unit>
       <trans-unit id="🤷‍♂️" xml:space="preserve">
-        <source>🤷‍♂️</source>
+        <source>🤷‍♂️</source><target>🤷‍♂️</target>
         <note/>
       </trans-unit>
     </body>
