@@ -153,11 +153,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
-        <source>Add Pin</source><target>Зберегти</target>
+        <source>Add Pin</source><target>Закріпити</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
-        <source>Add pin</source><target>Зберегти</target>
+        <source>Add pin</source><target>Закріпити</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ages" xml:space="preserve">
@@ -575,7 +575,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
-        <source>No TV show pins found.</source><target>Жодного серіалу не збережено.</target>
+        <source>No TV show pins found.</source><target>Не закріплено жодного серіалу.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No credits found." xml:space="preserve">
@@ -587,7 +587,7 @@
         <note>Shown when there's no data for new movies / new shows / etc</note>
       </trans-unit>
       <trans-unit id="No movie pins found." xml:space="preserve">
-        <source>No movie pins found.</source><target>Жодного фільму не збережено.</target>
+        <source>No movie pins found.</source><target>Не закріплено жодного фільму.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
@@ -603,11 +603,11 @@
         <note>Shown when searching a list of credits, but no matches were found</note>
       </trans-unit>
       <trans-unit id="No people pins found." xml:space="preserve">
-        <source>No people pins found.</source><target>Жодної людини не збережено.</target>
+        <source>No people pins found.</source><target>Не закріплено жодної людини.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pinned items found." xml:space="preserve">
-        <source>No pinned items found.</source><target>Нічого не збережено.</target>
+        <source>No pinned items found.</source><target>Нічого не закріплено.</target>
         <note>Shown on the home screen</note>
       </trans-unit>
       <trans-unit id="No providers found." xml:space="preserve">
@@ -675,15 +675,15 @@
         <note>Picker label for accessibility purposes, in Where to Watch</note>
       </trans-unit>
       <trans-unit id="Pin" xml:space="preserve">
-        <source>Pin</source><target>Збережено</target>
+        <source>Pin</source><target>Закріплене</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="Pin Type" xml:space="preserve">
-        <source>Pin Type</source><target>Тип збереженого</target>
+        <source>Pin Type</source><target>Тип закріпленого</target>
         <note>Shown in the list of pins screen</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
-        <source>Pinned Items</source><target>Збережено</target>
+        <source>Pinned Items</source><target>Закріплене</target>
         <note/>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
@@ -783,11 +783,11 @@
         <note>When a TV episode or movie will be released</note>
       </trans-unit>
       <trans-unit id="Remove Pin" xml:space="preserve">
-        <source>Remove Pin</source><target>Видалити з «Збереженого»</target>
+        <source>Remove Pin</source><target>Видалити з «Закріпленого»</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove pin" xml:space="preserve">
-        <source>Remove pin</source><target>Видалити з «Збереженого»</target>
+        <source>Remove pin</source><target>Видалити з «Закріпленого»</target>
         <note/>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
@@ -1079,11 +1079,11 @@
         <note>cost per period; ie "per month" or "per year"</note>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
-        <source>pin</source><target>збережено</target>
+        <source>pin</source><target>закріплене</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="pinned items" xml:space="preserve">
-        <source>pinned items</source><target>збережено</target>
+        <source>pinned items</source><target>Закріплене</target>
         <note/>
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
