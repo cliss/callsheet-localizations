@@ -23,6 +23,8 @@ This isn't _super_ obvious in Loca Studio:
 
 Note that the `Source` column kind of hints at what's going on here, but the `ID` column shows `plural-one` for the singular version and `plural-other` for the plural version. Fill each in as appropriate, please.
 
+[Language Plural Rules](https://www.unicode.org/cldr/charts/45/supplemental/language_plural_rules.html)
+
 ## Submission Flow
 
 I've never done this before, so I'm working this out as we go, as well. But here's my vision for how I hope this will work:
