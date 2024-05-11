@@ -69,11 +69,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.few" xml:space="preserve">
-        <source>%lld Seasons</source><target>%lld сезона</target>
+        <source>%lld Seasons</source><target>%lld сезони</target>
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.many" xml:space="preserve">
-        <source>%lld Seasons</source><target>%lld сезони</target>
+        <source>%lld Seasons</source><target>%lld сезонів</target>
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.one" xml:space="preserve">
@@ -85,11 +85,11 @@
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.few" xml:space="preserve">
-        <source>%lld episodes</source><target>%lld епізода</target>
+        <source>%lld episodes</source><target>%lld епізоди</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.many" xml:space="preserve">
-        <source>%lld episodes</source><target>%lld епізоди</target>
+        <source>%lld episodes</source><target>%lld епізодів</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.one" xml:space="preserve">
@@ -125,7 +125,7 @@
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.many" xml:space="preserve">
-        <source>%lld years old</source><target>%lld роки</target>
+        <source>%lld years old</source><target>%lld років</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.one" xml:space="preserve">
