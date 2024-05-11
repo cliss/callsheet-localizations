@@ -102,7 +102,12 @@
         <target state="translated">%lld episodes</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
-      <trans-unit id="%lld minutes" xml:space="preserve">
+      <trans-unit id="%lld minutes|==|plural.one" xml:space="preserve">
+        <source>%lld minute</source>
+        <target state="translated">%lld minute</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld minutes|==|plural.other" xml:space="preserve">
         <source>%lld minutes</source>
         <target state="new">%lld minutes</target>
         <note/>

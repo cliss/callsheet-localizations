@@ -83,7 +83,26 @@
       }
     },
     "%lld minutes" : {
-
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld minute"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld minutes"
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "%lld of %lld" : {
       "localizations" : {
