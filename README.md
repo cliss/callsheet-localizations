@@ -35,6 +35,10 @@ I've never done this before, so I'm working this out as we go, as well. But here
 5. We both get to enjoy Callsheet being in one more language!
 6. If you happen to be an [ATP](https://atp.fm/) listener, and if you _do_ complete an entire language's localization, let me know, and maybe an ATP sticker will get mailed to you. 😏
 
+## Wait, there are forks other than cutlery and roads?
+
+I'm guessing you're not experienced with Github. No problem! Reach out (see below) and we'll see if there's an alternative approach we can use. 😊
+
 ## What if my language isn't here?
 
 Reach out (see below) and I'll be happy to add it!
