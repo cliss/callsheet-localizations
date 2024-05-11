@@ -229,7 +229,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet couldn't reach The Movie Database." xml:space="preserve">
-        <source>Callsheet couldn't reach The Movie Database.</source><target>Callsheetне зміг достучатися до The Movie Database.</target>
+        <source>Callsheet couldn't reach The Movie Database.</source><target>Callsheet не зміг достучатися до The Movie Database.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**." xml:space="preserve">
@@ -357,7 +357,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
-        <source>Ends at %@</source><target>Закічниться о %@</target>
+        <source>Ends at %@</source><target>Закінчиться о %@</target>
         <note>When a show or movie ends if you start it right now</note>
       </trans-unit>
       <trans-unit id="Episode" xml:space="preserve">
