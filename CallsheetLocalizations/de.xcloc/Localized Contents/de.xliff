@@ -121,7 +121,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
-        <source>Add Pin</source><target>Pin Hinzufügen</target>
+        <source>Add Pin</source><target>Pin hinzufügen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
@@ -157,11 +157,11 @@
         <note>How long episodes run in a single season of TV</note>
       </trans-unit>
       <trans-unit id="Be a hero and support independent apps" xml:space="preserve">
-        <source>Be a hero and support independent apps</source><target>Sei ein Held und unterstütze unabhängige Apps.</target>
+        <source>Be a hero and support independent apps</source><target>Sei ein toller Mensch und supporte Indie-Apps</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
-        <source>Be like the many other beautiful people who have rated this version.</source><target>Schließe dich den vielen, tollen Menschen an, die diese Version bereits bewertet haben.</target>
+        <source>Be like the many other beautiful people who have rated this version.</source><target>Sei wie all die anderen wunderbaren Menschen und bewerte diese Version.</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
@@ -233,7 +233,7 @@
         <note>Accessibility label for the quick access picker in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
-        <source>Choose spoiler-risky things to hide by default.</source><target>Potentielle Spoiler standardmäßig auszublenden.</target>
+        <source>Choose spoiler-risky things to hide by default.</source><target>Diese potentiellen Spoiler standardmäßig ausblenden.</target>
         <note>Subtitle for a row in Settings</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
@@ -337,7 +337,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Episode Scores" xml:space="preserve">
-        <source>Episode Scores</source><target>Bwertungen nach Folge</target>
+        <source>Episode Scores</source><target>Bewertungen nach Folge</target>
         <note/>
       </trans-unit>
       <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
@@ -487,7 +487,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
-        <source>Mid-credits</source><target>Mitten im Abspanns</target>
+        <source>Mid-credits</source><target>Mitten im Abspann</target>
         <note/>
       </trans-unit>
       <trans-unit id="More Info…" xml:space="preserve">
@@ -799,7 +799,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Season %lld Episode %lld" xml:space="preserve">
-        <source>Season %1$lld Episode %2$lld</source><target>Staffel %1$lld Folge %2$lld </target>
+        <source>Season %1$lld Episode %2$lld</source><target>Staffel %1$lld Folge %2$lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="Seasons" xml:space="preserve">
@@ -855,7 +855,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Show age information within credits lists. Ages are always shown for birth/death dates." xml:space="preserve">
-        <source>Show age information within credits lists. Ages are always shown for birth/death dates.</source><target>Zeige das Alter in der Liste der Würdigungen an. Das Alter wird immer für Geburts-/Sterbedatum angezeigt. </target>
+        <source>Show age information within credits lists. Ages are always shown for birth/death dates.</source><target>Zeige das Alter in der Liste der Würdigungen an. Das Alter wird immer für Geburts-/Sterbedatum angezeigt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show movies, shows, or both in credit lists." xml:space="preserve">
@@ -1011,7 +1011,7 @@
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="You don't seem to have a subscription. 🤨" xml:space="preserve">
-        <source>You don't seem to have a subscription. 🤨</source><target>Es sieht so aus, als hättest du kein Abo.</target>
+        <source>You don't seem to have a subscription. 🤨</source><target>Es sieht so aus, als hättest du kein Abo. 🤨</target>
         <note/>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
