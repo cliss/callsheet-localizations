@@ -33,7 +33,7 @@
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
-        <source/><target state="new"></target>
+        <source/><target state="new"/>
         <note/>
       </trans-unit>
       <trans-unit id="#%lld" xml:space="preserve">
@@ -245,7 +245,7 @@
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="Click Me" xml:space="preserve">
-        <source>Click Me</source><target state="new">Tippe hier</target>
+        <source>Click Me</source><target state="new">Click Me</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
@@ -375,7 +375,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Find shared film credits" xml:space="preserve">
-        <source>Find shared film credits</source><target state="new">Finde gemeinsame Würdigungen</target>
+        <source>Find shared film credits</source><target state="new">Finde gemeinsame Filme</target>
         <note/>
       </trans-unit>
       <trans-unit id="For Where to Watch." xml:space="preserve">
@@ -407,7 +407,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Hand your phone to someone knowing they **cannot mess up your photos**." xml:space="preserve">
-        <source>Hand your phone to someone knowing they **cannot mess up your photos**.</source><target state="new">Gib dein Handy weiter mit der Sicherheit, dass **niemand deine Fotos durcheinander bringen kann**.</target>
+        <source>Hand your phone to someone knowing they **cannot mess up your photos**.</source><target state="new">**Deine Fotos sind in sicheren Händen**, selbst wenn dein Handy grad nicht in deinen ist.</target>
         <note>Peek-a-View subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Height" xml:space="preserve">
@@ -423,7 +423,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="How seasons and episodes are sorted." xml:space="preserve">
-        <source>How seasons and episodes are sorted.</source><target state="new">Staffeln und Folgen werden so sortiert.</target>
+        <source>How seasons and episodes are sorted.</source><target state="new">Lege die Sortierung von Staffeln und Folgen fest.</target>
         <note/>
       </trans-unit>
       <trans-unit id="I'm in a popover" xml:space="preserve">
@@ -443,7 +443,7 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="In Retry Period" xml:space="preserve">
-        <source>In Retry Period</source><target state="new">Es wird erneut versucht</target>
+        <source>In Retry Period</source><target state="new">Verlängerung wird erneut versucht</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
@@ -511,7 +511,7 @@
         <note>Accessibility label when a movie's poster is not available</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
-        <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source><target state="new">Filme und TV Sendungen zeigen einen Link als Schnellzugriff an. Die anderen Einträge kannst du unter Mehr finden.</target>
+        <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source><target state="new">Filme und TV Sendungen zeigen immer eine Schnellverknüpfung an. Alle weiteren Einträge kannst du unter “Mehr” finden.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movies featuring" xml:space="preserve">
@@ -567,7 +567,7 @@
         <note>Shown when a movie/show has no cast/crew</note>
       </trans-unit>
       <trans-unit id="No people matching *%@* found." xml:space="preserve">
-        <source>No people matching *%@* found.</source><target state="new">Die Suche nach Personen mit *%@* hat keine Ergebnisse.</target>
+        <source>No people matching *%@* found.</source><target state="new">Keine Ergebnisse für Personen mit *%@* .</target>
         <note>Shown when searching a list of credits, but no matches were found</note>
       </trans-unit>
       <trans-unit id="No people pins found." xml:space="preserve">
@@ -583,7 +583,7 @@
         <note>Shown when there's no data for Where to Watch</note>
       </trans-unit>
       <trans-unit id="No results found for &quot;%@&quot;" xml:space="preserve">
-        <source>No results found for "%@"</source><target state="new">Die Suche nach “%@“ hat keine Ergebnisse.</target>
+        <source>No results found for "%@"</source><target state="new">Keine Ergebnisse für “%@“ hat.</target>
         <note>Generic "couldn't find anything for this query" message</note>
       </trans-unit>
       <trans-unit id="No search history found." xml:space="preserve">
@@ -715,7 +715,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
-        <source>Quickly place emoji on photos — for privacy or fun!</source><target state="new">Schnell Emojis auf Fotos platzieren – Aus Spaß oder zum Schutz der Privatsphäre</target>
+        <source>Quickly place emoji on photos — for privacy or fun!</source><target state="new">Der einfachste Weg, Emojis auf deinen Fotos zu platzieren – Aus Spaß oder zum Schutz deiner Privatsphäre</target>
         <note>MaskerAid subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Rate this version of Callsheet" xml:space="preserve">
@@ -955,7 +955,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Upgraded" xml:space="preserve">
-        <source>Upgraded</source><target state="new">Erweitert</target>
+        <source>Upgraded</source><target state="new">Upgrade gekauft</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="User Interface" xml:space="preserve">
@@ -967,7 +967,7 @@
         <note>Shown when waiting for a purchase to be approved (probably by a parent)</note>
       </trans-unit>
       <trans-unit id="Watch in:" xml:space="preserve">
-        <source>Watch in:</source><target state="new">Hier anschauen:</target>
+        <source>Watch in:</source><target state="new">Hier anschauen in:</target>
         <note>Shown when choosing a country to use for Where to Watch (short version)</note>
       </trans-unit>
       <trans-unit id="Where to Watch" xml:space="preserve">
@@ -975,7 +975,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Which browser to use to open external links." xml:space="preserve">
-        <source>Which browser to use to open external links.</source><target state="new">Wähle einen Browser, der zum Öffnen externer Links genutzt werden soll.</target>
+        <source>Which browser to use to open external links.</source><target state="new">Wähle einen Browser, der zum Öffnen externer Verknüpfungen genutzt werden soll.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Which quick access link is shown." xml:space="preserve">
