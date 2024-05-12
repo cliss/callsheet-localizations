@@ -415,7 +415,7 @@
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="For new &amp; popular media." xml:space="preserve">
-        <source>For new &amp; popular media.</source><target>Для нових та популярних медія.</target>
+        <source>For new &amp; popular media.</source><target>Для нових та популярних медіа.</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
@@ -583,7 +583,7 @@
         <note>Shown when a person has no cast nor crew credits</note>
       </trans-unit>
       <trans-unit id="No media found." xml:space="preserve">
-        <source>No media found.</source><target>Медія не знайдено.</target>
+        <source>No media found.</source><target>Медіа не знайдено.</target>
         <note>Shown when there's no data for new movies / new shows / etc</note>
       </trans-unit>
       <trans-unit id="No movie pins found." xml:space="preserve">
@@ -899,7 +899,7 @@
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
-        <source>Show titles a person may be known from.</source><target>Показувати медія за якими людина може бути відомою</target>
+        <source>Show titles a person may be known from.</source><target>Показувати медіа за якими людина може бути відомою</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, there was a problem." xml:space="preserve">
