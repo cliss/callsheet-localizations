@@ -1015,7 +1015,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
-        <source>You have used all your free searches. Subscribe for unlimited searches.</source><target>Du hast alle kostenlosen Suchanfragen aufgebraucht. Schließe ein Abo ab, um </target>
+        <source>You have used all your free searches. Subscribe for unlimited searches.</source><target>Du hast alle kostenlosen Suchanfragen aufgebraucht. Für unbegrenzte Suchanfragen, schließ ein Abo ab.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You may know them from" xml:space="preserve">
