@@ -947,7 +947,7 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
-        <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source><target>Leider kann man aktuell noch nicht nach Gewerkschaften für TV Sendungen in der [The Movie Database](https://www.themoviedb.org/) suchen. Ich habe bereits nachgefragt. Wir schauen mal, was passiert.</target>
+        <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source><target>Leider kann man aktuell noch nicht nach gemeinsamen TV Sendungen in der [The Movie Database](https://www.themoviedb.org/) suchen. Ich habe bereits nachgefragt. Wir schauen mal, was passiert.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
@@ -983,7 +983,7 @@
         <note>Shown as a subtitle for a row on Settings</note>
       </trans-unit>
       <trans-unit id="Why not shows?" xml:space="preserve">
-        <source>Why not shows?</source><target>???</target>
+        <source>Why not shows?</source><target>Warum sehe ich keine TV Sendungen?</target>
         <note>Shown at the bottom of the "what movies are both of these actors in?" screen</note>
       </trans-unit>
       <trans-unit id="Will NOT renew" xml:space="preserve">
