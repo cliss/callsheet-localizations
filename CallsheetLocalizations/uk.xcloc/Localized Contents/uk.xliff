@@ -217,7 +217,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
-        <source>Callsheet</source><target>Callsheet</target>
+        <source>Callsheet</source><target/>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Callsheet Premium" xml:space="preserve">
@@ -277,7 +277,7 @@
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="Click Me" xml:space="preserve">
-        <source>Click Me</source><target>Натисни мене</target>
+        <source>Click Me</source><target/>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
@@ -301,11 +301,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Could not load static JSON" xml:space="preserve">
-        <source>Could not load static JSON</source><target>Не можу завантажити статичний JSON</target>
+        <source>Could not load static JSON</source><target/>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Could not parse static JSON" xml:space="preserve">
-        <source>Could not parse static JSON</source><target>Не можу прочитати статичний JSON</target>
+        <source>Could not parse static JSON</source><target/>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Credits" xml:space="preserve">
@@ -373,7 +373,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
-        <source>Error: should not be able to reach settings from here.</source><target>Помилка: параметри не мають бути доступними звідси</target>
+        <source>Error: should not be able to reach settings from here.</source><target/>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
@@ -459,7 +459,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="I'm in a popover" xml:space="preserve">
-        <source>I'm in a popover</source><target>Я у віконці</target>
+        <source>I'm in a popover</source><target/>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
@@ -943,7 +943,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="The Movie Database" xml:space="preserve">
-        <source>The Movie Database</source><target>The Movie Database</target>
+        <source>The Movie Database</source><target/>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
@@ -1071,7 +1071,7 @@
         <note>Only shown on a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
-        <source>`%@` is unimplemented</source><target>`%@` не реалізовано</target>
+        <source>`%@` is unimplemented</source><target/>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
@@ -1087,7 +1087,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
-        <source>© 2023%@ Limitliss LLC</source><target>© 2023%@ Limitliss LLC</target>
+        <source>© 2023%@ Limitliss LLC</source><target/>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
