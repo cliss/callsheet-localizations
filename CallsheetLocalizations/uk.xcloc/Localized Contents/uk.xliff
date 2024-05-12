@@ -14,7 +14,7 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
-        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source><target>Якщо Callsheet матиме доступ до вашої локальної мережі, програма зможе показувати посилання на те, що ви дивитеся на великому екрані. Надавати доступ до локальної мережі абсолютно необов'язково. Жодних даних про вашу мережу не буде відправлено з вашого пристрою.</target>
+        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source><target>Якщо Callsheet матиме доступ до вашої локальної мережі, програма зможе показувати посилання на те, що ви дивитеся на основному екрані. Надавати доступ до локальної мережі абсолютно необов'язково. Жодних даних про вашу мережу не буде відправлено з вашого пристрою.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -209,7 +209,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Born" xml:space="preserve">
-        <source>Born</source><target>Народжено</target>
+        <source>Born</source><target>Дата народження</target>
         <note/>
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
@@ -229,7 +229,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet couldn't reach The Movie Database." xml:space="preserve">
-        <source>Callsheet couldn't reach The Movie Database.</source><target>Callsheet не зміг достучатися до The Movie Database.</target>
+        <source>Callsheet couldn't reach The Movie Database.</source><target>Callsheet не зміг достукатися до The Movie Database.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**." xml:space="preserve">
@@ -249,7 +249,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Cast or Crew" xml:space="preserve">
-        <source>Cast or Crew</source><target>Акторський склад та знімальна група</target>
+        <source>Cast or Crew</source><target>Акторський склад або знімальна група</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
@@ -257,11 +257,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Choose a link:" xml:space="preserve">
-        <source>Choose a link:</source><target>Оберіть ярлик:</target>
+        <source>Choose a link:</source><target>Оберіть посилання:</target>
         <note>Shown in settings for the quick access link</note>
       </trans-unit>
       <trans-unit id="Choose a quick link" xml:space="preserve">
-        <source>Choose a quick link</source><target>Оберіть ярлик для швидкого доступу</target>
+        <source>Choose a quick link</source><target>Оберіть швидке посилання</target>
         <note>Accessibility label for the quick access picker in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
@@ -285,7 +285,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Connect to devices on your local network to show what's playing." xml:space="preserve">
-        <source>Connect to devices on your local network to show what's playing.</source><target>Приєднуватися до локальний пристроїв щоб показувати що грає.</target>
+        <source>Connect to devices on your local network to show what's playing.</source><target>Приєднуватися до локальних пристроїв щоб показувати що грає.</target>
         <note>Subtitle in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Copy" xml:space="preserve">
@@ -313,7 +313,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Credits Lists" xml:space="preserve">
-        <source>Credits Lists</source><target>Списки робот</target>
+        <source>Credits Lists</source><target>Списки робіт</target>
         <note>Persnickety Preferences header</note>
       </trans-unit>
       <trans-unit id="Crew" xml:space="preserve">
@@ -435,7 +435,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Guests" xml:space="preserve">
-        <source>Guests</source><target>Гості</target>
+        <source>Guests</source><target>Гостьові ролі</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hand your phone to someone knowing they **cannot mess up your photos**." xml:space="preserve">
@@ -463,7 +463,7 @@
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
-        <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source><target>Якщо ви граєте щось у [Channels](https://getchannels.com/) або [Plex](https://plex.tv/) на іншому пристрої, Callsheet може показати той серіал або фільм на Головному екрані.</target>
+        <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source><target>Якщо ви запустите щось у [Channels](https://getchannels.com/) або [Plex](https://plex.tv/) на іншому пристрої, Callsheet може показати той серіал або фільм на Головному екрані.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
@@ -543,7 +543,7 @@
         <note>Accessibility label when a movie's poster is not available</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
-        <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source><target>Фільми та серіали показуватимуть один ярлик для швидкого доступу. Усі інші доступні у меню «Більше…».</target>
+        <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source><target>Фільми та серіали показуватимуть одне швидке посилання. Усі інші посилання доступні у меню «Більше…».</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movies featuring" xml:space="preserve">
@@ -551,7 +551,7 @@
         <note>Title for cast union view</note>
       </trans-unit>
       <trans-unit id="Name or job" xml:space="preserve">
-        <source>Name or job</source><target>Імʼя або роботи</target>
+        <source>Name or job</source><target>Імʼя або робота</target>
         <note>Crew search prompt</note>
       </trans-unit>
       <trans-unit id="Name or role" xml:space="preserve">
@@ -799,7 +799,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Reverse sort order" xml:space="preserve">
-        <source>Reverse sort order</source><target>Обратний порядок</target>
+        <source>Reverse sort order</source><target>Зворотній порядок</target>
         <note/>
       </trans-unit>
       <trans-unit id="Revoked" xml:space="preserve">
@@ -907,7 +907,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
-        <source>Sort Order</source><target>Порядок</target>
+        <source>Sort Order</source><target>Порядок сортування</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoiler Settings" xml:space="preserve">
@@ -1011,7 +1011,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Which quick access link is shown." xml:space="preserve">
-        <source>Which quick access link is shown.</source><target>Який ярлик швидкого доступу показувати.</target>
+        <source>Which quick access link is shown.</source><target>Яке швидке посилання відображається.</target>
         <note>Shown as a subtitle for a row on Settings</note>
       </trans-unit>
       <trans-unit id="Why not shows?" xml:space="preserve">
@@ -1051,7 +1051,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="You may know them from" xml:space="preserve">
-        <source>You may know them from</source><target>Ви можете знайти їх з</target>
+        <source>You may know them from</source><target>Ви можете знати їх з</target>
         <note>Header shown for people</note>
       </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
