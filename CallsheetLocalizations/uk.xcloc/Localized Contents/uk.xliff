@@ -663,11 +663,11 @@
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
       </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
-        <source>Persnickety Preferences</source><target>Виняткові варіації</target>
+        <source>Persnickety Preferences</source><target>Прискіпливі параметри</target>
         <note/>
       </trans-unit>
       <trans-unit id="Persnickety Prefs" xml:space="preserve">
-        <source>Persnickety Prefs</source><target>Виняткові варіації</target>
+        <source>Persnickety Prefs</source><target>Прискіпливі параметри</target>
         <note>Navigation title for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Pick a country" xml:space="preserve">
