@@ -379,12 +379,12 @@
         <note/>
       </trans-unit>
       <trans-unit id="For Where to Watch." xml:space="preserve">
-        <source>For Where to Watch.</source><target state="new">Gilt für die Suche nach Diensten</target>
-        <note>Shown in Settings</note>
+        <source>For Where to Watch.</source><target state="new">Gilt für die Suche nach Diensten.</target>
+        <note>Shown in Settings</note><note from="reviewer">Consistency with the other settings explainers in German</note>
       </trans-unit>
       <trans-unit id="For new &amp; popular media." xml:space="preserve">
-        <source>For new &amp; popular media.</source><target state="new">Gilt für neue &amp; beliebte Inhalte</target>
-        <note>Shown in Settings</note>
+        <source>For new &amp; popular media.</source><target state="new">Gilt für neue &amp; beliebte Inhalte.</target>
+        <note>Shown in Settings</note><note from="reviewer">Consistency with the other settings explainers in German</note>
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
         <source>Free Trial</source><target state="new">Kostenloser Testzeitraum</target>
@@ -715,8 +715,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
-        <source>Quickly place emoji on photos — for privacy or fun!</source><target state="new">Der einfachste Weg, Emojis auf deinen Fotos zu platzieren – Aus Spaß oder zum Schutz deiner Privatsphäre</target>
-        <note>MaskerAid subtitle in Settings</note>
+        <source>Quickly place emoji on photos — for privacy or fun!</source><target state="new">Der einfachste Weg, Emojis auf deinen Fotos zu platzieren – Aus Spaß oder zum Schutz deiner Privatsphäre.</target>
+        <note>MaskerAid subtitle in Settings</note><note from="reviewer">Consistency with the other settings explainers in German</note>
       </trans-unit>
       <trans-unit id="Rate this version of Callsheet" xml:space="preserve">
         <source>Rate this version of Callsheet</source><target state="new">Bewerte diese Version von Callsheet</target>
