@@ -83,7 +83,26 @@
       }
     },
     "%lld minutes" : {
-
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld minute"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld minutes"
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "%lld of %lld" : {
       "localizations" : {
@@ -523,7 +542,7 @@
       "comment" : "Shown in a semi-hidden debugging view"
     },
     "Now Playing" : {
-      "comment" : "A header on the home screen & a row in Settings"
+      "comment" : "A header on the home screen & a row in Settings; shows what is currently playing in Plex and/or Channels."
     },
     "OK" : {
 

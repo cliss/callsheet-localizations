@@ -100,7 +100,19 @@
         <source>%lld episodes</source>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
-      <trans-unit id="%lld minutes" xml:space="preserve">
+      <trans-unit id="%lld minutes|==|plural.few" xml:space="preserve">
+        <source>%lld minutes</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld minutes|==|plural.one" xml:space="preserve">
+        <source>%lld minute</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld minutes|==|plural.other" xml:space="preserve">
+        <source>%lld minutes</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld minutes|==|plural.two" xml:space="preserve">
         <source>%lld minutes</source>
         <note/>
       </trans-unit>
@@ -619,7 +631,7 @@
       </trans-unit>
       <trans-unit id="Now Playing" xml:space="preserve">
         <source>Now Playing</source>
-        <note>A header on the home screen &amp; a row in Settings</note>
+        <note>A header on the home screen &amp; a row in Settings; shows what is currently playing in Plex and/or Channels.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
