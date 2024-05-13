@@ -25,7 +25,7 @@ Note that the `Source` column kind of hints at what's going on here, but the `ID
 
 [Language Plural Rules](https://www.unicode.org/cldr/charts/45/supplemental/language_plural_rules.html)
 
-Some languages have more complicated pluralization rules than English speakers are used to. Words can be pluralized in ways that English speakers would recognize from [ordinal numbers](https://en.wikipedia.org/wiki/Ordinal_number), like 20th, 21st, 22nd, 23rd. You can look these up in the rules table above.
+Some languages have more complicated pluralization rules than English speakers are used to. Words can be pluralized in ways that English speakers would recognize from [ordinal numerals](https://en.wikipedia.org/wiki/Ordinal_numeral), like 20th, 21st, 22nd, 23rd. You can look these up in the rules table above.
 
 As an example, these are the rules for Polish:
 
