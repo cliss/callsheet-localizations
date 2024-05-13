@@ -1043,17 +1043,17 @@
       </trans-unit>
       <trans-unit id="Released" xml:space="preserve">
         <source>Released</source>
-        <target state="translated">Випущено</target>
+        <target state="translated">Дата виходу</target>
         <note>When a TV episode or movie was released in the past</note>
       </trans-unit>
       <trans-unit id="Released " xml:space="preserve">
         <source>Released </source>
-        <target state="translated">Випущено </target>
+        <target state="translated">Вийшов </target>
         <note/>
       </trans-unit>
       <trans-unit id="Releases" xml:space="preserve">
         <source>Releases</source>
-        <target state="translated">Виходить</target>
+        <target state="translated">Дата виходу</target>
         <note>When a TV episode or movie will be released</note>
       </trans-unit>
       <trans-unit id="Remove Pin" xml:space="preserve">
