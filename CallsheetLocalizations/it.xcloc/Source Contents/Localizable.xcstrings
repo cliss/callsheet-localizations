@@ -83,13 +83,25 @@
         }
       }
     },
-    "%lld free search%@ remaining" : {
+    "%lld free search remaining" : {
       "comment" : "Shown on the main/bottom bar when the user has fewer than 10 of their free searches left",
       "localizations" : {
         "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$lld free search%2$@ remaining"
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld free search remaining"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld free searches remaining"
+                }
+              }
+            }
           }
         }
       }
@@ -350,7 +362,7 @@
     "Done" : {
 
     },
-    "Each TV show can have their own settings, set by tapping the `Hide Spoilers…` button when looking at a show or episode." : {
+    "Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." : {
 
     },
     "Ends at %@" : {
@@ -692,6 +704,9 @@
       "comment" : "Subtitle for Persnickety Preferences in Settings",
       "extractionState" : "manual"
     },
+    "Parental Guidance" : {
+      "comment" : "Quick access link"
+    },
     "Parental guidance won't be shown for cast and crew." : {
       "comment" : "Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button"
     },
@@ -773,6 +788,9 @@
     "Purchasing…" : {
 
     },
+    "Quick Access Link" : {
+      "comment" : "Title of the Quick Access Link screen in Settings"
+    },
     "Quickly place emoji on photos — for privacy or fun!" : {
       "comment" : "MaskerAid subtitle in Settings"
     },
@@ -838,6 +856,9 @@
     },
     "Search history" : {
 
+    },
+    "Search History" : {
+      "comment" : "Title of the Search History screen"
     },
     "Season %lld Episode %lld" : {
       "localizations" : {
@@ -909,11 +930,17 @@
     "Spoiler Settings" : {
 
     },
+    "Spoilers" : {
+      "comment" : "Title for the row in Settings to get you to the default Spoiler Settings"
+    },
     "Subscribe" : {
 
     },
     "Subscribed" : {
 
+    },
+    "Subscribers can change the app’s icon." : {
+      "comment" : "Subtitle for the App Icon row in Settings"
     },
     "Subscription Status" : {
 
@@ -923,6 +950,9 @@
     },
     "Summary" : {
 
+    },
+    "Technical Details" : {
+      "comment" : "Quick access link"
     },
     "Terms of Service" : {
 
@@ -957,6 +987,9 @@
     "Trial Period" : {
       "comment" : "Shown in a semi-hidden debugging view"
     },
+    "Trivia" : {
+      "comment" : "Quick access link"
+    },
     "TV Shows" : {
       "comment" : "On cast list, display movies, shows, or movies & shows"
     },
@@ -969,11 +1002,17 @@
     "Unlimited searches" : {
       "comment" : "Shown on the pre-sales screen to get users to subscribe"
     },
+    "Upcoming" : {
+      "comment" : "Header for titles a person will be in, but have not been released yet"
+    },
     "Upgraded" : {
       "comment" : "Shown in a semi-hidden debugging view"
     },
     "User Interface" : {
       "comment" : "Header in Persnickety Preferences"
+    },
+    "visionOS does not support changing icons yet." : {
+      "comment" : "Subtitle for the App Icon row in Settings on visionOS"
     },
     "Waiting for approval…" : {
       "comment" : "Shown when waiting for a purchase to be approved (probably by a parent)"
@@ -981,11 +1020,14 @@
     "Watch in:" : {
       "comment" : "Shown when choosing a country to use for Where to Watch (short version)"
     },
+    "Website" : {
+      "comment" : "Quick access link"
+    },
     "What was that thing I looked up yesterday?" : {
       "comment" : "Subtitle for \"Search history\"; shown on the pre-sales screen to get users to subscribe"
     },
     "Where to Watch" : {
-
+      "comment" : "Quick access link"
     },
     "Which browser to use to open external links." : {
 
@@ -997,6 +1039,9 @@
     "Why not shows?" : {
       "comment" : "Shown at the bottom of the \"what movies are both of these actors in?\" screen"
     },
+    "Wikipedia" : {
+      "comment" : "Quick access link"
+    },
     "Will NOT renew" : {
       "comment" : "Shown in a semi-hidden debugging screen"
     },
@@ -1005,6 +1050,9 @@
     },
     "With a subscription, you get:" : {
 
+    },
+    "years old" : {
+      "comment" : "Shown as a header for a year in a person's filmography; \"52 - 53 years old"
     },
     "You can be second! That’s pretty great!" : {
       "comment" : "Shown to try to encourage the user to rate the app"
