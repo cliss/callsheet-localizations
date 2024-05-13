@@ -683,7 +683,7 @@
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
-        <target state="translated">Перевизначення мови</target>
+        <target state="translated">Бажана мова</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
@@ -698,7 +698,7 @@
       </trans-unit>
       <trans-unit id="Loading…" xml:space="preserve">
         <source>Loading…</source>
-        <target state="translated">Завантажується…</target>
+        <target state="translated">Завантаження…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Macro State at %@" xml:space="preserve">
@@ -728,7 +728,7 @@
       </trans-unit>
       <trans-unit id="More…" xml:space="preserve">
         <source>More…</source>
-        <target state="translated">Більше…</target>
+        <target state="translated">Ще…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movie Poster" xml:space="preserve">
@@ -1023,7 +1023,7 @@
       </trans-unit>
       <trans-unit id="Rating" xml:space="preserve">
         <source>Rating</source>
-        <target state="translated">Віковий рейтинг</target>
+        <target state="translated">Категорія</target>
         <note>A content rating like G/PG/PG-13/R</note>
       </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">
@@ -1038,7 +1038,7 @@
       </trans-unit>
       <trans-unit id="Region Override" xml:space="preserve">
         <source>Region Override</source>
-        <target state="translated">Перевизначення регіону</target>
+        <target state="translated">Бажаний регіон</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Released" xml:space="preserve">
@@ -1217,7 +1217,7 @@
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
         <source>Sort Order</source>
-        <target state="translated">Порядок сортування</target>
+        <target state="translated">Сортування</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoiler Settings" xml:space="preserve">
@@ -1359,7 +1359,7 @@
       </trans-unit>
       <trans-unit id="Which quick access link is shown." xml:space="preserve">
         <source>Which quick access link is shown.</source>
-        <target state="translated">Яке швидке посилання відображається.</target>
+        <target state="translated">Яке посилання показувати.</target>
         <note>Shown as a subtitle for a row on Settings</note>
       </trans-unit>
       <trans-unit id="Why not shows?" xml:space="preserve">
@@ -1414,7 +1414,7 @@
       </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
         <source>Your favorite characters finally get married.</source>
-        <target state="translated">Ваші улюбленні персонажі нарешті одружуються.</target>
+        <target state="translated">Вони нарешті одружуються.</target>
         <note>A fake summary shown when demonstrating hiding spoilers</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
