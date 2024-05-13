@@ -978,7 +978,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Quick Access Link" xml:space="preserve">
-        <source>Quick Access Link</source>
+        <source>Quick Access Link</source><target>Schnellverknüpfung</target>
         <note>Title of the Quick Access Link screen in Settings</note>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
@@ -1085,7 +1085,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Search History" xml:space="preserve">
-        <source>Search History</source>
+        <source>Search History</source><target>Suchhistorie</target>
         <note>Title of the Search History screen</note>
       </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
