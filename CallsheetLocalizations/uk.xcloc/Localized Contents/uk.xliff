@@ -245,11 +245,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Cast" xml:space="preserve">
-        <source>Cast</source><target>Акторський склад</target>
+        <source>Cast</source><target>Актори</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cast or Crew" xml:space="preserve">
-        <source>Cast or Crew</source><target>Акторський склад або знімальна група</target>
+        <source>Cast or Crew</source><target>Актори або знімальна група</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
@@ -659,7 +659,7 @@
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
-        <source>Parental guidance won't be shown for cast and crew.</source><target>Батьківський нагляд не буде показано для акторського складу та знімальної групи.</target>
+        <source>Parental guidance won't be shown for cast and crew.</source><target>Батьківський нагляд не буде показано для акторів та знімальної групи.</target>
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
       </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
