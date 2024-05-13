@@ -833,7 +833,7 @@
       </trans-unit>
       <trans-unit id="No people matching *%@* found." xml:space="preserve">
         <source>No people matching *%@* found.</source>
-        <target state="translated">Нікого за запитом *%@* не знайдено.</target>
+        <target state="translated">За запитом *%@* нікого не знайдено.</target>
         <note>Shown when searching a list of credits, but no matches were found</note>
       </trans-unit>
       <trans-unit id="No people pins found." xml:space="preserve">
@@ -853,7 +853,7 @@
       </trans-unit>
       <trans-unit id="No results found for &quot;%@&quot;" xml:space="preserve">
         <source>No results found for "%@"</source>
-        <target state="translated">Нічого не знайдено за запитом «%@»</target>
+        <target state="translated">За запитом «%@» нічого не знайдено</target>
         <note>Generic "couldn't find anything for this query" message</note>
       </trans-unit>
       <trans-unit id="No search history found." xml:space="preserve">
