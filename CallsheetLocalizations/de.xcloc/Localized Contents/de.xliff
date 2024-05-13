@@ -980,6 +980,10 @@
         <target state="translated">Wird gekauft …</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Quick Access Link" xml:space="preserve">
+        <source>Quick Access Link</source>
+        <note>Title of the Quick Access Link screen in Settings</note>
+      </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
         <source>Quickly place emoji on photos — for privacy or fun!</source>
         <target state="translated">Der einfachste Weg, Emojis auf deinen Fotos zu platzieren – Aus Spaß oder zum Schutz deiner Privatsphäre</target>
@@ -1083,6 +1087,10 @@
         <source>Search</source>
         <target state="translated">Suche</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Search History" xml:space="preserve">
+        <source>Search History</source>
+        <note>Title of the Search History screen</note>
       </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
         <source>Search history</source>

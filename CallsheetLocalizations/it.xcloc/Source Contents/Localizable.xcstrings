@@ -788,6 +788,9 @@
     "Purchasing…" : {
 
     },
+    "Quick Access Link" : {
+      "comment" : "Title of the Quick Access Link screen in Settings"
+    },
     "Quickly place emoji on photos — for privacy or fun!" : {
       "comment" : "MaskerAid subtitle in Settings"
     },
@@ -853,6 +856,9 @@
     },
     "Search history" : {
 
+    },
+    "Search History" : {
+      "comment" : "Title of the Search History screen"
     },
     "Season %lld Episode %lld" : {
       "localizations" : {

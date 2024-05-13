@@ -1004,6 +1004,11 @@
         <target state="new">Purchasing…</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Quick Access Link" xml:space="preserve">
+        <source>Quick Access Link</source>
+        <target state="new">Quick Access Link</target>
+        <note>Title of the Quick Access Link screen in Settings</note>
+      </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
         <source>Quickly place emoji on photos — for privacy or fun!</source>
         <target state="new">Quickly place emoji on photos — for privacy or fun!</target>
@@ -1108,6 +1113,11 @@
         <source>Search</source>
         <target state="new">Search</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Search History" xml:space="preserve">
+        <source>Search History</source>
+        <target state="new">Search History</target>
+        <note>Title of the Search History screen</note>
       </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
         <source>Search history</source>

@@ -122,19 +122,23 @@
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.few" xml:space="preserve">
-        <source>%lld free searches remaining</source><target>Залишилось %lld безкоштовних пошуки</target>
+        <source>%lld free searches remaining</source>
+        <target state="translated">Залишилось %lld безкоштовних пошуки</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.many" xml:space="preserve">
-        <source>%lld free searches remaining</source><target>Залишилось %lld безкоштовних пошуків</target>
+        <source>%lld free searches remaining</source>
+        <target state="translated">Залишилось %lld безкоштовних пошуків</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.one" xml:space="preserve">
-        <source>%lld free search remaining</source><target>Залишився %lld безкоштовний пошук</target>
+        <source>%lld free search remaining</source>
+        <target state="translated">Залишився %lld безкоштовний пошук</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.other" xml:space="preserve">
-        <source>%lld free searches remaining</source><target>Залишилось %lld безкоштовних пошуків</target>
+        <source>%lld free searches remaining</source>
+        <target state="translated">Залишилось %lld безкоштовних пошуків</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.few" xml:space="preserve">
@@ -343,7 +347,8 @@
         <note>Accessibility label for the quick access picker in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Choose an icon that fits your aesthetic." xml:space="preserve">
-        <source>Choose an icon that fits your aesthetic.</source><target>Оберіть іконку, яка вам пасує.</target>
+        <source>Choose an icon that fits your aesthetic.</source>
+        <target state="translated">Оберіть іконку, яка вам пасує.</target>
         <note>Subtitle for "Custom icons"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
@@ -417,7 +422,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
-        <source>Custom icons</source><target>Особисті іконки</target>
+        <source>Custom icons</source>
+        <target state="translated">Особисті іконки</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
@@ -553,7 +559,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
-        <source>Free stuff doesn't last forever.</source><target>Дармове не вічне.</target>
+        <source>Free stuff doesn't last forever.</source>
+        <target state="translated">Дармове не вічне.</target>
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
@@ -592,23 +599,28 @@
         <note/>
       </trans-unit>
       <trans-unit id="Hide cast character names" xml:space="preserve">
-        <source>Hide cast character names</source><target>Сховати імена персонажів</target>
+        <source>Hide cast character names</source>
+        <target state="translated">Сховати імена персонажів</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide cast episode counts" xml:space="preserve">
-        <source>Hide cast episode counts</source><target>Сховати кількість епізодів з персонажем</target>
+        <source>Hide cast episode counts</source>
+        <target state="translated">Сховати кількість епізодів з персонажем</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide episode thumbnails" xml:space="preserve">
-        <source>Hide episode thumbnails</source><target>Сховати кадри з епізодів</target>
+        <source>Hide episode thumbnails</source>
+        <target state="translated">Сховати кадри з епізодів</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide episode titles" xml:space="preserve">
-        <source>Hide episode titles</source><target>Сховати назви епізодів</target>
+        <source>Hide episode titles</source>
+        <target state="translated">Сховати назви епізодів</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide summaries" xml:space="preserve">
-        <source>Hide summaries</source><target>Сховати описи</target>
+        <source>Hide summaries</source>
+        <target state="translated">Сховати описи</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="How seasons and episodes are sorted." xml:space="preserve">
@@ -622,31 +634,38 @@
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
-        <source>Unlimited searches for a month. Auto-renews</source><target>Пошук без обмежень на місяць. Автоматично подовжується</target>
+        <source>Unlimited searches for a month. Auto-renews</source>
+        <target state="translated">Пошук без обмежень на місяць. Автоматично подовжується</target>
         <note>Description for the monthly subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Display Name" xml:space="preserve">
-        <source>Monthly</source><target>Місячна</target>
+        <source>Monthly</source>
+        <target state="translated">Місячна</target>
         <note>Name of the monthly subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Description" xml:space="preserve">
-        <source>Access to Callsheet for 1 year. Auto-renews</source><target>Доступ до Callsheet на рік. Автоматично подовжується</target>
+        <source>Access to Callsheet for 1 year. Auto-renews</source>
+        <target state="translated">Доступ до Callsheet на рік. Автоматично подовжується</target>
         <note>Description for the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
-        <source>Yearly</source><target>Річна</target>
+        <source>Yearly</source>
+        <target state="translated">Річна</target>
         <note>Name of the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
-        <source>Yearly Max-Supporter</source><target>Річна Max</target>
+        <source>Yearly Max-Supporter</source>
+        <target state="translated">Річна Max</target>
         <note>Name of the annual subscription that is a bit more money than the normal one</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Description" xml:space="preserve">
-        <source>Show your extreme support!</source><target>Для найщиріших прихильників!</target>
+        <source>Show your extreme support!</source>
+        <target state="translated">Для найщиріших прихильників!</target>
         <note>Description for the maximum-cost annual subscription</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Display Name" xml:space="preserve">
-        <source>Yearly Ultra-Supporter</source><target>Річна Ultra</target>
+        <source>Yearly Ultra-Supporter</source>
+        <target state="translated">Річна Ultra</target>
         <note>Name of the maximum-cost annual subscription </note>
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
@@ -670,7 +689,8 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="In-App Browser" xml:space="preserve">
-        <source>In-App Browser</source><target>Вбудований браузер</target>
+        <source>In-App Browser</source>
+        <target state="translated">Вбудований браузер</target>
         <note>Which browser to use for web links (the other option is "Safari")</note>
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
@@ -754,11 +774,13 @@
         <note>Accessibility label when a movie's poster is not available</note>
       </trans-unit>
       <trans-unit id="Movies" xml:space="preserve">
-        <source>Movies</source><target>Фільми</target>
+        <source>Movies</source>
+        <target state="translated">Фільми</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies &amp; Shows" xml:space="preserve">
-        <source>Movies &amp; Shows</source><target>Фільми та серіали</target>
+        <source>Movies &amp; Shows</source>
+        <target state="translated">Фільми та серіали</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
@@ -907,7 +929,8 @@
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
-        <source>Parental Guidance</source><target>Батьківський нагляд</target>
+        <source>Parental Guidance</source>
+        <target state="translated">Батьківський нагляд</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
@@ -941,7 +964,8 @@
         <note>Shown in the list of pins screen</note>
       </trans-unit>
       <trans-unit id="Pin your favorites for quick access." xml:space="preserve">
-        <source>Pin your favorites for quick access.</source><target>Тримайте улюблене під рукою.</target>
+        <source>Pin your favorites for quick access.</source>
+        <target state="translated">Тримайте улюблене під рукою.</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
@@ -950,7 +974,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Pinned items" xml:space="preserve">
-        <source>Pinned items</source><target>Закріплене</target>
+        <source>Pinned items</source>
+        <target state="translated">Закріплене</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
@@ -1026,6 +1051,10 @@
         <source>Purchasing…</source>
         <target state="translated">Сплачується…</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Quick Access Link" xml:space="preserve">
+        <source>Quick Access Link</source>
+        <note>Title of the Quick Access Link screen in Settings</note>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
         <source>Quickly place emoji on photos — for privacy or fun!</source>
@@ -1108,7 +1137,8 @@
         <note>Heading for the total runtime of a TV episode</note>
       </trans-unit>
       <trans-unit id="Safari" xml:space="preserve">
-        <source>Safari</source><target>Safari</target>
+        <source>Safari</source>
+        <target state="translated">Safari</target>
         <note>Which browser to use for web links (the other option is "In-App Browser")</note>
       </trans-unit>
       <trans-unit id="Same perks as all other plans" xml:space="preserve">
@@ -1130,6 +1160,10 @@
         <source>Search</source>
         <target state="translated">Пошук</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Search History" xml:space="preserve">
+        <source>Search History</source>
+        <note>Title of the Search History screen</note>
       </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
         <source>Search history</source>
@@ -1242,7 +1276,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Spoilers" xml:space="preserve">
-        <source>Spoilers</source><target>Спойлери</target>
+        <source>Spoilers</source>
+        <target state="translated">Спойлери</target>
         <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
@@ -1256,7 +1291,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Subscribers can change the app’s icon." xml:space="preserve">
-        <source>Subscribers can change the app’s icon.</source><target>Підписники можуть змінювати іконку програми.</target>
+        <source>Subscribers can change the app’s icon.</source>
+        <target state="translated">Підписники можуть змінювати іконку програми.</target>
         <note>Subtitle for the App Icon row in Settings</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
@@ -1275,11 +1311,13 @@
         <note/>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
-        <source>TV Shows</source><target>Серіали</target>
+        <source>TV Shows</source>
+        <target state="translated">Серіали</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
-        <source>Technical Details</source><target>Техничні деталі</target>
+        <source>Technical Details</source>
+        <target state="translated">Техничні деталі</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Terms of Service" xml:space="preserve">
@@ -1338,7 +1376,8 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Trivia" xml:space="preserve">
-        <source>Trivia</source><target>Цікаві факти</target>
+        <source>Trivia</source>
+        <target state="translated">Цікаві факти</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
@@ -1352,11 +1391,13 @@
         <note/>
       </trans-unit>
       <trans-unit id="Unlimited searches" xml:space="preserve">
-        <source>Unlimited searches</source><target>Пошук без обмежень</target>
+        <source>Unlimited searches</source>
+        <target state="translated">Пошук без обмежень</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Upcoming" xml:space="preserve">
-        <source>Upcoming</source><target>Майбутні проєкти</target>
+        <source>Upcoming</source>
+        <target state="translated">Майбутні проєкти</target>
         <note>Header for titles a person will be in, but have not been released yet</note>
       </trans-unit>
       <trans-unit id="Upgraded" xml:space="preserve">
@@ -1380,11 +1421,13 @@
         <note>Shown when choosing a country to use for Where to Watch (short version)</note>
       </trans-unit>
       <trans-unit id="Website" xml:space="preserve">
-        <source>Website</source><target>Сайт</target>
+        <source>Website</source>
+        <target state="translated">Сайт</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="What was that thing I looked up yesterday?" xml:space="preserve">
-        <source>What was that thing I looked up yesterday?</source><target>Що то мене вчора цікавило?</target>
+        <source>What was that thing I looked up yesterday?</source>
+        <target state="translated">Що то мене вчора цікавило?</target>
         <note>Subtitle for "Search history"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Where to Watch" xml:space="preserve">
@@ -1408,7 +1451,8 @@
         <note>Shown at the bottom of the "what movies are both of these actors in?" screen</note>
       </trans-unit>
       <trans-unit id="Wikipedia" xml:space="preserve">
-        <source>Wikipedia</source><target>Вікіпедія</target>
+        <source>Wikipedia</source>
+        <target state="translated">Вікіпедія</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Will NOT renew" xml:space="preserve">
@@ -1497,11 +1541,13 @@
         <note/>
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
-        <source>visionOS does not support changing icons yet.</source><target>visionOS поки що не підтримує зміну іконок.</target>
+        <source>visionOS does not support changing icons yet.</source>
+        <target state="translated">visionOS поки що не підтримує зміну іконок.</target>
         <note>Subtitle for the App Icon row in Settings on visionOS</note>
       </trans-unit>
       <trans-unit id="years old" xml:space="preserve">
-        <source>years old</source><target>років</target>
+        <source>years old</source>
+        <target state="translated">років</target>
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
