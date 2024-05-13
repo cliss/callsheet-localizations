@@ -25,6 +25,17 @@ Note that the `Source` column kind of hints at what's going on here, but the `ID
 
 [Language Plural Rules](https://www.unicode.org/cldr/charts/45/supplemental/language_plural_rules.html)
 
+Some languages have more complicated pluralization rules than English speakers are used to. Words can be pluralized in ways that English speakers would recognize from [ordinal numbers](https://en.wikipedia.org/wiki/Ordinal_number), like 20th, 21st, 22nd, 23rd. You can look these up in the rules table above.
+
+As an example, these are the rules for Polish:
+
+| Pluralization  | English    | Polish       | Numbers |
+| :------------- | :--------- | :----------- | :------ |
+| one            | 1 month    | 1 miesiąc    | 1 |
+| few            | 2 months   | 2 miesiące   | 2-4, 22-24, 32-34, 42-44, 52-54, 62, 102, 1002, … |
+| many           | 5 months   | 5 miesięcy   | 0, 5-19, 100, 1000, 10000, 100000, 1000000, … |
+| other          | 1.5 months | 1,5 miesiąca | 0.0-1.5, 10.0, 100.0, 1000.0, 10000.0, 100000.0, 1000000.0, … |
+
 ## Submission Flow
 
 I've never done this before, so I'm working this out as we go, as well. But here's my vision for how I hope this will work:
