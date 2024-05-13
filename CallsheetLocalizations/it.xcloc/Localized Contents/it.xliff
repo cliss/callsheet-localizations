@@ -726,7 +726,7 @@
       <trans-unit id="Now Playing" xml:space="preserve">
         <source>Now Playing</source>
         <target state="translated">In riproduzione</target>
-        <note>A header on the home screen &amp; a row in Settings</note>
+        <note>A header on the home screen &amp; a row in Settings; shows what is currently playing in Plex and/or Channels.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>

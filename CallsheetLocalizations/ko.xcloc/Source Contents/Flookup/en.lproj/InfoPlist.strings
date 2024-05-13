@@ -1,0 +1,8 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Callsheet";
+/* Bundle name */
+"CFBundleName" = "Callsheet";
+/* Privacy - Local Network Usage Description */
+"NSLocalNetworkUsageDescription" = "If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.";
+"Search" = "Search";
+"Title, cast, or crew" = "Title, cast, or crew";
