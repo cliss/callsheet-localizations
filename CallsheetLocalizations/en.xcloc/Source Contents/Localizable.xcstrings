@@ -542,7 +542,7 @@
       "comment" : "Shown in a semi-hidden debugging view"
     },
     "Now Playing" : {
-      "comment" : "A header on the home screen & a row in Settings"
+      "comment" : "A header on the home screen & a row in Settings; shows what is currently playing in Plex and/or Channels."
     },
     "OK" : {
 
