@@ -207,7 +207,7 @@
       </trans-unit>
       <trans-unit id="Born" xml:space="preserve">
         <source>Born</source>
-        <target state="translated">Data di nascita [or Nato/a]</target>
+        <target state="translated">Data di nascita</target>
         <note/>
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
@@ -280,7 +280,7 @@
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
         <source>Choose spoiler-risky things to hide by default.</source>
-        <target state="translated">Scegli che  le cose a rischio di spoiler siano nascoste di default.</target>
+        <target state="translated">Scegli che le cose a rischio di spoiler siano nascoste di default.</target>
         <note>Subtitle for a row in Settings</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
@@ -412,7 +412,7 @@
       </trans-unit>
       <trans-unit id="Episode Scores" xml:space="preserve">
         <source>Episode Scores</source>
-        <target state="translated">Punteggio episodio [tricky one in Italian, I assumed you meant rating, but it could also translate as Colonna sonora episodio, if it refers to the soundtrack]</target>
+        <target state="translated">Punteggio episodio</target>
         <note/>
       </trans-unit>
       <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
