@@ -974,7 +974,7 @@
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
         <source>Preview</source>
-        <target state="translated">Перегляд</target>
+        <target state="translated">Приклад</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preview Title" xml:space="preserve">
@@ -1078,7 +1078,7 @@
       </trans-unit>
       <trans-unit id="Reverse sort order" xml:space="preserve">
         <source>Reverse sort order</source>
-        <target state="translated">Зворотній порядок</target>
+        <target state="translated">Змінити порядок</target>
         <note/>
       </trans-unit>
       <trans-unit id="Revoked" xml:space="preserve">
@@ -1192,7 +1192,7 @@
       </trans-unit>
       <trans-unit id="Show age information within credits lists. Ages are always shown for birth/death dates." xml:space="preserve">
         <source>Show age information within credits lists. Ages are always shown for birth/death dates.</source>
-        <target state="translated">Показувати вік у списках робіт. Вік завжди відображається для дат народження/смерті.</target>
+        <target state="translated">Показувати вік у списках робіт. Вік завжди відображається поруч з датами народження або смерті.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show movies, shows, or both in credit lists." xml:space="preserve">
@@ -1247,7 +1247,7 @@
       </trans-unit>
       <trans-unit id="Summary" xml:space="preserve">
         <source>Summary</source>
-        <target state="translated">Підсумок</target>
+        <target state="translated">Опис</target>
         <note/>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
