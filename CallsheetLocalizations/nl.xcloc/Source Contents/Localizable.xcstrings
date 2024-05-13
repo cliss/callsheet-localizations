@@ -1,0 +1,894 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "#%lld" : {
+
+    },
+    "#%llu" : {
+
+    },
+    "%@" : {
+
+    },
+    "%@ - %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ - %2$@"
+          }
+        }
+      }
+    },
+    "%@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "%@ / %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ / %2$@"
+          }
+        }
+      }
+    },
+    "%@ by %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ by %2$@"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "%lld — " : {
+
+    },
+    "%lld episode" : {
+      "comment" : "How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld episode"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld episodes"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld minutes" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld minute"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld minutes"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld of %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld of %2$lld"
+          }
+        }
+      }
+    },
+    "%lld Season" : {
+      "comment" : "Shown in the TV seasons carousel (on the TV show screen)",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Season"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Seasons"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld year old" : {
+      "comment" : "The age of an actor at the time a piece of media was released",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld year old"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld years old"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld years" : {
+      "comment" : "How old a person was when they passed"
+    },
+    "%lld years old" : {
+      "comment" : "How old a person is right now"
+    },
+    "`%@` is unimplemented" : {
+      "comment" : "Do not translate"
+    },
+    "© 2023%@ Limitliss LLC" : {
+      "comment" : "Do not translate"
+    },
+    "🤝" : {
+
+    },
+    "🤷‍♂️" : {
+
+    },
+    "About Callsheet" : {
+      "extractionState" : "manual"
+    },
+    "Add pin" : {
+
+    },
+    "Add Pin" : {
+
+    },
+    "Ages" : {
+      "comment" : "Heading in Persnickety Preferences"
+    },
+    "All" : {
+
+    },
+    "All Messages" : {
+      "comment" : "Shown in the context of a semi-hidden debugging screen."
+    },
+    "App Icon" : {
+
+    },
+    "Are you sure?" : {
+      "comment" : "Shown when clearing recent searches or search history"
+    },
+    "As rated by users of" : {
+      "comment" : "Shown in a popover explaining TV/movie scores"
+    },
+    "Average runtime" : {
+      "comment" : "How long episodes run in a single season of TV"
+    },
+    "Be a hero and support independent apps" : {
+      "comment" : "Shown when trying to sell a subscription"
+    },
+    "Be like the many other beautiful people who have rated this version." : {
+      "comment" : "Shown to try to encourage the user to rate the app"
+    },
+    "Began Airing" : {
+      "comment" : "When a TV season started airing"
+    },
+    "Begins Airing" : {
+      "comment" : "When a TV season will start airing"
+    },
+    "Biography" : {
+
+    },
+    "Born" : {
+
+    },
+    "Browser" : {
+
+    },
+    "Callsheet" : {
+      "comment" : "Do not translate"
+    },
+    "Callsheet couldn't parse the information from The Movie Database." : {
+
+    },
+    "Callsheet couldn't reach The Movie Database." : {
+
+    },
+    "Callsheet Premium" : {
+
+    },
+    "Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**." : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Cancel Subscription" : {
+
+    },
+    "Cast" : {
+
+    },
+    "Cast or Crew" : {
+
+    },
+    "Choose a link:" : {
+      "comment" : "Shown in settings for the quick access link"
+    },
+    "Choose a quick link" : {
+      "comment" : "Accessibility label for the quick access picker in Persnickety Preferences"
+    },
+    "Choose New Subscription" : {
+
+    },
+    "Choose spoiler-risky things to hide by default." : {
+      "comment" : "Subtitle for a row in Settings",
+      "extractionState" : "manual"
+    },
+    "Clear" : {
+
+    },
+    "Clear all" : {
+      "comment" : "Shown when clearing recent searches or search history"
+    },
+    "Click Me" : {
+      "comment" : "Do not translate"
+    },
+    "Close" : {
+
+    },
+    "Connect to devices on your local network to show what's playing." : {
+      "comment" : "Subtitle in Persnickety Preferences"
+    },
+    "Copy" : {
+
+    },
+    "Copy e-mail address" : {
+
+    },
+    "Copy Error Information" : {
+
+    },
+    "Could not load static JSON" : {
+      "comment" : "Do not translate"
+    },
+    "Could not parse static JSON" : {
+      "comment" : "Do not translate"
+    },
+    "Credits" : {
+
+    },
+    "Credits Lists" : {
+      "comment" : "Persnickety Preferences header"
+    },
+    "Crew" : {
+
+    },
+    "Data provided by The Movie Database" : {
+
+    },
+    "Data provided by:" : {
+
+    },
+    "Default Spoiler Settings" : {
+
+    },
+    "Delete recent searches" : {
+
+    },
+    "Delete search history" : {
+
+    },
+    "Details" : {
+
+    },
+    "Discover" : {
+
+    },
+    "Done" : {
+
+    },
+    "Each TV show can have their own settings, set by tapping the `Hide Spoilers…` button when looking at a show or episode." : {
+
+    },
+    "Ends at %@" : {
+      "comment" : "When a show or movie ends if you start it right now"
+    },
+    "Episode" : {
+
+    },
+    "Episode Poster" : {
+
+    },
+    "Episode Scores" : {
+
+    },
+    "Error: should not be able to reach settings from here." : {
+      "comment" : "Do not translate"
+    },
+    "Expired" : {
+      "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "Expires" : {
+      "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "Export" : {
+      "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "Faults" : {
+      "comment" : "Shown in the context of a semi-hidden debugging screen."
+    },
+    "Feedback emails are lovely to read!" : {
+      "comment" : "Shown in Settings to try to get users to rate the app",
+      "extractionState" : "manual"
+    },
+    "Find a way to watch in:" : {
+      "comment" : "Shown when choosing a country to use for Where to Watch (long version)"
+    },
+    "Find movies where\n%@ worked with:" : {
+
+    },
+    "Find shared film credits" : {
+
+    },
+    "For new & popular media." : {
+      "comment" : "Shown in Settings"
+    },
+    "For Where to Watch." : {
+      "comment" : "Shown in Settings"
+    },
+    "Free searches remaining" : {
+
+    },
+    "Free Trial" : {
+
+    },
+    "Genre" : {
+
+    },
+    "Genres" : {
+
+    },
+    "Guests" : {
+
+    },
+    "Hand your phone to someone knowing they **cannot mess up your photos**." : {
+      "comment" : "Peek-a-View subtitle in Settings"
+    },
+    "Height" : {
+
+    },
+    "Hide Spoilers" : {
+
+    },
+    "Hide Spoilers…" : {
+
+    },
+    "How seasons and episodes are sorted." : {
+
+    },
+    "I'm in a popover" : {
+      "comment" : "Do not translate"
+    },
+    "If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." : {
+
+    },
+    "Image" : {
+
+    },
+    "In Grace Period" : {
+      "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "In Retry Period" : {
+      "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "In-Credits Bonus Scenes" : {
+
+    },
+    "Integrations" : {
+      "comment" : "Header in Persnickety Preferences"
+    },
+    "JustWatch" : {
+
+    },
+    "Known For" : {
+
+    },
+    "Language Override" : {
+      "comment" : "Shown in Settings"
+    },
+    "Learn about the people behind Callsheet." : {
+      "extractionState" : "manual"
+    },
+    "Lived" : {
+      "comment" : "How long an actor lived"
+    },
+    "Loading…" : {
+
+    },
+    "Macro State at %@" : {
+      "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "Manage Subscription" : {
+
+    },
+    "Mid-credits" : {
+
+    },
+    "More Info…" : {
+
+    },
+    "More Purchase Options…" : {
+
+    },
+    "More…" : {
+
+    },
+    "Movie Poster" : {
+
+    },
+    "Movie Poster Placeholder" : {
+      "comment" : "Accessibility label when a movie's poster is not available"
+    },
+    "Movies and TV shows will show one link for quick access. The others are available in the More menu." : {
+
+    },
+    "Movies featuring" : {
+      "comment" : "Title for cast union view"
+    },
+    "Name or job" : {
+      "comment" : "Crew search prompt"
+    },
+    "Name or role" : {
+      "comment" : "Cast search prompt"
+    },
+    "New Episodes" : {
+
+    },
+    "New Movies" : {
+
+    },
+    "Newest First" : {
+      "comment" : "When setting sort order"
+    },
+    "Next Episode" : {
+
+    },
+    "No credits found." : {
+      "comment" : "Shown when a person has no cast nor crew credits"
+    },
+    "No media found." : {
+      "comment" : "Shown when there's no data for new movies / new shows / etc"
+    },
+    "No movie pins found." : {
+
+    },
+    "No override" : {
+      "comment" : "Default option for language/region override",
+      "extractionState" : "manual"
+    },
+    "No people found." : {
+      "comment" : "Shown when a movie/show has no cast/crew"
+    },
+    "No people matching *%@* found." : {
+      "comment" : "Shown when searching a list of credits, but no matches were found"
+    },
+    "No people pins found." : {
+
+    },
+    "No pinned items found." : {
+      "comment" : "Shown on the home screen"
+    },
+    "No providers found." : {
+      "comment" : "Shown when there's no data for Where to Watch"
+    },
+    "No results found for \"%@\"" : {
+      "comment" : "Generic \"couldn't find anything for this query\" message"
+    },
+    "No search history found." : {
+
+    },
+    "No TV show pins found." : {
+
+    },
+    "Not a subscription" : {
+      "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "Not purchased" : {
+      "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "Now Playing" : {
+      "comment" : "A header on the home screen & a row in Settings; shows what is currently playing in Plex and/or Channels."
+    },
+    "OK" : {
+
+    },
+    "Oldest First" : {
+      "comment" : "When setting sort order"
+    },
+    "Optionally, you can choose to help more." : {
+      "comment" : "Shown when trying to upsell the user on expensive subscriptions"
+    },
+    "Other Great Apps" : {
+      "comment" : "Shown above Maskeraid & Peek‑a‑View"
+    },
+    "Other person" : {
+      "comment" : "Shown when doing cast union search for movies"
+    },
+    "Other settings for more _particular_ users." : {
+      "comment" : "Subtitle for Persnickety Preferences in Settings",
+      "extractionState" : "manual"
+    },
+    "Parental guidance won't be shown for cast and crew." : {
+      "comment" : "Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button"
+    },
+    "per %@" : {
+      "comment" : "cost per period; ie \"per month\" or \"per year\""
+    },
+    "Persnickety Preferences" : {
+
+    },
+    "Persnickety Prefs" : {
+      "comment" : "Navigation title for Persnickety Preferences in Settings"
+    },
+    "Pick a country" : {
+      "comment" : "Picker label for accessibility purposes, in Where to Watch"
+    },
+    "pin" : {
+      "comment" : "Noun, a pin/favorite"
+    },
+    "Pin" : {
+      "comment" : "Noun, a pin/favorite"
+    },
+    "Pin Type" : {
+      "comment" : "Shown in the list of pins screen"
+    },
+    "pinned items" : {
+
+    },
+    "Pinned Items" : {
+
+    },
+    "Plans:" : {
+      "comment" : "In the context of different subscription/IAP plans"
+    },
+    "Popular Movies" : {
+
+    },
+    "Popular TV Shows" : {
+
+    },
+    "Portrait" : {
+
+    },
+    "Post-credits" : {
+
+    },
+    "Poster" : {
+
+    },
+    "Prevent giving away spoilers by choosing to redact details." : {
+
+    },
+    "Preview" : {
+
+    },
+    "Preview Title" : {
+      "comment" : "Do not localize"
+    },
+    "Privacy Policy" : {
+
+    },
+    "Provided by" : {
+      "comment" : "In the context of \"Provided by JustWatch\""
+    },
+    "Provided by [JustWatch](https://www.justwatch.com/)" : {
+
+    },
+    "Purchase Error" : {
+
+    },
+    "Purchased" : {
+      "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "Purchasing…" : {
+
+    },
+    "Quickly place emoji on photos — for privacy or fun!" : {
+      "comment" : "MaskerAid subtitle in Settings"
+    },
+    "Rate this version of Callsheet" : {
+
+    },
+    "Rating" : {
+      "comment" : "A content rating like G/PG/PG-13/R"
+    },
+    "Recent Searches" : {
+
+    },
+    "Refresh" : {
+
+    },
+    "Region Override" : {
+      "comment" : "Shown in Settings"
+    },
+    "Released" : {
+      "comment" : "When a TV episode or movie was released in the past"
+    },
+    "Released " : {
+
+    },
+    "Releases" : {
+      "comment" : "When a TV episode or movie will be released"
+    },
+    "Remove pin" : {
+
+    },
+    "Remove Pin" : {
+
+    },
+    "Request Refund" : {
+
+    },
+    "Restore Purchase" : {
+
+    },
+    "Reverse sort order" : {
+
+    },
+    "Revoked" : {
+      "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "Runtime" : {
+      "comment" : "Heading for the total runtime of a TV episode"
+    },
+    "Same perks as all other plans" : {
+      "comment" : "Shown when trying to sell a subscription"
+    },
+    "Save" : {
+
+    },
+    "Score" : {
+      "comment" : "A 0-100 score of the quality of a movie/show"
+    },
+    "Search" : {
+
+    },
+    "Search history" : {
+
+    },
+    "Season %lld Episode %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Season %1$lld Episode %2$lld"
+          }
+        }
+      }
+    },
+    "Seasons" : {
+      "comment" : "Navigation title for the screen showing the seasons of a TV show; NOT spring/summer"
+    },
+    "Select a View" : {
+      "comment" : "Shown when choosing between cast & crew"
+    },
+    "Send Feedback" : {
+      "extractionState" : "manual"
+    },
+    "Settings" : {
+
+    },
+    "Share" : {
+
+    },
+    "Share Callsheet link" : {
+
+    },
+    "Share Callsheet link…" : {
+
+    },
+    "Share web link" : {
+
+    },
+    "Share web link…" : {
+
+    },
+    "Shared image" : {
+      "comment" : "Export preview"
+    },
+    "Show age information within credits lists. Ages are always shown for birth/death dates." : {
+
+    },
+    "Show movies, shows, or both in credit lists." : {
+      "comment" : "Persnickety Preferences subtitle"
+    },
+    "Show Poster" : {
+      "comment" : "Accessibility label"
+    },
+    "Show Poster Placeholder" : {
+      "comment" : "Shown in an accessibility label"
+    },
+    "Show Spoilers" : {
+
+    },
+    "Show that you _really_ care" : {
+      "comment" : "Shown when trying to sell a subscription"
+    },
+    "Show titles a person may be known from." : {
+
+    },
+    "Sorry, there was a problem." : {
+
+    },
+    "Sort Order" : {
+
+    },
+    "Spoiler Settings" : {
+
+    },
+    "Subscribe" : {
+
+    },
+    "Subscribed" : {
+
+    },
+    "Subscription Status" : {
+
+    },
+    "Subscriptions Debugging" : {
+      "comment" : "Title of a semi-hidden debugging view"
+    },
+    "Summary" : {
+
+    },
+    "Terms of Service" : {
+
+    },
+    "Thank you for trying out Callsheet. 💙" : {
+
+    },
+    "The Movie Database" : {
+      "comment" : "Do not translate"
+    },
+    "There is no watch information available for *%@*." : {
+
+    },
+    "These are the default settings." : {
+
+    },
+    "These settings will only affect *%@*." : {
+      "comment" : "Shown in spoiler settings for a particular show"
+    },
+    "Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:" : {
+
+    },
+    "Title, cast, or crew" : {
+      "comment" : "Main search prompt on the bottom bar!"
+    },
+    "Total runtime %@" : {
+      "comment" : "Shown in a popover when looking at a TV season"
+    },
+    "Transaction" : {
+      "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "Trial Period" : {
+      "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" : {
+
+    },
+    "Unknown" : {
+
+    },
+    "Upgraded" : {
+      "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "User Interface" : {
+      "comment" : "Header in Persnickety Preferences"
+    },
+    "Waiting for approval…" : {
+      "comment" : "Shown when waiting for a purchase to be approved (probably by a parent)"
+    },
+    "Watch in:" : {
+      "comment" : "Shown when choosing a country to use for Where to Watch (short version)"
+    },
+    "Where to Watch" : {
+
+    },
+    "Which browser to use to open external links." : {
+
+    },
+    "Which quick access link is shown." : {
+      "comment" : "Shown as a subtitle for a row on Settings",
+      "extractionState" : "manual"
+    },
+    "Why not shows?" : {
+      "comment" : "Shown at the bottom of the \"what movies are both of these actors in?\" screen"
+    },
+    "Will NOT renew" : {
+      "comment" : "Shown in a semi-hidden debugging screen"
+    },
+    "Will renew" : {
+      "comment" : "Shown in a semi-hidden debugging screen"
+    },
+    "With a subscription, you get:" : {
+
+    },
+    "You can be second! That’s pretty great!" : {
+      "comment" : "Shown to try to encourage the user to rate the app"
+    },
+    "You can be the first! Don’t be shy!" : {
+      "comment" : "Shown to try to encourage the user to rate the app"
+    },
+    "You Can Help" : {
+      "comment" : "Title shown when trying to upsell users to more-expensive subscriptions"
+    },
+    "You don't seem to have a subscription. 🤨" : {
+
+    },
+    "You have used all your free searches. Subscribe for unlimited searches." : {
+
+    },
+    "You may know them from" : {
+      "comment" : "Header shown for people"
+    },
+    "Your favorite characters finally get married." : {
+      "comment" : "A fake summary shown when demonstrating hiding spoilers"
+    },
+    "Your purchase is still pending. Please wait for it to be approved." : {
+      "comment" : "Shown when a a purchase needs to be approved; likely a child needs a parent to approve it"
+    },
+    "Your subscription **will not** auto-renew" : {
+      "comment" : "Only shown on a semi-hidden debugging screen"
+    },
+    "Your subscription **will** auto-renew" : {
+      "comment" : "Only shown on a semi-hidden debugging screen"
+    }
+  },
+  "version" : "1.0"
+}
