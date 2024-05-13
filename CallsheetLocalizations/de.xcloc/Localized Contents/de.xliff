@@ -1233,7 +1233,7 @@
       </trans-unit>
       <trans-unit id="These are the default settings." xml:space="preserve">
         <source>These are the default settings.</source>
-        <target state="translated">Das sind die Standardeinstellungen.</target>
+        <target state="translated">Du kannst hier das Standardverhalten einstellen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="These settings will only affect *%@*." xml:space="preserve">
