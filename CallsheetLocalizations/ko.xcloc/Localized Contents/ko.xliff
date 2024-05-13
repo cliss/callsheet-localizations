@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Flookup/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="gsw">
+  <file original="Flookup/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ko">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
     </header>
@@ -27,7 +27,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Localizable.xcstrings" source-language="en" target-language="gsw" datatype="plaintext">
+  <file original="Localizable.xcstrings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
     </header>
@@ -68,25 +68,13 @@
         <source>%lld</source>
         <note/>
       </trans-unit>
-      <trans-unit id="%lld Season|==|plural.one" xml:space="preserve">
-        <source>%lld Season</source>
-        <note>Shown in the TV seasons carousel (on the TV show screen)</note>
-      </trans-unit>
       <trans-unit id="%lld Season|==|plural.other" xml:space="preserve">
         <source>%lld Seasons</source>
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
-      <trans-unit id="%lld episode|==|plural.one" xml:space="preserve">
-        <source>%lld episode</source>
-        <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
-      </trans-unit>
       <trans-unit id="%lld episode|==|plural.other" xml:space="preserve">
         <source>%lld episodes</source>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
-      </trans-unit>
-      <trans-unit id="%lld minutes|==|plural.one" xml:space="preserve">
-        <source>%lld minute</source>
-        <note/>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.other" xml:space="preserve">
         <source>%lld minutes</source>
@@ -95,10 +83,6 @@
       <trans-unit id="%lld of %lld" xml:space="preserve">
         <source>%1$lld of %2$lld</source>
         <note/>
-      </trans-unit>
-      <trans-unit id="%lld year old|==|plural.one" xml:space="preserve">
-        <source>%lld year old</source>
-        <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
