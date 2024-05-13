@@ -102,9 +102,14 @@
         <target state="translated">%lld episodes</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
-      <trans-unit id="%lld free search%@ remaining" xml:space="preserve">
-        <source>%1$lld free search%2$@ remaining</source>
-        <target state="new">%1$lld free search%2$@ remaining</target>
+      <trans-unit id="%lld free search remaining|==|plural.one" xml:space="preserve">
+        <source>%lld free search remaining</source>
+        <target state="translated">%lld free search remaining</target>
+        <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
+      </trans-unit>
+      <trans-unit id="%lld free search remaining|==|plural.other" xml:space="preserve">
+        <source>%lld free searches remaining</source>
+        <target state="translated">%lld free searches remaining</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.one" xml:space="preserve">
@@ -412,9 +417,9 @@
         <target state="new">Done</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide Spoilers…` button when looking at a show or episode." xml:space="preserve">
-        <source>Each TV show can have their own settings, set by tapping the `Hide Spoilers…` button when looking at a show or episode.</source>
-        <target state="new">Each TV show can have their own settings, set by tapping the `Hide Spoilers…` button when looking at a show or episode.</target>
+      <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
+        <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
+        <target state="new">Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
@@ -874,6 +879,11 @@
         <target state="new">Other settings for more _particular_ users.</target>
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
+      <trans-unit id="Parental Guidance" xml:space="preserve">
+        <source>Parental Guidance</source>
+        <target state="new">Parental Guidance</target>
+        <note>Quick access link</note>
+      </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
         <source>Parental guidance won't be shown for cast and crew.</source>
         <target state="new">Parental guidance won't be shown for cast and crew.</target>
@@ -1209,6 +1219,11 @@
         <target state="new">Spoiler Settings</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Spoilers" xml:space="preserve">
+        <source>Spoilers</source>
+        <target state="new">Spoilers</target>
+        <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
+      </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
         <source>Subscribe</source>
         <target state="new">Subscribe</target>
@@ -1218,6 +1233,11 @@
         <source>Subscribed</source>
         <target state="new">Subscribed</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Subscribers can change the app’s icon." xml:space="preserve">
+        <source>Subscribers can change the app’s icon.</source>
+        <target state="new">Subscribers can change the app’s icon.</target>
+        <note>Subtitle for the App Icon row in Settings</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
         <source>Subscription Status</source>
@@ -1238,6 +1258,11 @@
         <source>TV Shows</source>
         <target state="new">TV Shows</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
+      </trans-unit>
+      <trans-unit id="Technical Details" xml:space="preserve">
+        <source>Technical Details</source>
+        <target state="new">Technical Details</target>
+        <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Terms of Service" xml:space="preserve">
         <source>Terms of Service</source>
@@ -1294,6 +1319,11 @@
         <target state="new">Trial Period</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
+      <trans-unit id="Trivia" xml:space="preserve">
+        <source>Trivia</source>
+        <target state="new">Trivia</target>
+        <note>Quick access link</note>
+      </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
         <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source>
         <target state="new">Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</target>
@@ -1308,6 +1338,11 @@
         <source>Unlimited searches</source>
         <target state="new">Unlimited searches</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
+      </trans-unit>
+      <trans-unit id="Upcoming" xml:space="preserve">
+        <source>Upcoming</source>
+        <target state="new">Upcoming</target>
+        <note>Header for titles a person will be in, but have not been released yet</note>
       </trans-unit>
       <trans-unit id="Upgraded" xml:space="preserve">
         <source>Upgraded</source>
@@ -1329,6 +1364,11 @@
         <target state="new">Watch in:</target>
         <note>Shown when choosing a country to use for Where to Watch (short version)</note>
       </trans-unit>
+      <trans-unit id="Website" xml:space="preserve">
+        <source>Website</source>
+        <target state="new">Website</target>
+        <note>Quick access link</note>
+      </trans-unit>
       <trans-unit id="What was that thing I looked up yesterday?" xml:space="preserve">
         <source>What was that thing I looked up yesterday?</source>
         <target state="new">What was that thing I looked up yesterday?</target>
@@ -1337,7 +1377,7 @@
       <trans-unit id="Where to Watch" xml:space="preserve">
         <source>Where to Watch</source>
         <target state="new">Where to Watch</target>
-        <note/>
+        <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Which browser to use to open external links." xml:space="preserve">
         <source>Which browser to use to open external links.</source>
@@ -1353,6 +1393,11 @@
         <source>Why not shows?</source>
         <target state="new">Why not shows?</target>
         <note>Shown at the bottom of the "what movies are both of these actors in?" screen</note>
+      </trans-unit>
+      <trans-unit id="Wikipedia" xml:space="preserve">
+        <source>Wikipedia</source>
+        <target state="new">Wikipedia</target>
+        <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Will NOT renew" xml:space="preserve">
         <source>Will NOT renew</source>
@@ -1438,6 +1483,16 @@
         <source>pinned items</source>
         <target state="new">pinned items</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
+        <source>visionOS does not support changing icons yet.</source>
+        <target state="new">visionOS does not support changing icons yet.</target>
+        <note>Subtitle for the App Icon row in Settings on visionOS</note>
+      </trans-unit>
+      <trans-unit id="years old" xml:space="preserve">
+        <source>years old</source>
+        <target state="new">years old</target>
+        <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
         <source>© 2023%@ Limitliss LLC</source>

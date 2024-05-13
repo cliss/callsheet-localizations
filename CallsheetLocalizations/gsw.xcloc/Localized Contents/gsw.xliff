@@ -84,8 +84,12 @@
         <source>%lld episodes</source>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
-      <trans-unit id="%lld free search%@ remaining" xml:space="preserve">
-        <source>%1$lld free search%2$@ remaining</source>
+      <trans-unit id="%lld free search remaining|==|plural.one" xml:space="preserve">
+        <source>%lld free search remaining</source>
+        <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
+      </trans-unit>
+      <trans-unit id="%lld free search remaining|==|plural.other" xml:space="preserve">
+        <source>%lld free searches remaining</source>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.one" xml:space="preserve">
@@ -332,8 +336,8 @@
         <source>Done</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide Spoilers…` button when looking at a show or episode." xml:space="preserve">
-        <source>Each TV show can have their own settings, set by tapping the `Hide Spoilers…` button when looking at a show or episode.</source>
+      <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
+        <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
@@ -701,6 +705,10 @@
         <source>Other settings for more _particular_ users.</source>
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
+      <trans-unit id="Parental Guidance" xml:space="preserve">
+        <source>Parental Guidance</source>
+        <note>Quick access link</note>
+      </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
         <source>Parental guidance won't be shown for cast and crew.</source>
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
@@ -969,6 +977,10 @@
         <source>Spoiler Settings</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Spoilers" xml:space="preserve">
+        <source>Spoilers</source>
+        <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
+      </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
         <source>Subscribe</source>
         <note/>
@@ -976,6 +988,10 @@
       <trans-unit id="Subscribed" xml:space="preserve">
         <source>Subscribed</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Subscribers can change the app’s icon." xml:space="preserve">
+        <source>Subscribers can change the app’s icon.</source>
+        <note>Subtitle for the App Icon row in Settings</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
         <source>Subscription Status</source>
@@ -992,6 +1008,10 @@
       <trans-unit id="TV Shows" xml:space="preserve">
         <source>TV Shows</source>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
+      </trans-unit>
+      <trans-unit id="Technical Details" xml:space="preserve">
+        <source>Technical Details</source>
+        <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Terms of Service" xml:space="preserve">
         <source>Terms of Service</source>
@@ -1037,6 +1057,10 @@
         <source>Trial Period</source>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
+      <trans-unit id="Trivia" xml:space="preserve">
+        <source>Trivia</source>
+        <note>Quick access link</note>
+      </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
         <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source>
         <note/>
@@ -1048,6 +1072,10 @@
       <trans-unit id="Unlimited searches" xml:space="preserve">
         <source>Unlimited searches</source>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
+      </trans-unit>
+      <trans-unit id="Upcoming" xml:space="preserve">
+        <source>Upcoming</source>
+        <note>Header for titles a person will be in, but have not been released yet</note>
       </trans-unit>
       <trans-unit id="Upgraded" xml:space="preserve">
         <source>Upgraded</source>
@@ -1065,13 +1093,17 @@
         <source>Watch in:</source>
         <note>Shown when choosing a country to use for Where to Watch (short version)</note>
       </trans-unit>
+      <trans-unit id="Website" xml:space="preserve">
+        <source>Website</source>
+        <note>Quick access link</note>
+      </trans-unit>
       <trans-unit id="What was that thing I looked up yesterday?" xml:space="preserve">
         <source>What was that thing I looked up yesterday?</source>
         <note>Subtitle for "Search history"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Where to Watch" xml:space="preserve">
         <source>Where to Watch</source>
-        <note/>
+        <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Which browser to use to open external links." xml:space="preserve">
         <source>Which browser to use to open external links.</source>
@@ -1084,6 +1116,10 @@
       <trans-unit id="Why not shows?" xml:space="preserve">
         <source>Why not shows?</source>
         <note>Shown at the bottom of the "what movies are both of these actors in?" screen</note>
+      </trans-unit>
+      <trans-unit id="Wikipedia" xml:space="preserve">
+        <source>Wikipedia</source>
+        <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Will NOT renew" xml:space="preserve">
         <source>Will NOT renew</source>
@@ -1152,6 +1188,14 @@
       <trans-unit id="pinned items" xml:space="preserve">
         <source>pinned items</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
+        <source>visionOS does not support changing icons yet.</source>
+        <note>Subtitle for the App Icon row in Settings on visionOS</note>
+      </trans-unit>
+      <trans-unit id="years old" xml:space="preserve">
+        <source>years old</source>
+        <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
         <source>© 2023%@ Limitliss LLC</source>
