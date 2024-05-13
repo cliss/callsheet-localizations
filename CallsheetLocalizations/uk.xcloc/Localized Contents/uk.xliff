@@ -309,7 +309,7 @@
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Credits" xml:space="preserve">
-        <source>Credits</source><target>Роботи</target>
+        <source>Credits</source><target>Титри</target>
         <note/>
       </trans-unit>
       <trans-unit id="Credits Lists" xml:space="preserve">
