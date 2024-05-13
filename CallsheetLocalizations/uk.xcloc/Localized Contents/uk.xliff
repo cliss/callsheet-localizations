@@ -317,7 +317,7 @@
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
         <source>Choose New Subscription</source>
-        <target state="translated">Оберіть нову підписку</target>
+        <target state="translated">Оберіть нову передплату</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose a link:" xml:space="preserve">
@@ -708,7 +708,7 @@
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
         <source>Manage Subscription</source>
-        <target state="translated">Налаштувати передплату</target>
+        <target state="translated">Передплата</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
@@ -751,7 +751,7 @@
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
         <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source>
-        <target state="translated">Фільми та серіали показуватимуть одне швидке посилання. Усі інші посилання доступні у меню «Більше…».</target>
+        <target state="translated">Фільми та серіали показуватимуть одне швидке посилання. Усі інші посилання доступні у меню «Ще…».</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movies featuring" xml:space="preserve">
@@ -851,7 +851,7 @@
       </trans-unit>
       <trans-unit id="Not a subscription" xml:space="preserve">
         <source>Not a subscription</source>
-        <target state="translated">Не підписано</target>
+        <target state="translated">Не передплата</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Not purchased" xml:space="preserve">
@@ -1237,12 +1237,12 @@
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
         <source>Subscription Status</source>
-        <target state="translated">Стан підписок</target>
+        <target state="translated">Стан передплати</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscriptions Debugging" xml:space="preserve">
         <source>Subscriptions Debugging</source>
-        <target state="translated">Відлагодження підписок</target>
+        <target state="translated">Відлагодження передплат</target>
         <note>Title of a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Summary" xml:space="preserve">
