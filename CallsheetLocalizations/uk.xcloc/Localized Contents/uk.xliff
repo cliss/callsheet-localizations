@@ -242,7 +242,7 @@
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
         <source>Be like the many other beautiful people who have rated this version.</source>
-        <target state="translated">Будьте як багато інших гарних людей які дали оцінку цій версії</target>
+        <target state="translated">Приєднайтесь до багатьох гарних людей, які дали оцінку цій версії.</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
@@ -511,7 +511,7 @@
       <trans-unit id="Find movies where&#10;%@ worked with:" xml:space="preserve">
         <source>Find movies where
 %@ worked with:</source>
-        <target state="translated">Знайти фільми над якими
+        <target state="translated">Знайти фільми, над якими
 працювали %@ та</target>
         <note/>
       </trans-unit>
@@ -688,7 +688,7 @@
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
         <source>Learn about the people behind Callsheet.</source>
-        <target state="translated">Дізнатися більше про людей які зробили Callsheet.</target>
+        <target state="translated">Дізнатися більше про людей, які зробили Callsheet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
@@ -1207,7 +1207,7 @@
       </trans-unit>
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
         <source>Show titles a person may be known from.</source>
-        <target state="translated">Показувати медіа за якими людина може бути відомою</target>
+        <target state="translated">Показувати медіа, завдяки яким людина може бути відомою.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, there was a problem." xml:space="preserve">
@@ -1379,7 +1379,7 @@
       </trans-unit>
       <trans-unit id="With a subscription, you get:" xml:space="preserve">
         <source>With a subscription, you get:</source>
-        <target state="translated">З підпискою, ви отримуєте:</target>
+        <target state="translated">За передплатою, ви отримаєте:</target>
         <note/>
       </trans-unit>
       <trans-unit id="You Can Help" xml:space="preserve">
