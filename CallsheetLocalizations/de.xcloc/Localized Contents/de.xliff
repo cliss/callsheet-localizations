@@ -410,9 +410,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide Spoilers…` button when looking at a show or episode." xml:space="preserve">
-        <source>Each TV show can have their own settings, set by tapping the `Hide Spoilers…` button when looking at a show or episode.</source>
-        <target state="translated">Für individuelle Einstellungen pro TV-Sendung kannst du auf `Spoiler ausblenden` tippen, während du dir die Details einer Sendung oder Episode anschaust.</target>
-        <note/>
+        <source>Each TV show can have their own settings, set by tapping the `Hide Spoilers…` button when looking at a show or episode.</source><target state="needs-review-translation">Für individuelle Einstellungen pro TV-Sendung kannst du auf `Spoiler` `ausblenden` tippen, während du dir die Details einer Sendung oder Episode anschaust.</target>
+        <note/><note from="reviewer">Renders the space too wide if left inside code backticks</note>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
         <source>Ends at %@</source>
@@ -599,8 +598,7 @@
         <note>Name of the maximum-cost annual subscription </note>
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
-        <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source>
-        <target state="translated">Wenn du auf einem anderen Gerät etwas mit [Channels](https://getchannels.com/) oder [Plex](https://plex.tv/) abspielst, kann Callsheet dir die Sendung oder den Film ganz oben in der Entdecken Ansicht anzeigen.</target>
+        <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source><target state="new">Wenn du auf einem anderen Gerät etwas mit [Channels](https://getchannels.com/) oder [Plex](https://plex.tv/) abspielst, kann Callsheet dir die Sendung oder den Film ganz oben in der Entdecken-Ansicht anzeigen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
@@ -638,9 +636,8 @@
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Known For" xml:space="preserve">
-        <source>Known For</source>
-        <target state="translated">Bekannt aus</target>
-        <note/>
+        <source>Known For</source><target state="needs-review-translation">Bekannt für</target>
+        <note/><note from="reviewer">The "known for" roles are not translated; it still says "Acting", "Camera", "Directing"</note>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
@@ -711,9 +708,8 @@
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
-        <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source>
-        <target state="translated">Filme und TV-Sendungen zeigen eine Schnellverknüpfung an. Die anderen Einträge kannst du unter `Mehr` finden.</target>
-        <note/>
+        <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source><target>Filme und TV-Sendungen zeigen eine Schnellverknüpfung an. Die anderen Einträge kannst du unter `Mehr` `…` finden.</target>
+        <note/><note from="reviewer">Consistency</note>
       </trans-unit>
       <trans-unit id="Movies featuring" xml:space="preserve">
         <source>Movies featuring</source>
@@ -984,8 +980,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Rating" xml:space="preserve">
-        <source>Rating</source>
-        <target state="translated">Bewertung</target>
+        <source>Rating</source><target state="new">Freigabe</target>
         <note>A content rating like G/PG/PG-13/R</note>
       </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">
