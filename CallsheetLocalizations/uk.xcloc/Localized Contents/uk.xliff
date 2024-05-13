@@ -678,7 +678,7 @@
       </trans-unit>
       <trans-unit id="Known For" xml:space="preserve">
         <source>Known For</source>
-        <target state="translated">Відомі за</target>
+        <target state="translated">Відомі завдяки</target>
         <note/>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
@@ -1409,7 +1409,7 @@
       </trans-unit>
       <trans-unit id="You may know them from" xml:space="preserve">
         <source>You may know them from</source>
-        <target state="translated">Ви можете знати їх з</target>
+        <target state="translated">Ви можете знати їх завдяки</target>
         <note>Header shown for people</note>
       </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
