@@ -511,7 +511,7 @@
         <note>Accessibility label when a movie's poster is not available</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
-        <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source><target>Filme und TV-Sendungen zeigen einen Link als Schnellzugriff an. Die anderen Einträge kannst du unter 'Mehr' finden.</target>
+        <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source><target>Filme und TV-Sendungen zeigen eine Schnellverknüpfung an. Die anderen Einträge kannst du unter `Mehr` finden.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movies featuring" xml:space="preserve">
@@ -567,7 +567,7 @@
         <note>Shown when a movie/show has no cast/crew</note>
       </trans-unit>
       <trans-unit id="No people matching *%@* found." xml:space="preserve">
-        <source>No people matching *%@* found.</source><target>Keine Ergebnisse für Personen mit *%@* .</target>
+        <source>No people matching *%@* found.</source><target>Keine Ergebnisse für Personen mit *%@*</target>
         <note>Shown when searching a list of credits, but no matches were found</note>
       </trans-unit>
       <trans-unit id="No people pins found." xml:space="preserve">
@@ -583,7 +583,7 @@
         <note>Shown when there's no data for Where to Watch</note>
       </trans-unit>
       <trans-unit id="No results found for &quot;%@&quot;" xml:space="preserve">
-        <source>No results found for "%@"</source><target>Die Suche nach "%@" hat keine Ergebnisse.</target>
+        <source>No results found for "%@"</source><target>Keine Ergebnisse für "%@"</target>
         <note>Generic "couldn't find anything for this query" message</note>
       </trans-unit>
       <trans-unit id="No search history found." xml:space="preserve">
@@ -627,7 +627,7 @@
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
-        <source>Parental guidance won't be shown for cast and crew.</source><target>Altersbeschränkungen werden für Darstellende oder Mitarbeitende nicht angezeigt.</target>
+        <source>Parental guidance won't be shown for cast and crew.</source><target>Altersbeschränkungen werden für Darstellende oder Crew nicht angezeigt.</target>
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
       </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
