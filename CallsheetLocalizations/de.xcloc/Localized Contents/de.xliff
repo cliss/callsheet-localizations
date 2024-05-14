@@ -134,7 +134,7 @@
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="translated">%lld Jahre alt</target>
+        <target state="needs-review-l10n">%lld Jahre alt</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
@@ -142,7 +142,12 @@
         <target state="translated">%lld Jahre</target>
         <note>How old a person was when they passed</note>
       </trans-unit>
-      <trans-unit id="%lld years old" xml:space="preserve">
+      <trans-unit id="%lld years old|==|plural.one" xml:space="preserve">
+        <source>%lld year old</source>
+        <target state="needs-review-l10n">%lld Jahre alt</target>
+        <note>How old a person is right now</note>
+      </trans-unit>
+      <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
         <target state="translated">%lld Jahre alt</target>
         <note>How old a person is right now</note>
@@ -620,7 +625,8 @@
         <note>Name of the maximum-cost annual subscription </note>
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
-        <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source><target state="new">Wenn du auf einem anderen Gerät etwas mit [Channels](https://getchannels.com/) oder [Plex](https://plex.tv/) abspielst, kann Callsheet dir die Sendung oder den Film ganz oben in der Entdecken-Ansicht anzeigen.</target>
+        <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source>
+        <target state="translated">Wenn du auf einem anderen Gerät etwas mit [Channels](https://getchannels.com/) oder [Plex](https://plex.tv/) abspielst, kann Callsheet dir die Sendung oder den Film ganz oben in der Entdecken-Ansicht anzeigen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
@@ -659,8 +665,9 @@
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Known For" xml:space="preserve">
-        <source>Known For</source><target state="needs-review-translation">Bekannt für</target>
-        <note/><note from="reviewer">The "known for" roles are not translated; it still says "Acting", "Camera", "Directing"</note>
+        <source>Known For</source>
+        <target state="translated">Bekannt aus</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
@@ -1018,7 +1025,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Rating" xml:space="preserve">
-        <source>Rating</source><target state="new">Freigabe</target>
+        <source>Rating</source>
+        <target state="translated">Freigabe</target>
         <note>A content rating like G/PG/PG-13/R</note>
       </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">

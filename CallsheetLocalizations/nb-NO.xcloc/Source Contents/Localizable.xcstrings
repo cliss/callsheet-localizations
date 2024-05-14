@@ -188,7 +188,27 @@
       "comment" : "How old a person was when they passed"
     },
     "%lld years old" : {
-      "comment" : "How old a person is right now"
+      "comment" : "How old a person is right now",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld year old"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld years old"
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "`%@` is unimplemented" : {
       "comment" : "Do not translate"
