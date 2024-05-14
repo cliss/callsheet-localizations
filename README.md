@@ -1,11 +1,18 @@
 # callsheet-localizations
 Localization Files for [Callsheet](https://apps.apple.com/us/app/callsheet-find-cast-crew/id1672356376).
 
+There are two sections:
+
+* [`CallsheetLocalizations`](https://github.com/cliss/callsheet-localizations/tree/main/CallsheetLocalizations), which has all the text used inside the app.
+* [`AppStore`](https://github.com/cliss/callsheet-localizations/tree/main/AppStore), which has the description and promotional text used [in the App Store](https://apps.apple.com/us/app/callsheet-find-cast-crew/id1672356376)
+
 ## Basics
 
 This repository contains a series of [string catalog](https://developer.apple.com/documentation/xcode/localizing-and-varying-text-with-a-string-catalog) files. They contain a series of translatable snippets, and, eventually, their translations.
 
 The easiest way to open and modify these files &mdash; other than using [Xcode](https://developer.apple.com/xcode/) &mdash; is to use the free macOS app [Loca Studio](https://www.cunningo.com/locastudio/index.html).
+
+Be careful with Loca Studio though! Save your work often!
 
 ## Using Loca Studio
 
