@@ -152,6 +152,10 @@
         <target state="translated">%lld —</target>
         <note/>
       </trans-unit>
+      <trans-unit id="A few more free ones please?" xml:space="preserve">
+        <source>A few more free ones please?</source>
+        <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
+      </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
         <source>About Callsheet</source>
         <target state="translated">Sobre o Callsheet</target>
@@ -504,6 +508,10 @@
         <source>Free stuff doesn't last forever.</source>
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
+      <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
+        <source>Free, but you can only ask once. 😏</source>
+        <note>Subtitle for the "A few more searches please" option on the "Additional options" purchasing screen</note>
+      </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
         <source>Genre</source>
         <target state="translated">Gênero</target>
@@ -769,7 +777,6 @@
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
         <source>No override</source>
-        <target state="translated">Sem preferência</target>
         <note>Default option for language/region override</note>
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
@@ -1069,6 +1076,10 @@
         <source>Save</source>
         <target state="translated">Salvar</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Save %@" xml:space="preserve">
+        <source>Save %@</source>
+        <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
         <source>Score</source>
