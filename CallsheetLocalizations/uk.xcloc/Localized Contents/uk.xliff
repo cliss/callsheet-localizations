@@ -800,7 +800,7 @@
       </trans-unit>
       <trans-unit id="Name or role" xml:space="preserve">
         <source>Name or role</source>
-        <target state="translated">Імʼя або роль</target>
+        <target state="translated">Проєкт або роль</target>
         <note>Cast search prompt</note>
       </trans-unit>
       <trans-unit id="New Episodes" xml:space="preserve">
