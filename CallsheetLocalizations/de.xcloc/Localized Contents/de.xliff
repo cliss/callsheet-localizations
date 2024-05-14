@@ -134,7 +134,7 @@
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="needs-review-l10n">%lld Jahre alt</target>
+        <target state="translated">%lld Jahre alt</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.one" xml:space="preserve">
         <source>%lld year old</source>
-        <target state="needs-review-l10n">%lld Jahre alt</target>
+        <target state="translated">%lld Jahr alt</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
@@ -666,7 +666,7 @@
       </trans-unit>
       <trans-unit id="Known For" xml:space="preserve">
         <source>Known For</source>
-        <target state="translated">Bekannt aus</target>
+        <target state="translated">Bekannt für</target>
         <note/>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
