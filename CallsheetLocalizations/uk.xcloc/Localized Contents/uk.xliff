@@ -1442,7 +1442,7 @@
       </trans-unit>
       <trans-unit id="Which quick access link is shown." xml:space="preserve">
         <source>Which quick access link is shown.</source>
-        <target state="translated">Яке посилання показувати.</target>
+        <target state="translated">Яка додаткова інформація найцікавіша.</target>
         <note>Shown as a subtitle for a row on Settings</note>
       </trans-unit>
       <trans-unit id="Why not shows?" xml:space="preserve">
