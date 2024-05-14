@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Flookup/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="it">
+  <file original="Flookup/en.lproj/InfoPlist.strings" source-language="en" target-language="it" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
     </header>
@@ -14,15 +14,18 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
-        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source><target>Se Callsheet può accedere alla tua rete locale, può riuscire a mostrare collegamenti a quello che stai guardando sul tuo schermo principale. Attivare l’accesso alla rete locale è completamente opzionale. Nessuna informazione riguardo alla tua rete è trasmessa al di fuori del tuo dispositivo.</target>
+        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
+        <target>Se Callsheet può accedere alla tua rete locale, può riuscire a mostrare collegamenti a quello che stai guardando sul tuo schermo principale. Attivare l’accesso alla rete locale è completamente opzionale. Nessuna informazione riguardo alla tua rete è trasmessa al di fuori del tuo dispositivo.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
-        <source>Search</source><target>Cerca</target>
+        <source>Search</source>
+        <target>Cerca</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
-        <source>Title, cast, or crew</source><target>Titolo, cast o troupe</target>
+        <source>Title, cast, or crew</source>
+        <target>Titolo, cast o troupe</target>
         <note/>
       </trans-unit>
     </body>
@@ -90,10 +93,12 @@
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.one" xml:space="preserve">
         <source>%lld free search remaining</source>
+        <target state="new">%lld free search remaining</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.other" xml:space="preserve">
         <source>%lld free searches remaining</source>
+        <target state="new">%lld free searches remaining</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.one" xml:space="preserve">
@@ -117,7 +122,7 @@
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="translated">anni</target>
+        <target state="needs-review-l10n">anni</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
@@ -125,7 +130,12 @@
         <target state="translated">anni</target>
         <note>How old a person was when they passed</note>
       </trans-unit>
-      <trans-unit id="%lld years old" xml:space="preserve">
+      <trans-unit id="%lld years old|==|plural.one" xml:space="preserve">
+        <source>%lld year old</source>
+        <target state="needs-review-l10n">anni</target>
+        <note>How old a person is right now</note>
+      </trans-unit>
+      <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
         <target state="translated">anni</target>
         <note>How old a person is right now</note>
@@ -279,7 +289,8 @@
         <note>Accessibility label for the quick access picker in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Choose an icon that fits your aesthetic." xml:space="preserve">
-        <source>Choose an icon that fits your aesthetic.</source><target>Scegli un’icona che soddisfa il tuo senso estetico.</target>
+        <source>Choose an icon that fits your aesthetic.</source>
+        <target state="translated">Scegli un’icona che soddisfa il tuo senso estetico.</target>
         <note>Subtitle for "Custom icons"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
@@ -351,7 +362,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
-        <source>Custom icons</source><target>Icone custom</target>
+        <source>Custom icons</source>
+        <target state="translated">Icone custom</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
@@ -395,8 +407,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
-        <source>Each TV show can have their own settings, set by tapping the `Hide Spoilers…` button when looking at a show or episode.</source>
-        <target state="translated">Ogni Serie TV può avere le proprie impostazioni, settate toccando il bottone `Nascondi Spoiler` quando guardi uno show od episodio.</target>
+        <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
@@ -421,7 +432,6 @@
       </trans-unit>
       <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
         <source>Error: should not be able to reach settings from here.</source>
-        <target state="needs-translation"/>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
@@ -486,7 +496,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
-        <source>Free stuff doesn't last forever.</source><target>Le cose belle non rimangono gratis per sempre</target>
+        <source>Free stuff doesn't last forever.</source>
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
@@ -525,23 +535,28 @@
         <note/>
       </trans-unit>
       <trans-unit id="Hide cast character names" xml:space="preserve">
-        <source>Hide cast character names</source><target>Nascondi i nomi dei membri del cast</target>
+        <source>Hide cast character names</source>
+        <target state="translated">Nascondi i nomi dei membri del cast</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide cast episode counts" xml:space="preserve">
-        <source>Hide cast episode counts</source><target>Nascondi il conteggio degli episodi del cast</target>
+        <source>Hide cast episode counts</source>
+        <target state="translated">Nascondi il conteggio degli episodi del cast</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide episode thumbnails" xml:space="preserve">
-        <source>Hide episode thumbnails</source><target>Nascondi le immagini d’anteprima degli episodi</target>
+        <source>Hide episode thumbnails</source>
+        <target state="translated">Nascondi le immagini d’anteprima degli episodi</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide episode titles" xml:space="preserve">
-        <source>Hide episode titles</source><target>Nascondi titoli episodi</target>
+        <source>Hide episode titles</source>
+        <target state="translated">Nascondi titoli episodi</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide summaries" xml:space="preserve">
-        <source>Hide summaries</source><target>Nascondi riassunti</target>
+        <source>Hide summaries</source>
+        <target state="translated">Nascondi riassunti</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="How seasons and episodes are sorted." xml:space="preserve">
@@ -554,31 +569,38 @@
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
-        <source>Unlimited searches for a month. Auto-renews</source><target>Ricerche illimitate per un mese. Si rinnova automaticamente.</target>
+        <source>Unlimited searches for a month. Auto-renews</source>
+        <target state="translated">Ricerche illimitate per un mese. Si rinnova automaticamente.</target>
         <note>Description for the monthly subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Display Name" xml:space="preserve">
-        <source>Monthly</source><target>Mensile</target>
+        <source>Monthly</source>
+        <target state="translated">Mensile</target>
         <note>Name of the monthly subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Description" xml:space="preserve">
-        <source>Access to Callsheet for 1 year. Auto-renews</source><target>Accesso a Callsheet per 1 anno. Si rinnova automaticamente.</target>
+        <source>Access to Callsheet for 1 year. Auto-renews</source>
+        <target state="translated">Accesso a Callsheet per 1 anno. Si rinnova automaticamente.</target>
         <note>Description for the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
-        <source>Yearly</source><target>Annuale</target>
+        <source>Yearly</source>
+        <target state="translated">Annuale</target>
         <note>Name of the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
-        <source>Yearly Max-Supporter</source><target>Supporter Annuale Superiore</target>
+        <source>Yearly Max-Supporter</source>
+        <target state="translated">Supporter Annuale Superiore</target>
         <note>Name of the annual subscription that is a bit more money than the normal one</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Description" xml:space="preserve">
-        <source>Show your extreme support!</source><target>Mostra il tuo massimo supporto!</target>
+        <source>Show your extreme support!</source>
+        <target state="translated">Mostra il tuo massimo supporto!</target>
         <note>Description for the maximum-cost annual subscription</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Display Name" xml:space="preserve">
-        <source>Yearly Ultra-Supporter</source><target>Supporter Annuale Supremo</target>
+        <source>Yearly Ultra-Supporter</source>
+        <target state="translated">Supporter Annuale Supremo</target>
         <note>Name of the maximum-cost annual subscription </note>
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
@@ -602,7 +624,8 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="In-App Browser" xml:space="preserve">
-        <source>In-App Browser</source><target>Browser in-app</target>
+        <source>In-App Browser</source>
+        <target state="translated">Browser in-app</target>
         <note>Which browser to use for web links (the other option is "Safari")</note>
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
@@ -686,11 +709,13 @@
         <note>Accessibility label when a movie's poster is not available</note>
       </trans-unit>
       <trans-unit id="Movies" xml:space="preserve">
-        <source>Movies</source><target>Film</target>
+        <source>Movies</source>
+        <target state="translated">Film</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies &amp; Shows" xml:space="preserve">
-        <source>Movies &amp; Shows</source><target>Film &amp; Serie TV</target>
+        <source>Movies &amp; Shows</source>
+        <target state="translated">Film &amp; Serie TV</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
@@ -839,7 +864,7 @@
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
-        <source>Parental Guidance</source><target>Controlli Parentali</target>
+        <source>Parental Guidance</source>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
@@ -873,7 +898,8 @@
         <note>Shown in the list of pins screen</note>
       </trans-unit>
       <trans-unit id="Pin your favorites for quick access." xml:space="preserve">
-        <source>Pin your favorites for quick access.</source><target>Contrassegna i tuoi preferiti per un accesso veloce.</target>
+        <source>Pin your favorites for quick access.</source>
+        <target state="translated">Contrassegna i tuoi preferiti per un accesso veloce.</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
@@ -882,7 +908,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Pinned items" xml:space="preserve">
-        <source>Pinned items</source><target>Elementi contrassegnati</target>
+        <source>Pinned items</source>
+        <target state="translated">Elementi contrassegnati</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
@@ -927,7 +954,6 @@
       </trans-unit>
       <trans-unit id="Preview Title" xml:space="preserve">
         <source>Preview Title</source>
-        <target state="needs-translation"/>
         <note>Do not localize</note>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
@@ -961,7 +987,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Quick Access Link" xml:space="preserve">
-        <source>Quick Access Link</source><target>Collegamento Veloce</target>
+        <source>Quick Access Link</source>
         <note>Title of the Quick Access Link screen in Settings</note>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
@@ -1045,7 +1071,8 @@
         <note>Heading for the total runtime of a TV episode</note>
       </trans-unit>
       <trans-unit id="Safari" xml:space="preserve">
-        <source>Safari</source><target>Safari</target>
+        <source>Safari</source>
+        <target state="translated">Safari</target>
         <note>Which browser to use for web links (the other option is "In-App Browser")</note>
       </trans-unit>
       <trans-unit id="Same perks as all other plans" xml:space="preserve">
@@ -1069,7 +1096,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Search History" xml:space="preserve">
-        <source>Search History</source><target>Cronologia delle Ricerche</target>
+        <source>Search History</source>
         <note>Title of the Search History screen</note>
       </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
@@ -1183,7 +1210,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Spoilers" xml:space="preserve">
-        <source>Spoilers</source><target>Spoiler</target>
+        <source>Spoilers</source>
         <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
@@ -1197,7 +1224,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Subscribers can change the app’s icon." xml:space="preserve">
-        <source>Subscribers can change the app’s icon.</source><target>Gli Abbonati possono cambiare l’icona dell’app</target>
+        <source>Subscribers can change the app’s icon.</source>
         <note>Subtitle for the App Icon row in Settings</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
@@ -1216,11 +1243,12 @@
         <note/>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
-        <source>TV Shows</source><target>Serie TV</target>
+        <source>TV Shows</source>
+        <target state="translated">Serie TV</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
-        <source>Technical Details</source><target>Dettagli Tecnici</target>
+        <source>Technical Details</source>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Terms of Service" xml:space="preserve">
@@ -1278,7 +1306,7 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Trivia" xml:space="preserve">
-        <source>Trivia</source><target>Trivia</target>
+        <source>Trivia</source>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
@@ -1292,11 +1320,12 @@
         <note/>
       </trans-unit>
       <trans-unit id="Unlimited searches" xml:space="preserve">
-        <source>Unlimited searches</source><target>Ricerche illimitate</target>
+        <source>Unlimited searches</source>
+        <target state="translated">Ricerche illimitate</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Upcoming" xml:space="preserve">
-        <source>Upcoming</source><target>Imminenti</target>
+        <source>Upcoming</source>
         <note>Header for titles a person will be in, but have not been released yet</note>
       </trans-unit>
       <trans-unit id="Upgraded" xml:space="preserve">
@@ -1320,17 +1349,18 @@
         <note>Shown when choosing a country to use for Where to Watch (short version)</note>
       </trans-unit>
       <trans-unit id="Website" xml:space="preserve">
-        <source>Website</source><target>Sito Internet</target>
+        <source>Website</source>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="What was that thing I looked up yesterday?" xml:space="preserve">
-        <source>What was that thing I looked up yesterday?</source><target>Cos’è che ho guardato ieri?</target>
+        <source>What was that thing I looked up yesterday?</source>
+        <target state="translated">Cos’è che ho guardato ieri?</target>
         <note>Subtitle for "Search history"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Where to Watch" xml:space="preserve">
         <source>Where to Watch</source>
         <target state="translated">Dove Guardare</target>
-        <note/>
+        <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Which browser to use to open external links." xml:space="preserve">
         <source>Which browser to use to open external links.</source>
@@ -1348,7 +1378,7 @@
         <note>Shown at the bottom of the "what movies are both of these actors in?" screen</note>
       </trans-unit>
       <trans-unit id="Wikipedia" xml:space="preserve">
-        <source>Wikipedia</source><target>Wikipedia</target>
+        <source>Wikipedia</source>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Will NOT renew" xml:space="preserve">
@@ -1436,11 +1466,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
-        <source>visionOS does not support changing icons yet.</source><target>visionOS non supporta ancora il cambio di icone</target>
+        <source>visionOS does not support changing icons yet.</source>
         <note>Subtitle for the App Icon row in Settings on visionOS</note>
       </trans-unit>
       <trans-unit id="years old" xml:space="preserve">
-        <source>years old</source><target>anni</target>
+        <source>years old</source>
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
