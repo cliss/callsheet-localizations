@@ -168,12 +168,12 @@
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.few" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="needs-review-l10n">%lld роки</target>
+        <target state="translated">%lld роки</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.many" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="needs-review-l10n">%lld років</target>
+        <target state="translated">%lld років</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.one" xml:space="preserve">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="needs-review-l10n">%lld років</target>
+        <target state="translated">%lld років</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
@@ -193,15 +193,17 @@
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.few" xml:space="preserve">
         <source>%lld years old</source>
+        <target state="translated">%lld роки</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.many" xml:space="preserve">
         <source>%lld years old</source>
+        <target state="translated">%lld років</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.one" xml:space="preserve">
         <source>%lld year old</source>
-        <target state="needs-review-l10n">%lld років</target>
+        <target state="translated">%lld рік</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
