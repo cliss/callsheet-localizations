@@ -1,0 +1,29 @@
+Have you ever wondered “who is that actor?”, or perhaps “when was this movie released?”, or “what was the title of that one episode of that show I love”? Maybe you're a film aficionado, and wonder “how old was this person when this movie was released”?
+
+Have you wanted to answer those questions *without* being prompted to log in every five seconds? Without advertisements, and without auto-playing videos? Without relying on a multinational conglomerate that is trying to sell you things?
+
+You'll love Callsheet.
+
+Callsheet is the best way to quickly look up information about the cast and crew in TV and movies. It respects your time, doesn't try to sell you stuff you don't need, and is designed to answer your questions quickly and easily.
+
+Callsheet also has some novel features that your previous favorite database app does not:
+
+• Prevent spoilers when watching TV shows by optionally hiding character names, episode counts, episode titles, or episode thumbnails.
+  Don't let yourself get spoiled on a character's secret identity, or that they'll leave the show quickly, by hiding those hints.
+• Quick access to trivia, Wikipedia, parental guidance, and where to watch (provided by JustWatch).
+• Pin shows, movies, or people for quick access.
+• Find things you've searched for before using recent searches and search history.
+• Easily see the age of cast members *when a film was released* right inline with the cast list
+• Easily see the age of a person for each entry in their filmography
+• Easily see the height of actors (when possible)
+• Dark mode support
+• VoiceOver support
+• Alternate app icons for subscribers
+• Automatic, no-login integration with the wonderful Channels app
+• Experimental, no-login integration with Plex
+
+Callsheet is written by one person, who REALLY cares about respecting your time. Callsheet is designed to let you drop in, find what you need with no fuss, and then get back to the movie or show you really care about. No distractions, and no requests to log in.
+
+Callsheet offers 20 searches for free, and then requires a subscription. Subscriptions all come with a 1-week free trial. They support Family Sharing.
+
+Give Callsheet a try. You won't believe how much better it is than the app you were using before.
