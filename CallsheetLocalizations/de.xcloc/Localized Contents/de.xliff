@@ -516,7 +516,7 @@
       </trans-unit>
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
         <source>Free stuff doesn't last forever.</source>
-        <target state="translated">Umsonst ist nichts für immer.</target>
+        <target state="translated">Gratisware währt nicht ewig.</target>
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
@@ -921,7 +921,7 @@
       </trans-unit>
       <trans-unit id="Pin your favorites for quick access." xml:space="preserve">
         <source>Pin your favorites for quick access.</source>
-        <target state="translated">Pinne deine Favoriten an für schnellen Zugriff</target>
+        <target state="translated">Pinne deine Favoriten an für schnellen Zugriff.</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
