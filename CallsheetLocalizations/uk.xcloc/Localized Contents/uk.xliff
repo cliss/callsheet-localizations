@@ -1317,7 +1317,7 @@
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
         <source>Technical Details</source>
-        <target state="translated">Техничні деталі</target>
+        <target state="translated">Технічні деталі</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Terms of Service" xml:space="preserve">
@@ -1467,7 +1467,7 @@
       </trans-unit>
       <trans-unit id="With a subscription, you get:" xml:space="preserve">
         <source>With a subscription, you get:</source>
-        <target state="translated">За передплатою, ви отримаєте:</target>
+        <target state="translated">За передплатою ви отримаєте:</target>
         <note/>
       </trans-unit>
       <trans-unit id="You Can Help" xml:space="preserve">
