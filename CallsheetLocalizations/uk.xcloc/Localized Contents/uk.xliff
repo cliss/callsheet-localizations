@@ -191,7 +191,22 @@
         <target state="translated">%lld років</target>
         <note>How old a person was when they passed</note>
       </trans-unit>
-      <trans-unit id="%lld years old" xml:space="preserve">
+      <trans-unit id="%lld years old|==|plural.few" xml:space="preserve">
+        <source>%lld years old</source>
+        <target state="translated">%lld роки</target>
+        <note>How old a person is right now</note>
+      </trans-unit>
+      <trans-unit id="%lld years old|==|plural.many" xml:space="preserve">
+        <source>%lld years old</source>
+        <target state="translated">%lld років</target>
+        <note>How old a person is right now</note>
+      </trans-unit>
+      <trans-unit id="%lld years old|==|plural.one" xml:space="preserve">
+        <source>%lld year old</source>
+        <target state="translated">%lld рік</target>
+        <note>How old a person is right now</note>
+      </trans-unit>
+      <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
         <target state="translated">%lld років</target>
         <note>How old a person is right now</note>
@@ -243,7 +258,7 @@
       </trans-unit>
       <trans-unit id="As rated by users of" xml:space="preserve">
         <source>As rated by users of</source>
-        <target state="translated">За оцінками користувачів</target>
+        <target state="translated">За думкою користувачів</target>
         <note>Shown in a popover explaining TV/movie scores</note>
       </trans-unit>
       <trans-unit id="Average runtime" xml:space="preserve">
@@ -363,7 +378,7 @@
       </trans-unit>
       <trans-unit id="Clear all" xml:space="preserve">
         <source>Clear all</source>
-        <target state="translated">Очистити усе</target>
+        <target state="translated">Очистити</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="Click Me" xml:space="preserve">
@@ -800,7 +815,7 @@
       </trans-unit>
       <trans-unit id="Name or role" xml:space="preserve">
         <source>Name or role</source>
-        <target state="translated">Імʼя або роль</target>
+        <target state="translated">Проєкт або роль</target>
         <note>Cast search prompt</note>
       </trans-unit>
       <trans-unit id="New Episodes" xml:space="preserve">
@@ -1053,7 +1068,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Quick Access Link" xml:space="preserve">
-        <source>Quick Access Link</source>
+        <source>Quick Access Link</source><target>Швидке посилання</target>
         <note>Title of the Quick Access Link screen in Settings</note>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
@@ -1162,7 +1177,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Search History" xml:space="preserve">
-        <source>Search History</source>
+        <source>Search History</source><target>Історія пошуку</target>
         <note>Title of the Search History screen</note>
       </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
@@ -1317,7 +1332,7 @@
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
         <source>Technical Details</source>
-        <target state="translated">Техничні деталі</target>
+        <target state="translated">Технічні деталі</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Terms of Service" xml:space="preserve">
@@ -1442,7 +1457,7 @@
       </trans-unit>
       <trans-unit id="Which quick access link is shown." xml:space="preserve">
         <source>Which quick access link is shown.</source>
-        <target state="translated">Яке посилання показувати.</target>
+        <target state="translated">Яка додаткова інформація найцікавіша.</target>
         <note>Shown as a subtitle for a row on Settings</note>
       </trans-unit>
       <trans-unit id="Why not shows?" xml:space="preserve">
@@ -1467,7 +1482,7 @@
       </trans-unit>
       <trans-unit id="With a subscription, you get:" xml:space="preserve">
         <source>With a subscription, you get:</source>
-        <target state="translated">За передплатою, ви отримаєте:</target>
+        <target state="translated">За передплатою ви отримаєте:</target>
         <note/>
       </trans-unit>
       <trans-unit id="You Can Help" xml:space="preserve">

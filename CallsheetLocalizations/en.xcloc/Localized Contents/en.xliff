@@ -142,7 +142,12 @@
         <target state="new">%lld years</target>
         <note>How old a person was when they passed</note>
       </trans-unit>
-      <trans-unit id="%lld years old" xml:space="preserve">
+      <trans-unit id="%lld years old|==|plural.one" xml:space="preserve">
+        <source>%lld year old</source>
+        <target state="translated">%lld year old</target>
+        <note>How old a person is right now</note>
+      </trans-unit>
+      <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
         <target state="new">%lld years old</target>
         <note>How old a person is right now</note>
