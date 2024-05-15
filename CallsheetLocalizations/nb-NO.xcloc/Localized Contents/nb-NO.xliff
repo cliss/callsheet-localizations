@@ -6,23 +6,23 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Callsheet</source>
+        <source>Callsheet</source><target>Callsheet</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>Callsheet</source>
+        <source>Callsheet</source><target>Callsheet</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
-        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
+        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source><target>Hvis Callsheet kan bruke det lokale nettverket ditt, kan det hende at det kan vise lenker til det du ser på for øyeblikket på hovedskjermen. Det er helt valgfritt å aktivere lokal nettverksbruk. Ingen data om nettverket ditt sendes fra enheten din.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
-        <source>Search</source>
+        <source>Search</source><target>Søk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
-        <source>Title, cast, or crew</source>
+        <source>Title, cast, or crew</source><target>Tittel, medvirkende eller besetning</target>
         <note/>
       </trans-unit>
     </body>
@@ -1015,7 +1015,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Subscribers can change the app’s icon." xml:space="preserve">
-        <source>Subscribers can change the app’s icon.</source><target>Abonnementer kan endre ikonet på appen.</target>
+        <source>Subscribers can change the app’s icon.</source><target>Abonnenter kan endre ikonet på appen.</target>
         <note>Subtitle for the App Icon row in Settings</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
