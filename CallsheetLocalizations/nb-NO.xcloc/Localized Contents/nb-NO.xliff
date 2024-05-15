@@ -137,11 +137,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
-        <source>Add Pin</source><target>Fest</target>
+        <source>Add Pin</source><target>Lett til merkelapp</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
-        <source>Add pin</source><target>Fest</target>
+        <source>Add pin</source><target>Legg til merkelapp</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ages" xml:space="preserve">
@@ -635,7 +635,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
-        <source>No TV show pins found.</source><target>Ingen festede TV-serier ble funnet. </target>
+        <source>No TV show pins found.</source><target>Ingen merkede TV-serier ble funnet. </target>
         <note/>
       </trans-unit>
       <trans-unit id="No credits found." xml:space="preserve">
@@ -647,7 +647,7 @@
         <note>Shown when there's no data for new movies / new shows / etc</note>
       </trans-unit>
       <trans-unit id="No movie pins found." xml:space="preserve">
-        <source>No movie pins found.</source><target>Ingen festede filmer ble funnet</target>
+        <source>No movie pins found.</source><target>Ingen merkede filmer ble funnet</target>
         <note/>
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
@@ -663,11 +663,11 @@
         <note>Shown when searching a list of credits, but no matches were found</note>
       </trans-unit>
       <trans-unit id="No people pins found." xml:space="preserve">
-        <source>No people pins found.</source><target>Ingen festede personer ble funnet.</target>
+        <source>No people pins found.</source><target>Ingen merkede personer ble funnet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pinned items found." xml:space="preserve">
-        <source>No pinned items found.</source><target>Ingen festede elementer ble funnet.</target>
+        <source>No pinned items found.</source><target>Ingen merkede elementer ble funnet.</target>
         <note>Shown on the home screen</note>
       </trans-unit>
       <trans-unit id="No providers found." xml:space="preserve">
@@ -739,23 +739,23 @@
         <note>Picker label for accessibility purposes, in Where to Watch</note>
       </trans-unit>
       <trans-unit id="Pin" xml:space="preserve">
-        <source>Pin</source><target>Fest</target>
+        <source>Pin</source><target>Merk</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="Pin Type" xml:space="preserve">
-        <source>Pin Type</source><target>Type element</target>
+        <source>Pin Type</source><target>Type merkelapp</target>
         <note>Shown in the list of pins screen</note>
       </trans-unit>
       <trans-unit id="Pin your favorites for quick access." xml:space="preserve">
-        <source>Pin your favorites for quick access.</source><target>Fest favorittene dine for raskere tilgang.</target>
+        <source>Pin your favorites for quick access.</source><target>Merk favorittene dine for raskere tilgang.</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
-        <source>Pinned Items</source><target>Festede Elementer</target>
+        <source>Pinned Items</source><target>Merkelapper</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pinned items" xml:space="preserve">
-        <source>Pinned items</source><target>Festede elementer</target>
+        <source>Pinned items</source><target>Merkelapper</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
@@ -859,11 +859,11 @@
         <note>When a TV episode or movie will be released</note>
       </trans-unit>
       <trans-unit id="Remove Pin" xml:space="preserve">
-        <source>Remove Pin</source><target>Fjern festet element</target>
+        <source>Remove Pin</source><target>Fjern merkelapp</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove pin" xml:space="preserve">
-        <source>Remove pin</source><target>Fjern festet element</target>
+        <source>Remove pin</source><target>Fjern merkelapp</target>
         <note/>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
@@ -1207,11 +1207,11 @@
         <note>cost per period; ie "per month" or "per year"</note>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
-        <source>pin</source><target>fest</target>
+        <source>pin</source><target>merk</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="pinned items" xml:space="preserve">
-        <source>pinned items</source><target>festede elementer</target>
+        <source>pinned items</source><target>merkelapper</target>
         <note/>
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
