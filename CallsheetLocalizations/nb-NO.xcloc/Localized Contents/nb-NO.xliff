@@ -137,11 +137,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
-        <source>Add Pin</source>
+        <source>Add Pin</source><target>Fest</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
-        <source>Add pin</source>
+        <source>Add pin</source><target>Fest</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ages" xml:space="preserve">
@@ -411,15 +411,15 @@
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
-        <source>Free Trial</source>
+        <source>Free Trial</source><target>Gratis prøveperiode</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
-        <source>Free searches remaining</source>
+        <source>Free searches remaining</source><target>Gjenstående gratissøk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
-        <source>Free stuff doesn't last forever.</source>
+        <source>Free stuff doesn't last forever.</source><target>Gratis ting varer ikke evig.</target>
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
@@ -499,7 +499,7 @@
         <note>Name of the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
-        <source>Yearly Max-Supporter</source><target>Årlig Max-supporter</target>
+        <source>Yearly Max-Supporter</source><target>Årlig max-supporter</target>
         <note>Name of the annual subscription that is a bit more money than the normal one</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Description" xml:space="preserve">
@@ -507,7 +507,7 @@
         <note>Description for the maximum-cost annual subscription</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Display Name" xml:space="preserve">
-        <source>Yearly Ultra-Supporter</source><target>Årlig Ultra-Supporter</target>
+        <source>Yearly Ultra-Supporter</source><target>Årlig ultra-supporter</target>
         <note>Name of the maximum-cost annual subscription </note>
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
@@ -599,15 +599,15 @@
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies &amp; Shows" xml:space="preserve">
-        <source>Movies &amp; Shows</source><target>Filmer &amp; Serier</target>
+        <source>Movies &amp; Shows</source><target>Filmer &amp; serier</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
-        <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source><target>Filmer og TV-programmer viser én lenke for rask tilgang. De andre er tilgjengelige i Mer-menyen.</target>
+        <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source><target>Filmer og TV-serier viser én lenke for rask tilgang. De andre er tilgjengelige i Mer-menyen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movies featuring" xml:space="preserve">
-        <source>Movies featuring</source>
+        <source>Movies featuring</source><target>Filmer med</target>
         <note>Title for cast union view</note>
       </trans-unit>
       <trans-unit id="Name or job" xml:space="preserve">
@@ -619,19 +619,19 @@
         <note>Cast search prompt</note>
       </trans-unit>
       <trans-unit id="New Episodes" xml:space="preserve">
-        <source>New Episodes</source><target>Nye Episoder</target>
+        <source>New Episodes</source><target>Nye episoder</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Movies" xml:space="preserve">
-        <source>New Movies</source><target>Nye Filmer</target>
+        <source>New Movies</source><target>Nye filmer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Newest First" xml:space="preserve">
-        <source>Newest First</source><target>Nyeste Først</target>
+        <source>Newest First</source><target>Nyeste først</target>
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Next Episode" xml:space="preserve">
-        <source>Next Episode</source><target>Neste Episode</target>
+        <source>Next Episode</source><target>Neste episode</target>
         <note/>
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
@@ -691,7 +691,7 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Now Playing" xml:space="preserve">
-        <source>Now Playing</source><target>Spilles nå</target>
+        <source>Now Playing</source><target>Spiller nå</target>
         <note>A header on the home screen &amp; a row in Settings; shows what is currently playing in Plex and/or Channels.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -743,7 +743,7 @@
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="Pin Type" xml:space="preserve">
-        <source>Pin Type</source>
+        <source>Pin Type</source><target>Type element</target>
         <note>Shown in the list of pins screen</note>
       </trans-unit>
       <trans-unit id="Pin your favorites for quick access." xml:space="preserve">
@@ -751,11 +751,11 @@
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
-        <source>Pinned Items</source>
+        <source>Pinned Items</source><target>Festede Elementer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pinned items" xml:space="preserve">
-        <source>Pinned items</source>
+        <source>Pinned items</source><target>Festede elementer</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
@@ -783,7 +783,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Prevent giving away spoilers by choosing to redact details." xml:space="preserve">
-        <source>Prevent giving away spoilers by choosing to redact details.</source><target>Unngå å avsløre spoilere ved å velge å skjule detaljer.</target>
+        <source>Prevent giving away spoilers by choosing to redact details.</source><target>Unngå spoilere ved å velge å skjule detaljer.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
@@ -859,11 +859,11 @@
         <note>When a TV episode or movie will be released</note>
       </trans-unit>
       <trans-unit id="Remove Pin" xml:space="preserve">
-        <source>Remove Pin</source>
+        <source>Remove Pin</source><target>Fjern festet element</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove pin" xml:space="preserve">
-        <source>Remove pin</source>
+        <source>Remove pin</source><target>Fjern festet element</target>
         <note/>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
@@ -903,7 +903,7 @@
         <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
-        <source>Score</source>
+        <source>Score</source><target>Vurdering</target>
         <note>A 0-100 score of the quality of a movie/show</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -919,7 +919,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Season %lld Episode %lld" xml:space="preserve">
-        <source>Season %1$lld Episode %2$lld</source><target>Sesong %1$lld Episode %2$lld</target>
+        <source>Season %1$lld Episode %2$lld</source><target>Sesong %1$lld episode %2$lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="Seasons" xml:space="preserve">
@@ -947,7 +947,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Share Callsheet link…" xml:space="preserve">
-        <source>Share Callsheet link…</source><target>Del lenke til Callsheet</target>
+        <source>Share Callsheet link…</source><target>Del lenke til Callsheet…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share web link" xml:space="preserve">
@@ -955,7 +955,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Share web link…" xml:space="preserve">
-        <source>Share web link…</source><target>Del weblenke</target>
+        <source>Share web link…</source><target>Del weblenke…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shared image" xml:space="preserve">
@@ -1211,7 +1211,7 @@
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="pinned items" xml:space="preserve">
-        <source>pinned items</source>
+        <source>pinned items</source><target>festede elementer</target>
         <note/>
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
