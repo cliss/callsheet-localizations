@@ -218,7 +218,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
-        <source>A few more free ones please?</source>
+        <source>A few more free ones please?</source><target>Можна ще трошечки пошуків?</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
@@ -584,7 +584,7 @@
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
-        <source>Free, but you can only ask once. 😏</source>
+        <source>Free, but you can only ask once. 😏</source><target>Безкоштовно, але лише цього разу. 😏</target>
         <note>Subtitle for the "A few more searches please" option on the "Additional options" purchasing screen</note>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
@@ -868,7 +868,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
-        <source>No override</source>
+        <source>No override</source><target>За замовчуванням</target>
         <note>Default option for language/region override</note>
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
@@ -1177,7 +1177,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Save %@" xml:space="preserve">
-        <source>Save %@</source>
+        <source>Save %@</source><target>Зекономьте %@</target>
         <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
