@@ -222,6 +222,9 @@
     "🤷‍♂️" : {
 
     },
+    "A few more free ones please?" : {
+      "comment" : "Shown on the \"Additional options\" purchasing screen, offering the user five more free searches"
+    },
     "About Callsheet" : {
       "extractionState" : "manual"
     },
@@ -439,6 +442,9 @@
     },
     "Free Trial" : {
 
+    },
+    "Free, but you can only ask once. 😏" : {
+      "comment" : "Subtitle for the \"A few more searches please\" option on the \"Additional options\" purchasing screen"
     },
     "Genre" : {
 
@@ -669,8 +675,7 @@
 
     },
     "No override" : {
-      "comment" : "Default option for language/region override",
-      "extractionState" : "manual"
+      "comment" : "Default option for language/region override"
     },
     "No people found." : {
       "comment" : "Shown when a movie/show has no cast/crew"
@@ -867,6 +872,9 @@
     },
     "Save" : {
 
+    },
+    "Save %@" : {
+      "comment" : "Encouraging users to save money by purchasing a yearly subscription — \"Save 17%\""
     },
     "Score" : {
       "comment" : "A 0-100 score of the quality of a movie/show"

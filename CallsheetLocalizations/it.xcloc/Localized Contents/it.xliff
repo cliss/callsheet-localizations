@@ -61,6 +61,7 @@
       </trans-unit>
       <trans-unit id="%@ / %@" xml:space="preserve">
         <source>%1$@ / %2$@</source>
+        <target state="translated">%1$@ / %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ by %@" xml:space="preserve">
@@ -122,7 +123,7 @@
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="needs-review-l10n">anni</target>
+        <target state="translated">anni</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
@@ -132,7 +133,7 @@
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.one" xml:space="preserve">
         <source>%lld year old</source>
-        <target state="needs-review-l10n">anni</target>
+        <target state="translated">anni</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
@@ -143,6 +144,10 @@
       <trans-unit id="%lld — " xml:space="preserve">
         <source>%lld — </source>
         <note/>
+      </trans-unit>
+      <trans-unit id="A few more free ones please?" xml:space="preserve">
+        <source>A few more free ones please?</source>
+        <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
         <source>About Callsheet</source>
@@ -231,6 +236,7 @@
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
         <source>Callsheet</source>
+        <target state="translated">Callsheet</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Callsheet Premium" xml:space="preserve">
@@ -340,10 +346,12 @@
       </trans-unit>
       <trans-unit id="Could not load static JSON" xml:space="preserve">
         <source>Could not load static JSON</source>
+        <target state="translated">Could not load static JSON</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Could not parse static JSON" xml:space="preserve">
         <source>Could not parse static JSON</source>
+        <target state="translated">Could not parse static JSON</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Credits" xml:space="preserve">
@@ -432,6 +440,7 @@
       </trans-unit>
       <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
         <source>Error: should not be able to reach settings from here.</source>
+        <target state="translated">Error: should not be able to reach settings from here.</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
@@ -498,6 +507,10 @@
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
         <source>Free stuff doesn't last forever.</source><target>Le cose belle non rimangono gratis per sempre</target>
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
+      </trans-unit>
+      <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
+        <source>Free, but you can only ask once. 😏</source>
+        <note>Subtitle for the "A few more searches please" option on the "Additional options" purchasing screen</note>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
         <source>Genre</source>
@@ -566,6 +579,7 @@
       </trans-unit>
       <trans-unit id="I'm in a popover" xml:space="preserve">
         <source>I'm in a popover</source>
+        <target state="translated">I'm in a popover</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
@@ -780,7 +794,6 @@
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
         <source>No override</source>
-        <target state="translated">Nessuna variazione</target>
         <note>Default option for language/region override</note>
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
@@ -954,6 +967,7 @@
       </trans-unit>
       <trans-unit id="Preview Title" xml:space="preserve">
         <source>Preview Title</source>
+        <target state="translated">Preview Title</target>
         <note>Do not localize</note>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
@@ -1084,6 +1098,10 @@
         <source>Save</source>
         <target state="translated">Salva</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Save %@" xml:space="preserve">
+        <source>Save %@</source>
+        <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
         <source>Score</source>
@@ -1263,6 +1281,7 @@
       </trans-unit>
       <trans-unit id="The Movie Database" xml:space="preserve">
         <source>The Movie Database</source>
+        <target state="translated">The Movie Database</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
@@ -1448,6 +1467,7 @@
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
         <source>`%@` is unimplemented</source>
+        <target state="translated">`%@` is unimplemented</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
@@ -1475,6 +1495,7 @@
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
         <source>© 2023%@ Limitliss LLC</source>
+        <target state="translated">© 2023%@ Limitliss LLC</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">

@@ -157,6 +157,10 @@
         <target state="translated">%lld – </target>
         <note/>
       </trans-unit>
+      <trans-unit id="A few more free ones please?" xml:space="preserve">
+        <source>A few more free ones please?</source><target>Kann ich noch ein paar umsonst haben?</target>
+        <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
+      </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
         <source>About Callsheet</source>
         <target state="translated">Über Callsheet</target>
@@ -369,7 +373,7 @@
       </trans-unit>
       <trans-unit id="Credits Lists" xml:space="preserve">
         <source>Credits Lists</source>
-        <target state="translated">Credits enthalten …</target>
+        <target state="translated">Auswahl für Credits</target>
         <note>Persnickety Preferences header</note>
       </trans-unit>
       <trans-unit id="Crew" xml:space="preserve">
@@ -516,8 +520,12 @@
       </trans-unit>
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
         <source>Free stuff doesn't last forever.</source>
-        <target state="translated">Umsonst ist nichts für immer.</target>
+        <target state="translated">Gratisware währt nicht ewig.</target>
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
+      </trans-unit>
+      <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
+        <source>Free, but you can only ask once. 😏</source><target>Kostenlos, aber wirklich nur dieses eine Mal. 😏</target>
+        <note>Subtitle for the "A few more searches please" option on the "Additional options" purchasing screen</note>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
         <source>Genre</source>
@@ -921,7 +929,7 @@
       </trans-unit>
       <trans-unit id="Pin your favorites for quick access." xml:space="preserve">
         <source>Pin your favorites for quick access.</source>
-        <target state="translated">Pinne deine Favoriten an für schnellen Zugriff</target>
+        <target state="translated">Pinne deine Favoriten an für schnellen Zugriff.</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
@@ -1108,6 +1116,10 @@
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Save %@" xml:space="preserve">
+        <source>Save %@</source><target>Spare %@</target>
+        <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
         <source>Score</source>
