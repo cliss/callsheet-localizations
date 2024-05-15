@@ -129,7 +129,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
-        <source>A few more free ones please?</source><target>Et par ekstra gratissøk, vær så snill?</target>
+        <source>A few more free ones please?</source><target>Et par ekstra gratis søk, vær så snill?</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
@@ -415,11 +415,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
-        <source>Free searches remaining</source><target>Gjenstående gratissøk</target>
+        <source>Free searches remaining</source><target>Gjenstående gratis søk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
-        <source>Free stuff doesn't last forever.</source><target>Gratis ting varer ikke evig.</target>
+        <source>Free stuff doesn't last forever.</source><target>Ting som er gratis varer ikke evig.</target>
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
