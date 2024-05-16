@@ -155,11 +155,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.one" xml:space="preserve">
-        <source>Add %lld Free Search</source>
+        <source>Add %lld Free Search</source><target>Aggiungi %lld Ricerca Gratis</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.other" xml:space="preserve">
-        <source>Add %lld Free Searches</source>
+        <source>Add %lld Free Searches</source><target>Aggiungi %lld Ricerche Gratis</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
@@ -333,7 +333,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Collecting log entries…" xml:space="preserve">
-        <source>Collecting log entries…</source>
+        <source>Collecting log entries…</source><target>Sto raccogliendo i log</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect to devices on your local network to show what's playing." xml:space="preserve">
@@ -874,11 +874,11 @@
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
-        <source>Or, you can have %lld more free search. Just this once.</source>
+        <source>Or, you can have %lld more free search. Just this once.</source><target>Oppure, puoi avere %lld ricerca gratis in più. Solo per stavolta.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
-        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <source>Or, you can have %lld more free searches. Just this once.</source><target>Oppure, puoi avere %lld ricerche gratis in più. Solo per stavolta.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
@@ -951,11 +951,11 @@
         <note>In the context of different subscription/IAP plans</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
-        <source>Please send feedback to `hello@limitliss.co`</source>
+        <source>Please send feedback to `hello@limitliss.co`</source><target>Per favore, invia il tuo feedback a `hello@limitliss.co`</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please wait a moment." xml:space="preserve">
-        <source>Please wait a moment.</source>
+        <source>Please wait a moment.</source><target>Per favore, attendi.</target>
         <note>Subtitle when collecting log entries to send</note>
       </trans-unit>
       <trans-unit id="Popular Movies" xml:space="preserve">
@@ -1246,7 +1246,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, there was an error making your purchase. Please try it again later." xml:space="preserve">
-        <source>Sorry, there was an error making your purchase. Please try it again later.</source>
+        <source>Sorry, there was an error making your purchase. Please try it again later.</source><target>Spiacente, si è verificato un errore effettuando l’acquisto. Per favore riprova più tardi.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
@@ -1264,7 +1264,7 @@
         <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Start %@ Free Trial" xml:space="preserve">
-        <source>Start %@ Free Trial</source>
+        <source>Start %@ Free Trial</source><target>Inizia Prova Gratuita di %@</target>
         <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
