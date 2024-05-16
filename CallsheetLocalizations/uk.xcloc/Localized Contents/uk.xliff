@@ -1282,7 +1282,7 @@
       </trans-unit>
       <trans-unit id="Show that you _really_ care" xml:space="preserve">
         <source>Show that you _really_ care</source>
-        <target state="translated">Показати що ви _дуже_ піклуєтесь</target>
+        <target state="translated">Покажіть що ви _дуже_ піклуєтесь</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
