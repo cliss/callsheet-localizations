@@ -413,7 +413,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Collecting log entries…" xml:space="preserve">
-        <source>Collecting log entries…</source>
+        <source>Collecting log entries…</source><target>Збираємо записи для налагодження…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect to devices on your local network to show what's playing." xml:space="preserve">
@@ -1043,11 +1043,11 @@
         <note>In the context of different subscription/IAP plans</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
-        <source>Please send feedback to `hello@limitliss.co`</source>
+        <source>Please send feedback to `hello@limitliss.co`</source><target>Будь ласка, відправте відгук за адресою `hello@limitliss.co`</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please wait a moment." xml:space="preserve">
-        <source>Please wait a moment.</source>
+        <source>Please wait a moment.</source><target>Будь ласка, трошки зачекайте.</target>
         <note>Subtitle when collecting log entries to send</note>
       </trans-unit>
       <trans-unit id="Popular Movies" xml:space="preserve">
@@ -1359,7 +1359,7 @@
         <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Start %@ Free Trial" xml:space="preserve">
-        <source>Start %@ Free Trial</source>
+        <source>Start %@ Free Trial</source><target>Почати безкоштовний пробний період для %@</target>
         <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
