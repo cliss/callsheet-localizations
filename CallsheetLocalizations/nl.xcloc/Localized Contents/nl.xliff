@@ -6,23 +6,23 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Callsheet</source>
+        <source>Callsheet</source><target>Callsheet</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>Callsheet</source>
+        <source>Callsheet</source><target>Callsheet</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
-        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
+        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source><target>Als Callsheet je lokale network mag gebruiken kan het je links tonen naar hetgeen je momenteel naar aan het kijken bent op het hoofdscherm.Toegang verlenen tot je lokale netwerk is volkomen optioneel. Geen informatie over je netwerk wordt buiten je apparaat gedeeld.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
-        <source>Search</source>
+        <source>Search</source><target>Zoek</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
-        <source>Title, cast, or crew</source>
+        <source>Title, cast, or crew</source><target>Titel, cast, of crew</target>
         <note/>
       </trans-unit>
     </body>
@@ -37,35 +37,35 @@
         <note/>
       </trans-unit>
       <trans-unit id="#%lld" xml:space="preserve">
-        <source>#%lld</source>
+        <source>#%lld</source><target>#%lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="#%llu" xml:space="preserve">
-        <source>#%llu</source>
+        <source>#%llu</source><target>#%llu</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
-        <source>%@</source>
+        <source>%@</source><target>%@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ (%@)" xml:space="preserve">
-        <source>%1$@ (%2$@)</source>
+        <source>%1$@ (%2$@)</source><target>%1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ - %@" xml:space="preserve">
-        <source>%1$@ - %2$@</source>
+        <source>%1$@ - %2$@</source><target>%1$@ - %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ / %@" xml:space="preserve">
-        <source>%1$@ / %2$@</source>
+        <source>%1$@ / %2$@</source><target>%1$@ / %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ by %@" xml:space="preserve">
-        <source>%1$@ by %2$@</source>
+        <source>%1$@ by %2$@</source><target>%1$@ by %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld" xml:space="preserve">
-        <source>%lld</source>
+        <source>%lld</source><target>%lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.one" xml:space="preserve">
@@ -139,11 +139,11 @@
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld — " xml:space="preserve">
-        <source>%lld — </source>
+        <source>%lld — </source><target>%lld — </target>
         <note/>
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
-        <source>A few more free ones please?</source>
+        <source>A few more free ones please?</source><target>Aub een paar extra gratis?</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
@@ -187,7 +187,7 @@
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
-        <source>App Icon</source>
+        <source>App Icon</source><target>Appicoon</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
@@ -241,7 +241,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
-        <source>Callsheet</source>
+        <source>Callsheet</source><target>Callsheet</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Callsheet Premium" xml:space="preserve">
@@ -592,7 +592,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="I'm in a popover" xml:space="preserve">
-        <source>I'm in a popover</source>
+        <source>I'm in a popover</source><target>I'm in a popover</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
@@ -667,7 +667,7 @@
       </trans-unit>
       <trans-unit id="JustWatch" xml:space="preserve">
         <source>JustWatch</source>
-        <target state="needs-translation"/>
+        <target state="needs-translation">JustWatch</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Known For" xml:space="preserve">
@@ -876,11 +876,11 @@
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
-        <source>Or, you can have %lld more free search. Just this once.</source>
+        <source>Or, you can have %lld more free search. Just this once.</source><target>Of, je kan nog %lld gratis zoekopdracht krijgen. Voor deze ene keer.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
-        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <source>Or, you can have %lld more free searches. Just this once.</source><target>Of, je kan nog %lld gratis zoekopdrachten krijgen. Voor deze ene keer.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
@@ -1324,7 +1324,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="The Movie Database" xml:space="preserve">
-        <source>The Movie Database</source>
+        <source>The Movie Database</source><target>The Movie Database</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
@@ -1514,7 +1514,7 @@
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
         <source>`%@` is unimplemented</source>
-        <target state="needs-translation"/>
+        <target state="needs-translation">`%@` is unimplemented</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
@@ -1543,15 +1543,15 @@
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
-        <source>© 2023%@ Limitliss LLC</source>
+        <source>© 2023%@ Limitliss LLC</source><target>© 2023%@ Limitliss LLC</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
-        <source>🤝</source>
+        <source>🤝</source><target>🤝</target>
         <note/>
       </trans-unit>
       <trans-unit id="🤷‍♂️" xml:space="preserve">
-        <source>🤷‍♂️</source>
+        <source>🤷‍♂️</source><target>🤷‍♂️</target>
         <note/>
       </trans-unit>
     </body>
