@@ -136,6 +136,14 @@
         <source>About Callsheet</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Add %lld Free Search|==|plural.one" xml:space="preserve">
+        <source>Add %lld Free Search</source>
+        <note>Shown on the "Buy Now" button when asking for more free searches</note>
+      </trans-unit>
+      <trans-unit id="Add %lld Free Search|==|plural.other" xml:space="preserve">
+        <source>Add %lld Free Searches</source>
+        <note>Shown on the "Buy Now" button when asking for more free searches</note>
+      </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
         <source>Add Pin</source>
         <note/>
@@ -494,7 +502,7 @@
         <note>Description for the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
-        <source>Yearly</source>
+        <source>Yearly Subscription</source>
         <note>Name of the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
@@ -704,6 +712,14 @@
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
         <source>Optionally, you can choose to help more.</source>
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
+      </trans-unit>
+      <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
+        <source>Or, you can have %lld more free search. Just this once.</source>
+        <note>Shown when trying to sell more expensive subscriptions</note>
+      </trans-unit>
+      <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
+        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
         <source>Other Great Apps</source>
@@ -993,6 +1009,10 @@
         <source>Sorry, there was a problem.</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Sorry, there was an error making your purchase. Please try it again later." xml:space="preserve">
+        <source>Sorry, there was an error making your purchase. Please try it again later.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
         <source>Sort Order</source>
         <note/>
@@ -1004,6 +1024,10 @@
       <trans-unit id="Spoilers" xml:space="preserve">
         <source>Spoilers</source>
         <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
+      </trans-unit>
+      <trans-unit id="Start %@ Free Trial" xml:space="preserve">
+        <source>Start %@ Free Trial</source>
+        <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
         <source>Subscribe</source>
