@@ -227,19 +227,19 @@
         <note/>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.few" xml:space="preserve">
-        <source>Add %lld Free Searches</source>
+        <source>Add %lld Free Searches</source><target>Додати %lld безкоштовних пошуки</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.many" xml:space="preserve">
-        <source>Add %lld Free Searches</source>
+        <source>Add %lld Free Searches</source><target>Додати %lld безкоштовних пошуків</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.one" xml:space="preserve">
-        <source>Add %lld Free Search</source>
+        <source>Add %lld Free Search</source><target>Додати %lld безкоштовний пошук</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.other" xml:space="preserve">
-        <source>Add %lld Free Searches</source>
+        <source>Add %lld Free Searches</source><target>Додати %lld безкоштовних пошуків</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
@@ -690,12 +690,12 @@
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
         <source>Yearly Subscription</source>
-        <target state="needs-review-l10n">Річна</target>
+        <target state="translated">Річна передплата</target>
         <note>Name of the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
         <source>Yearly Max-Supporter</source>
-        <target state="translated">Річна Max</target>
+        <target state="translated">Річна передплата Max</target>
         <note>Name of the annual subscription that is a bit more money than the normal one</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Description" xml:space="preserve">
@@ -953,19 +953,19 @@
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.few" xml:space="preserve">
-        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <source>Or, you can have %lld more free searches. Just this once.</source><target>Або можна додати ще %lld безкоштовних пошуки. Але лише один раз.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.many" xml:space="preserve">
-        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <source>Or, you can have %lld more free searches. Just this once.</source><target>Або можна додати ще %lld безкоштовних пошуків. Але лише один раз.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
-        <source>Or, you can have %lld more free search. Just this once.</source>
+        <source>Or, you can have %lld more free search. Just this once.</source><target>Або можна додати ще %lld безкоштовний пошук. Але лише один раз.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
-        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <source>Or, you can have %lld more free searches. Just this once.</source><target>Або можна додати ще %lld безкоштовних пошуків. Але лише один раз.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
@@ -1328,7 +1328,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, there was an error making your purchase. Please try it again later." xml:space="preserve">
-        <source>Sorry, there was an error making your purchase. Please try it again later.</source>
+        <source>Sorry, there was an error making your purchase. Please try it again later.</source><target>Пробачте, сталася помилка з покупкою. Будь ласка, спробуйте ще раз пізніше.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
