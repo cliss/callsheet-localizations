@@ -332,6 +332,10 @@
         <target state="translated">Chiudi</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Collecting log entries…" xml:space="preserve">
+        <source>Collecting log entries…</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Connect to devices on your local network to show what's playing." xml:space="preserve">
         <source>Connect to devices on your local network to show what's playing.</source>
         <target state="translated">Connetti i dispositivi sulla tua rete locale per mostrare cosa c'è in riproduzione.</target>
@@ -945,6 +949,14 @@
         <source>Plans:</source>
         <target state="translated">Piani:</target>
         <note>In the context of different subscription/IAP plans</note>
+      </trans-unit>
+      <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
+        <source>Please send feedback to `hello@limitliss.co`</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please wait a moment." xml:space="preserve">
+        <source>Please wait a moment.</source>
+        <note>Subtitle when collecting log entries to send</note>
       </trans-unit>
       <trans-unit id="Popular Movies" xml:space="preserve">
         <source>Popular Movies</source>

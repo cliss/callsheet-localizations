@@ -354,6 +354,9 @@
     "Close" : {
 
     },
+    "Collecting log entries…" : {
+
+    },
     "Connect to devices on your local network to show what's playing." : {
       "comment" : "Subtitle in Persnickety Preferences"
     },
@@ -816,6 +819,12 @@
     },
     "Plans:" : {
       "comment" : "In the context of different subscription/IAP plans"
+    },
+    "Please send feedback to `hello@limitliss.co`" : {
+
+    },
+    "Please wait a moment." : {
+      "comment" : "Subtitle when collecting log entries to send"
     },
     "Popular Movies" : {
 
