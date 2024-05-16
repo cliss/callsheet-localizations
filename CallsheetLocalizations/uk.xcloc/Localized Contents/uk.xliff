@@ -218,7 +218,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
-        <source>A few more free ones please?</source><target>Можна ще трошечки пошуків?</target>
+        <source>A few more free ones please?</source>
+        <target state="translated">Можна ще трошечки пошуків?</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
@@ -227,19 +228,23 @@
         <note/>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.few" xml:space="preserve">
-        <source>Add %lld Free Searches</source><target>Додати %lld безкоштовних пошуки</target>
+        <source>Add %lld Free Searches</source>
+        <target state="translated">Додати %lld безкоштовних пошуки</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.many" xml:space="preserve">
-        <source>Add %lld Free Searches</source><target>Додати %lld безкоштовних пошуків</target>
+        <source>Add %lld Free Searches</source>
+        <target state="translated">Додати %lld безкоштовних пошуків</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.one" xml:space="preserve">
-        <source>Add %lld Free Search</source><target>Додати %lld безкоштовний пошук</target>
+        <source>Add %lld Free Search</source>
+        <target state="translated">Додати %lld безкоштовний пошук</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.other" xml:space="preserve">
-        <source>Add %lld Free Searches</source><target>Додати %lld безкоштовних пошуків</target>
+        <source>Add %lld Free Searches</source>
+        <target state="translated">Додати %lld безкоштовних пошуків</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
@@ -413,7 +418,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Collecting log entries…" xml:space="preserve">
-        <source>Collecting log entries…</source><target>Збираємо записи для налагодження…</target>
+        <source>Collecting log entries…</source>
+        <target state="translated">Збираємо записи для налагодження…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect to devices on your local network to show what's playing." xml:space="preserve">
@@ -604,7 +610,8 @@
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
-        <source>Free, but you can only ask once. 😏</source><target>Безкоштовно, але лише цього разу. 😏</target>
+        <source>Free, but you can only ask once. 😏</source>
+        <target state="translated">Безкоштовно, але лише цього разу. 😏</target>
         <note>Subtitle for the "A few more searches please" option on the "Additional options" purchasing screen</note>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
@@ -888,7 +895,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
-        <source>No override</source><target>За замовчуванням</target>
+        <source>No override</source>
+        <target state="translated">За замовчуванням</target>
         <note>Default option for language/region override</note>
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
@@ -957,19 +965,23 @@
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.few" xml:space="preserve">
-        <source>Or, you can have %lld more free searches. Just this once.</source><target>Або можна додати ще %lld безкоштовних пошуки. Але лише один раз.</target>
+        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <target state="translated">Або можна додати ще %lld безкоштовних пошуки. Але лише один раз.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.many" xml:space="preserve">
-        <source>Or, you can have %lld more free searches. Just this once.</source><target>Або можна додати ще %lld безкоштовних пошуків. Але лише один раз.</target>
+        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <target state="translated">Або можна додати ще %lld безкоштовних пошуків. Але лише один раз.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
-        <source>Or, you can have %lld more free search. Just this once.</source><target>Або можна додати ще %lld безкоштовний пошук. Але лише один раз.</target>
+        <source>Or, you can have %lld more free search. Just this once.</source>
+        <target state="translated">Або можна додати ще %lld безкоштовний пошук. Але лише один раз.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
-        <source>Or, you can have %lld more free searches. Just this once.</source><target>Або можна додати ще %lld безкоштовних пошуків. Але лише один раз.</target>
+        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <target state="translated">Або можна додати ще %lld безкоштовних пошуків. Але лише один раз.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
@@ -1043,11 +1055,13 @@
         <note>In the context of different subscription/IAP plans</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
-        <source>Please send feedback to `hello@limitliss.co`</source><target>Будь ласка, відправте відгук на адресу `hello@limitliss.co`</target>
+        <source>Please send feedback to `hello@limitliss.co`</source>
+        <target state="translated">Будь ласка, відправте відгук на адресу `hello@limitliss.co`</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please wait a moment." xml:space="preserve">
-        <source>Please wait a moment.</source><target>Будь ласка, трошки зачекайте.</target>
+        <source>Please wait a moment.</source>
+        <target state="translated">Будь ласка, трошки зачекайте.</target>
         <note>Subtitle when collecting log entries to send</note>
       </trans-unit>
       <trans-unit id="Popular Movies" xml:space="preserve">
@@ -1221,7 +1235,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Save %@" xml:space="preserve">
-        <source>Save %@</source><target>Зекономте %@</target>
+        <source>Save %@</source>
+        <target state="translated">Зекономте %@</target>
         <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
@@ -1340,7 +1355,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, there was an error making your purchase. Please try it again later." xml:space="preserve">
-        <source>Sorry, there was an error making your purchase. Please try it again later.</source><target>Пробачте, сталася помилка з покупкою. Будь ласка, спробуйте ще раз пізніше.</target>
+        <source>Sorry, there was an error making your purchase. Please try it again later.</source>
+        <target state="translated">Пробачте, сталася помилка з покупкою. Будь ласка, спробуйте ще раз пізніше.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
@@ -1359,7 +1375,8 @@
         <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Start %@ Free Trial" xml:space="preserve">
-        <source>Start %@ Free Trial</source><target>Почати безкоштовний пробний період для %@</target>
+        <source>Start %@ Free Trial</source>
+        <target state="translated">Почати безкоштовний пробний період для %@</target>
         <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
