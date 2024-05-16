@@ -112,6 +112,10 @@
         <source>About Callsheet</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Add %lld Free Search|==|plural.other" xml:space="preserve">
+        <source>Add %lld Free Searches</source>
+        <note>Shown on the "Buy Now" button when asking for more free searches</note>
+      </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
         <source>Add Pin</source>
         <note/>
@@ -246,6 +250,10 @@
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Collecting log entries…" xml:space="preserve">
+        <source>Collecting log entries…</source>
         <note/>
       </trans-unit>
       <trans-unit id="Connect to devices on your local network to show what's playing." xml:space="preserve">
@@ -470,7 +478,7 @@
         <note>Description for the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
-        <source>Yearly</source>
+        <source>Yearly Subscription</source>
         <note>Name of the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
@@ -681,6 +689,10 @@
         <source>Optionally, you can choose to help more.</source>
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
+      <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
+        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <note>Shown when trying to sell more expensive subscriptions</note>
+      </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
         <source>Other Great Apps</source>
         <note>Shown above Maskeraid &amp; Peek‑a‑View</note>
@@ -736,6 +748,14 @@
       <trans-unit id="Plans:" xml:space="preserve">
         <source>Plans:</source>
         <note>In the context of different subscription/IAP plans</note>
+      </trans-unit>
+      <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
+        <source>Please send feedback to `hello@limitliss.co`</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please wait a moment." xml:space="preserve">
+        <source>Please wait a moment.</source>
+        <note>Subtitle when collecting log entries to send</note>
       </trans-unit>
       <trans-unit id="Popular Movies" xml:space="preserve">
         <source>Popular Movies</source>
@@ -969,6 +989,10 @@
         <source>Sorry, there was a problem.</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Sorry, there was an error making your purchase. Please try it again later." xml:space="preserve">
+        <source>Sorry, there was an error making your purchase. Please try it again later.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
         <source>Sort Order</source>
         <note/>
@@ -980,6 +1004,10 @@
       <trans-unit id="Spoilers" xml:space="preserve">
         <source>Spoilers</source>
         <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
+      </trans-unit>
+      <trans-unit id="Start %@ Free Trial" xml:space="preserve">
+        <source>Start %@ Free Trial</source>
+        <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
         <source>Subscribe</source>
