@@ -1,11 +1,34 @@
 # callsheet-localizations
 Localization Files for [Callsheet](https://apps.apple.com/us/app/callsheet-find-cast-crew/id1672356376).
 
+There are two sections:
+
+* [`CallsheetLocalizations`](https://github.com/cliss/callsheet-localizations/tree/main/CallsheetLocalizations), which has all the text used inside the app.
+* [`AppStore`](https://github.com/cliss/callsheet-localizations/tree/main/AppStore), which has the description and promotional text used [in the App Store](https://apps.apple.com/us/app/callsheet-find-cast-crew/id1672356376)
+
+## Current Status
+
+As of [74184cb](https://github.com/cliss/callsheet-localizations/commit/74184cb875709fe9a2ae4badb30985e18c7b2089):
+
+| Language  | % Complete  | Authors                           |
+| :-------- | :---------- | :-------------------------------- |
+| English         | N/A         | [cliss](https://github.com/cliss) |
+| Ukrainian       | 100% :tada: | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
+| German          | 100% :tada: | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
+| Italian         | 98%         | [cdf1982](https://github.com/cdf1982) |
+| Spanish         | 83%         | _Apple's translation services_ 😬 |
+| Portuguese (🇧🇷) | 77%         | [insidegui](https://github.com/insidegui) |
+| Dutch           | 68%         | [Deddiekoel](https://github.com/deddiekoel) |
+
+
+
 ## Basics
 
 This repository contains a series of [string catalog](https://developer.apple.com/documentation/xcode/localizing-and-varying-text-with-a-string-catalog) files. They contain a series of translatable snippets, and, eventually, their translations.
 
 The easiest way to open and modify these files &mdash; other than using [Xcode](https://developer.apple.com/xcode/) &mdash; is to use the free macOS app [Loca Studio](https://www.cunningo.com/locastudio/index.html).
+
+Be careful with Loca Studio though! Save your work often!
 
 ## Using Loca Studio
 
@@ -25,7 +48,7 @@ Note that the `Source` column kind of hints at what's going on here, but the `ID
 
 [Language Plural Rules](https://www.unicode.org/cldr/charts/45/supplemental/language_plural_rules.html)
 
-Some languages have more complicated pluralization rules than English speakers are used to. Words can be pluralized in ways that English speakers would recognize from [ordinal numbers](https://en.wikipedia.org/wiki/Ordinal_number), like 20th, 21st, 22nd, 23rd. You can look these up in the rules table above.
+Some languages have more complicated pluralization rules than English speakers are used to. Words can be pluralized in ways that English speakers would recognize from [ordinal numerals](https://en.wikipedia.org/wiki/Ordinal_numeral), like 20th, 21st, 22nd, 23rd. You can look these up in the rules table above.
 
 As an example, these are the rules for Polish:
 
@@ -59,4 +82,3 @@ Reach out (see below) and I'll be happy to add it!
 ## Questions?
 
 Please [say something on Mastodon](https://mastodon.social/@caseyliss) or [contact me](https://www.caseyliss.com/contact).
-

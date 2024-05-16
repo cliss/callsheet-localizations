@@ -96,7 +96,7 @@
         <source>%lld years</source>
         <note>How old a person was when they passed</note>
       </trans-unit>
-      <trans-unit id="%lld years old" xml:space="preserve">
+      <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
         <note>How old a person is right now</note>
       </trans-unit>
@@ -104,9 +104,17 @@
         <source>%lld — </source>
         <note/>
       </trans-unit>
+      <trans-unit id="A few more free ones please?" xml:space="preserve">
+        <source>A few more free ones please?</source>
+        <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
+      </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
         <source>About Callsheet</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Add %lld Free Search|==|plural.other" xml:space="preserve">
+        <source>Add %lld Free Searches</source>
+        <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
         <source>Add Pin</source>
@@ -242,6 +250,10 @@
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Collecting log entries…" xml:space="preserve">
+        <source>Collecting log entries…</source>
         <note/>
       </trans-unit>
       <trans-unit id="Connect to devices on your local network to show what's playing." xml:space="preserve">
@@ -393,6 +405,10 @@
         <source>Free stuff doesn't last forever.</source>
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
+      <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
+        <source>Free, but you can only ask once. 😏</source>
+        <note>Subtitle for the "A few more searches please" option on the "Additional options" purchasing screen</note>
+      </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
         <source>Genre</source>
         <note/>
@@ -462,7 +478,7 @@
         <note>Description for the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
-        <source>Yearly</source>
+        <source>Yearly Subscription</source>
         <note>Name of the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
@@ -673,6 +689,10 @@
         <source>Optionally, you can choose to help more.</source>
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
+      <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
+        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <note>Shown when trying to sell more expensive subscriptions</note>
+      </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
         <source>Other Great Apps</source>
         <note>Shown above Maskeraid &amp; Peek‑a‑View</note>
@@ -729,6 +749,14 @@
         <source>Plans:</source>
         <note>In the context of different subscription/IAP plans</note>
       </trans-unit>
+      <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
+        <source>Please send feedback to `hello@limitliss.co`</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please wait a moment." xml:space="preserve">
+        <source>Please wait a moment.</source>
+        <note>Subtitle when collecting log entries to send</note>
+      </trans-unit>
       <trans-unit id="Popular Movies" xml:space="preserve">
         <source>Popular Movies</source>
         <note/>
@@ -784,6 +812,10 @@
       <trans-unit id="Purchasing…" xml:space="preserve">
         <source>Purchasing…</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Quick Access Link" xml:space="preserve">
+        <source>Quick Access Link</source>
+        <note>Title of the Quick Access Link screen in Settings</note>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
         <source>Quickly place emoji on photos — for privacy or fun!</source>
@@ -861,6 +893,10 @@
         <source>Save</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Save %@" xml:space="preserve">
+        <source>Save %@</source>
+        <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
+      </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
         <source>Score</source>
         <note>A 0-100 score of the quality of a movie/show</note>
@@ -868,6 +904,10 @@
       <trans-unit id="Search" xml:space="preserve">
         <source>Search</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Search History" xml:space="preserve">
+        <source>Search History</source>
+        <note>Title of the Search History screen</note>
       </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
         <source>Search history</source>
@@ -949,6 +989,10 @@
         <source>Sorry, there was a problem.</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Sorry, there was an error making your purchase. Please try it again later." xml:space="preserve">
+        <source>Sorry, there was an error making your purchase. Please try it again later.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
         <source>Sort Order</source>
         <note/>
@@ -960,6 +1004,10 @@
       <trans-unit id="Spoilers" xml:space="preserve">
         <source>Spoilers</source>
         <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
+      </trans-unit>
+      <trans-unit id="Start %@ Free Trial" xml:space="preserve">
+        <source>Start %@ Free Trial</source>
+        <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
         <source>Subscribe</source>

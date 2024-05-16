@@ -188,7 +188,27 @@
       "comment" : "How old a person was when they passed"
     },
     "%lld years old" : {
-      "comment" : "How old a person is right now"
+      "comment" : "How old a person is right now",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld year old"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld years old"
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "`%@` is unimplemented" : {
       "comment" : "Do not translate"
@@ -202,8 +222,34 @@
     "🤷‍♂️" : {
 
     },
+    "A few more free ones please?" : {
+      "comment" : "Shown on the \"Additional options\" purchasing screen, offering the user five more free searches"
+    },
     "About Callsheet" : {
       "extractionState" : "manual"
+    },
+    "Add %lld Free Search" : {
+      "comment" : "Shown on the \"Buy Now\" button when asking for more free searches",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "Add %lld Free Search"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Add %lld Free Searches"
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "Add pin" : {
 
@@ -306,6 +352,9 @@
       "comment" : "Do not translate"
     },
     "Close" : {
+
+    },
+    "Collecting log entries…" : {
 
     },
     "Connect to devices on your local network to show what's playing." : {
@@ -420,6 +469,9 @@
     "Free Trial" : {
 
     },
+    "Free, but you can only ask once. 😏" : {
+      "comment" : "Subtitle for the \"A few more searches please\" option on the \"Additional options\" purchasing screen"
+    },
     "Genre" : {
 
     },
@@ -505,7 +557,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yearly"
+            "value" : "Yearly Subscription"
           }
         }
       }
@@ -649,8 +701,7 @@
 
     },
     "No override" : {
-      "comment" : "Default option for language/region override",
-      "extractionState" : "manual"
+      "comment" : "Default option for language/region override"
     },
     "No people found." : {
       "comment" : "Shown when a movie/show has no cast/crew"
@@ -693,6 +744,29 @@
     },
     "Optionally, you can choose to help more." : {
       "comment" : "Shown when trying to upsell the user on expensive subscriptions"
+    },
+    "Or, you can have %lld more free search. Just this once." : {
+      "comment" : "Shown when trying to sell more expensive subscriptions",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "Or, you can have %lld more free search. Just this once."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Or, you can have %lld more free searches. Just this once."
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "Other Great Apps" : {
       "comment" : "Shown above Maskeraid & Peek‑a‑View"
@@ -746,6 +820,12 @@
     "Plans:" : {
       "comment" : "In the context of different subscription/IAP plans"
     },
+    "Please send feedback to `hello@limitliss.co`" : {
+
+    },
+    "Please wait a moment." : {
+      "comment" : "Subtitle when collecting log entries to send"
+    },
     "Popular Movies" : {
 
     },
@@ -787,6 +867,9 @@
     },
     "Purchasing…" : {
 
+    },
+    "Quick Access Link" : {
+      "comment" : "Title of the Quick Access Link screen in Settings"
     },
     "Quickly place emoji on photos — for privacy or fun!" : {
       "comment" : "MaskerAid subtitle in Settings"
@@ -845,6 +928,9 @@
     "Save" : {
 
     },
+    "Save %@" : {
+      "comment" : "Encouraging users to save money by purchasing a yearly subscription — \"Save 17%\""
+    },
     "Score" : {
       "comment" : "A 0-100 score of the quality of a movie/show"
     },
@@ -853,6 +939,9 @@
     },
     "Search history" : {
 
+    },
+    "Search History" : {
+      "comment" : "Title of the Search History screen"
     },
     "Season %lld Episode %lld" : {
       "localizations" : {
@@ -918,6 +1007,9 @@
     "Sorry, there was a problem." : {
 
     },
+    "Sorry, there was an error making your purchase. Please try it again later." : {
+
+    },
     "Sort Order" : {
 
     },
@@ -926,6 +1018,9 @@
     },
     "Spoilers" : {
       "comment" : "Title for the row in Settings to get you to the default Spoiler Settings"
+    },
+    "Start %@ Free Trial" : {
+      "comment" : "Shown on the \"Buy Now\" button when subscribing"
     },
     "Subscribe" : {
 
