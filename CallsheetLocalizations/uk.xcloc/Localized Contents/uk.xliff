@@ -739,7 +739,7 @@
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
-        <target state="translated">Бажана мова</target>
+        <target state="translated">Пріоритетна мова</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
@@ -1108,7 +1108,7 @@
       </trans-unit>
       <trans-unit id="Region Override" xml:space="preserve">
         <source>Region Override</source>
-        <target state="translated">Бажаний регіон</target>
+        <target state="translated">Пріоритетний регіон</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Released" xml:space="preserve">
