@@ -14,7 +14,7 @@ As of [74184cb](https://github.com/cliss/callsheet-localizations/commit/74184cb8
 | :-------- | :---------- | :-------------------------------- |
 | English         | N/A         | [cliss](https://github.com/cliss) |
 | Ukrainian       | 100% :tada: | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
-| German          | 100% :tada: | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal) |
+| German          | 100% :tada: | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
 | Italian         | 98%         | [cdf1982](https://github.com/cdf1982) |
 | Spanish         | 83%         | _Apple's translation services_ 😬 |
 | Portuguese (🇧🇷) | 77%         | [insidegui](https://github.com/insidegui) |
