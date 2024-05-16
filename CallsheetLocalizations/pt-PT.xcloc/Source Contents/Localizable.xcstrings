@@ -228,6 +228,29 @@
     "About Callsheet" : {
       "extractionState" : "manual"
     },
+    "Add %lld Free Search" : {
+      "comment" : "Shown on the \"Buy Now\" button when asking for more free searches",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "Add %lld Free Search"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Add %lld Free Searches"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Add pin" : {
 
     },
@@ -329,6 +352,9 @@
       "comment" : "Do not translate"
     },
     "Close" : {
+
+    },
+    "Collecting log entries…" : {
 
     },
     "Connect to devices on your local network to show what's playing." : {
@@ -531,7 +557,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yearly"
+            "value" : "Yearly Subscription"
           }
         }
       }
@@ -719,6 +745,29 @@
     "Optionally, you can choose to help more." : {
       "comment" : "Shown when trying to upsell the user on expensive subscriptions"
     },
+    "Or, you can have %lld more free search. Just this once." : {
+      "comment" : "Shown when trying to sell more expensive subscriptions",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "Or, you can have %lld more free search. Just this once."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Or, you can have %lld more free searches. Just this once."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Other Great Apps" : {
       "comment" : "Shown above Maskeraid & Peek‑a‑View"
     },
@@ -770,6 +819,12 @@
     },
     "Plans:" : {
       "comment" : "In the context of different subscription/IAP plans"
+    },
+    "Please send feedback to `hello@limitliss.co`" : {
+
+    },
+    "Please wait a moment." : {
+      "comment" : "Subtitle when collecting log entries to send"
     },
     "Popular Movies" : {
 
@@ -952,6 +1007,9 @@
     "Sorry, there was a problem." : {
 
     },
+    "Sorry, there was an error making your purchase. Please try it again later." : {
+
+    },
     "Sort Order" : {
 
     },
@@ -960,6 +1018,9 @@
     },
     "Spoilers" : {
       "comment" : "Title for the row in Settings to get you to the default Spoiler Settings"
+    },
+    "Start %@ Free Trial" : {
+      "comment" : "Shown on the \"Buy Now\" button when subscribing"
     },
     "Subscribe" : {
 
