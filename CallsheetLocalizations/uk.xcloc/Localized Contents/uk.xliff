@@ -1043,7 +1043,7 @@
         <note>In the context of different subscription/IAP plans</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
-        <source>Please send feedback to `hello@limitliss.co`</source><target>Будь ласка, відправте відгук за адресою `hello@limitliss.co`</target>
+        <source>Please send feedback to `hello@limitliss.co`</source><target>Будь ласка, відправте відгук на адресу `hello@limitliss.co`</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please wait a moment." xml:space="preserve">
