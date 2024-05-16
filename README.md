@@ -6,6 +6,22 @@ There are two sections:
 * [`CallsheetLocalizations`](https://github.com/cliss/callsheet-localizations/tree/main/CallsheetLocalizations), which has all the text used inside the app.
 * [`AppStore`](https://github.com/cliss/callsheet-localizations/tree/main/AppStore), which has the description and promotional text used [in the App Store](https://apps.apple.com/us/app/callsheet-find-cast-crew/id1672356376)
 
+## Current Status
+
+As of [74184cb](https://github.com/cliss/callsheet-localizations/commit/74184cb875709fe9a2ae4badb30985e18c7b2089):
+
+| Language  | % Complete  | Authors                           |
+| :-------- | :---------- | :-------------------------------- |
+| English         | N/A         | [cliss](https://github.com/cliss) |
+| Ukrainian       | 100% :tada: | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
+| German          | 100% :tada: | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal) |
+| Italian         | 98%         | [cdf1982](https://github.com/cdf1982) |
+| Spanish         | 83%         | _Apple's translation services_ 😬 |
+| Portuguese (🇧🇷) | 77%         | [insidegui](https://github.com/insidegui) |
+| Dutch           | 68%         | [Deddiekoel](https://github.com/deddiekoel) |
+
+
+
 ## Basics
 
 This repository contains a series of [string catalog](https://developer.apple.com/documentation/xcode/localizing-and-varying-text-with-a-string-catalog) files. They contain a series of translatable snippets, and, eventually, their translations.
@@ -66,4 +82,3 @@ Reach out (see below) and I'll be happy to add it!
 ## Questions?
 
 Please [say something on Mastodon](https://mastodon.social/@caseyliss) or [contact me](https://www.caseyliss.com/contact).
-
