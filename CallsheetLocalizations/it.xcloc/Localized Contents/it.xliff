@@ -146,7 +146,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
-        <source>A few more free ones please?</source>
+        <source>A few more free ones please?</source><target>Ancora qualche ricerca gratis, per favore?</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
@@ -155,11 +155,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.one" xml:space="preserve">
-        <source>Add %lld Free Search</source>
+        <source>Add %lld Free Search</source><target>Aggiungi %lld Ricerca Gratis</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.other" xml:space="preserve">
-        <source>Add %lld Free Searches</source>
+        <source>Add %lld Free Searches</source><target>Aggiungi %lld Ricerche Gratis</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
@@ -333,7 +333,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Collecting log entries…" xml:space="preserve">
-        <source>Collecting log entries…</source>
+        <source>Collecting log entries…</source><target>Sto raccogliendo i log</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect to devices on your local network to show what's playing." xml:space="preserve">
@@ -427,7 +427,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
-        <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
+        <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source><target>Ogni Serie TV può avere le proprie impostazioni, configurate toccando il bottone `Nascondi Spoiler` mentre guardi un programma od episodio.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
@@ -517,11 +517,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
-        <source>Free stuff doesn't last forever.</source>
+        <source>Free stuff doesn't last forever.</source><target>Le cose belle non rimangono gratis per sempre</target>
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
-        <source>Free, but you can only ask once. 😏</source>
+        <source>Free, but you can only ask once. 😏</source><target>Gratis, ma puoi chiedere sono una volta. 😏</target>
         <note>Subtitle for the "A few more searches please" option on the "Additional options" purchasing screen</note>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
@@ -805,7 +805,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
-        <source>No override</source>
+        <source>No override</source><target>Non forzare</target>
         <note>Default option for language/region override</note>
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
@@ -874,11 +874,11 @@
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
-        <source>Or, you can have %lld more free search. Just this once.</source>
+        <source>Or, you can have %lld more free search. Just this once.</source><target>Oppure, puoi avere %lld ricerca gratis in più. Solo per stavolta.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
-        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <source>Or, you can have %lld more free searches. Just this once.</source><target>Oppure, puoi avere %lld ricerche gratis in più. Solo per stavolta.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
@@ -897,7 +897,7 @@
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
-        <source>Parental Guidance</source>
+        <source>Parental Guidance</source><target>Controlli Parentali</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
@@ -951,11 +951,11 @@
         <note>In the context of different subscription/IAP plans</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
-        <source>Please send feedback to `hello@limitliss.co`</source>
+        <source>Please send feedback to `hello@limitliss.co`</source><target>Per favore, invia il tuo feedback a `hello@limitliss.co`</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please wait a moment." xml:space="preserve">
-        <source>Please wait a moment.</source>
+        <source>Please wait a moment.</source><target>Per favore, attendi.</target>
         <note>Subtitle when collecting log entries to send</note>
       </trans-unit>
       <trans-unit id="Popular Movies" xml:space="preserve">
@@ -1029,7 +1029,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Quick Access Link" xml:space="preserve">
-        <source>Quick Access Link</source>
+        <source>Quick Access Link</source><target>Collegamento Veloce</target>
         <note>Title of the Quick Access Link screen in Settings</note>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
@@ -1128,7 +1128,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Save %@" xml:space="preserve">
-        <source>Save %@</source>
+        <source>Save %@</source><target>Risparmia il %@</target>
         <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
@@ -1142,7 +1142,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Search History" xml:space="preserve">
-        <source>Search History</source>
+        <source>Search History</source><target>Cronologia delle Ricerche</target>
         <note>Title of the Search History screen</note>
       </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
@@ -1246,7 +1246,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, there was an error making your purchase. Please try it again later." xml:space="preserve">
-        <source>Sorry, there was an error making your purchase. Please try it again later.</source>
+        <source>Sorry, there was an error making your purchase. Please try it again later.</source><target>Spiacente, si è verificato un errore effettuando l’acquisto. Per favore riprova più tardi.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
@@ -1260,11 +1260,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Spoilers" xml:space="preserve">
-        <source>Spoilers</source>
+        <source>Spoilers</source><target>Spoiler</target>
         <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Start %@ Free Trial" xml:space="preserve">
-        <source>Start %@ Free Trial</source>
+        <source>Start %@ Free Trial</source><target>Inizia Prova Gratuita di %@</target>
         <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
@@ -1278,7 +1278,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Subscribers can change the app’s icon." xml:space="preserve">
-        <source>Subscribers can change the app’s icon.</source>
+        <source>Subscribers can change the app’s icon.</source><target>Gli Abbonati possono cambiare l’icona dell’app</target>
         <note>Subtitle for the App Icon row in Settings</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
@@ -1302,7 +1302,7 @@
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
-        <source>Technical Details</source>
+        <source>Technical Details</source><target>Dettagli Tecnici</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Terms of Service" xml:space="preserve">
@@ -1361,7 +1361,7 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Trivia" xml:space="preserve">
-        <source>Trivia</source>
+        <source>Trivia</source><target>Trivia</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
@@ -1380,7 +1380,7 @@
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Upcoming" xml:space="preserve">
-        <source>Upcoming</source>
+        <source>Upcoming</source><target>Imminenti</target>
         <note>Header for titles a person will be in, but have not been released yet</note>
       </trans-unit>
       <trans-unit id="Upgraded" xml:space="preserve">
@@ -1404,7 +1404,7 @@
         <note>Shown when choosing a country to use for Where to Watch (short version)</note>
       </trans-unit>
       <trans-unit id="Website" xml:space="preserve">
-        <source>Website</source>
+        <source>Website</source><target>Sito Internet</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="What was that thing I looked up yesterday?" xml:space="preserve">
@@ -1433,7 +1433,7 @@
         <note>Shown at the bottom of the "what movies are both of these actors in?" screen</note>
       </trans-unit>
       <trans-unit id="Wikipedia" xml:space="preserve">
-        <source>Wikipedia</source>
+        <source>Wikipedia</source><target>Wikipedia</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Will NOT renew" xml:space="preserve">
@@ -1522,11 +1522,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
-        <source>visionOS does not support changing icons yet.</source>
+        <source>visionOS does not support changing icons yet.</source><target>visionOS non supporta ancora il cambio di icone</target>
         <note>Subtitle for the App Icon row in Settings on visionOS</note>
       </trans-unit>
       <trans-unit id="years old" xml:space="preserve">
-        <source>years old</source>
+        <source>years old</source><target>anni</target>
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
