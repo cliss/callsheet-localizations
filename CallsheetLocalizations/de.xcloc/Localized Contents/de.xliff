@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
         <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
-        <target state="translated">Für individuelle Einstellungen pro TV-Sendung kannst du auf `Spoiler` `ausblenden ...` tippen, während du dir die Details einer Sendung oder Episode anschaust.</target>
+        <target state="translated">Für individuelle Einstellungen pro TV-Sendung kannst du auf `Spoiler` `ausblenden` `...` tippen, während du dir die Details einer Sendung oder Episode anschaust.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
