@@ -124,22 +124,22 @@
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.few" xml:space="preserve">
         <source>%lld free searches remaining</source>
-        <target state="translated">Залишилось %lld безкоштовних пошуки</target>
+        <target state="translated">Лишилось %lld безкоштовних пошуки</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.many" xml:space="preserve">
         <source>%lld free searches remaining</source>
-        <target state="translated">Залишилось %lld безкоштовних пошуків</target>
+        <target state="translated">Лишилось %lld безкоштовних пошуків</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.one" xml:space="preserve">
         <source>%lld free search remaining</source>
-        <target state="translated">Залишився %lld безкоштовний пошук</target>
+        <target state="translated">Лишився %lld безкоштовний пошук</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.other" xml:space="preserve">
         <source>%lld free searches remaining</source>
-        <target state="translated">Залишилось %lld безкоштовних пошуків</target>
+        <target state="translated">Лишилось %lld безкоштовних пошуків</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.few" xml:space="preserve">
@@ -575,7 +575,7 @@
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
         <source>Free searches remaining</source>
-        <target state="translated">Залишилось безкоштовних пошуків</target>
+        <target state="translated">Лишилось безкоштовних пошуків</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
