@@ -6,11 +6,11 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Callsheet</source>
+        <source>Callsheet</source><target>コールシート</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>Callsheet</source>
+        <source>Callsheet</source><target>コールシート</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
@@ -101,15 +101,15 @@
         <note/>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
-        <source>About Callsheet</source>
+        <source>About Callsheet</source><target>コールシートについて</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
-        <source>Add Pin</source>
+        <source>Add Pin</source><target>ピンを追加</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
-        <source>Add pin</source>
+        <source>Add pin</source><target>ピンを追加</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ages" xml:space="preserve">
@@ -117,19 +117,19 @@
         <note>Heading in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
-        <source>All</source>
+        <source>All</source><target>すべて</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Messages" xml:space="preserve">
-        <source>All Messages</source>
+        <source>All Messages</source><target>すべてのメッセージ</target>
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
-        <source>App Icon</source>
+        <source>App Icon</source><target>アプリアイコン</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
-        <source>Are you sure?</source>
+        <source>Are you sure?</source><target>本気ですか？</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="As rated by users of" xml:space="preserve">
@@ -169,11 +169,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
-        <source>Callsheet</source>
+        <source>Callsheet</source><target>コールシート</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Callsheet Premium" xml:space="preserve">
-        <source>Callsheet Premium</source>
+        <source>Callsheet Premium</source><target>コールシートプレミアム</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet couldn't parse the information from The Movie Database." xml:space="preserve">
@@ -189,7 +189,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
-        <source>Cancel</source>
+        <source>Cancel</source><target>取り消す</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel Subscription" xml:space="preserve">
@@ -197,7 +197,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Cast" xml:space="preserve">
-        <source>Cast</source>
+        <source>Cast</source><target>顔触れ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cast or Crew" xml:space="preserve">
@@ -233,7 +233,7 @@
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
-        <source>Close</source>
+        <source>Close</source><target>閉じる</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect to devices on your local network to show what's playing." xml:space="preserve">
@@ -301,7 +301,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
-        <source>Done</source>
+        <source>Done</source><target>閉じる</target>
         <note/>
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide Spoilers…` button when looking at a show or episode." xml:space="preserve">
@@ -370,7 +370,7 @@
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
-        <source>Free Trial</source>
+        <source>Free Trial</source><target>無料体験</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
@@ -378,11 +378,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
-        <source>Genre</source>
+        <source>Genre</source><target>ジャンル</target>
         <note/>
       </trans-unit>
       <trans-unit id="Genres" xml:space="preserve">
-        <source>Genres</source>
+        <source>Genres</source><target>ジャンル</target>
         <note/>
       </trans-unit>
       <trans-unit id="Guests" xml:space="preserve">
