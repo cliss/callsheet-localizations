@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="%@ by %@" xml:space="preserve">
         <source>%1$@ by %2$@</source>
-        <target>%1$@ by %2$@</target>
+        <target>%1$@ door %2$@</target>
         <target state="translated">%1$@ by %2$@</target>
         <note/>
       </trans-unit>
