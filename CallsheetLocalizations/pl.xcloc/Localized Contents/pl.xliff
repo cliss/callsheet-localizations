@@ -421,15 +421,15 @@
         <note>When a show or movie ends if you start it right now</note>
       </trans-unit>
       <trans-unit id="Episode" xml:space="preserve">
-        <source>Episode</source>
+        <source>Episode</source><target>Odcinek</target>
         <note/>
       </trans-unit>
       <trans-unit id="Episode Poster" xml:space="preserve">
-        <source>Episode Poster</source>
+        <source>Episode Poster</source><target>Plakat odcinka</target>
         <note/>
       </trans-unit>
       <trans-unit id="Episode Scores" xml:space="preserve">
-        <source>Episode Scores</source>
+        <source>Episode Scores</source><target>Oceny odcinka</target>
         <note/>
       </trans-unit>
       <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
@@ -453,7 +453,7 @@
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
       <trans-unit id="Feedback emails are lovely to read!" xml:space="preserve">
-        <source>Feedback emails are lovely to read!</source>
+        <source>Feedback emails are lovely to read!</source><target>E-maile z sugestiami są zawsze mile widziane!</target>
         <note>Shown in Settings to try to get users to rate the app</note>
       </trans-unit>
       <trans-unit id="Find a way to watch in:" xml:space="preserve">
@@ -478,19 +478,19 @@
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
-        <source>Free Trial</source>
+        <source>Free Trial</source><target>Darmowa wersja próbna</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
-        <source>Free searches remaining</source>
+        <source>Free searches remaining</source><target>Pozostałych darmowych wyszukiwań</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
-        <source>Free stuff doesn't last forever.</source>
+        <source>Free stuff doesn't last forever.</source><target>Darmowe rzeczy nie trwają wiecznie.</target>
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
-        <source>Free, but you can only ask once. 😏</source>
+        <source>Free, but you can only ask once. 😏</source><target>Za darmo, ale możesz poprosić tylko raz. 😏</target>
         <note>Subtitle for the "A few more searches please" option on the "Additional options" purchasing screen</note>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
@@ -634,7 +634,7 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
-        <source>Manage Subscription</source>
+        <source>Manage Subscription</source><target>Zarządzaj subskrypcją</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
@@ -642,19 +642,19 @@
         <note/>
       </trans-unit>
       <trans-unit id="More Info…" xml:space="preserve">
-        <source>More Info…</source>
+        <source>More Info…</source><target>Więcej informacji…</target>
         <note/>
       </trans-unit>
       <trans-unit id="More Purchase Options…" xml:space="preserve">
-        <source>More Purchase Options…</source>
+        <source>More Purchase Options…</source><target>Więcej opcji zakupu…</target>
         <note/>
       </trans-unit>
       <trans-unit id="More…" xml:space="preserve">
-        <source>More…</source>
+        <source>More…</source><target>Więcej…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movie Poster" xml:space="preserve">
-        <source>Movie Poster</source>
+        <source>Movie Poster</source><target>Plakat</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movie Poster Placeholder" xml:space="preserve">
@@ -662,11 +662,11 @@
         <note>Accessibility label when a movie's poster is not available</note>
       </trans-unit>
       <trans-unit id="Movies" xml:space="preserve">
-        <source>Movies</source>
+        <source>Movies</source><target>Filmy</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies &amp; Shows" xml:space="preserve">
-        <source>Movies &amp; Shows</source>
+        <source>Movies &amp; Shows</source><target>Filmy i seriale</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
@@ -762,11 +762,11 @@
         <note>A header on the home screen &amp; a row in Settings; shows what is currently playing in Plex and/or Channels.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
-        <source>OK</source>
+        <source>OK</source><target>OK</target>
         <note/>
       </trans-unit>
       <trans-unit id="Oldest First" xml:space="preserve">
-        <source>Oldest First</source>
+        <source>Oldest First</source><target>Najpierw starsze</target>
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
@@ -790,7 +790,7 @@
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
-        <source>Other Great Apps</source>
+        <source>Other Great Apps</source><target>Inne świetne aplikacje</target>
         <note>Shown above Maskeraid &amp; Peek‑a‑View</note>
       </trans-unit>
       <trans-unit id="Other person" xml:space="preserve">
