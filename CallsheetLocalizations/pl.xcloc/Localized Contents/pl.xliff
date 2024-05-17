@@ -85,55 +85,55 @@
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.few" xml:space="preserve">
-        <source>%lld episodes</source>
+        <source>%lld episodes</source><target>%lld odcinki</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.many" xml:space="preserve">
-        <source>%lld episodes</source>
+        <source>%lld episodes</source><target>%lld odcinków</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.one" xml:space="preserve">
-        <source>%lld episode</source>
+        <source>%lld episode</source><target>%lld odcinek</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.other" xml:space="preserve">
-        <source>%lld episodes</source>
+        <source>%lld episodes</source><target>%lld odcinka</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.few" xml:space="preserve">
-        <source>%lld free searches remaining</source>
+        <source>%lld free searches remaining</source><target>Pozostały %lld darmowe wyszukiwania</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.many" xml:space="preserve">
-        <source>%lld free searches remaining</source>
+        <source>%lld free searches remaining</source><target>Pozostało %lld darmowych wyszukiwań</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.one" xml:space="preserve">
-        <source>%lld free search remaining</source>
+        <source>%lld free search remaining</source><target>Pozostało %lld darmowe wyszukiwanie</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.other" xml:space="preserve">
-        <source>%lld free searches remaining</source>
+        <source>%lld free searches remaining</source><target>Pozostało %lld darmowego wyszukiwania</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.few" xml:space="preserve">
-        <source>%lld minutes</source>
+        <source>%lld minutes</source><target>%lld minuty</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.many" xml:space="preserve">
-        <source>%lld minutes</source>
+        <source>%lld minutes</source><target>%lld minut</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.one" xml:space="preserve">
-        <source>%lld minute</source>
+        <source>%lld minute</source><target>%lld minuta</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.other" xml:space="preserve">
-        <source>%lld minutes</source>
+        <source>%lld minutes</source><target>%lld minuty</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld of %lld" xml:space="preserve">
-        <source>%1$lld of %2$lld</source>
+        <source>%1$lld of %2$lld</source><target>%1$lld z %2$lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.few" xml:space="preserve">
