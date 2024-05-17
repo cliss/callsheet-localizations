@@ -8,7 +8,7 @@ There are two sections:
 
 ## Current Status
 
-As of [74184cb](https://github.com/cliss/callsheet-localizations/commit/74184cb875709fe9a2ae4badb30985e18c7b2089):
+As of [0737f43](https://github.com/cliss/callsheet-localizations/commit/0737f43a2f545baf36c7baa6100c4bc6f2a28d8a):
 
 | Language  | % Complete  | Authors                           |
 | :-------- | :---------- | :-------------------------------- |
@@ -16,9 +16,9 @@ As of [74184cb](https://github.com/cliss/callsheet-localizations/commit/74184cb8
 | Ukrainian       | 100% :tada: | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
 | German          | 100% :tada: | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
 | Italian         | 98%         | [cdf1982](https://github.com/cdf1982) |
+| Dutch           | 98%         | [Deddiekoel](https://github.com/deddiekoel) |
 | Spanish         | 83%         | _Apple's translation services_ 😬 |
 | Portuguese (🇧🇷) | 77%         | [insidegui](https://github.com/insidegui) |
-| Dutch           | 68%         | [Deddiekoel](https://github.com/deddiekoel) |
 
 
 

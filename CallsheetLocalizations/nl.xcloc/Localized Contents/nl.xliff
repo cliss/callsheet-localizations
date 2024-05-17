@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Flookup/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="nl">
+  <file original="Flookup/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Callsheet</source><target>Callsheet</target>
+        <target>Callsheet</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Callsheet</source><target>Callsheet</target>
+        <target>Callsheet</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
@@ -19,10 +21,12 @@
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
         <source>Search</source><target>Zoek</target>
+        <target>Zoek</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source><target>Titel, cast, of crew</target>
+        <target>Titel, cast, of crew</target>
         <note/>
       </trans-unit>
     </body>
@@ -38,34 +42,42 @@
       </trans-unit>
       <trans-unit id="#%lld" xml:space="preserve">
         <source>#%lld</source><target>#%lld</target>
+        <target state="translated">#%lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="#%llu" xml:space="preserve">
         <source>#%llu</source><target>#%llu</target>
+        <target state="translated">#%llu</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source><target>%@</target>
+        <target state="translated">%@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ (%@)" xml:space="preserve">
         <source>%1$@ (%2$@)</source><target>%1$@ (%2$@)</target>
+        <target state="translated">%1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ - %@" xml:space="preserve">
         <source>%1$@ - %2$@</source><target>%1$@ - %2$@</target>
+        <target state="translated">%1$@ - %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ / %@" xml:space="preserve">
         <source>%1$@ / %2$@</source><target>%1$@ / %2$@</target>
+        <target state="translated">%1$@ / %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ by %@" xml:space="preserve">
         <source>%1$@ by %2$@</source><target>%1$@ by %2$@</target>
+        <target state="translated">%1$@ by %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld" xml:space="preserve">
         <source>%lld</source><target>%lld</target>
+        <target state="translated">%lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.one" xml:space="preserve">
@@ -120,7 +132,7 @@
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="needs-review-l10n">%lld jaar oud</target>
+        <target state="translated">%lld jaar oud</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
@@ -130,7 +142,7 @@
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.one" xml:space="preserve">
         <source>%lld year old</source>
-        <target state="needs-review-l10n">%lld jaar oud</target>
+        <target state="translated">%lld jaar oud</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
@@ -140,10 +152,12 @@
       </trans-unit>
       <trans-unit id="%lld — " xml:space="preserve">
         <source>%lld — </source><target>%lld — </target>
+        <target state="translated">%lld — </target>
         <note/>
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
         <source>A few more free ones please?</source><target>Aub een paar extra gratis?</target>
+        <target state="translated">Aub een paar extra gratis?</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
@@ -188,6 +202,7 @@
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
         <source>App Icon</source><target>Appicoon</target>
+        <target state="translated">Appicoon</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
@@ -242,6 +257,7 @@
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
         <source>Callsheet</source><target>Callsheet</target>
+        <target state="translated">Callsheet</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Callsheet Premium" xml:space="preserve">
@@ -593,6 +609,7 @@
       </trans-unit>
       <trans-unit id="I'm in a popover" xml:space="preserve">
         <source>I'm in a popover</source><target>I'm in a popover</target>
+        <target state="translated">I'm in a popover</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
@@ -877,10 +894,12 @@
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
         <source>Or, you can have %lld more free search. Just this once.</source><target>Of, je kan nog %lld gratis zoekopdracht krijgen. Voor deze ene keer.</target>
+        <target state="translated">Of, je kan nog %lld gratis zoekopdracht krijgen. Voor deze ene keer.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
         <source>Or, you can have %lld more free searches. Just this once.</source><target>Of, je kan nog %lld gratis zoekopdrachten krijgen. Voor deze ene keer.</target>
+        <target state="translated">Of, je kan nog %lld gratis zoekopdrachten krijgen. Voor deze ene keer.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
@@ -1325,6 +1344,7 @@
       </trans-unit>
       <trans-unit id="The Movie Database" xml:space="preserve">
         <source>The Movie Database</source><target>The Movie Database</target>
+        <target state="translated">The Movie Database</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
@@ -1544,14 +1564,17 @@
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
         <source>© 2023%@ Limitliss LLC</source><target>© 2023%@ Limitliss LLC</target>
+        <target state="translated">© 2023%@ Limitliss LLC</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
         <source>🤝</source><target>🤝</target>
+        <target state="translated">🤝</target>
         <note/>
       </trans-unit>
       <trans-unit id="🤷‍♂️" xml:space="preserve">
         <source>🤷‍♂️</source><target>🤷‍♂️</target>
+        <target state="translated">🤷‍♂️</target>
         <note/>
       </trans-unit>
     </body>
