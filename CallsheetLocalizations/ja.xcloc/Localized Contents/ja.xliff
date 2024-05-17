@@ -18,7 +18,7 @@
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
-        <source>Search</source>
+        <source>Search</source><target>検索</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
@@ -642,11 +642,11 @@
         <note>In the context of different subscription/IAP plans</note>
       </trans-unit>
       <trans-unit id="Popular Movies" xml:space="preserve">
-        <source>Popular Movies</source>
+        <source>Popular Movies</source><target>人気映画</target>
         <note/>
       </trans-unit>
       <trans-unit id="Popular TV Shows" xml:space="preserve">
-        <source>Popular TV Shows</source>
+        <source>Popular TV Shows</source><target>人気テレビ番組</target>
         <note/>
       </trans-unit>
       <trans-unit id="Portrait" xml:space="preserve">
@@ -658,7 +658,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Poster" xml:space="preserve">
-        <source>Poster</source>
+        <source>Poster</source><target>ポスター</target>
         <note/>
       </trans-unit>
       <trans-unit id="Prevent giving away spoilers by choosing to redact details." xml:space="preserve">
@@ -706,7 +706,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Rating" xml:space="preserve">
-        <source>Rating</source>
+        <source>Rating</source><target>格付け</target>
         <note>A content rating like G/PG/PG-13/R</note>
       </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">
@@ -766,15 +766,15 @@
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
-        <source>Save</source>
+        <source>Save</source><target>保存</target>
         <note/>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
-        <source>Score</source>
+        <source>Score</source><target>点数</target>
         <note>A 0-100 score of the quality of a movie/show</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
-        <source>Search</source>
+        <source>Search</source><target>検索</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
