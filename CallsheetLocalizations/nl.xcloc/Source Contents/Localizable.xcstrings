@@ -212,7 +212,7 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "needs_review",
+                  "state" : "translated",
                   "value" : "Add %lld Free Search"
                 }
               },
@@ -696,7 +696,7 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "needs_review",
+                  "state" : "translated",
                   "value" : "Or, you can have %lld more free search. Just this once."
                 }
               },
