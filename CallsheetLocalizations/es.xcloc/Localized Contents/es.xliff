@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Flookup/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
+  <file original="Flookup/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="es">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
     </header>
@@ -32,7 +32,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Localizable.xcstrings" source-language="en" target-language="fr" datatype="plaintext">
+  <file original="Localizable.xcstrings" source-language="en" target-language="es" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
     </header>
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
         <source>A few more free ones please?</source>
-        <target state="translated">¿Unas pocas más?</target>
+        <target state="translated">¿Unas pocas más de regalo?</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
@@ -212,19 +212,19 @@
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="As rated by users of" xml:space="preserve">
-        <source>As rated by users of</source>
+        <source>As rated by users of</source><target>Valorado por usuario de</target>
         <note>Shown in a popover explaining TV/movie scores</note>
       </trans-unit>
       <trans-unit id="Average runtime" xml:space="preserve">
-        <source>Average runtime</source>
+        <source>Average runtime</source><target>Tiempo medio de duración</target>
         <note>How long episodes run in a single season of TV</note>
       </trans-unit>
       <trans-unit id="Be a hero and support independent apps" xml:space="preserve">
-        <source>Be a hero and support independent apps</source>
+        <source>Be a hero and support independent apps</source><target>Se un heroe y soporta apps independientes</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
-        <source>Be like the many other beautiful people who have rated this version.</source>
+        <source>Be like the many other beautiful people who have rated this version.</source><target>Se como muchas de las bellisimas personas que han valorado esta versión.</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
@@ -1305,11 +1305,11 @@
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
-        <source>🤝</source>
+        <source>🤝</source><target>🤝</target>
         <note/>
       </trans-unit>
       <trans-unit id="🤷‍♂️" xml:space="preserve">
-        <source>🤷‍♂️</source>
+        <source>🤷‍♂️</source><target>🤷‍♂️</target>
         <note/>
       </trans-unit>
     </body>
