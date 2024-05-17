@@ -249,7 +249,7 @@
         <note>When a TV season started airing</note>
       </trans-unit>
       <trans-unit id="Begins Airing" xml:space="preserve">
-        <source>Begins Airing</source><target>Rozpozcznie nadawanie</target>
+        <source>Begins Airing</source><target>Rozpocznie nadawanie</target>
         <note>When a TV season will start airing</note>
       </trans-unit>
       <trans-unit id="Biography" xml:space="preserve">
@@ -273,11 +273,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet couldn't parse the information from The Movie Database." xml:space="preserve">
-        <source>Callsheet couldn't parse the information from The Movie Database.</source><target>NIe udało się przetworzyć informacji z The Movie Database.</target>
+        <source>Callsheet couldn't parse the information from The Movie Database.</source><target>Nie udało się przetworzyć informacji z The Movie Database.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet couldn't reach The Movie Database." xml:space="preserve">
-        <source>Callsheet couldn't reach The Movie Database.</source><target>NIe udało się połączyć z The Movie Database.</target>
+        <source>Callsheet couldn't reach The Movie Database.</source><target>Nie udało się połączyć z The Movie Database.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**." xml:space="preserve">
