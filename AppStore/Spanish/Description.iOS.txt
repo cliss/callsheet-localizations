@@ -1,29 +1,28 @@
-Have you ever wondered “who is that actor?”, or perhaps “when was this movie released?”, or “what was the title of that one episode of that show I love”? Maybe you're a film aficionado, and wonder “how old was this person when this movie was released”?
+¿Alguna vez te has preguntado "¿quién es ese actor?", o tal vez "¿cuándo se estrenó esta película?", o "¿cuál fue el título de ese episodio de ese programa que amo"? Quizás eres un aficionado al cine y te preguntas "¿cuántos años tenía esta persona cuando se estrenó esta película?".
 
-Have you wanted to answer those questions *without* being prompted to log in every five seconds? Without advertisements, and without auto-playing videos? Without relying on a multinational conglomerate that is trying to sell you things?
+¿Has querido responder esas preguntas sin que te pidan iniciar sesión cada cinco segundos? ¿Sin anuncios y sin videos que se reproducen automáticamente? ¿Sin depender de un conglomerado multinacional que intenta venderte cosas?
 
-You'll love Callsheet.
+Te encantará Callsheet.
 
-Callsheet is the best way to quickly look up information about the cast and crew in TV and movies. It respects your time, doesn't try to sell you stuff you don't need, and is designed to answer your questions quickly and easily.
+Callsheet es la mejor manera de buscar rápidamente información sobre el reparto y el equipo de series y películas. Respeta tu tiempo, no intenta venderte cosas que no necesitas y está diseñado para responder tus preguntas de manera fácil y rápida.
 
-Callsheet also has some novel features that your previous favorite database app does not:
+Callsheet también tiene algunas características novedosas que tu aplicación de base de datos favorita anterior no tiene:
 
-• Prevent spoilers when watching TV shows by optionally hiding character names, episode counts, episode titles, or episode thumbnails.
-  Don't let yourself get spoiled on a character's secret identity, or that they'll leave the show quickly, by hiding those hints.
-• Quick access to trivia, Wikipedia, parental guidance, and where to watch (provided by JustWatch).
-• Pin shows, movies, or people for quick access.
-• Find things you've searched for before using recent searches and search history.
-• Easily see the age of cast members *when a film was released* right inline with the cast list
-• Easily see the age of a person for each entry in their filmography
-• Easily see the height of actors (when possible)
-• Dark mode support
-• VoiceOver support
-• Alternate app icons for subscribers
-• Automatic, no-login integration with the wonderful Channels app
-• Experimental, no-login integration with Plex
+• Evita espoilers cuando veas series ocultando opcionalmente los nombres de los personajes, el número de episodios, los títulos de los episodios o las miniaturas de los mismos. No arruines la sorpresa de la identidad secreta de un personaje o de que dejará la serie, ocultando esas pistas.
+• Acceso rápido a Curiosidades, Wikipedia, Guía para Padres y Donde Ver (proporcionado por JustWatch).
+• Fija programas, películas o personas para acceder rápidamente.
+• Encuentra cosas que has buscado antes utilizando Búsquedas Recientes o Historial de Búsqueda.
+• Ve fácilmente la edad de los miembros del reparto cuando *se estrenó una película* directamente en el reparto.
+• Ve fácilmente la edad de una persona para cada entrada en su filmografía.
+• Ve fácilmente la altura de los actores (cuando sea posible).
+• Soporte para Modo Oscuro.
+• Soporte para VoiceOver.
+• Íconos de aplicación alternativos para suscriptores.
+• Integración automática y sin inicio de sesión con la maravillosa aplicación Channels.
+• Integración experimental y sin inicio de sesión con Plex.
 
-Callsheet is written by one person, who REALLY cares about respecting your time. Callsheet is designed to let you drop in, find what you need with no fuss, and then get back to the movie or show you really care about. No distractions, and no requests to log in.
+Callsheet está escrito por una sola persona que REALMENTE se preocupa por respetar tu tiempo. Callsheet está diseñado para que puedas entrar, encontrar lo que necesitas sin complicaciones y luego volver a la película o programa que realmente te importa. Sin distracciones y sin solicitudes para iniciar sesión.
 
-Callsheet offers 20 searches for free, and then requires a subscription. Subscriptions all come with a 1-week free trial. They support Family Sharing.
+Callsheet ofrece 20 búsquedas gratis y luego requiere una suscripción. Todas las suscripciones incluyen una prueba gratuita de una semana. Admiten En Familia.
 
-Give Callsheet a try. You won't believe how much better it is than the app you were using before.
+Prueba Callsheet. No creerás lo mejor que es, en comparación con la aplicación que estabas usando antes.

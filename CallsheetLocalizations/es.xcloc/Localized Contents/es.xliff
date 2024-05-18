@@ -328,7 +328,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Connect to devices on your local network to show what's playing." xml:space="preserve">
-        <source>Connect to devices on your local network to show what's playing.</source><target>Conectar a dispositivos en tu red para ver que se está reproduciendo</target>
+        <source>Connect to devices on your local network to show what's playing.</source><target>Conectar a otros dispositivos en tu red para ver que se está reproduciendo.</target>
         <note>Subtitle in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Copy" xml:space="preserve">
