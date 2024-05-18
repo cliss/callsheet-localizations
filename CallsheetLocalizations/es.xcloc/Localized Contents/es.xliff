@@ -554,51 +554,51 @@
         <note>Name of the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
-        <source>Yearly Max-Supporter</source>
+        <source>Yearly Max-Supporter</source><target>Subscripción anual Max</target>
         <note>Name of the annual subscription that is a bit more money than the normal one</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Description" xml:space="preserve">
-        <source>Show your extreme support!</source>
+        <source>Show your extreme support!</source><target>Muestra tu soporte extremo</target>
         <note>Description for the maximum-cost annual subscription</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Display Name" xml:space="preserve">
-        <source>Yearly Ultra-Supporter</source>
+        <source>Yearly Ultra-Supporter</source><target>Subscripción anual Ultra</target>
         <note>Name of the maximum-cost annual subscription </note>
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
-        <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source>
+        <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source><target>Si reproduces algo usando [Channels](https://getchannels.com/) o [Plex](https://plex.tv/) en otro dispositivo. Callsheet puede mostrar esa serue o película al principio de la pantalla Descubrir.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
-        <source>Image</source>
+        <source>Image</source><target>Imagen</target>
         <note/>
       </trans-unit>
       <trans-unit id="In Grace Period" xml:space="preserve">
-        <source>In Grace Period</source>
+        <source>In Grace Period</source><target>En periodo de gracia</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="In Retry Period" xml:space="preserve">
-        <source>In Retry Period</source>
+        <source>In Retry Period</source><target>En periodo de reintentar</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="In-App Browser" xml:space="preserve">
-        <source>In-App Browser</source>
+        <source>In-App Browser</source><target>Navegador dentro del App</target>
         <note>Which browser to use for web links (the other option is "Safari")</note>
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
-        <source>In-Credits Bonus Scenes</source>
+        <source>In-Credits Bonus Scenes</source><target>Escenas adicionales en créditos</target>
         <note/>
       </trans-unit>
       <trans-unit id="Integrations" xml:space="preserve">
-        <source>Integrations</source>
+        <source>Integrations</source><target>Integraciones</target>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="JustWatch" xml:space="preserve">
-        <source>JustWatch</source>
+        <source>JustWatch</source><target>JustWatch</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Known For" xml:space="preserve">
-        <source>Known For</source>
+        <source>Known For</source><target>Conocido por</target>
         <note/>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
@@ -606,183 +606,183 @@
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
-        <source>Learn about the people behind Callsheet.</source>
+        <source>Learn about the people behind Callsheet.</source><target>Conoce a la gente detras de Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
-        <source>Lived</source>
+        <source>Lived</source><target>Vivio</target>
         <note>How long an actor lived</note>
       </trans-unit>
       <trans-unit id="Loading…" xml:space="preserve">
-        <source>Loading…</source>
+        <source>Loading…</source><target>Cargando</target>
         <note/>
       </trans-unit>
       <trans-unit id="Macro State at %@" xml:space="preserve">
-        <source>Macro State at %@</source>
+        <source>Macro State at %@</source><target>Estado de Macro a %@</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
-        <source>Manage Subscription</source>
+        <source>Manage Subscription</source><target>Gestionar subscripción</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
-        <source>Mid-credits</source>
+        <source>Mid-credits</source><target>En medio de los créditos</target>
         <note/>
       </trans-unit>
       <trans-unit id="More Info…" xml:space="preserve">
-        <source>More Info…</source>
+        <source>More Info…</source><target>Más información...</target>
         <note/>
       </trans-unit>
       <trans-unit id="More Purchase Options…" xml:space="preserve">
-        <source>More Purchase Options…</source>
+        <source>More Purchase Options…</source><target>Más opciones de compra</target>
         <note/>
       </trans-unit>
       <trans-unit id="More…" xml:space="preserve">
-        <source>More…</source>
+        <source>More…</source><target>Más</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movie Poster" xml:space="preserve">
-        <source>Movie Poster</source>
+        <source>Movie Poster</source><target>Poster de la Película</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movie Poster Placeholder" xml:space="preserve">
-        <source>Movie Poster Placeholder</source>
+        <source>Movie Poster Placeholder</source><target>Poster de la Película</target>
         <note>Accessibility label when a movie's poster is not available</note>
       </trans-unit>
       <trans-unit id="Movies" xml:space="preserve">
-        <source>Movies</source>
+        <source>Movies</source><target>Películas</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies &amp; Shows" xml:space="preserve">
-        <source>Movies &amp; Shows</source>
+        <source>Movies &amp; Shows</source><target>Películas y series</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
-        <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source>
+        <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source><target>Las películas y las series mostraran un enlace rápido. Las demas estaran disponibles en el menú Más</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movies featuring" xml:space="preserve">
-        <source>Movies featuring</source>
+        <source>Movies featuring</source><target>Películas con</target>
         <note>Title for cast union view</note>
       </trans-unit>
       <trans-unit id="Name or job" xml:space="preserve">
-        <source>Name or job</source>
+        <source>Name or job</source><target>Nombre o trabajo</target>
         <note>Crew search prompt</note>
       </trans-unit>
       <trans-unit id="Name or role" xml:space="preserve">
-        <source>Name or role</source>
+        <source>Name or role</source><target>Nombre o rol</target>
         <note>Cast search prompt</note>
       </trans-unit>
       <trans-unit id="New Episodes" xml:space="preserve">
-        <source>New Episodes</source>
+        <source>New Episodes</source><target>Episodios nuevos</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Movies" xml:space="preserve">
-        <source>New Movies</source>
+        <source>New Movies</source><target>Películas nuevas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Newest First" xml:space="preserve">
-        <source>Newest First</source>
+        <source>Newest First</source><target>Más recientes</target>
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Next Episode" xml:space="preserve">
-        <source>Next Episode</source>
+        <source>Next Episode</source><target>Siguiente episodio</target>
         <note/>
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
-        <source>No TV show pins found.</source>
+        <source>No TV show pins found.</source><target>No se encuentra pin de serie</target>
         <note/>
       </trans-unit>
       <trans-unit id="No credits found." xml:space="preserve">
-        <source>No credits found.</source>
+        <source>No credits found.</source><target>No se encuentran créditos</target>
         <note>Shown when a person has no cast nor crew credits</note>
       </trans-unit>
       <trans-unit id="No media found." xml:space="preserve">
-        <source>No media found.</source>
+        <source>No media found.</source><target>No se encuentra información</target>
         <note>Shown when there's no data for new movies / new shows / etc</note>
       </trans-unit>
       <trans-unit id="No movie pins found." xml:space="preserve">
-        <source>No movie pins found.</source>
+        <source>No movie pins found.</source><target>No se encuentran pins de películas</target>
         <note/>
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
-        <source>No override</source>
+        <source>No override</source><target>No sustituir</target>
         <note>Default option for language/region override</note>
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
-        <source>No people found.</source>
+        <source>No people found.</source><target>No se encuentra reparto/equipo</target>
         <note>Shown when a movie/show has no cast/crew</note>
       </trans-unit>
       <trans-unit id="No people matching *%@* found." xml:space="preserve">
-        <source>No people matching *%@* found.</source>
+        <source>No people matching *%@* found.</source><target>No se encuentra nadie con *%@*.</target>
         <note>Shown when searching a list of credits, but no matches were found</note>
       </trans-unit>
       <trans-unit id="No people pins found." xml:space="preserve">
-        <source>No people pins found.</source>
+        <source>No people pins found.</source><target>No se encuentran pins de personas</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pinned items found." xml:space="preserve">
-        <source>No pinned items found.</source>
+        <source>No pinned items found.</source><target>No se encuentran pins</target>
         <note>Shown on the home screen</note>
       </trans-unit>
       <trans-unit id="No providers found." xml:space="preserve">
-        <source>No providers found.</source>
+        <source>No providers found.</source><target>No se encuentran proveedores</target>
         <note>Shown when there's no data for Where to Watch</note>
       </trans-unit>
       <trans-unit id="No results found for &quot;%@&quot;" xml:space="preserve">
-        <source>No results found for "%@"</source>
+        <source>No results found for "%@"</source><target>No hay resultados para "%@"</target>
         <note>Generic "couldn't find anything for this query" message</note>
       </trans-unit>
       <trans-unit id="No search history found." xml:space="preserve">
-        <source>No search history found.</source>
+        <source>No search history found.</source><target>No se encuentra historial de búsquedas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Not a subscription" xml:space="preserve">
-        <source>Not a subscription</source>
+        <source>Not a subscription</source><target>No es una suscripción</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Not purchased" xml:space="preserve">
-        <source>Not purchased</source>
+        <source>Not purchased</source><target>No se ha comprado</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Now Playing" xml:space="preserve">
-        <source>Now Playing</source>
+        <source>Now Playing</source><target>Reproduciendo ahora</target>
         <note>A header on the home screen &amp; a row in Settings; shows what is currently playing in Plex and/or Channels.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
-        <source>OK</source>
+        <source>OK</source><target>Ok</target>
         <note/>
       </trans-unit>
       <trans-unit id="Oldest First" xml:space="preserve">
-        <source>Oldest First</source>
+        <source>Oldest First</source><target>Más antiguos</target>
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
-        <source>Optionally, you can choose to help more.</source>
+        <source>Optionally, you can choose to help more.</source><target>Opcionalmente, puedes colaborar más</target>
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
-        <source>Or, you can have %lld more free search. Just this once.</source>
+        <source>Or, you can have %lld more free search. Just this once.</source><target>O, puedes tener %lld búsqueda gratuita. Sólo esta vez.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
-        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <source>Or, you can have %lld more free searches. Just this once.</source><target>O, puedes tener %lld búsquedas gratuitas. Sólo esta vez.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
-        <source>Other Great Apps</source>
+        <source>Other Great Apps</source><target>Otras Apps geniales</target>
         <note>Shown above Maskeraid &amp; Peek‑a‑View</note>
       </trans-unit>
       <trans-unit id="Other person" xml:space="preserve">
-        <source>Other person</source>
+        <source>Other person</source><target>Otras personas</target>
         <note>Shown when doing cast union search for movies</note>
       </trans-unit>
       <trans-unit id="Other settings for more _particular_ users." xml:space="preserve">
-        <source>Other settings for more _particular_ users.</source>
+        <source>Other settings for more _particular_ users.</source><target>Otros ajustes para usuarios más _particulaesr_.</target>
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
-        <source>Parental Guidance</source>
+        <source>Parental Guidance</source><target>Guía Parental</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
