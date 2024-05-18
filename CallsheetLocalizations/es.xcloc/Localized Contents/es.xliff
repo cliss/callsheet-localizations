@@ -602,7 +602,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
-        <source>Language Override</source>
+        <source>Language Override</source><target>Invalidar Idioma</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
@@ -1042,7 +1042,7 @@
         <note>Shown in an accessibility label</note>
       </trans-unit>
       <trans-unit id="Show Spoilers" xml:space="preserve">
-        <source>Show Spoilers</source>
+        <source>Show Spoilers</source><target>Mostrar espoilers</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show age information within credits lists. Ages are always shown for birth/death dates." xml:space="preserve">
@@ -1054,155 +1054,155 @@
         <note>Persnickety Preferences subtitle</note>
       </trans-unit>
       <trans-unit id="Show that you _really_ care" xml:space="preserve">
-        <source>Show that you _really_ care</source>
+        <source>Show that you _really_ care</source><target>Series que _realmente_ te importan</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
-        <source>Show titles a person may be known from.</source>
+        <source>Show titles a person may be known from.</source><target>Mostrar peliculas o series por las que una persona pueda ser conocido</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, there was a problem." xml:space="preserve">
-        <source>Sorry, there was a problem.</source>
+        <source>Sorry, there was a problem.</source><target>Perdón, hubo un problema.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, there was an error making your purchase. Please try it again later." xml:space="preserve">
-        <source>Sorry, there was an error making your purchase. Please try it again later.</source>
+        <source>Sorry, there was an error making your purchase. Please try it again later.</source><target>Perdón, ha habido un error al hacer tu compra. Por favor, intentalo más tarde</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
-        <source>Sort Order</source>
+        <source>Sort Order</source><target>Orden</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoiler Settings" xml:space="preserve">
-        <source>Spoiler Settings</source>
+        <source>Spoiler Settings</source><target>Ajustes de espoilers</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoilers" xml:space="preserve">
-        <source>Spoilers</source>
+        <source>Spoilers</source><target>Espoilers</target>
         <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Start %@ Free Trial" xml:space="preserve">
-        <source>Start %@ Free Trial</source>
+        <source>Start %@ Free Trial</source><target>Empieza %@ la prueba gratuita</target>
         <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
-        <source>Subscribe</source>
+        <source>Subscribe</source><target>Suscribete</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscribed" xml:space="preserve">
-        <source>Subscribed</source>
+        <source>Subscribed</source><target>Suscrito</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscribers can change the app’s icon." xml:space="preserve">
-        <source>Subscribers can change the app’s icon.</source>
+        <source>Subscribers can change the app’s icon.</source><target>Los suscriptores pueden cambiar el icono del App</target>
         <note>Subtitle for the App Icon row in Settings</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
-        <source>Subscription Status</source>
+        <source>Subscription Status</source><target>Estado de suscripción</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscriptions Debugging" xml:space="preserve">
-        <source>Subscriptions Debugging</source>
+        <source>Subscriptions Debugging</source><target>Depurar suscripción</target>
         <note>Title of a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Summary" xml:space="preserve">
-        <source>Summary</source>
+        <source>Summary</source><target>Resumen</target>
         <note/>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
-        <source>TV Shows</source>
+        <source>TV Shows</source><target>Series</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
-        <source>Technical Details</source>
+        <source>Technical Details</source><target>Detalles técnicos</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Terms of Service" xml:space="preserve">
-        <source>Terms of Service</source>
+        <source>Terms of Service</source><target>Términos de Servicio</target>
         <note/>
       </trans-unit>
       <trans-unit id="Thank you for trying out Callsheet. 💙" xml:space="preserve">
-        <source>Thank you for trying out Callsheet. 💙</source>
+        <source>Thank you for trying out Callsheet. 💙</source><target>Gracias por probar Callsheet. 💙</target>
         <note/>
       </trans-unit>
       <trans-unit id="The Movie Database" xml:space="preserve">
-        <source>The Movie Database</source>
+        <source>The Movie Database</source><target>The Movie Database</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
-        <source>There is no watch information available for *%@*.</source>
+        <source>There is no watch information available for *%@*.</source><target>No hay información de visionado para *%@*.</target>
         <note/>
       </trans-unit>
       <trans-unit id="These are the default settings." xml:space="preserve">
-        <source>These are the default settings.</source>
+        <source>These are the default settings.</source><target>Estos son los ajustes por defecto</target>
         <note/>
       </trans-unit>
       <trans-unit id="These settings will only affect *%@*." xml:space="preserve">
-        <source>These settings will only affect *%@*.</source>
+        <source>These settings will only affect *%@*.</source><target>Estos ajustes solo afectaran a *%@*.</target>
         <note>Shown in spoiler settings for a particular show</note>
       </trans-unit>
       <trans-unit id="Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:" xml:space="preserve">
-        <source>Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:</source>
+        <source>Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:</source><target>Aunque lo desarrollé yo, Callsheet no sería posibles sin los esfuerzos de las siguientes personas:</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
-        <source>Title, cast, or crew</source>
+        <source>Title, cast, or crew</source><target>Titulo, reparto o equipo</target>
         <note>Main search prompt on the bottom bar!</note>
       </trans-unit>
       <trans-unit id="Total runtime %@" xml:space="preserve">
-        <source>Total runtime %@</source>
+        <source>Total runtime %@</source><target>Duración total</target>
         <note>Shown in a popover when looking at a TV season</note>
       </trans-unit>
       <trans-unit id="Transaction" xml:space="preserve">
-        <source>Transaction</source>
+        <source>Transaction</source><target>Transacción</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Trial Period" xml:space="preserve">
-        <source>Trial Period</source>
+        <source>Trial Period</source><target>Periodo de Pureba</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Trivia" xml:space="preserve">
-        <source>Trivia</source>
+        <source>Trivia</source><target>Cosas curiosas</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
-        <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source>
+        <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source><target>Desafortunadamente, [The Movie Database](https://www.themoviedb.org/) no soporta hacer uniones de busquedas para las series. Les he pedido que lo añadan, ¿veremos lo que pasa!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
-        <source>Unknown</source>
+        <source>Unknown</source><target>Desconocido</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unlimited searches" xml:space="preserve">
-        <source>Unlimited searches</source>
+        <source>Unlimited searches</source><target>Búsquedas ilimitadas</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Upcoming" xml:space="preserve">
-        <source>Upcoming</source>
+        <source>Upcoming</source><target>Próximamente</target>
         <note>Header for titles a person will be in, but have not been released yet</note>
       </trans-unit>
       <trans-unit id="Upgraded" xml:space="preserve">
-        <source>Upgraded</source>
+        <source>Upgraded</source><target>Mejorado</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="User Interface" xml:space="preserve">
-        <source>User Interface</source>
+        <source>User Interface</source><target>Interfaz de Usuario</target>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Waiting for approval…" xml:space="preserve">
-        <source>Waiting for approval…</source>
+        <source>Waiting for approval…</source><target>Esperando para la aprobación</target>
         <note>Shown when waiting for a purchase to be approved (probably by a parent)</note>
       </trans-unit>
       <trans-unit id="Watch in:" xml:space="preserve">
-        <source>Watch in:</source>
+        <source>Watch in:</source><target>Ver en:</target>
         <note>Shown when choosing a country to use for Where to Watch (short version)</note>
       </trans-unit>
       <trans-unit id="Website" xml:space="preserve">
-        <source>Website</source>
+        <source>Website</source><target>Sitio Web</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="What was that thing I looked up yesterday?" xml:space="preserve">
-        <source>What was that thing I looked up yesterday?</source>
+        <source>What was that thing I looked up yesterday?</source><target>Que miré ayer</target>
         <note>Subtitle for "Search history"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Where to Watch" xml:space="preserve">
@@ -1210,11 +1210,11 @@
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Which browser to use to open external links." xml:space="preserve">
-        <source>Which browser to use to open external links.</source>
+        <source>Which browser to use to open external links.</source><target>Que navegador uso para abrir los enlaces externos</target>
         <note/>
       </trans-unit>
       <trans-unit id="Which quick access link is shown." xml:space="preserve">
-        <source>Which quick access link is shown.</source>
+        <source>Which quick access link is shown.</source><target>Que enlace rápido se muestra</target>
         <note>Shown as a subtitle for a row on Settings</note>
       </trans-unit>
       <trans-unit id="Why not shows?" xml:space="preserve">
@@ -1294,7 +1294,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
-        <source>visionOS does not support changing icons yet.</source>
+        <source>visionOS does not support changing icons yet.</source><target>visionOS no soporta cambiar iconos aun.</target>
         <note>Subtitle for the App Icon row in Settings on visionOS</note>
       </trans-unit>
       <trans-unit id="years old" xml:space="preserve">
