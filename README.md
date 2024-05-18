@@ -17,7 +17,7 @@ As of [0737f43](https://github.com/cliss/callsheet-localizations/commit/0737f43a
 | German          | 100% :tada: | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
 | Italian         | 98%         | [cdf1982](https://github.com/cdf1982) |
 | Dutch           | 98%         | [Deddiekoel](https://github.com/deddiekoel) |
-| Spanish         | 98%         | [unaiherran](https://github.com/unaiherran |
+| Spanish         | 100% :tada: | [unaiherran](https://github.com/unaiherran) |
 | Portuguese (🇧🇷) | 77%         | [insidegui](https://github.com/insidegui) |
 
 
