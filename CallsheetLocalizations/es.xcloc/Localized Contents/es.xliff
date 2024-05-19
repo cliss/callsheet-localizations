@@ -304,7 +304,7 @@
         <note>Subtitle for "Custom icons"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
-        <source>Choose spoiler-risky things to hide by default.</source><target>Elige la cantidad de espoilers que ocultar por defecto</target>
+        <source>Choose spoiler-risky things to hide by default.</source><target>Elige la cantidad de espóiler que ocultar por defecto</target>
         <note>Subtitle for a row in Settings</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
@@ -376,7 +376,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Default Spoiler Settings" xml:space="preserve">
-        <source>Default Spoiler Settings</source><target>Ajustes de espoilers por defecto</target>
+        <source>Default Spoiler Settings</source><target>Ajustes de espóiler por defecto</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete recent searches" xml:space="preserve">
@@ -1074,7 +1074,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Spoiler Settings" xml:space="preserve">
-        <source>Spoiler Settings</source><target>Ajustes de espoilers</target>
+        <source>Spoiler Settings</source><target>Ajustes de espóiler</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoilers" xml:space="preserve">
