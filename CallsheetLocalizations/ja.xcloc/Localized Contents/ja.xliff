@@ -177,7 +177,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
-        <source>Browser</source>
+        <source>Browser</source><target>ブラウザ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
@@ -197,7 +197,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**." xml:space="preserve">
-        <source>Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**.</source>
+        <source>Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**.</source><target>コールシートは、**[Casey Liss](https://www.caseyliss.com/)** によってバージニア州で構築されました。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -217,15 +217,15 @@
         <note/>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
-        <source>Choose New Subscription</source>
+        <source>Choose New Subscription</source><target>新しいサブスクリプションを選択</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose a link:" xml:space="preserve">
-        <source>Choose a link:</source>
+        <source>Choose a link:</source><target>リンクを選択</target>
         <note>Shown in settings for the quick access link</note>
       </trans-unit>
       <trans-unit id="Choose a quick link" xml:space="preserve">
-        <source>Choose a quick link</source>
+        <source>Choose a quick link</source><target>クイックリンクを選択</target>
         <note>Accessibility label for the quick access picker in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Choose an icon that fits your aesthetic." xml:space="preserve">
@@ -261,15 +261,15 @@
         <note>Subtitle in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Copy" xml:space="preserve">
-        <source>Copy</source>
+        <source>Copy</source><target>コピー</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy Error Information" xml:space="preserve">
-        <source>Copy Error Information</source>
+        <source>Copy Error Information</source><target>エラー情報をコピー</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy e-mail address" xml:space="preserve">
-        <source>Copy e-mail address</source>
+        <source>Copy e-mail address</source><target>メールアドレスをコピー</target>
         <note/>
       </trans-unit>
       <trans-unit id="Could not load static JSON" xml:space="preserve">
@@ -1034,7 +1034,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
-        <source>TV Shows</source>
+        <source>TV Shows</source><target>テレビ番組</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
@@ -1042,7 +1042,7 @@
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Terms of Service" xml:space="preserve">
-        <source>Terms of Service</source>
+        <source>Terms of Service</source><target>利用規約</target>
         <note/>
       </trans-unit>
       <trans-unit id="Thank you for trying out Callsheet. 💙" xml:space="preserve">
@@ -1086,7 +1086,7 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Trivia" xml:space="preserve">
-        <source>Trivia</source>
+        <source>Trivia</source><target>トリビア</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
@@ -1110,7 +1110,7 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="User Interface" xml:space="preserve">
-        <source>User Interface</source>
+        <source>User Interface</source><target>ユーザーインターフェース</target>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Waiting for approval…" xml:space="preserve">
@@ -1122,7 +1122,7 @@
         <note>Shown when choosing a country to use for Where to Watch (short version)</note>
       </trans-unit>
       <trans-unit id="Website" xml:space="preserve">
-        <source>Website</source>
+        <source>Website</source><target>ウェブサイト</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="What was that thing I looked up yesterday?" xml:space="preserve">
@@ -1146,7 +1146,7 @@
         <note>Shown at the bottom of the "what movies are both of these actors in?" screen</note>
       </trans-unit>
       <trans-unit id="Wikipedia" xml:space="preserve">
-        <source>Wikipedia</source>
+        <source>Wikipedia</source><target>ウィキペディア</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Will NOT renew" xml:space="preserve">
@@ -1222,7 +1222,7 @@
         <note>Subtitle for the App Icon row in Settings on visionOS</note>
       </trans-unit>
       <trans-unit id="years old" xml:space="preserve">
-        <source>years old</source>
+        <source>years old</source><target>歳</target>
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
@@ -1230,11 +1230,11 @@
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
-        <source>🤝</source>
+        <source>🤝</source><target>🤝</target>
         <note/>
       </trans-unit>
       <trans-unit id="🤷‍♂️" xml:space="preserve">
-        <source>🤷‍♂️</source>
+        <source>🤷‍♂️</source><target>🤷‍♂️</target>
         <note/>
       </trans-unit>
     </body>
