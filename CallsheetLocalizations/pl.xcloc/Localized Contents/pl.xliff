@@ -718,7 +718,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
-        <source>No override</source>
+        <source>No override</source><target>Bez wymuszenia</target>
         <note>Default option for language/region override</note>
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
@@ -770,23 +770,23 @@
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
-        <source>Optionally, you can choose to help more.</source>
+        <source>Optionally, you can choose to help more.</source><target>Opcjonalnie, możesz zdecydować się by pomóc bardziej.</target>
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.few" xml:space="preserve">
-        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <source>Or, you can have %lld more free searches. Just this once.</source><target>Możesz mieć %lld dodatkowe darmowe wyszukiwania. Tylko raz.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.many" xml:space="preserve">
-        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <source>Or, you can have %lld more free searches. Just this once.</source><target>Możesz mieć %lld dodatkowych darmowych wyszukiwań Tylko raz.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
-        <source>Or, you can have %lld more free search. Just this once.</source>
+        <source>Or, you can have %lld more free search. Just this once.</source><target>Możesz mieć %lld dodatkowe darmowe wyszukiwanie. Tylko raz.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
-        <source>Or, you can have %lld more free searches. Just this once.</source>
+        <source>Or, you can have %lld more free searches. Just this once.</source><target>Możesz mieć %lld dodatkowego darmowego wyszukiwania. Tylko raz.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
@@ -802,7 +802,7 @@
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
-        <source>Parental Guidance</source>
+        <source>Parental Guidance</source><target>Ograniczenia wiekowe</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
@@ -886,7 +886,7 @@
         <note>Do not localize</note>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
-        <source>Privacy Policy</source>
+        <source>Privacy Policy</source><target>Polityka prywatności</target>
         <note/>
       </trans-unit>
       <trans-unit id="Provided by" xml:space="preserve">
@@ -930,11 +930,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Refresh" xml:space="preserve">
-        <source>Refresh</source>
+        <source>Refresh</source><target>Odśwież</target>
         <note/>
       </trans-unit>
       <trans-unit id="Region Override" xml:space="preserve">
-        <source>Region Override</source>
+        <source>Region Override</source><target>Wymuszenie regionu</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Released" xml:space="preserve">
@@ -1302,7 +1302,7 @@
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
-        <source>per %@</source>
+        <source>per %@</source><target>na %@</target>
         <note>cost per period; ie "per month" or "per year"</note>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
