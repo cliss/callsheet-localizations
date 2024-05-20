@@ -14,7 +14,7 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
-        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source><target>Jeśli Callsheet może używać Twoeje sieci lokalnej, powinno móc pokazać linki to aktualnie odtwarzanych mediów na głównym ekranie. Włączenie dostępu do sieci lokalnej jest opcjonalne. Żadne dane na temat Twojej sieci nie są wysyłane z Twojego urządzenia.</target>
+        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source><target>Jeśli Callsheet może używać Twoje sieci lokalnej, powinno móc pokazać linki to aktualnie odtwarzanych mediów na głównym ekranie. Włączenie dostępu do sieci lokalnej jest opcjonalne. Żadne dane na temat Twojej sieci nie są wysyłane z Twojego urządzenia.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -962,7 +962,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Restore Purchase" xml:space="preserve">
-        <source>Restore Purchase</source><target>Przywróc zakup</target>
+        <source>Restore Purchase</source><target>Przywróć zakup</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reverse sort order" xml:space="preserve">
@@ -990,7 +990,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Save %@" xml:space="preserve">
-        <source>Save %@</source><target>Zapisz  %@</target>
+        <source>Save %@</source><target>Oszczędź  %@</target>
         <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
