@@ -99,7 +99,7 @@
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.few" xml:space="preserve">
         <source>%lld episodes</source>
-        <target state="translated">%lld эпизодов</target>
+        <target state="translated">%lld эпизода</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.many" xml:space="preserve">
@@ -299,12 +299,12 @@
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
         <source>Began Airing</source>
-        <target state="translated">Начало выходить в эфир</target>
+        <target state="translated">Вышло в эфир</target>
         <note>When a TV season started airing</note>
       </trans-unit>
       <trans-unit id="Begins Airing" xml:space="preserve">
         <source>Begins Airing</source>
-        <target state="translated">Начинает выходить в эфир</target>
+        <target state="translated">Выйдет в эфир</target>
         <note>When a TV season will start airing</note>
       </trans-unit>
       <trans-unit id="Biography" xml:space="preserve">
@@ -359,12 +359,12 @@
       </trans-unit>
       <trans-unit id="Cast" xml:space="preserve">
         <source>Cast</source>
-        <target state="translated">Актёрский состав</target>
+        <target state="translated">Актёры</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cast or Crew" xml:space="preserve">
         <source>Cast or Crew</source>
-        <target state="translated">Актёрский состав или съёмочная группа</target>
+        <target state="translated">Актёры или создатели</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
@@ -429,7 +429,7 @@
       </trans-unit>
       <trans-unit id="Copy Error Information" xml:space="preserve">
         <source>Copy Error Information</source>
-        <target state="translated">Скопировать информацию ошибки</target>
+        <target state="translated">Скопировать ошибку</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy e-mail address" xml:space="preserve">
@@ -459,7 +459,7 @@
       </trans-unit>
       <trans-unit id="Crew" xml:space="preserve">
         <source>Crew</source>
-        <target state="translated">Съёмочная группа</target>
+        <target state="translated">Создатели</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
@@ -509,7 +509,7 @@
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
         <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
-        <target state="translated">У каждого шоу могут быть свои настройки, которые устанавливаются нажатием кнопки `Скрыть` `Спойлеры...` при просмотре сериала или эпизода.</target>
+        <target state="translated">У каждого шоу могут быть свои настройки, которые устанавливаются нажатием кнопки `Скрыть спойлеры...` при просмотре сериала или эпизода.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
@@ -635,12 +635,12 @@
       </trans-unit>
       <trans-unit id="Hide Spoilers" xml:space="preserve">
         <source>Hide Spoilers</source>
-        <target state="translated">Скрывать спойлеры</target>
+        <target state="translated">Скрыть спойлеры</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide Spoilers…" xml:space="preserve">
         <source>Hide Spoilers…</source>
-        <target state="translated">Скрывать спойлеры...</target>
+        <target state="translated">Скрыть спойлеры...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide cast character names" xml:space="preserve">
@@ -715,7 +715,7 @@
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
         <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source>
-        <target state="translated">Если вы воспроизводите что-либо через [Channels](https://getchannels.com/) или [Plex](https://plex.tv/) на другом устройстве, Callsheet может отобразить эту передачу или фильм в верхней части экрана Обзор.</target>
+        <target state="translated">Если вы воспроизводите что-либо на другом устройстве через [Channels](https://getchannels.com/) или [Plex](https://plex.tv/), Callsheet может отобразить этот сериал или фильм в верхней части экрана Обзор.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
@@ -735,7 +735,7 @@
       </trans-unit>
       <trans-unit id="In-App Browser" xml:space="preserve">
         <source>In-App Browser</source>
-        <target state="translated">Браузер в приложении</target>
+        <target state="translated">В приложении</target>
         <note>Which browser to use for web links (the other option is "Safari")</note>
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
@@ -745,7 +745,7 @@
       </trans-unit>
       <trans-unit id="Integrations" xml:space="preserve">
         <source>Integrations</source>
-        <target state="translated">Итеграции</target>
+        <target state="translated">Интеграции</target>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="JustWatch" xml:space="preserve">
@@ -890,7 +890,7 @@
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
         <source>No override</source>
-        <target state="translated">Переопределения нет.</target>
+        <target state="translated">Нет</target>
         <note>Default option for language/region override</note>
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
@@ -1000,7 +1000,7 @@
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
         <source>Parental guidance won't be shown for cast and crew.</source>
-        <target state="translated">Рекомендации родителям не будут показаны для актёрского состава или съёмочной группы</target>
+        <target state="translated">Рекомендации родителям не будут показаны для актёров или создателей</target>
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
       </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
@@ -1130,7 +1130,7 @@
       </trans-unit>
       <trans-unit id="Quick Access Link" xml:space="preserve">
         <source>Quick Access Link</source>
-        <target state="translated">Ссылка быстрого доступа</target>
+        <target state="translated">Быстрая ссылка</target>
         <note>Title of the Quick Access Link screen in Settings</note>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
@@ -1355,7 +1355,7 @@
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
         <source>Sort Order</source>
-        <target state="translated">Порядок сортировки</target>
+        <target state="translated">Сортировка</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoiler Settings" xml:space="preserve">
@@ -1405,7 +1405,7 @@
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
         <source>TV Shows</source>
-        <target state="translated">Сериал</target>
+        <target state="translated">Сериалы</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
@@ -1450,7 +1450,7 @@
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source>
-        <target state="translated">Название, актерский состав или команда</target>
+        <target state="translated">Название, актёры или создатели</target>
         <note>Main search prompt on the bottom bar!</note>
       </trans-unit>
       <trans-unit id="Total runtime %@" xml:space="preserve">
@@ -1470,7 +1470,7 @@
       </trans-unit>
       <trans-unit id="Trivia" xml:space="preserve">
         <source>Trivia</source>
-        <target state="translated">Мелочи</target>
+        <target state="translated">Тривиа</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
