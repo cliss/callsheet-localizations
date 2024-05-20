@@ -996,7 +996,7 @@
       </trans-unit>
       <trans-unit id="Portrait" xml:space="preserve">
         <source>Portrait</source>
-        <target state="translated">Vertical</target>
+        <target state="translated">Retrato</target>
         <note/>
       </trans-unit>
       <trans-unit id="Post-credits" xml:space="preserve">
