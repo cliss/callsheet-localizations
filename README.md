@@ -8,17 +8,21 @@ There are two sections:
 
 ## Current Status
 
-As of [0737f43](https://github.com/cliss/callsheet-localizations/commit/0737f43a2f545baf36c7baa6100c4bc6f2a28d8a):
+As of [b06c151](https://github.com/cliss/callsheet-localizations/commit/b06c151278d5967f6a67497c73d9025235da72ce):
 
 | Language  | % Complete  | Authors                           |
 | :-------- | :---------- | :-------------------------------- |
 | English         | N/A         | [cliss](https://github.com/cliss) |
 | Ukrainian       | 100% :tada: | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
 | German          | 100% :tada: | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
-| Italian         | 98%         | [cdf1982](https://github.com/cdf1982) |
-| Dutch           | 98%         | [Deddiekoel](https://github.com/deddiekoel) |
 | Spanish         | 100% :tada: | [unaiherran](https://github.com/unaiherran) |
+| Russian         | 100% :tada: | [gkeep](https://github.com/gkeep) |
+| French          | 99%         | [EricEEEEE](https://github.com/EricEEEEE) |
+| Italian         | 99%         | [cdf1982](https://github.com/cdf1982) |
+| Dutch           | 99%         | [Deddiekoel](https://github.com/deddiekoel) |
 | Portuguese (🇧🇷) | 77%         | [insidegui](https://github.com/insidegui) |
+| Polish          | 24%         | [spitfire](https://github.com/spitfire) |
+| Japanese        | 16%         | [kenroy](https://github.com/kenroy) |
 
 
 
