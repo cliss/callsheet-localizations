@@ -22,7 +22,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
-        <source>Title, cast, or crew</source>
+        <source>Title, cast, or crew</source><target>Tytuł, aktor(ka) lub załoga</target>
         <note/>
       </trans-unit>
     </body>
@@ -201,7 +201,7 @@
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
-        <source>Add Pin</source>
+        <source>Add Pin</source><target>Dodaj pinezkę</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
@@ -1054,7 +1054,7 @@
         <note>Export preview</note>
       </trans-unit>
       <trans-unit id="Show Poster" xml:space="preserve">
-        <source>Show Poster</source>
+        <source>Show Poster</source><target>Pokaż plakat</target>
         <note>Accessibility label</note>
       </trans-unit>
       <trans-unit id="Show Poster Placeholder" xml:space="preserve">
@@ -1062,7 +1062,7 @@
         <note>Shown in an accessibility label</note>
       </trans-unit>
       <trans-unit id="Show Spoilers" xml:space="preserve">
-        <source>Show Spoilers</source>
+        <source>Show Spoilers</source><target>Pokaż spoilery</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show age information within credits lists. Ages are always shown for birth/death dates." xml:space="preserve">
@@ -1074,7 +1074,7 @@
         <note>Persnickety Preferences subtitle</note>
       </trans-unit>
       <trans-unit id="Show that you _really_ care" xml:space="preserve">
-        <source>Show that you _really_ care</source>
+        <source>Show that you _really_ care</source><target>Pokaż, że _naprawdę_ Ci zależy</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
@@ -1162,7 +1162,7 @@
         <note>Shown in spoiler settings for a particular show</note>
       </trans-unit>
       <trans-unit id="Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:" xml:space="preserve">
-        <source>Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:</source>
+        <source>Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:</source><target>Mimo iż Callsheet został stworzony przeze mnie, jego istnienie nie byłoby możliwe bez wysiłku i wkładu następujących ludzi:</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
@@ -1246,19 +1246,19 @@
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Will NOT renew" xml:space="preserve">
-        <source>Will NOT renew</source>
+        <source>Will NOT renew</source><target>NIE odnowi</target>
         <note>Shown in a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="Will renew" xml:space="preserve">
-        <source>Will renew</source>
+        <source>Will renew</source><target>Odnowi</target>
         <note>Shown in a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="With a subscription, you get:" xml:space="preserve">
-        <source>With a subscription, you get:</source>
+        <source>With a subscription, you get:</source><target>Z subskrypcją dostajesz:</target>
         <note/>
       </trans-unit>
       <trans-unit id="You Can Help" xml:space="preserve">
-        <source>You Can Help</source>
+        <source>You Can Help</source><target>Możesz pomóc</target>
         <note>Title shown when trying to upsell users to more-expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="You can be second! That’s pretty great!" xml:space="preserve">
@@ -1270,7 +1270,7 @@
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="You don't seem to have a subscription. 🤨" xml:space="preserve">
-        <source>You don't seem to have a subscription. 🤨</source>
+        <source>You don't seem to have a subscription. 🤨</source><target>NIe wygląda na to, że masz subszkrypcję. 🤨</target>
         <note/>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
@@ -1278,11 +1278,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="You may know them from" xml:space="preserve">
-        <source>You may know them from</source>
+        <source>You may know them from</source><target>Możesz znać ich z</target>
         <note>Header shown for people</note>
       </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
-        <source>Your favorite characters finally get married.</source>
+        <source>Your favorite characters finally get married.</source><target>Twoi ulubieni bohaterowie w końcu pobierają się.</target>
         <note>A fake summary shown when demonstrating hiding spoilers</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
@@ -1318,19 +1318,19 @@
         <note>Subtitle for the App Icon row in Settings on visionOS</note>
       </trans-unit>
       <trans-unit id="years old" xml:space="preserve">
-        <source>years old</source>
+        <source>years old</source><target>lat</target>
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
-        <source>© 2023%@ Limitliss LLC</source>
+        <source>© 2023%@ Limitliss LLC</source><target>© 2023%@ Limitliss LLC</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
-        <source>🤝</source>
+        <source>🤝</source><target>🤝</target>
         <note/>
       </trans-unit>
       <trans-unit id="🤷‍♂️" xml:space="preserve">
-        <source>🤷‍♂️</source>
+        <source>🤷‍♂️</source><target>🤷‍♂️</target>
         <note/>
       </trans-unit>
     </body>
