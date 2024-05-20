@@ -34,6 +34,7 @@
     <body>
       <trans-unit id="" xml:space="preserve">
         <source/>
+        <target state="translated"/>
         <note/>
       </trans-unit>
       <trans-unit id="#%lld" xml:space="preserve">
@@ -323,6 +324,7 @@
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
         <source>Callsheet</source>
+        <target state="translated">Callsheet</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Callsheet Premium" xml:space="preserve">
@@ -437,10 +439,12 @@
       </trans-unit>
       <trans-unit id="Could not load static JSON" xml:space="preserve">
         <source>Could not load static JSON</source>
+        <target state="translated">Could not load static JSON</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Could not parse static JSON" xml:space="preserve">
         <source>Could not parse static JSON</source>
+        <target state="translated">Could not parse static JSON</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Credits" xml:space="preserve">
@@ -530,6 +534,7 @@
       </trans-unit>
       <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
         <source>Error: should not be able to reach settings from here.</source>
+        <target state="translated">Error: should not be able to reach settings from here.</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
@@ -670,6 +675,7 @@
       </trans-unit>
       <trans-unit id="I'm in a popover" xml:space="preserve">
         <source>I'm in a popover</source>
+        <target state="translated">I'm in a popover</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
@@ -744,6 +750,7 @@
       </trans-unit>
       <trans-unit id="JustWatch" xml:space="preserve">
         <source>JustWatch</source>
+        <target state="translated">JustWatch</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Known For" xml:space="preserve">
@@ -1088,6 +1095,7 @@
       </trans-unit>
       <trans-unit id="Preview Title" xml:space="preserve">
         <source>Preview Title</source>
+        <target state="translated">Preview Title</target>
         <note>Do not localize</note>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
@@ -1417,6 +1425,7 @@
       </trans-unit>
       <trans-unit id="The Movie Database" xml:space="preserve">
         <source>The Movie Database</source>
+        <target state="translated">The Movie Database</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
@@ -1606,6 +1615,7 @@
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
         <source>`%@` is unimplemented</source>
+        <target state="translated">`%@` is unimplemented</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
@@ -1635,14 +1645,17 @@
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
         <source>© 2023%@ Limitliss LLC</source>
+        <target state="translated">@ 2023%@ Limitliss LLC</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
         <source>🤝</source>
+        <target state="translated">🤝</target>
         <note/>
       </trans-unit>
       <trans-unit id="🤷‍♂️" xml:space="preserve">
         <source>🤷‍♂️</source>
+        <target state="translated">🤷‍♂️</target>
         <note/>
       </trans-unit>
     </body>

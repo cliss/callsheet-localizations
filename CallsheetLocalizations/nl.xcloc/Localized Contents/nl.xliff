@@ -74,7 +74,7 @@
       <trans-unit id="%@ by %@" xml:space="preserve">
         <source>%1$@ by %2$@</source>
         <target state="translated">%1$@ door %2$@</target>
-        <note/>
+        <note>{Icon name} by {Icon artist}</note>
       </trans-unit>
       <trans-unit id="%lld" xml:space="preserve">
         <source>%lld</source>
@@ -441,9 +441,8 @@
         <target state="translated">Klaar</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide Spoilers…` button when looking at a show or episode." xml:space="preserve">
-        <source>Each TV show can have their own settings, set by tapping the `Hide Spoilers…` button when looking at a show or episode.</source>
-        <target state="translated">Elke serie kent zijn eigen spoiler-instellingen. In te stellen door op de `Verberg Spoilers...`-knop te drukken wanneer je een serie of aflvering bekijkt.</target>
+      <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
+        <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">

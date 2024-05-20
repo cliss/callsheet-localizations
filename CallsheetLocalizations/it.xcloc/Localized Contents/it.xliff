@@ -70,7 +70,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="%@ by %@" xml:space="preserve">
-        <source>%1$@ by %2$@</source><target>%1$@ realizzata da %2$@</target>
+        <source>%1$@ by %2$@</source>
+        <target state="translated">%1$@ realizzata da %2$@</target>
         <note>{Icon name} by {Icon artist}</note>
       </trans-unit>
       <trans-unit id="%lld" xml:space="preserve">
@@ -100,12 +101,12 @@
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.one" xml:space="preserve">
         <source>%lld free search remaining</source>
-        <target state="new">%lld ricerca gratis rimasta</target>
+        <target state="new">%lld free search remaining</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.other" xml:space="preserve">
         <source>%lld free searches remaining</source>
-        <target state="new">%lld ricerche gratis rimaste</target>
+        <target state="new">%lld free searches remaining</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.one" xml:space="preserve">
@@ -119,7 +120,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="%lld of %lld" xml:space="preserve">
-        <source>%1$lld of %2$lld</source><target>%1$lld di %2$lld</target>
+        <source>%1$lld of %2$lld</source>
+        <target state="translated">%1$lld di %2$lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.one" xml:space="preserve">
@@ -1569,11 +1571,13 @@
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
-        <source>🤝</source><target>🤝</target>
+        <source>🤝</source>
+        <target state="translated">🤝</target>
         <note/>
       </trans-unit>
       <trans-unit id="🤷‍♂️" xml:space="preserve">
-        <source>🤷‍♂️</source><target>🤷‍♂️</target>
+        <source>🤷‍♂️</source>
+        <target state="translated">🤷‍♂️</target>
         <note/>
       </trans-unit>
     </body>
