@@ -1082,7 +1082,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, there was a problem." xml:space="preserve">
-        <source>Sorry, there was a problem.</source>
+        <source>Sorry, there was a problem.</source><target>Przepraszam, wystąpił problem.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, there was an error making your purchase. Please try it again later." xml:space="preserve">
@@ -1090,43 +1090,43 @@
         <note/>
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
-        <source>Sort Order</source>
+        <source>Sort Order</source><target>Kolejność sortowania</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoiler Settings" xml:space="preserve">
-        <source>Spoiler Settings</source>
+        <source>Spoiler Settings</source><target>Ustawienia spoilerów</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoilers" xml:space="preserve">
-        <source>Spoilers</source>
+        <source>Spoilers</source><target>Spoilery</target>
         <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Start %@ Free Trial" xml:space="preserve">
-        <source>Start %@ Free Trial</source>
+        <source>Start %@ Free Trial</source><target>Rozpocznij %@ okres próbny</target>
         <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
-        <source>Subscribe</source>
+        <source>Subscribe</source><target>Subskrybuj</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscribed" xml:space="preserve">
-        <source>Subscribed</source>
+        <source>Subscribed</source><target>Zasubskrybowano</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscribers can change the app’s icon." xml:space="preserve">
-        <source>Subscribers can change the app’s icon.</source>
+        <source>Subscribers can change the app’s icon.</source><target>Subskrybenci mogą zmieniać ikonę aplikacji.</target>
         <note>Subtitle for the App Icon row in Settings</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
-        <source>Subscription Status</source>
+        <source>Subscription Status</source><target>Status subskrypcji</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscriptions Debugging" xml:space="preserve">
-        <source>Subscriptions Debugging</source>
+        <source>Subscriptions Debugging</source><target>Bedugging subskrypcji</target>
         <note>Title of a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Summary" xml:space="preserve">
-        <source>Summary</source>
+        <source>Summary</source><target>Podsumowanie</target>
         <note/>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
@@ -1134,19 +1134,19 @@
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
-        <source>Technical Details</source>
+        <source>Technical Details</source><target>Szczegóły techniczne</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Terms of Service" xml:space="preserve">
-        <source>Terms of Service</source>
+        <source>Terms of Service</source><target>Warunki usługi</target>
         <note/>
       </trans-unit>
       <trans-unit id="Thank you for trying out Callsheet. 💙" xml:space="preserve">
-        <source>Thank you for trying out Callsheet. 💙</source>
+        <source>Thank you for trying out Callsheet. 💙</source><target>Dzięki za wypróbowanie Callsheet 💙</target>
         <note/>
       </trans-unit>
       <trans-unit id="The Movie Database" xml:space="preserve">
-        <source>The Movie Database</source>
+        <source>The Movie Database</source><target>The Movie Database</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
@@ -1154,11 +1154,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="These are the default settings." xml:space="preserve">
-        <source>These are the default settings.</source>
+        <source>These are the default settings.</source><target>To są domyślne ustawienia</target>
         <note/>
       </trans-unit>
       <trans-unit id="These settings will only affect *%@*." xml:space="preserve">
-        <source>These settings will only affect *%@*.</source>
+        <source>These settings will only affect *%@*.</source><target>Te ustawienia mają wpływ tylko na *%@*.</target>
         <note>Shown in spoiler settings for a particular show</note>
       </trans-unit>
       <trans-unit id="Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:" xml:space="preserve">
@@ -1182,7 +1182,7 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Trivia" xml:space="preserve">
-        <source>Trivia</source>
+        <source>Trivia</source><target>Ciekawostki</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
@@ -1210,7 +1210,7 @@
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Waiting for approval…" xml:space="preserve">
-        <source>Waiting for approval…</source>
+        <source>Waiting for approval…</source><target>Czekam na zatwierdzenie</target>
         <note>Shown when waiting for a purchase to be approved (probably by a parent)</note>
       </trans-unit>
       <trans-unit id="Watch in:" xml:space="preserve">
