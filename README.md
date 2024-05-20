@@ -24,6 +24,7 @@ As of [f7ee587](https://github.com/cliss/callsheet-localizations/commit/f7ee587c
 | Polish          | 24%         |                 | [spitfire](https://github.com/spitfire) |
 | Japanese        | 16%         |                 | [kenroy](https://github.com/kenroy) |
 
+[as]: https://github.com/cliss/callsheet-localizations/tree/main/AppStore
 
 ## Basics
 
