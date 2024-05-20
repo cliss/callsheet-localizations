@@ -1130,7 +1130,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
-        <source>TV Shows</source>
+        <source>TV Shows</source><target>Seriale</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
@@ -1166,7 +1166,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
-        <source>Title, cast, or crew</source>
+        <source>Title, cast, or crew</source><target>Tytuł, aktor(ka) lub załoga</target>
         <note>Main search prompt on the bottom bar!</note>
       </trans-unit>
       <trans-unit id="Total runtime %@" xml:space="preserve">
@@ -1174,11 +1174,11 @@
         <note>Shown in a popover when looking at a TV season</note>
       </trans-unit>
       <trans-unit id="Transaction" xml:space="preserve">
-        <source>Transaction</source>
+        <source>Transaction</source><target>Tranzakcja</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Trial Period" xml:space="preserve">
-        <source>Trial Period</source>
+        <source>Trial Period</source><target>Okres próbny</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Trivia" xml:space="preserve">
@@ -1190,7 +1190,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
-        <source>Unknown</source>
+        <source>Unknown</source><target>Nieznane</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unlimited searches" xml:space="preserve">
@@ -1198,7 +1198,7 @@
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Upcoming" xml:space="preserve">
-        <source>Upcoming</source>
+        <source>Upcoming</source><target>Nadchodzące</target>
         <note>Header for titles a person will be in, but have not been released yet</note>
       </trans-unit>
       <trans-unit id="Upgraded" xml:space="preserve">
@@ -1206,7 +1206,7 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="User Interface" xml:space="preserve">
-        <source>User Interface</source>
+        <source>User Interface</source><target>Interfejs użytkownika</target>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Waiting for approval…" xml:space="preserve">
@@ -1214,11 +1214,11 @@
         <note>Shown when waiting for a purchase to be approved (probably by a parent)</note>
       </trans-unit>
       <trans-unit id="Watch in:" xml:space="preserve">
-        <source>Watch in:</source>
+        <source>Watch in:</source><target>Oglądaj w:</target>
         <note>Shown when choosing a country to use for Where to Watch (short version)</note>
       </trans-unit>
       <trans-unit id="Website" xml:space="preserve">
-        <source>Website</source>
+        <source>Website</source><target>Strona WWW</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="What was that thing I looked up yesterday?" xml:space="preserve">
@@ -1226,7 +1226,7 @@
         <note>Subtitle for "Search history"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Where to Watch" xml:space="preserve">
-        <source>Where to Watch</source>
+        <source>Where to Watch</source><target>Gdzie oglądać</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Which browser to use to open external links." xml:space="preserve">
@@ -1242,7 +1242,7 @@
         <note>Shown at the bottom of the "what movies are both of these actors in?" screen</note>
       </trans-unit>
       <trans-unit id="Wikipedia" xml:space="preserve">
-        <source>Wikipedia</source>
+        <source>Wikipedia</source><target>Wikipedia</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Will NOT renew" xml:space="preserve">
@@ -1262,11 +1262,11 @@
         <note>Title shown when trying to upsell users to more-expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="You can be second! That’s pretty great!" xml:space="preserve">
-        <source>You can be second! That’s pretty great!</source>
+        <source>You can be second! That’s pretty great!</source><target>Możesz być druga/i, to całkiem niezły wynik!</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="You can be the first! Don’t be shy!" xml:space="preserve">
-        <source>You can be the first! Don’t be shy!</source>
+        <source>You can be the first! Don’t be shy!</source><target>Możesz być pierwsza/y, nie bądź nieśmiała/y!</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="You don't seem to have a subscription. 🤨" xml:space="preserve">
@@ -1274,7 +1274,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
-        <source>You have used all your free searches. Subscribe for unlimited searches.</source>
+        <source>You have used all your free searches. Subscribe for unlimited searches.</source><target>Żużyto wszystkie darmowe wyszukiwania. Subskrybuj, by mieć dostęp do nielimitowanych wyszukiwań.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You may know them from" xml:space="preserve">
@@ -1286,15 +1286,15 @@
         <note>A fake summary shown when demonstrating hiding spoilers</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
-        <source>Your purchase is still pending. Please wait for it to be approved.</source>
+        <source>Your purchase is still pending. Please wait for it to be approved.</source><target>Twój zakup jest przetwarzany. Proszę czekaj aż zostanie zatwierdzony.</target>
         <note>Shown when a a purchase needs to be approved; likely a child needs a parent to approve it</note>
       </trans-unit>
       <trans-unit id="Your subscription **will not** auto-renew" xml:space="preserve">
-        <source>Your subscription **will not** auto-renew</source>
+        <source>Your subscription **will not** auto-renew</source><target>Twoja subskrypcja **nie** odnowi się automatycznie</target>
         <note>Only shown on a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="Your subscription **will** auto-renew" xml:space="preserve">
-        <source>Your subscription **will** auto-renew</source>
+        <source>Your subscription **will** auto-renew</source><target>Twoja subskrypcja **odnowi się** automatycznie</target>
         <note>Only shown on a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
@@ -1314,7 +1314,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
-        <source>visionOS does not support changing icons yet.</source>
+        <source>visionOS does not support changing icons yet.</source><target>visionOS nie wspiera (jeszcze) zmian ikon.</target>
         <note>Subtitle for the App Icon row in Settings on visionOS</note>
       </trans-unit>
       <trans-unit id="years old" xml:space="preserve">
