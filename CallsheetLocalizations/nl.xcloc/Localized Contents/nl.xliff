@@ -8,12 +8,10 @@
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Callsheet</source>
         <target>Callsheet</target>
-        <target>Callsheet</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Callsheet</source>
-        <target>Callsheet</target>
         <target>Callsheet</target>
         <note>Bundle name</note>
       </trans-unit>
@@ -25,12 +23,10 @@
       <trans-unit id="Search" xml:space="preserve">
         <source>Search</source>
         <target>Zoek</target>
-        <target>Zoek</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source>
-        <target>Titel, cast, of crew</target>
         <target>Titel, cast, of crew</target>
         <note/>
       </trans-unit>
@@ -47,49 +43,41 @@
       </trans-unit>
       <trans-unit id="#%lld" xml:space="preserve">
         <source>#%lld</source>
-        <target>#%lld</target>
         <target state="translated">#%lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="#%llu" xml:space="preserve">
         <source>#%llu</source>
-        <target>#%llu</target>
         <target state="translated">#%llu</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
-        <target>%@</target>
         <target state="translated">%@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ (%@)" xml:space="preserve">
         <source>%1$@ (%2$@)</source>
-        <target>%1$@ (%2$@)</target>
         <target state="translated">%1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ - %@" xml:space="preserve">
         <source>%1$@ - %2$@</source>
-        <target>%1$@ - %2$@</target>
         <target state="translated">%1$@ - %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ / %@" xml:space="preserve">
         <source>%1$@ / %2$@</source>
-        <target>%1$@ / %2$@</target>
         <target state="translated">%1$@ / %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ by %@" xml:space="preserve">
         <source>%1$@ by %2$@</source>
-        <target>%1$@ by %2$@</target>
-        <target state="translated">%1$@ by %2$@</target>
+        <target state="translated">%1$@ door %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld" xml:space="preserve">
         <source>%lld</source>
-        <target>%lld</target>
         <target state="translated">%lld</target>
         <note/>
       </trans-unit>
@@ -165,13 +153,11 @@
       </trans-unit>
       <trans-unit id="%lld — " xml:space="preserve">
         <source>%lld — </source>
-        <target>%lld — </target>
         <target state="translated">%lld — </target>
         <note/>
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
         <source>A few more free ones please?</source>
-        <target>Aub een paar extra gratis?</target>
         <target state="translated">Aub een paar extra gratis?</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
@@ -217,7 +203,6 @@
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
         <source>App Icon</source>
-        <target>Appicoon</target>
         <target state="translated">Appicoon</target>
         <note/>
       </trans-unit>
@@ -273,7 +258,6 @@
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
         <source>Callsheet</source>
-        <target>Callsheet</target>
         <target state="translated">Callsheet</target>
         <note>Do not translate</note>
       </trans-unit>
@@ -626,7 +610,6 @@
       </trans-unit>
       <trans-unit id="I'm in a popover" xml:space="preserve">
         <source>I'm in a popover</source>
-        <target>I'm in a popover</target>
         <target state="translated">I'm in a popover</target>
         <note>Do not translate</note>
       </trans-unit>
@@ -912,13 +895,11 @@
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
         <source>Or, you can have %lld more free search. Just this once.</source>
-        <target>Of, je kan nog %lld gratis zoekopdracht krijgen. Voor deze ene keer.</target>
         <target state="translated">Of, je kan nog %lld gratis zoekopdracht krijgen. Voor deze ene keer.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
         <source>Or, you can have %lld more free searches. Just this once.</source>
-        <target>Of, je kan nog %lld gratis zoekopdrachten krijgen. Voor deze ene keer.</target>
         <target state="translated">Of, je kan nog %lld gratis zoekopdrachten krijgen. Voor deze ene keer.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
@@ -1157,6 +1138,11 @@
         <target state="translated">Duur</target>
         <note>Heading for the total runtime of a TV episode</note>
       </trans-unit>
+      <trans-unit id="Safari" xml:space="preserve">
+        <source>Safari</source>
+        <target state="translated">Safari</target>
+        <note>Which browser to use for web links (the other option is "In-App Browser")</note>
+      </trans-unit>
       <trans-unit id="Same perks as all other plans" xml:space="preserve">
         <source>Same perks as all other plans</source>
         <target state="translated">Dezelfde voordelen als alle andere abonnementen</target>
@@ -1364,7 +1350,6 @@
       </trans-unit>
       <trans-unit id="The Movie Database" xml:space="preserve">
         <source>The Movie Database</source>
-        <target>The Movie Database</target>
         <target state="translated">The Movie Database</target>
         <note>Do not translate</note>
       </trans-unit>
@@ -1585,19 +1570,16 @@
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
         <source>© 2023%@ Limitliss LLC</source>
-        <target>© 2023%@ Limitliss LLC</target>
         <target state="translated">© 2023%@ Limitliss LLC</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
         <source>🤝</source>
-        <target>🤝</target>
         <target state="translated">🤝</target>
         <note/>
       </trans-unit>
       <trans-unit id="🤷‍♂️" xml:space="preserve">
         <source>🤷‍♂️</source>
-        <target>🤷‍♂️</target>
         <target state="translated">🤷‍♂️</target>
         <note/>
       </trans-unit>
