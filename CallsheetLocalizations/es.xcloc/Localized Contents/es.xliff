@@ -1,42 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Flookup/en.lproj/InfoPlist.strings" source-language="en" target-language="it" datatype="plaintext">
+  <file original="Flookup/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Callsheet</source>
+        <target>Callsheet</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Callsheet</source>
+        <target>Callsheet</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
         <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
-        <target>Se Callsheet può accedere alla tua rete locale, può riuscire a mostrare collegamenti a quello che stai guardando sul tuo schermo principale. Attivare l’accesso alla rete locale è completamente opzionale. Nessuna informazione riguardo alla tua rete è trasmessa al di fuori del tuo dispositivo.</target>
+        <target>Si Callsheet puede usar tu red local, puede que pueda mostrar links a lo que estas viendo en este momento en tu pantalla principal. Permtir el acceso a tu red local es totalmente opcional. Ningún dato de tu red saldrá de tu dispositivo. </target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
         <source>Search</source>
-        <target>Cerca</target>
+        <target>Buscar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source>
-        <target>Titolo, cast o troupe</target>
+        <target>Título, reparto o  equipo</target>
         <note/>
       </trans-unit>
     </body>
   </file>
-  <file original="Localizable.xcstrings" source-language="en" target-language="it" datatype="plaintext">
+  <file original="Localizable.xcstrings" source-language="en" target-language="es" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
         <source/>
+        <target state="translated"/>
         <note/>
       </trans-unit>
       <trans-unit id="#%lld" xml:space="preserve">
@@ -71,7 +74,7 @@
       </trans-unit>
       <trans-unit id="%@ by %@" xml:space="preserve">
         <source>%1$@ by %2$@</source>
-        <target state="translated">%1$@ realizzata da %2$@</target>
+        <target state="translated">%1$@ por %2$@</target>
         <note>{Icon name} by {Icon artist}</note>
       </trans-unit>
       <trans-unit id="%lld" xml:space="preserve">
@@ -81,177 +84,177 @@
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.one" xml:space="preserve">
         <source>%lld Season</source>
-        <target state="translated">Stagione</target>
+        <target state="translated">%lld Temporada</target>
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.other" xml:space="preserve">
         <source>%lld Seasons</source>
-        <target state="translated">Stagioni</target>
+        <target state="translated">%lld Temporadas</target>
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.one" xml:space="preserve">
         <source>%lld episode</source>
-        <target state="translated">episodio</target>
+        <target state="translated">%lld episodio</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.other" xml:space="preserve">
         <source>%lld episodes</source>
-        <target state="translated">episodi</target>
+        <target state="translated">%lld episodios</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.one" xml:space="preserve">
         <source>%lld free search remaining</source>
-        <target state="new">%lld free search remaining</target>
+        <target state="translated">%lld búsqueda gratuita restante</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.other" xml:space="preserve">
         <source>%lld free searches remaining</source>
-        <target state="new">%lld free searches remaining</target>
+        <target state="translated">%lld búsquedas gratuitas restantes</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.one" xml:space="preserve">
         <source>%lld minute</source>
-        <target state="translated">minuto</target>
+        <target state="translated">%lld minuto</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.other" xml:space="preserve">
         <source>%lld minutes</source>
-        <target state="translated">minuti</target>
+        <target state="translated">%lld minutos</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld of %lld" xml:space="preserve">
         <source>%1$lld of %2$lld</source>
-        <target state="translated">%1$lld di %2$lld</target>
+        <target state="translated">%1$lld de %2$lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.one" xml:space="preserve">
         <source>%lld year old</source>
-        <target state="translated">anno</target>
+        <target state="translated">%lld año</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="translated">anni</target>
+        <target state="translated">%lld años</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
         <source>%lld years</source>
-        <target state="translated">anni</target>
+        <target state="translated">%lld años</target>
         <note>How old a person was when they passed</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.one" xml:space="preserve">
         <source>%lld year old</source>
-        <target state="translated">anni</target>
+        <target state="translated">%lld año</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="translated">anni</target>
+        <target state="translated">%lld años</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld — " xml:space="preserve">
         <source>%lld — </source>
-        <target state="translated">%lld —</target>
+        <target state="translated">%lld — </target>
         <note/>
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
         <source>A few more free ones please?</source>
-        <target state="translated">Ancora qualche ricerca gratis, per favore?</target>
+        <target state="translated">¿Unas pocas más de regalo?</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
         <source>About Callsheet</source>
-        <target state="translated">Informazioni su Callsheet</target>
+        <target state="translated">Acerca de Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.one" xml:space="preserve">
         <source>Add %lld Free Search</source>
-        <target state="translated">Aggiungi %lld Ricerca Gratis</target>
+        <target state="translated">Añade %lld búsqueda gratuita</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.other" xml:space="preserve">
         <source>Add %lld Free Searches</source>
-        <target state="translated">Aggiungi %lld Ricerche Gratis</target>
+        <target state="translated">Añade %lld búsquedas gratuitas</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
         <source>Add Pin</source>
-        <target state="translated">Aggiungi Contrassegno</target>
+        <target state="translated">Añade Pin</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
         <source>Add pin</source>
-        <target state="translated">Aggiungi contrassegno</target>
+        <target state="translated">Añadir pin</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ages" xml:space="preserve">
         <source>Ages</source>
-        <target state="translated">Età</target>
+        <target state="translated">Edades</target>
         <note>Heading in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
-        <target state="translated">Tutto</target>
+        <target state="translated">Todo</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Messages" xml:space="preserve">
         <source>All Messages</source>
-        <target state="translated">Tutti i Messaggi</target>
+        <target state="translated">Todos los mensajes</target>
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
         <source>App Icon</source>
-        <target state="translated">Icona</target>
+        <target state="translated">Ícono de App</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
-        <target state="translated">Sei sicuro/a?</target>
+        <target state="translated">¿estás seguro?</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="As rated by users of" xml:space="preserve">
         <source>As rated by users of</source>
-        <target state="translated">Come valutato dagli utenti di</target>
+        <target state="translated">Valorado por usuario de</target>
         <note>Shown in a popover explaining TV/movie scores</note>
       </trans-unit>
       <trans-unit id="Average runtime" xml:space="preserve">
         <source>Average runtime</source>
-        <target state="translated">Durata media</target>
+        <target state="translated">Tiempo medio de duración</target>
         <note>How long episodes run in a single season of TV</note>
       </trans-unit>
       <trans-unit id="Be a hero and support independent apps" xml:space="preserve">
         <source>Be a hero and support independent apps</source>
-        <target state="translated">Sii un eroe e supporta app indipendenti</target>
+        <target state="translated">Se un heroe y soporta apps independientes</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
         <source>Be like the many other beautiful people who have rated this version.</source>
-        <target state="translated">Sii come le tante altre persone meravigliose che hanno valutato questa versione</target>
+        <target state="translated">Se como muchas de las bellisimas personas que han valorado esta versión.</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
         <source>Began Airing</source>
-        <target state="translated">Inizio trasmissione</target>
+        <target state="translated">Comenzó a emitirse</target>
         <note>When a TV season started airing</note>
       </trans-unit>
       <trans-unit id="Begins Airing" xml:space="preserve">
         <source>Begins Airing</source>
-        <target state="translated">La trasmissione inizierà</target>
+        <target state="translated">Comenzará a emitirse</target>
         <note>When a TV season will start airing</note>
       </trans-unit>
       <trans-unit id="Biography" xml:space="preserve">
         <source>Biography</source>
-        <target state="translated">Biografia</target>
+        <target state="translated">Biografía</target>
         <note/>
       </trans-unit>
       <trans-unit id="Born" xml:space="preserve">
         <source>Born</source>
-        <target state="translated">Data di nascita</target>
+        <target state="translated">Nacido</target>
         <note/>
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
         <source>Browser</source>
-        <target state="translated">Browser</target>
+        <target state="translated">Navegador</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
@@ -266,187 +269,187 @@
       </trans-unit>
       <trans-unit id="Callsheet couldn't parse the information from The Movie Database." xml:space="preserve">
         <source>Callsheet couldn't parse the information from The Movie Database.</source>
-        <target state="translated">Callsheet non ha potuto processare le informazioni ricevute da The Movie Database</target>
+        <target state="translated">Callsheet no ha podido analizar la información de The Movie Database</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet couldn't reach The Movie Database." xml:space="preserve">
         <source>Callsheet couldn't reach The Movie Database.</source>
-        <target state="translated">Callsheet non ha potuto raggiungere The Movie Database</target>
+        <target state="translated">Callsheet no ha conectar con The Movie Database</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**." xml:space="preserve">
         <source>Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**.</source>
-        <target state="translated">Callsheet è stato realizzato in Virginia da **[Casey Liss](https://www.caseyliss.com/)**.</target>
+        <target state="translated">Callsheet fue creado en Virginia (EE.UU.) por **[Casey Liss](https://www.caseyliss.com/)**.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target state="translated">Annulla</target>
+        <target state="translated">Cancelar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel Subscription" xml:space="preserve">
         <source>Cancel Subscription</source>
-        <target state="translated">Annulla Abbonamento</target>
+        <target state="translated">Cancelar subscripción</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cast" xml:space="preserve">
         <source>Cast</source>
-        <target state="translated">Cast</target>
+        <target state="translated">Reparto</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cast or Crew" xml:space="preserve">
         <source>Cast or Crew</source>
-        <target state="translated">Cast o Troupe</target>
+        <target state="translated">Reparto o Equipo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
         <source>Choose New Subscription</source>
-        <target state="translated">Scegli un Nuovo Abbonamento</target>
+        <target state="translated">Elige una nueva subscripción</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose a link:" xml:space="preserve">
         <source>Choose a link:</source>
-        <target state="translated">Scegli un collegamento:</target>
+        <target state="translated">Elige un link</target>
         <note>Shown in settings for the quick access link</note>
       </trans-unit>
       <trans-unit id="Choose a quick link" xml:space="preserve">
         <source>Choose a quick link</source>
-        <target state="translated">Scegli un collegamento veloce:</target>
+        <target state="translated">Elige un link rápido</target>
         <note>Accessibility label for the quick access picker in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Choose an icon that fits your aesthetic." xml:space="preserve">
         <source>Choose an icon that fits your aesthetic.</source>
-        <target state="translated">Scegli un’icona che soddisfa il tuo senso estetico.</target>
+        <target state="translated">Elige un icono que se ajuste a tu estética</target>
         <note>Subtitle for "Custom icons"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
         <source>Choose spoiler-risky things to hide by default.</source>
-        <target state="translated">Scegli che le cose a rischio di spoiler siano nascoste di default.</target>
+        <target state="translated">Elige la cantidad de espóiler que ocultar por defecto</target>
         <note>Subtitle for a row in Settings</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
         <source>Clear</source>
-        <target state="translated">Cancella</target>
+        <target state="translated">Limpiar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clear all" xml:space="preserve">
         <source>Clear all</source>
-        <target state="translated">Cancella tutto</target>
+        <target state="translated">Limpiar todo</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="Click Me" xml:space="preserve">
         <source>Click Me</source>
-        <target state="translated">Cliccami</target>
+        <target state="translated">Pulsame</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
-        <target state="translated">Chiudi</target>
+        <target state="translated">Cerrar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Collecting log entries…" xml:space="preserve">
         <source>Collecting log entries…</source>
-        <target state="translated">Sto raccogliendo i log</target>
+        <target state="translated">Recogiendo entradas del registro</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect to devices on your local network to show what's playing." xml:space="preserve">
         <source>Connect to devices on your local network to show what's playing.</source>
-        <target state="translated">Connetti i dispositivi sulla tua rete locale per mostrare cosa c'è in riproduzione.</target>
+        <target state="translated">Conectar a otros dispositivos en tu red para ver que se está reproduciendo.</target>
         <note>Subtitle in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Copy" xml:space="preserve">
         <source>Copy</source>
-        <target state="translated">Copia</target>
+        <target state="translated">Copiar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy Error Information" xml:space="preserve">
         <source>Copy Error Information</source>
-        <target state="translated">Copia Informazioni Errore</target>
+        <target state="translated">Copiar información del error</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy e-mail address" xml:space="preserve">
         <source>Copy e-mail address</source>
-        <target state="translated">Copia indirizzo e-mail</target>
+        <target state="translated">Copiar email</target>
         <note/>
       </trans-unit>
       <trans-unit id="Could not load static JSON" xml:space="preserve">
         <source>Could not load static JSON</source>
-        <target state="translated">Could not load static JSON</target>
+        <target state="translated">No se puede cargar el JSON estático</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Could not parse static JSON" xml:space="preserve">
         <source>Could not parse static JSON</source>
-        <target state="translated">Could not parse static JSON</target>
+        <target state="translated">No se puede analizar el JSON estático</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Credits" xml:space="preserve">
         <source>Credits</source>
-        <target state="translated">Titoli di coda</target>
+        <target state="translated">Creditos</target>
         <note>Shown as a header on the movie view for the mid- and post-credits scene icons</note>
       </trans-unit>
       <trans-unit id="Credits Lists" xml:space="preserve">
         <source>Credits Lists</source>
-        <target state="translated">Liste Titoli di coda</target>
+        <target state="translated">Lista de creditos</target>
         <note>Persnickety Preferences header</note>
       </trans-unit>
       <trans-unit id="Crew" xml:space="preserve">
         <source>Crew</source>
-        <target state="translated">Troupe</target>
+        <target state="translated">Equipo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
         <source>Custom icons</source>
-        <target state="translated">Icone custom</target>
+        <target state="translated">Iconos personalizados</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
         <source>Data provided by The Movie Database</source>
-        <target state="translated">Informazioni fornite da The Movie Database</target>
+        <target state="translated">Datos suministrados por The Movie Database</target>
         <note/>
       </trans-unit>
       <trans-unit id="Data provided by:" xml:space="preserve">
         <source>Data provided by:</source>
-        <target state="translated">Informazioni fornite da:</target>
+        <target state="translated">Datos suminstrados por:</target>
         <note/>
       </trans-unit>
       <trans-unit id="Default Spoiler Settings" xml:space="preserve">
         <source>Default Spoiler Settings</source>
-        <target state="translated">Impostazioni Spoiler di default:</target>
+        <target state="translated">Ajustes de espóiler por defecto</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete recent searches" xml:space="preserve">
         <source>Delete recent searches</source>
-        <target state="translated">Cancella ricerche recenti</target>
+        <target state="translated">Borrar busquedas recientes</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete search history" xml:space="preserve">
         <source>Delete search history</source>
-        <target state="translated">Cancella cronologia ricerche</target>
+        <target state="translated">Borrar historial de busquedas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
         <source>Details</source>
-        <target state="translated">Dettagli</target>
+        <target state="translated">Detalles</target>
         <note/>
       </trans-unit>
       <trans-unit id="Discover" xml:space="preserve">
         <source>Discover</source>
-        <target state="translated">Scopri</target>
+        <target state="translated">Descubrir</target>
         <note/>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target state="translated">Fatto</target>
+        <target state="translated">Hecho</target>
         <note/>
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
         <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
-        <target state="translated">Ogni Serie TV può avere le proprie impostazioni, configurate toccando il bottone `Nascondi Spoiler` mentre guardi un programma od episodio.</target>
+        <target state="translated">Cada serie puede tener sus propios ajustes, pulsa el botón 'Ocultar espoilers...'  cuando busques una serie o episodio.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
         <source>Ends at %@</source>
-        <target state="translated">Finisce alle %@</target>
+        <target state="translated">Finaliza a las %@</target>
         <note>When a show or movie ends if you start it right now</note>
       </trans-unit>
       <trans-unit id="Episode" xml:space="preserve">
@@ -456,153 +459,154 @@
       </trans-unit>
       <trans-unit id="Episode Poster" xml:space="preserve">
         <source>Episode Poster</source>
-        <target state="translated">Poster Episodio</target>
+        <target state="translated">Poster del episiodio</target>
         <note/>
       </trans-unit>
       <trans-unit id="Episode Scores" xml:space="preserve">
         <source>Episode Scores</source>
-        <target state="translated">Punteggio episodio</target>
+        <target state="translated">Puntuación del episodio</target>
         <note/>
       </trans-unit>
       <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
         <source>Error: should not be able to reach settings from here.</source>
-        <target state="translated">Error: should not be able to reach settings from here.</target>
+        <target state="translated">Error: no deberías llegar a Ajustes desde aquí</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
         <source>Expired</source>
-        <target state="translated">Scaduto</target>
+        <target state="translated">Caducada</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Expires" xml:space="preserve">
         <source>Expires</source>
-        <target state="translated">Scadrà</target>
+        <target state="translated">Caduca</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Export" xml:space="preserve">
         <source>Export</source>
-        <target state="translated">Esporta</target>
+        <target state="translated">Exportar</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Faults" xml:space="preserve">
         <source>Faults</source>
-        <target state="translated">Errore</target>
+        <target state="translated">Fallos</target>
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
       <trans-unit id="Feedback emails are lovely to read!" xml:space="preserve">
         <source>Feedback emails are lovely to read!</source>
-        <target state="translated">E' un piacere ricevere email di feedback!</target>
+        <target state="translated">Es maravilloso leer comentarios por correo electrónico</target>
         <note>Shown in Settings to try to get users to rate the app</note>
       </trans-unit>
       <trans-unit id="Find a way to watch in:" xml:space="preserve">
         <source>Find a way to watch in:</source>
-        <target state="translated">Trova un modo di guardare in:</target>
+        <target state="translated">Encuentra el modo de verlo en:</target>
         <note>Shown when choosing a country to use for Where to Watch (long version)</note>
       </trans-unit>
       <trans-unit id="Find movies where&#10;%@ worked with:" xml:space="preserve">
         <source>Find movies where
 %@ worked with:</source>
-        <target state="translated">Trova film in cui %@ ha lavorato con:</target>
+        <target state="translated">Encuentra películas donde
+%@ trabajó conh:</target>
         <note/>
       </trans-unit>
       <trans-unit id="Find shared film credits" xml:space="preserve">
         <source>Find shared film credits</source>
-        <target state="translated">Trova titoli di coda condivisi</target>
+        <target state="translated">Encuentra créditos compartidos</target>
         <note/>
       </trans-unit>
       <trans-unit id="For Where to Watch." xml:space="preserve">
         <source>For Where to Watch.</source>
-        <target state="translated">Per Dove Guardare:</target>
+        <target state="translated">para Donde Ver</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="For new &amp; popular media." xml:space="preserve">
         <source>For new &amp; popular media.</source>
-        <target state="translated">Trova programmi nuovi &amp; popolari</target>
+        <target state="translated">para Nuevo y Popular</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
         <source>Free Trial</source>
-        <target state="translated">Prova Gratuita</target>
+        <target state="translated">Prueba gratuita</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
         <source>Free searches remaining</source>
-        <target state="translated">Ricerche gratuite rimanenti</target>
+        <target state="translated">Búsquedas gratuitas restantes</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
         <source>Free stuff doesn't last forever.</source>
-        <target state="translated">Le cose belle non rimangono gratis per sempre</target>
+        <target state="translated">Las cosas gratis no duran eternamente.</target>
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
         <source>Free, but you can only ask once. 😏</source>
-        <target state="translated">Gratis, ma puoi chiedere sono una volta. 😏</target>
+        <target state="translated">Gratis, pero sólo puedes pedirlo una vez  😏</target>
         <note>Subtitle for the "A few more searches please" option on the "Additional options" purchasing screen</note>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
         <source>Genre</source>
-        <target state="translated">Genere</target>
+        <target state="translated">Género</target>
         <note/>
       </trans-unit>
       <trans-unit id="Genres" xml:space="preserve">
         <source>Genres</source>
-        <target state="translated">Generi</target>
+        <target state="translated">Géneros</target>
         <note/>
       </trans-unit>
       <trans-unit id="Guests" xml:space="preserve">
         <source>Guests</source>
-        <target state="translated">Ospiti</target>
+        <target state="translated">Invitados</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hand your phone to someone knowing they **cannot mess up your photos**." xml:space="preserve">
         <source>Hand your phone to someone knowing they **cannot mess up your photos**.</source>
-        <target state="translated">Passa il tuo telefono a qualcuno sapendo che **non possono pasticciare le tue foto**</target>
+        <target state="translated">Dejale tu teléfono a alguien sabiendo que **no pueden enredar con tus fotos**</target>
         <note>Peek-a-View subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Height" xml:space="preserve">
         <source>Height</source>
-        <target state="translated">Altezza</target>
+        <target state="translated">Altura</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide Spoilers" xml:space="preserve">
         <source>Hide Spoilers</source>
-        <target state="translated">Nascondi Spoiler</target>
+        <target state="translated">Ocultar espoilers</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide Spoilers…" xml:space="preserve">
         <source>Hide Spoilers…</source>
-        <target state="translated">Nascondi Spoiler...</target>
+        <target state="translated">Ocultar espoilers...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide cast character names" xml:space="preserve">
         <source>Hide cast character names</source>
-        <target state="translated">Nascondi i nomi dei membri del cast</target>
+        <target state="translated">Ocultar nombre de los personajes</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide cast episode counts" xml:space="preserve">
         <source>Hide cast episode counts</source>
-        <target state="translated">Nascondi il conteggio degli episodi del cast</target>
+        <target state="translated">Ocultar número de episodios del personaje</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide episode thumbnails" xml:space="preserve">
         <source>Hide episode thumbnails</source>
-        <target state="translated">Nascondi le immagini d’anteprima degli episodi</target>
+        <target state="translated">Ocultar thumbnails del episodio</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide episode titles" xml:space="preserve">
         <source>Hide episode titles</source>
-        <target state="translated">Nascondi titoli episodi</target>
+        <target state="translated">Ocultar titulo de episodio</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide summaries" xml:space="preserve">
         <source>Hide summaries</source>
-        <target state="translated">Nascondi riassunti</target>
+        <target state="translated">Ocultar resumenes</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="How seasons and episodes are sorted." xml:space="preserve">
         <source>How seasons and episodes are sorted.</source>
-        <target state="translated">Come sono ordinati stagioni ed episodi.</target>
+        <target state="translated">Cómo se ordenan las temporadas y episodios.</target>
         <note/>
       </trans-unit>
       <trans-unit id="I'm in a popover" xml:space="preserve">
@@ -612,72 +616,72 @@
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
         <source>Unlimited searches for a month. Auto-renews</source>
-        <target state="translated">Ricerche illimitate per un mese. Si rinnova automaticamente.</target>
+        <target state="translated">Búsquedas ilimitadas durante un mes. Renovación automática.</target>
         <note>Description for the monthly subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Display Name" xml:space="preserve">
         <source>Monthly</source>
-        <target state="translated">Mensile</target>
+        <target state="translated">Mensual</target>
         <note>Name of the monthly subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Description" xml:space="preserve">
         <source>Access to Callsheet for 1 year. Auto-renews</source>
-        <target state="translated">Accesso a Callsheet per 1 anno. Si rinnova automaticamente.</target>
+        <target state="translated">Accede a Callsheet durante 1 año. Renovación automática</target>
         <note>Description for the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
         <source>Yearly Subscription</source>
-        <target state="translated">Annuale</target>
+        <target state="translated">Subscripción anual</target>
         <note>Name of the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
         <source>Yearly Max-Supporter</source>
-        <target state="translated">Supporter Annuale Superiore</target>
+        <target state="translated">Subscripción anual Max</target>
         <note>Name of the annual subscription that is a bit more money than the normal one</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Description" xml:space="preserve">
         <source>Show your extreme support!</source>
-        <target state="translated">Mostra il tuo massimo supporto!</target>
+        <target state="translated">Muestra tu soporte extremo</target>
         <note>Description for the maximum-cost annual subscription</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Display Name" xml:space="preserve">
         <source>Yearly Ultra-Supporter</source>
-        <target state="translated">Supporter Annuale Supremo</target>
+        <target state="translated">Subscripción anual Ultra</target>
         <note>Name of the maximum-cost annual subscription </note>
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
         <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source>
-        <target state="translated">Se riproduci qualcosa in [Channels](https://getchannels.com/) o [Plex](https://plex.tv/) su un altro dispositivo, Callsheet può mostrare quella serie o film in cima alla schermata Scopri</target>
+        <target state="translated">Si reproduces algo usando [Channels](https://getchannels.com/) o [Plex](https://plex.tv/) en otro dispositivo. Callsheet puede mostrar esa serue o película al principio de la pantalla Descubrir.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
         <source>Image</source>
-        <target state="translated">Immagine</target>
+        <target state="translated">Imagen</target>
         <note/>
       </trans-unit>
       <trans-unit id="In Grace Period" xml:space="preserve">
         <source>In Grace Period</source>
-        <target state="translated">Nel periodo di grazia</target>
+        <target state="translated">En periodo de gracia</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="In Retry Period" xml:space="preserve">
         <source>In Retry Period</source>
-        <target state="translated">Nel periodo di nuova prova</target>
+        <target state="translated">En periodo de reintentar</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="In-App Browser" xml:space="preserve">
         <source>In-App Browser</source>
-        <target state="translated">Browser in-app</target>
+        <target state="translated">Navegador dentro del App</target>
         <note>Which browser to use for web links (the other option is "Safari")</note>
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
         <source>In-Credits Bonus Scenes</source>
-        <target state="translated">Scena bonus nei titoli di coda</target>
+        <target state="translated">Escenas adicionales en créditos</target>
         <note/>
       </trans-unit>
       <trans-unit id="Integrations" xml:space="preserve">
         <source>Integrations</source>
-        <target state="translated">Integrazioni</target>
+        <target state="translated">Integraciones</target>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="JustWatch" xml:space="preserve">
@@ -687,317 +691,317 @@
       </trans-unit>
       <trans-unit id="Known For" xml:space="preserve">
         <source>Known For</source>
-        <target state="translated">Conosciuto per</target>
+        <target state="translated">Conocido por</target>
         <note/>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
-        <target state="translated">Forza Lingua</target>
+        <target state="translated">Invalidar Idioma</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
         <source>Learn about the people behind Callsheet.</source>
-        <target state="translated">Maggiori informazioni chi c'è dietro Callsheet.</target>
+        <target state="translated">Conoce a la gente detras de Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
         <source>Lived</source>
-        <target state="translated">Ha vissuto</target>
+        <target state="translated">Vivio</target>
         <note>How long an actor lived</note>
       </trans-unit>
       <trans-unit id="Loading…" xml:space="preserve">
         <source>Loading…</source>
-        <target state="translated">Caricamento...</target>
+        <target state="translated">Cargando</target>
         <note/>
       </trans-unit>
       <trans-unit id="Macro State at %@" xml:space="preserve">
         <source>Macro State at %@</source>
-        <target state="translated">Stato Macro a %@</target>
+        <target state="translated">Estado de Macro a %@</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
         <source>Manage Subscription</source>
-        <target state="translated">Gestisci Abbonamento</target>
+        <target state="translated">Gestionar subscripción</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
         <source>Mid-credits</source>
-        <target state="translated">Titoli intermedi</target>
+        <target state="translated">En medio de los créditos</target>
         <note/>
       </trans-unit>
       <trans-unit id="More Info…" xml:space="preserve">
         <source>More Info…</source>
-        <target state="translated">Maggiori informazioni</target>
+        <target state="translated">Más información...</target>
         <note/>
       </trans-unit>
       <trans-unit id="More Purchase Options…" xml:space="preserve">
         <source>More Purchase Options…</source>
-        <target state="translated">Altre opzioni d'acquisto...</target>
+        <target state="translated">Más opciones de compra</target>
         <note/>
       </trans-unit>
       <trans-unit id="More…" xml:space="preserve">
         <source>More…</source>
-        <target state="translated">Altro...</target>
+        <target state="translated">Más</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movie Poster" xml:space="preserve">
         <source>Movie Poster</source>
-        <target state="translated">Poster del Film</target>
+        <target state="translated">Poster de la Película</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movie Poster Placeholder" xml:space="preserve">
         <source>Movie Poster Placeholder</source>
-        <target state="translated">Segnaposto del Poster del Film</target>
+        <target state="translated">Marcador de posición de Poster de la Película</target>
         <note>Accessibility label when a movie's poster is not available</note>
       </trans-unit>
       <trans-unit id="Movies" xml:space="preserve">
         <source>Movies</source>
-        <target state="translated">Film</target>
+        <target state="translated">Películas</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies &amp; Shows" xml:space="preserve">
         <source>Movies &amp; Shows</source>
-        <target state="translated">Film &amp; Serie TV</target>
+        <target state="translated">Películas y series</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
         <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source>
-        <target state="translated">Film e Serie TV mostreranno un collegamento per l'accesso veloce. Gli altri sono disponibili nel Menu Altro.</target>
+        <target state="translated">Las películas y las series mostraran un enlace rápido. Las demas estaran disponibles en el menú Más</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movies featuring" xml:space="preserve">
         <source>Movies featuring</source>
-        <target state="translated">Film con</target>
+        <target state="translated">Películas con</target>
         <note>Title for cast union view</note>
       </trans-unit>
       <trans-unit id="Name or job" xml:space="preserve">
         <source>Name or job</source>
-        <target state="translated">Nome o lavoro</target>
+        <target state="translated">Nombre o trabajo</target>
         <note>Crew search prompt</note>
       </trans-unit>
       <trans-unit id="Name or role" xml:space="preserve">
         <source>Name or role</source>
-        <target state="translated">Nome o ruolo</target>
+        <target state="translated">Nombre o rol</target>
         <note>Cast search prompt</note>
       </trans-unit>
       <trans-unit id="New Episodes" xml:space="preserve">
         <source>New Episodes</source>
-        <target state="translated">Nuovi Episodi</target>
+        <target state="translated">Episodios nuevos</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Movies" xml:space="preserve">
         <source>New Movies</source>
-        <target state="translated">Nuovi Film</target>
+        <target state="translated">Películas nuevas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Newest First" xml:space="preserve">
         <source>Newest First</source>
-        <target state="translated">Prima i più nuovi</target>
+        <target state="translated">Más recientes</target>
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Next Episode" xml:space="preserve">
         <source>Next Episode</source>
-        <target state="translated">Prossimo Episodio</target>
+        <target state="translated">Siguiente episodio</target>
         <note/>
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
         <source>No TV show pins found.</source>
-        <target state="translated">Nessun contrassegno Serie TV trovato.</target>
+        <target state="translated">No se encuentra pin de serie</target>
         <note/>
       </trans-unit>
       <trans-unit id="No credits found." xml:space="preserve">
         <source>No credits found.</source>
-        <target state="translated">Nessun riconoscimento trovato.</target>
+        <target state="translated">No se encuentran créditos</target>
         <note>Shown when a person has no cast nor crew credits</note>
       </trans-unit>
       <trans-unit id="No media found." xml:space="preserve">
         <source>No media found.</source>
-        <target state="translated">Nessun contenuto trovato</target>
+        <target state="translated">No se encuentra información</target>
         <note>Shown when there's no data for new movies / new shows / etc</note>
       </trans-unit>
       <trans-unit id="No movie pins found." xml:space="preserve">
         <source>No movie pins found.</source>
-        <target state="translated">Nessuna puntina trovata</target>
+        <target state="translated">No se encuentran pins de películas</target>
         <note/>
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
         <source>No override</source>
-        <target state="translated">Non forzare</target>
+        <target state="translated">No sustituir</target>
         <note>Default option for language/region override</note>
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
         <source>No people found.</source>
-        <target state="translated">Nessuna persona trovata.</target>
+        <target state="translated">No se encuentra reparto/equipo</target>
         <note>Shown when a movie/show has no cast/crew</note>
       </trans-unit>
       <trans-unit id="No people matching *%@* found." xml:space="preserve">
         <source>No people matching *%@* found.</source>
-        <target state="translated">Nessuna persona corrispondente a %@ trovata.</target>
+        <target state="translated">No se encuentra nadie con *%@*.</target>
         <note>Shown when searching a list of credits, but no matches were found</note>
       </trans-unit>
       <trans-unit id="No people pins found." xml:space="preserve">
         <source>No people pins found.</source>
-        <target state="translated">Nessun contrassegno trovato per le persone</target>
+        <target state="translated">No se encuentran pins de personas</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pinned items found." xml:space="preserve">
         <source>No pinned items found.</source>
-        <target state="translated">Non è stato trovato nessun elemento contrassegnato.</target>
+        <target state="translated">No se encuentran pins</target>
         <note>Shown on the home screen</note>
       </trans-unit>
       <trans-unit id="No providers found." xml:space="preserve">
         <source>No providers found.</source>
-        <target state="translated">Nessun servizio trovato.</target>
+        <target state="translated">No se encuentran proveedores</target>
         <note>Shown when there's no data for Where to Watch</note>
       </trans-unit>
       <trans-unit id="No results found for &quot;%@&quot;" xml:space="preserve">
         <source>No results found for "%@"</source>
-        <target state="translated">Nessun risultato per "%@"</target>
+        <target state="translated">No hay resultados para "%@"</target>
         <note>Generic "couldn't find anything for this query" message</note>
       </trans-unit>
       <trans-unit id="No search history found." xml:space="preserve">
         <source>No search history found.</source>
-        <target state="translated">Nessuna storia di ricerca trovata.</target>
+        <target state="translated">No se encuentra historial de búsquedas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Not a subscription" xml:space="preserve">
         <source>Not a subscription</source>
-        <target state="translated">Non abbonato</target>
+        <target state="translated">No es una suscripción</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Not purchased" xml:space="preserve">
         <source>Not purchased</source>
-        <target state="translated">Non acquistato</target>
+        <target state="translated">No se ha comprado</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Now Playing" xml:space="preserve">
         <source>Now Playing</source>
-        <target state="translated">In riproduzione</target>
+        <target state="translated">Reproduciendo ahora</target>
         <note>A header on the home screen &amp; a row in Settings; shows what is currently playing in Plex and/or Channels.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
-        <target state="translated">OK</target>
+        <target state="translated">Ok</target>
         <note/>
       </trans-unit>
       <trans-unit id="Oldest First" xml:space="preserve">
         <source>Oldest First</source>
-        <target state="translated">Prima i più vecchi</target>
+        <target state="translated">Más antiguos</target>
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
         <source>Optionally, you can choose to help more.</source>
-        <target state="translated">Opzionalmente, puoi scegliere di aiutare ancora di più.</target>
+        <target state="translated">Opcionalmente, puedes colaborar más</target>
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
         <source>Or, you can have %lld more free search. Just this once.</source>
-        <target state="translated">Oppure, puoi avere %lld ricerca gratis in più. Solo per stavolta.</target>
+        <target state="translated">O, puedes tener %lld búsqueda gratuita. Sólo esta vez.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
         <source>Or, you can have %lld more free searches. Just this once.</source>
-        <target state="translated">Oppure, puoi avere %lld ricerche gratis in più. Solo per stavolta.</target>
+        <target state="translated">O, puedes tener %lld búsquedas gratuitas. Sólo esta vez.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
         <source>Other Great Apps</source>
-        <target state="translated">Altre Grandi App</target>
+        <target state="translated">Otras Apps geniales</target>
         <note>Shown above Maskeraid &amp; Peek‑a‑View</note>
       </trans-unit>
       <trans-unit id="Other person" xml:space="preserve">
         <source>Other person</source>
-        <target state="translated">Altre persone</target>
+        <target state="translated">Otras personas</target>
         <note>Shown when doing cast union search for movies</note>
       </trans-unit>
       <trans-unit id="Other settings for more _particular_ users." xml:space="preserve">
         <source>Other settings for more _particular_ users.</source>
-        <target state="translated">Altre impostazione per utenti più _particolari_.</target>
+        <target state="translated">Otros ajustes para usuarios más _particulaesr_.</target>
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
         <source>Parental Guidance</source>
-        <target state="translated">Controlli Parentali</target>
+        <target state="translated">Guía Parental</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
         <source>Parental guidance won't be shown for cast and crew.</source>
-        <target state="translated">Le indicazioni parentali non saranno mostrate per il cast e la troupe</target>
+        <target state="translated">La Guía Parental no se mostrará para el reparto y equipo.</target>
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
       </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
         <source>Persnickety Preferences</source>
-        <target state="translated">Preferenze Pignole</target>
+        <target state="translated">Ajustes puntillosos</target>
         <note/>
       </trans-unit>
       <trans-unit id="Persnickety Prefs" xml:space="preserve">
         <source>Persnickety Prefs</source>
-        <target state="translated">Preferenze Pignole</target>
+        <target state="translated">Ajustes puntillosos</target>
         <note>Navigation title for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Pick a country" xml:space="preserve">
         <source>Pick a country</source>
-        <target state="translated">Scegli un paese</target>
+        <target state="translated">Elige un país</target>
         <note>Picker label for accessibility purposes, in Where to Watch</note>
       </trans-unit>
       <trans-unit id="Pin" xml:space="preserve">
         <source>Pin</source>
-        <target state="translated">Contrassegno</target>
+        <target state="translated">Pin</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="Pin Type" xml:space="preserve">
         <source>Pin Type</source>
-        <target state="translated">Tipo di Contrassegno</target>
+        <target state="translated">Tipo de pin</target>
         <note>Shown in the list of pins screen</note>
       </trans-unit>
       <trans-unit id="Pin your favorites for quick access." xml:space="preserve">
         <source>Pin your favorites for quick access.</source>
-        <target state="translated">Contrassegna i tuoi preferiti per un accesso veloce.</target>
+        <target state="translated">Pon un pin a tus favoritos para acceder rápidamente</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
         <source>Pinned Items</source>
-        <target state="translated">Elementi Contrassegnati</target>
+        <target state="translated">Elementos con Pin</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pinned items" xml:space="preserve">
         <source>Pinned items</source>
-        <target state="translated">Elementi contrassegnati</target>
+        <target state="translated">Elementos con pin</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
         <source>Plans:</source>
-        <target state="translated">Piani:</target>
+        <target state="translated">Planes:</target>
         <note>In the context of different subscription/IAP plans</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
         <source>Please send feedback to `hello@limitliss.co`</source>
-        <target state="translated">Per favore, invia il tuo feedback a `hello@limitliss.co`</target>
+        <target state="translated">Puedes mandar comentarios a `hello@limitliss.co`</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please wait a moment." xml:space="preserve">
         <source>Please wait a moment.</source>
-        <target state="translated">Per favore, attendi.</target>
+        <target state="translated">Espara un poco</target>
         <note>Subtitle when collecting log entries to send</note>
       </trans-unit>
       <trans-unit id="Popular Movies" xml:space="preserve">
         <source>Popular Movies</source>
-        <target state="translated">Film Popolari</target>
+        <target state="translated">Películas populares</target>
         <note/>
       </trans-unit>
       <trans-unit id="Popular TV Shows" xml:space="preserve">
         <source>Popular TV Shows</source>
-        <target state="translated">Serie TV Popolari</target>
+        <target state="translated">Series Populares</target>
         <note/>
       </trans-unit>
       <trans-unit id="Portrait" xml:space="preserve">
         <source>Portrait</source>
-        <target state="translated">Ritratto</target>
+        <target state="translated">Vertical</target>
         <note/>
       </trans-unit>
       <trans-unit id="Post-credits" xml:space="preserve">
         <source>Post-credits</source>
-        <target state="translated">Dopo i titoli di coda</target>
+        <target state="translated">Post créditos</target>
         <note/>
       </trans-unit>
       <trans-unit id="Poster" xml:space="preserve">
@@ -1007,12 +1011,12 @@
       </trans-unit>
       <trans-unit id="Prevent giving away spoilers by choosing to redact details." xml:space="preserve">
         <source>Prevent giving away spoilers by choosing to redact details.</source>
-        <target state="translated">Evita di rivelare spoiler scegliendo di nascondere dettagli.</target>
+        <target state="translated">Previene espoilers eligiendo ocultar detalles</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
         <source>Preview</source>
-        <target state="translated">Anteprima</target>
+        <target state="translated">Vísta Rápida</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preview Title" xml:space="preserve">
@@ -1022,117 +1026,117 @@
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
         <source>Privacy Policy</source>
-        <target state="translated">Politica della Privacy</target>
+        <target state="translated">Política de Privacidad</target>
         <note/>
       </trans-unit>
       <trans-unit id="Provided by" xml:space="preserve">
         <source>Provided by</source>
-        <target state="translated">Fornito da</target>
+        <target state="translated">Suministrado por</target>
         <note>In the context of "Provided by JustWatch"</note>
       </trans-unit>
       <trans-unit id="Provided by [JustWatch](https://www.justwatch.com/)" xml:space="preserve">
         <source>Provided by [JustWatch](https://www.justwatch.com/)</source>
-        <target state="translated">Fornito da [JustWatch](https://www.justwatch.com/)</target>
+        <target state="translated">Suministrado por [JustWatch](https://www.justwatch.com/)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Purchase Error" xml:space="preserve">
         <source>Purchase Error</source>
-        <target state="translated">Errore nell'acquisto</target>
+        <target state="translated">Error en la compra</target>
         <note/>
       </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
         <source>Purchased</source>
-        <target state="translated">Acquistato</target>
+        <target state="translated">Comprado</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Purchasing…" xml:space="preserve">
         <source>Purchasing…</source>
-        <target state="translated">Sto acquistando...</target>
+        <target state="translated">Comprando</target>
         <note/>
       </trans-unit>
       <trans-unit id="Quick Access Link" xml:space="preserve">
         <source>Quick Access Link</source>
-        <target state="translated">Collegamento Veloce</target>
+        <target state="translated">Enlace Rápido</target>
         <note>Title of the Quick Access Link screen in Settings</note>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
         <source>Quickly place emoji on photos — for privacy or fun!</source>
-        <target state="translated">Aggiungi velocemente emoji sulle foto – per privacy o divertimento!</target>
+        <target state="translated">Pon emojis en fotos  — Por privacidad o por diversión</target>
         <note>MaskerAid subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Rate this version of Callsheet" xml:space="preserve">
         <source>Rate this version of Callsheet</source>
-        <target state="translated">Valuta questa versione di Callsheet</target>
+        <target state="translated">Puntua esta versión de Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rating" xml:space="preserve">
         <source>Rating</source>
-        <target state="translated">Classificazione</target>
+        <target state="translated">Recomendacion de Edad</target>
         <note>A content rating like G/PG/PG-13/R</note>
       </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">
         <source>Recent Searches</source>
-        <target state="translated">Ricerche Recenti</target>
+        <target state="translated">Busquedas recientes</target>
         <note/>
       </trans-unit>
       <trans-unit id="Refresh" xml:space="preserve">
         <source>Refresh</source>
-        <target state="translated">Ricarica</target>
+        <target state="translated">Refrescar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Region Override" xml:space="preserve">
         <source>Region Override</source>
-        <target state="translated">Forza Regione</target>
+        <target state="translated">Invalidar Region</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Released" xml:space="preserve">
         <source>Released</source>
-        <target state="translated">Pubblicato</target>
+        <target state="translated">Estrenado</target>
         <note>When a TV episode or movie was released in the past</note>
       </trans-unit>
       <trans-unit id="Released " xml:space="preserve">
         <source>Released </source>
-        <target state="translated">Pubblicato</target>
+        <target state="translated">Estrenado </target>
         <note/>
       </trans-unit>
       <trans-unit id="Releases" xml:space="preserve">
         <source>Releases</source>
-        <target state="translated">Verrà pubblicato</target>
+        <target state="translated">Se estrenará</target>
         <note>When a TV episode or movie will be released</note>
       </trans-unit>
       <trans-unit id="Remove Pin" xml:space="preserve">
         <source>Remove Pin</source>
-        <target state="translated">Togli Contrassegno</target>
+        <target state="translated">Quitar Pin</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove pin" xml:space="preserve">
         <source>Remove pin</source>
-        <target state="translated">Togli contrassegno</target>
+        <target state="translated">Quitar pin</target>
         <note/>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
         <source>Request Refund</source>
-        <target state="translated">Chiedi Rimborso</target>
+        <target state="translated">Pedir reembolso</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore Purchase" xml:space="preserve">
         <source>Restore Purchase</source>
-        <target state="translated">Ripristina Acquisti</target>
+        <target state="translated">Restaurar compras</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reverse sort order" xml:space="preserve">
         <source>Reverse sort order</source>
-        <target state="translated">Inverti ordinamento</target>
+        <target state="translated">Invertir orden</target>
         <note/>
       </trans-unit>
       <trans-unit id="Revoked" xml:space="preserve">
         <source>Revoked</source>
-        <target state="translated">Revocato</target>
+        <target state="translated">Revocado</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Runtime" xml:space="preserve">
         <source>Runtime</source>
-        <target state="translated">Durata</target>
+        <target state="translated">Duración</target>
         <note>Heading for the total runtime of a TV episode</note>
       </trans-unit>
       <trans-unit id="Safari" xml:space="preserve">
@@ -1142,207 +1146,207 @@
       </trans-unit>
       <trans-unit id="Same perks as all other plans" xml:space="preserve">
         <source>Same perks as all other plans</source>
-        <target state="translated">Stessi vantaggi degli altri piani</target>
+        <target state="translated">Las mismas ventajas  que todos los otros planes</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
-        <target state="translated">Salva</target>
+        <target state="translated">Ahorro</target>
         <note/>
       </trans-unit>
       <trans-unit id="Save %@" xml:space="preserve">
         <source>Save %@</source>
-        <target state="translated">Risparmia il %@</target>
+        <target state="translated">Ahorra %@</target>
         <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
         <source>Score</source>
-        <target state="translated">Punteggio</target>
+        <target state="translated">Puntuación</target>
         <note>A 0-100 score of the quality of a movie/show</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
         <source>Search</source>
-        <target state="translated">Cerca</target>
+        <target state="translated">Buscar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search History" xml:space="preserve">
         <source>Search History</source>
-        <target state="translated">Cronologia delle Ricerche</target>
+        <target state="translated">Historial de Busquedas</target>
         <note>Title of the Search History screen</note>
       </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
         <source>Search history</source>
-        <target state="translated">Cronologia ricerche</target>
+        <target state="translated">Historial de busquedas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Season %lld Episode %lld" xml:space="preserve">
         <source>Season %1$lld Episode %2$lld</source>
-        <target state="translated">Stagione %1$lld Episodio %2$lld</target>
+        <target state="translated">Temporada %1$lld Epidodio %2$lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="Seasons" xml:space="preserve">
         <source>Seasons</source>
-        <target state="translated">Stagioni</target>
+        <target state="translated">Temporadas</target>
         <note>Navigation title for the screen showing the seasons of a TV show; NOT spring/summer</note>
       </trans-unit>
       <trans-unit id="Select a View" xml:space="preserve">
         <source>Select a View</source>
-        <target state="translated">Scegli una Vista</target>
+        <target state="translated">Elige una vista</target>
         <note>Shown when choosing between cast &amp; crew</note>
       </trans-unit>
       <trans-unit id="Send Feedback" xml:space="preserve">
         <source>Send Feedback</source>
-        <target state="translated">Invia Feedback</target>
+        <target state="translated">Mandar comentarios</target>
         <note/>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
-        <target state="translated">Impostazioni</target>
+        <target state="translated">Ajustes</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share" xml:space="preserve">
         <source>Share</source>
-        <target state="translated">Condividi</target>
+        <target state="translated">Compartir</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share Callsheet link" xml:space="preserve">
         <source>Share Callsheet link</source>
-        <target state="translated">Condividi un link Callsheet</target>
+        <target state="translated">Compartir un enlace a Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share Callsheet link…" xml:space="preserve">
         <source>Share Callsheet link…</source>
-        <target state="translated">Condividi un link Callsheet...</target>
+        <target state="translated">Compartir un enlace a Callsheet...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share web link" xml:space="preserve">
         <source>Share web link</source>
-        <target state="translated">Condividi un link web</target>
+        <target state="translated">Compartir link</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share web link…" xml:space="preserve">
         <source>Share web link…</source>
-        <target state="translated">Condividi un link web...</target>
+        <target state="translated">Compartir link...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shared image" xml:space="preserve">
         <source>Shared image</source>
-        <target state="translated">Immagine condivisa</target>
+        <target state="translated">Imagen compartida</target>
         <note>Export preview</note>
       </trans-unit>
       <trans-unit id="Show Poster" xml:space="preserve">
         <source>Show Poster</source>
-        <target state="translated">Mostra Poster</target>
+        <target state="translated">Mostrar Poster</target>
         <note>Accessibility label</note>
       </trans-unit>
       <trans-unit id="Show Poster Placeholder" xml:space="preserve">
         <source>Show Poster Placeholder</source>
-        <target state="translated">Mostra Segnaposto Poster</target>
+        <target state="translated">Mostrar marcador de posición de poster</target>
         <note>Shown in an accessibility label</note>
       </trans-unit>
       <trans-unit id="Show Spoilers" xml:space="preserve">
         <source>Show Spoilers</source>
-        <target state="translated">Mostra Spoiler</target>
+        <target state="translated">Mostrar espoilers</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show age information within credits lists. Ages are always shown for birth/death dates." xml:space="preserve">
         <source>Show age information within credits lists. Ages are always shown for birth/death dates.</source>
-        <target state="translated">Mostra informazioni sull'età nelle liste dei crediti. Le età sono sempre mostrate per le date di nascita e morte.</target>
+        <target state="translated">Mostrar edad en los créditos. Las edades siempre se muestran para fechas de nacimiento/muerte</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show movies, shows, or both in credit lists." xml:space="preserve">
         <source>Show movies, shows, or both in credit lists.</source>
-        <target state="translated">Mostra film, serie TV od entrambi nelle liste dei crediti.</target>
+        <target state="translated">Mostrar películas, series o ambos en los créditos</target>
         <note>Persnickety Preferences subtitle</note>
       </trans-unit>
       <trans-unit id="Show that you _really_ care" xml:space="preserve">
         <source>Show that you _really_ care</source>
-        <target state="translated">Show a cui tieni _davvero_</target>
+        <target state="translated">Series que _realmente_ te importan</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
         <source>Show titles a person may be known from.</source>
-        <target state="translated">Titoli di programmi per i quali una persona può essere conosciuta.</target>
+        <target state="translated">Mostrar peliculas o series por las que una persona pueda ser conocido</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, there was a problem." xml:space="preserve">
         <source>Sorry, there was a problem.</source>
-        <target state="translated">Spiacente, c'è stato un problema.</target>
+        <target state="translated">Perdón, hubo un problema.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, there was an error making your purchase. Please try it again later." xml:space="preserve">
         <source>Sorry, there was an error making your purchase. Please try it again later.</source>
-        <target state="translated">Spiacente, si è verificato un errore effettuando l’acquisto. Per favore riprova più tardi.</target>
+        <target state="translated">Perdón, ha habido un error al hacer tu compra. Por favor, intentalo más tarde</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
         <source>Sort Order</source>
-        <target state="translated">Ordinamento</target>
+        <target state="translated">Orden</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoiler Settings" xml:space="preserve">
         <source>Spoiler Settings</source>
-        <target state="translated">Impostazioni Spoiler</target>
+        <target state="translated">Ajustes de espóiler</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoilers" xml:space="preserve">
         <source>Spoilers</source>
-        <target state="translated">Spoiler</target>
+        <target state="translated">Espoilers</target>
         <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Start %@ Free Trial" xml:space="preserve">
         <source>Start %@ Free Trial</source>
-        <target state="translated">Inizia Prova Gratuita di %@</target>
+        <target state="translated">Empieza %@ la prueba gratuita</target>
         <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
         <source>Subscribe</source>
-        <target state="translated">Abbonati</target>
+        <target state="translated">Suscribete</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscribed" xml:space="preserve">
         <source>Subscribed</source>
-        <target state="translated">Abbonato</target>
+        <target state="translated">Suscrito</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscribers can change the app’s icon." xml:space="preserve">
         <source>Subscribers can change the app’s icon.</source>
-        <target state="translated">Gli Abbonati possono cambiare l’icona dell’app</target>
+        <target state="translated">Los suscriptores pueden cambiar el icono del App</target>
         <note>Subtitle for the App Icon row in Settings</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
         <source>Subscription Status</source>
-        <target state="translated">Stato Abbonamento</target>
+        <target state="translated">Estado de suscripción</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscriptions Debugging" xml:space="preserve">
         <source>Subscriptions Debugging</source>
-        <target state="translated">Debugging Abbonamento</target>
+        <target state="translated">Depurar suscripción</target>
         <note>Title of a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Summary" xml:space="preserve">
         <source>Summary</source>
-        <target state="translated">Riepilogo</target>
+        <target state="translated">Resumen</target>
         <note/>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
         <source>TV Shows</source>
-        <target state="translated">Serie TV</target>
+        <target state="translated">Series</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
         <source>Technical Details</source>
-        <target state="translated">Dettagli Tecnici</target>
+        <target state="translated">Detalles técnicos</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Terms of Service" xml:space="preserve">
         <source>Terms of Service</source>
-        <target state="translated">Termini di Servizio</target>
+        <target state="translated">Términos de Servicio</target>
         <note/>
       </trans-unit>
       <trans-unit id="Thank you for trying out Callsheet. 💙" xml:space="preserve">
         <source>Thank you for trying out Callsheet. 💙</source>
-        <target state="translated">Grazie per aver deciso di provare Callsheet. 💙</target>
+        <target state="translated">Gracias por probar Callsheet. 💙</target>
         <note/>
       </trans-unit>
       <trans-unit id="The Movie Database" xml:space="preserve">
@@ -1352,117 +1356,117 @@
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
         <source>There is no watch information available for *%@*.</source>
-        <target state="translated">Non ci sono informazioni di riproduzione per *%@*.</target>
+        <target state="translated">No hay información de visionado para *%@*.</target>
         <note/>
       </trans-unit>
       <trans-unit id="These are the default settings." xml:space="preserve">
         <source>These are the default settings.</source>
-        <target state="translated">Queste sono le impostazioni predefinite.</target>
+        <target state="translated">Estos son los ajustes por defecto</target>
         <note/>
       </trans-unit>
       <trans-unit id="These settings will only affect *%@*." xml:space="preserve">
         <source>These settings will only affect *%@*.</source>
-        <target state="translated">Queste impostazioni riguarderanno solo *%@*.</target>
+        <target state="translated">Estos ajustes solo afectaran a *%@*.</target>
         <note>Shown in spoiler settings for a particular show</note>
       </trans-unit>
       <trans-unit id="Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:" xml:space="preserve">
         <source>Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:</source>
-        <target state="translated">Anche se è stato scritto da me, Callsheet non sarebbe stato possibile senza gli sforzi di queste persone:</target>
+        <target state="translated">Aunque lo desarrollé yo, Callsheet no sería posibles sin los esfuerzos de las siguientes personas:</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source>
-        <target state="translated">Titolo, cast o troupe</target>
+        <target state="translated">Titulo, reparto o equipo</target>
         <note>Main search prompt on the bottom bar!</note>
       </trans-unit>
       <trans-unit id="Total runtime %@" xml:space="preserve">
         <source>Total runtime %@</source>
-        <target state="translated">Durata totale %@</target>
+        <target state="translated">Duración total</target>
         <note>Shown in a popover when looking at a TV season</note>
       </trans-unit>
       <trans-unit id="Transaction" xml:space="preserve">
         <source>Transaction</source>
-        <target state="translated">Transazione</target>
+        <target state="translated">Transacción</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Trial Period" xml:space="preserve">
         <source>Trial Period</source>
-        <target state="translated">Periodo di Prova</target>
+        <target state="translated">Periodo de Pureba</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Trivia" xml:space="preserve">
         <source>Trivia</source>
-        <target state="translated">Trivia</target>
+        <target state="translated">Cosas curiosas</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
         <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source>
-        <target state="translated">Sfortunatamente, The Movie Database](https://www.themoviedb.org/) non supporta ancora ricerche congiunte per i programmi. Gli ho chiesto di aggiungerle, vedremo cosa succede!</target>
+        <target state="translated">Desafortunadamente, [The Movie Database](https://www.themoviedb.org/) no soporta hacer uniones de busquedas para las series. Les he pedido que lo añadan, ¿veremos lo que pasa!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
-        <target state="translated">Sconosciuto</target>
+        <target state="translated">Desconocido</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unlimited searches" xml:space="preserve">
         <source>Unlimited searches</source>
-        <target state="translated">Ricerche illimitate</target>
+        <target state="translated">Búsquedas ilimitadas</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Upcoming" xml:space="preserve">
         <source>Upcoming</source>
-        <target state="translated">Imminenti</target>
+        <target state="translated">Próximamente</target>
         <note>Header for titles a person will be in, but have not been released yet</note>
       </trans-unit>
       <trans-unit id="Upgraded" xml:space="preserve">
         <source>Upgraded</source>
-        <target state="translated">Upgradato</target>
+        <target state="translated">Mejorado</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="User Interface" xml:space="preserve">
         <source>User Interface</source>
-        <target state="translated">Interfaccia Utente</target>
+        <target state="translated">Interfaz de Usuario</target>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Waiting for approval…" xml:space="preserve">
         <source>Waiting for approval…</source>
-        <target state="translated">In attesa di approvazione...</target>
+        <target state="translated">Esperando para la aprobación</target>
         <note>Shown when waiting for a purchase to be approved (probably by a parent)</note>
       </trans-unit>
       <trans-unit id="Watch in:" xml:space="preserve">
         <source>Watch in:</source>
-        <target state="translated">Guarda in:</target>
+        <target state="translated">Ver en:</target>
         <note>Shown when choosing a country to use for Where to Watch (short version)</note>
       </trans-unit>
       <trans-unit id="Website" xml:space="preserve">
         <source>Website</source>
-        <target state="translated">Sito Internet</target>
+        <target state="translated">Sitio Web</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="What was that thing I looked up yesterday?" xml:space="preserve">
         <source>What was that thing I looked up yesterday?</source>
-        <target state="translated">Cos’è che ho guardato ieri?</target>
+        <target state="translated">Que miré ayer</target>
         <note>Subtitle for "Search history"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Where to Watch" xml:space="preserve">
         <source>Where to Watch</source>
-        <target state="translated">Dove Guardare</target>
+        <target state="translated">Donde Ver</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Which browser to use to open external links." xml:space="preserve">
         <source>Which browser to use to open external links.</source>
-        <target state="translated">Che browser usare per aprire link esterni.</target>
+        <target state="translated">Que navegador uso para abrir los enlaces externos</target>
         <note/>
       </trans-unit>
       <trans-unit id="Which quick access link is shown." xml:space="preserve">
         <source>Which quick access link is shown.</source>
-        <target state="translated">Qualche link di accesso veloce è mostrato.</target>
+        <target state="translated">Que enlace rápido se muestra</target>
         <note>Shown as a subtitle for a row on Settings</note>
       </trans-unit>
       <trans-unit id="Why not shows?" xml:space="preserve">
         <source>Why not shows?</source>
-        <target state="translated">Perché non Serie TV?</target>
+        <target state="translated">¡Porqué no hay series?</target>
         <note>Shown at the bottom of the "what movies are both of these actors in?" screen</note>
       </trans-unit>
       <trans-unit id="Wikipedia" xml:space="preserve">
@@ -1472,67 +1476,67 @@
       </trans-unit>
       <trans-unit id="Will NOT renew" xml:space="preserve">
         <source>Will NOT renew</source>
-        <target state="translated">NON rinnoverà</target>
+        <target state="translated">NO se renovará</target>
         <note>Shown in a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="Will renew" xml:space="preserve">
         <source>Will renew</source>
-        <target state="translated">Rinnoverà</target>
+        <target state="translated">Se renovará</target>
         <note>Shown in a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="With a subscription, you get:" xml:space="preserve">
         <source>With a subscription, you get:</source>
-        <target state="translated">Con un abbonamento, ottieni:</target>
+        <target state="translated">Con una suscripción consigues:</target>
         <note/>
       </trans-unit>
       <trans-unit id="You Can Help" xml:space="preserve">
         <source>You Can Help</source>
-        <target state="translated">Puoi Aiutare</target>
+        <target state="translated">Puedes Ayudar</target>
         <note>Title shown when trying to upsell users to more-expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="You can be second! That’s pretty great!" xml:space="preserve">
         <source>You can be second! That’s pretty great!</source>
-        <target state="translated">Puoi essere il secondo! Piuttosto grandioso!</target>
+        <target state="translated">¡Puedes ser el segundo! ¡Está muy bien!</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="You can be the first! Don’t be shy!" xml:space="preserve">
         <source>You can be the first! Don’t be shy!</source>
-        <target state="translated">Puoi essere il primo! Non essere timido/a!</target>
+        <target state="translated">¡Puedes ser el primero! ¡No seas tímido!</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="You don't seem to have a subscription. 🤨" xml:space="preserve">
         <source>You don't seem to have a subscription. 🤨</source>
-        <target state="translated">Non sembri avere un abbonamento. 🤨</target>
+        <target state="translated">No parece que tengas una subscripción. 🤨</target>
         <note/>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
         <source>You have used all your free searches. Subscribe for unlimited searches.</source>
-        <target state="translated">Hai utilizzato tutte le tue ricerche gratuite. Abbonati per ricerche illimitate.</target>
+        <target state="translated">Has alcanzado todas tus busquedas gratis. Suscribete para busquedas ilimitadas</target>
         <note/>
       </trans-unit>
       <trans-unit id="You may know them from" xml:space="preserve">
         <source>You may know them from</source>
-        <target state="translated">Puoi conoscerli da</target>
+        <target state="translated">Los puedes conocer por</target>
         <note>Header shown for people</note>
       </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
         <source>Your favorite characters finally get married.</source>
-        <target state="translated">I tuoi personaggi preferiti finalmente si sposano</target>
+        <target state="translated">Tu personaje favorito se casa finalmente</target>
         <note>A fake summary shown when demonstrating hiding spoilers</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
         <source>Your purchase is still pending. Please wait for it to be approved.</source>
-        <target state="translated">Il to acquisto è ancora in corso. Per favore attenti l'approvazione.</target>
+        <target state="translated">Tu compra esta aun pendiente. Espera a que se apruebe, por favor.</target>
         <note>Shown when a a purchase needs to be approved; likely a child needs a parent to approve it</note>
       </trans-unit>
       <trans-unit id="Your subscription **will not** auto-renew" xml:space="preserve">
         <source>Your subscription **will not** auto-renew</source>
-        <target state="translated">Il tuo abbonamento **non** si rinnoverà automaticamente</target>
+        <target state="translated">Tu suscripcion **no** se renovará automaticamente</target>
         <note>Only shown on a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="Your subscription **will** auto-renew" xml:space="preserve">
         <source>Your subscription **will** auto-renew</source>
-        <target state="translated">Il tuo abbonamento **si rinnoverà** automaticamente</target>
+        <target state="translated">Tu suscripcion **si** se renovará automaticamente</target>
         <note>Only shown on a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
@@ -1542,27 +1546,27 @@
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
         <source>per %@</source>
-        <target state="translated">per %@</target>
+        <target state="translated">al</target>
         <note>cost per period; ie "per month" or "per year"</note>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
         <source>pin</source>
-        <target state="translated">contrassegno</target>
+        <target state="translated">pin</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="pinned items" xml:space="preserve">
         <source>pinned items</source>
-        <target state="translated">elementi contrassegnati</target>
+        <target state="translated">elementos con pin</target>
         <note/>
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
         <source>visionOS does not support changing icons yet.</source>
-        <target state="translated">visionOS non supporta ancora il cambio di icone</target>
+        <target state="translated">visionOS no soporta cambiar iconos aun.</target>
         <note>Subtitle for the App Icon row in Settings on visionOS</note>
       </trans-unit>
       <trans-unit id="years old" xml:space="preserve">
         <source>years old</source>
-        <target state="translated">anni</target>
+        <target state="translated">años</target>
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
