@@ -14,11 +14,11 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
-        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
+        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source><target>Jeśli Callsheet może używać Twoeje sieci lokalnej, powinno móc pokazać linki to aktualnie odtwarzanych mediów na głównym ekranie. Włączenie dostępu do sieci lokalnej jest opcjonalne. Żadne dane na temat Twojej sieci nie są wysyłane z Twojego urządzenia.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
-        <source>Search</source>
+        <source>Search</source><target>Szukaj</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
@@ -578,7 +578,7 @@
         <note>Name of the maximum-cost annual subscription </note>
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
-        <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source>
+        <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source><target>Jeśli odtwarzasz coś używając [Channels](https://getchannels.com/) lub [Plex](https://plex.tv/) na innym urządzeniu, Callsheet może wyświetlać ten serial lub film na górze karty Odkryj.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
@@ -602,7 +602,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Integrations" xml:space="preserve">
-        <source>Integrations</source>
+        <source>Integrations</source><target>Integracje</target>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="JustWatch" xml:space="preserve">
@@ -610,7 +610,7 @@
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Known For" xml:space="preserve">
-        <source>Known For</source>
+        <source>Known For</source><target>Znana/y z</target>
         <note/>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
@@ -622,11 +622,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
-        <source>Lived</source>
+        <source>Lived</source><target>Żył(a)</target>
         <note>How long an actor lived</note>
       </trans-unit>
       <trans-unit id="Loading…" xml:space="preserve">
-        <source>Loading…</source>
+        <source>Loading…</source><target>Ładuję…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Macro State at %@" xml:space="preserve">
@@ -678,27 +678,27 @@
         <note>Title for cast union view</note>
       </trans-unit>
       <trans-unit id="Name or job" xml:space="preserve">
-        <source>Name or job</source>
+        <source>Name or job</source><target>Imię lub praca</target>
         <note>Crew search prompt</note>
       </trans-unit>
       <trans-unit id="Name or role" xml:space="preserve">
-        <source>Name or role</source>
+        <source>Name or role</source><target>Imię lub rola</target>
         <note>Cast search prompt</note>
       </trans-unit>
       <trans-unit id="New Episodes" xml:space="preserve">
-        <source>New Episodes</source>
+        <source>New Episodes</source><target>Nowe odcinki</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Movies" xml:space="preserve">
-        <source>New Movies</source>
+        <source>New Movies</source><target>Nowe filmy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Newest First" xml:space="preserve">
-        <source>Newest First</source>
+        <source>Newest First</source><target>Najnowsze na początku</target>
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Next Episode" xml:space="preserve">
-        <source>Next Episode</source>
+        <source>Next Episode</source><target>Następny odcinek</target>
         <note/>
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
@@ -758,7 +758,7 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Now Playing" xml:space="preserve">
-        <source>Now Playing</source>
+        <source>Now Playing</source><target>Teraz odtwarzane</target>
         <note>A header on the home screen &amp; a row in Settings; shows what is currently playing in Plex and/or Channels.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -794,7 +794,7 @@
         <note>Shown above Maskeraid &amp; Peek‑a‑View</note>
       </trans-unit>
       <trans-unit id="Other person" xml:space="preserve">
-        <source>Other person</source>
+        <source>Other person</source><target>Inna osoba</target>
         <note>Shown when doing cast union search for movies</note>
       </trans-unit>
       <trans-unit id="Other settings for more _particular_ users." xml:space="preserve">
@@ -818,7 +818,7 @@
         <note>Navigation title for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Pick a country" xml:space="preserve">
-        <source>Pick a country</source>
+        <source>Pick a country</source><target>Wybierz kraj</target>
         <note>Picker label for accessibility purposes, in Where to Watch</note>
       </trans-unit>
       <trans-unit id="Pin" xml:space="preserve">
@@ -834,15 +834,15 @@
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
-        <source>Pinned Items</source>
+        <source>Pinned Items</source><target>Przypięte rzeczy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pinned items" xml:space="preserve">
-        <source>Pinned items</source>
+        <source>Pinned items</source><target>Przypięte rzeczy</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
-        <source>Plans:</source>
+        <source>Plans:</source><target>Plany:</target>
         <note>In the context of different subscription/IAP plans</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
@@ -850,15 +850,15 @@
         <note/>
       </trans-unit>
       <trans-unit id="Please wait a moment." xml:space="preserve">
-        <source>Please wait a moment.</source>
+        <source>Please wait a moment.</source><target>Proszę poczekaj chwilę.</target>
         <note>Subtitle when collecting log entries to send</note>
       </trans-unit>
       <trans-unit id="Popular Movies" xml:space="preserve">
-        <source>Popular Movies</source>
+        <source>Popular Movies</source><target>Popularne filmy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Popular TV Shows" xml:space="preserve">
-        <source>Popular TV Shows</source>
+        <source>Popular TV Shows</source><target>Popularne seriale</target>
         <note/>
       </trans-unit>
       <trans-unit id="Portrait" xml:space="preserve">
@@ -870,7 +870,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Poster" xml:space="preserve">
-        <source>Poster</source>
+        <source>Poster</source><target>Plakat</target>
         <note/>
       </trans-unit>
       <trans-unit id="Prevent giving away spoilers by choosing to redact details." xml:space="preserve">
@@ -878,7 +878,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
-        <source>Preview</source>
+        <source>Preview</source><target/>
         <note/>
       </trans-unit>
       <trans-unit id="Preview Title" xml:space="preserve">
@@ -902,11 +902,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
-        <source>Purchased</source>
+        <source>Purchased</source><target>Kupione</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Purchasing…" xml:space="preserve">
-        <source>Purchasing…</source>
+        <source>Purchasing…</source><target>Kupuję…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Quick Access Link" xml:space="preserve">
@@ -958,11 +958,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
-        <source>Request Refund</source>
+        <source>Request Refund</source><target>Poproś o zwrot pieniędzy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore Purchase" xml:space="preserve">
-        <source>Restore Purchase</source>
+        <source>Restore Purchase</source><target>Przywróc zakup</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reverse sort order" xml:space="preserve">
@@ -970,7 +970,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Revoked" xml:space="preserve">
-        <source>Revoked</source>
+        <source>Revoked</source><target>Odrzucone</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Runtime" xml:space="preserve">
@@ -978,7 +978,7 @@
         <note>Heading for the total runtime of a TV episode</note>
       </trans-unit>
       <trans-unit id="Safari" xml:space="preserve">
-        <source>Safari</source>
+        <source>Safari</source><target>Safari</target>
         <note>Which browser to use for web links (the other option is "In-App Browser")</note>
       </trans-unit>
       <trans-unit id="Same perks as all other plans" xml:space="preserve">
@@ -986,11 +986,11 @@
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
-        <source>Save</source>
+        <source>Save</source><target>Zapisz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Save %@" xml:space="preserve">
-        <source>Save %@</source>
+        <source>Save %@</source><target>Zapisz  %@</target>
         <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
@@ -998,15 +998,15 @@
         <note>A 0-100 score of the quality of a movie/show</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
-        <source>Search</source>
+        <source>Search</source><target>Szukaj</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search History" xml:space="preserve">
-        <source>Search History</source>
+        <source>Search History</source><target>Historia wyszukiwania</target>
         <note>Title of the Search History screen</note>
       </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
-        <source>Search history</source>
+        <source>Search history</source><target>Historia wyszukiwania</target>
         <note/>
       </trans-unit>
       <trans-unit id="Season %lld Episode %lld" xml:space="preserve">
@@ -1014,11 +1014,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Seasons" xml:space="preserve">
-        <source>Seasons</source>
+        <source>Seasons</source><target>Sezony</target>
         <note>Navigation title for the screen showing the seasons of a TV show; NOT spring/summer</note>
       </trans-unit>
       <trans-unit id="Select a View" xml:space="preserve">
-        <source>Select a View</source>
+        <source>Select a View</source><target>Wybierz widok</target>
         <note>Shown when choosing between cast &amp; crew</note>
       </trans-unit>
       <trans-unit id="Send Feedback" xml:space="preserve">
@@ -1026,27 +1026,27 @@
         <note/>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
-        <source>Settings</source>
+        <source>Settings</source><target>Ustawienia</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share" xml:space="preserve">
-        <source>Share</source>
+        <source>Share</source><target>Udostępnij</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share Callsheet link" xml:space="preserve">
-        <source>Share Callsheet link</source>
+        <source>Share Callsheet link</source><target>Udostępnij link Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share Callsheet link…" xml:space="preserve">
-        <source>Share Callsheet link…</source>
+        <source>Share Callsheet link…</source><target>Udostępnij link Callsheet…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share web link" xml:space="preserve">
-        <source>Share web link</source>
+        <source>Share web link</source><target>Udostępnij link</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share web link…" xml:space="preserve">
-        <source>Share web link…</source>
+        <source>Share web link…</source><target>Udostępnij link…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shared image" xml:space="preserve">
@@ -1310,7 +1310,7 @@
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="pinned items" xml:space="preserve">
-        <source>pinned items</source>
+        <source>pinned items</source><target>przypięte rzeczy</target>
         <note/>
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
