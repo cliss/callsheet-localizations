@@ -25,10 +25,11 @@ As of [b06c151](https://github.com/cliss/callsheet-localizations/commit/b06c1512
 | Japanese        | 16%         | [kenroy](https://github.com/kenroy) |
 
 
-
 ## Basics
 
 This repository contains a series of [string catalog](https://developer.apple.com/documentation/xcode/localizing-and-varying-text-with-a-string-catalog) files. They contain a series of translatable snippets, and, eventually, their translations.
+
+I am not concerned with word-for-word, direct translations. **I'd vastly prefer translations that capture the _spirit_ and _tone_ of what's being said &mdash; and Callsheet in general &mdash; even if that means rephrasing what I've written, using locally-appropriate idioms, etc.** Please have fun with this, and make choices that are appropriate for the audience that speaks your language.
 
 The easiest way to open and modify these files &mdash; other than using [Xcode](https://developer.apple.com/xcode/) &mdash; is to use the free macOS app [Loca Studio](https://www.cunningo.com/locastudio/index.html).
 
