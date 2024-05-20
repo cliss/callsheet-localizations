@@ -443,6 +443,7 @@
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
         <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
+        <target state="translated">Elke serie kent zijn eigen instellingen. In te stellen door op de `Verberg Spoilers...`-knop te drukken als je een serie of aflevering bekijkt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
