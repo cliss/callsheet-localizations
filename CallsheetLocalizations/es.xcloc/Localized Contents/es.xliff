@@ -229,7 +229,7 @@
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
         <source>Be like the many other beautiful people who have rated this version.</source>
-        <target state="translated">Se como muchas de las bellisimas personas que han valorado esta versión.</target>
+        <target state="translated">Sé como muchas de las bellisimas personas que han valorado esta versión.</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
@@ -324,7 +324,7 @@
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
         <source>Choose spoiler-risky things to hide by default.</source>
-        <target state="translated">Elige la cantidad de espóiler que ocultar por defecto</target>
+        <target state="translated">Elige la cantidad de espoilers que ocultar para todas las series</target>
         <note>Subtitle for a row in Settings</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
@@ -389,7 +389,7 @@
       </trans-unit>
       <trans-unit id="Credits Lists" xml:space="preserve">
         <source>Credits Lists</source>
-        <target state="translated">Lista de creditos</target>
+        <target state="translated">Lista de créditos</target>
         <note>Persnickety Preferences header</note>
       </trans-unit>
       <trans-unit id="Crew" xml:space="preserve">
@@ -414,7 +414,7 @@
       </trans-unit>
       <trans-unit id="Default Spoiler Settings" xml:space="preserve">
         <source>Default Spoiler Settings</source>
-        <target state="translated">Ajustes de espóiler por defecto</target>
+        <target state="translated">Ajustes de espoilers por defecto</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete recent searches" xml:space="preserve">
@@ -494,7 +494,7 @@
       </trans-unit>
       <trans-unit id="Feedback emails are lovely to read!" xml:space="preserve">
         <source>Feedback emails are lovely to read!</source>
-        <target state="translated">Es maravilloso leer comentarios por correo electrónico</target>
+        <target state="translated">Recibir emails con comentarios o sugerencias es hermoso</target>
         <note>Shown in Settings to try to get users to rate the app</note>
       </trans-unit>
       <trans-unit id="Find a way to watch in:" xml:space="preserve">
@@ -516,12 +516,12 @@
       </trans-unit>
       <trans-unit id="For Where to Watch." xml:space="preserve">
         <source>For Where to Watch.</source>
-        <target state="translated">para Donde Ver</target>
+        <target state="translated">Para _Donde Ver_</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="For new &amp; popular media." xml:space="preserve">
         <source>For new &amp; popular media.</source>
-        <target state="translated">para Nuevo y Popular</target>
+        <target state="translated">Para _Nuevo y Popular_</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
@@ -651,7 +651,7 @@
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
         <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source>
-        <target state="translated">Si reproduces algo usando [Channels](https://getchannels.com/) o [Plex](https://plex.tv/) en otro dispositivo. Callsheet puede mostrar esa serue o película al principio de la pantalla Descubrir.</target>
+        <target state="translated">Si reproduces algo usando [Channels](https://getchannels.com/) o [Plex](https://plex.tv/) en otro dispositivo, Callsheet puede mostrar esa serie o película en la pantalla _Descubrir_.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
@@ -696,12 +696,12 @@
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
-        <target state="translated">Invalidar Idioma</target>
+        <target state="translated">Ignorar Idioma</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
         <source>Learn about the people behind Callsheet.</source>
-        <target state="translated">Conoce a la gente detras de Callsheet</target>
+        <target state="translated">Conoce a la gente que hay detrás de Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
@@ -766,7 +766,7 @@
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
         <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source>
-        <target state="translated">Las películas y las series mostraran un enlace rápido. Las demas estaran disponibles en el menú Más</target>
+        <target state="translated">Las películas y las series mostraran un enlace para acceder rápidamente. Las otras opciones estaran disponibles en el menú Más</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movies featuring" xml:space="preserve">
@@ -916,7 +916,7 @@
       </trans-unit>
       <trans-unit id="Other settings for more _particular_ users." xml:space="preserve">
         <source>Other settings for more _particular_ users.</source>
-        <target state="translated">Otros ajustes para usuarios más _particulaesr_.</target>
+        <target state="translated">Otros ajustes para usuarios más _particulares_.</target>
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
@@ -961,12 +961,12 @@
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
         <source>Pinned Items</source>
-        <target state="translated">Elementos con Pin</target>
+        <target state="translated">Elementos Fijados</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pinned items" xml:space="preserve">
         <source>Pinned items</source>
-        <target state="translated">Elementos con pin</target>
+        <target state="translated">Elementos fijados</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
@@ -1011,12 +1011,12 @@
       </trans-unit>
       <trans-unit id="Prevent giving away spoilers by choosing to redact details." xml:space="preserve">
         <source>Prevent giving away spoilers by choosing to redact details.</source>
-        <target state="translated">Previene espoilers eligiendo ocultar detalles</target>
+        <target state="translated">Evita espoilers eligiendo que detalles ocultar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
         <source>Preview</source>
-        <target state="translated">Vísta Rápida</target>
+        <target state="translated">Ejemplo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preview Title" xml:space="preserve">
@@ -1066,7 +1066,7 @@
       </trans-unit>
       <trans-unit id="Rate this version of Callsheet" xml:space="preserve">
         <source>Rate this version of Callsheet</source>
-        <target state="translated">Puntua esta versión de Callsheet</target>
+        <target state="translated">Escribe una reseña o valora esta versión de Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rating" xml:space="preserve">
@@ -1086,7 +1086,7 @@
       </trans-unit>
       <trans-unit id="Region Override" xml:space="preserve">
         <source>Region Override</source>
-        <target state="translated">Invalidar Region</target>
+        <target state="translated">Ignorar Region</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Released" xml:space="preserve">
@@ -1251,12 +1251,12 @@
       </trans-unit>
       <trans-unit id="Show age information within credits lists. Ages are always shown for birth/death dates." xml:space="preserve">
         <source>Show age information within credits lists. Ages are always shown for birth/death dates.</source>
-        <target state="translated">Mostrar edad en los créditos. Las edades siempre se muestran para fechas de nacimiento/muerte</target>
+        <target state="translated">Mostrar la edad en los créditos. Las edades siempre se muestran para fechas de nacimiento o muerte</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show movies, shows, or both in credit lists." xml:space="preserve">
         <source>Show movies, shows, or both in credit lists.</source>
-        <target state="translated">Mostrar películas, series o ambos en los créditos</target>
+        <target state="translated">Mostrar películas, series o ambos en la lista de créditos</target>
         <note>Persnickety Preferences subtitle</note>
       </trans-unit>
       <trans-unit id="Show that you _really_ care" xml:space="preserve">
@@ -1286,7 +1286,7 @@
       </trans-unit>
       <trans-unit id="Spoiler Settings" xml:space="preserve">
         <source>Spoiler Settings</source>
-        <target state="translated">Ajustes de espóiler</target>
+        <target state="translated">Ajustes de espoilers</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoilers" xml:space="preserve">
@@ -1371,7 +1371,7 @@
       </trans-unit>
       <trans-unit id="Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:" xml:space="preserve">
         <source>Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:</source>
-        <target state="translated">Aunque lo desarrollé yo, Callsheet no sería posibles sin los esfuerzos de las siguientes personas:</target>
+        <target state="translated">Aunque ha sido desarrollado sólo por mi, Callsheet no sería posibles sin los esfuerzos de las siguientes personas:</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
@@ -1456,12 +1456,12 @@
       </trans-unit>
       <trans-unit id="Which browser to use to open external links." xml:space="preserve">
         <source>Which browser to use to open external links.</source>
-        <target state="translated">Que navegador uso para abrir los enlaces externos</target>
+        <target state="translated">Que navegador usas para abrir los enlaces externos</target>
         <note/>
       </trans-unit>
       <trans-unit id="Which quick access link is shown." xml:space="preserve">
         <source>Which quick access link is shown.</source>
-        <target state="translated">Que enlace rápido se muestra</target>
+        <target state="translated">Que enlace rápido se muestra de forma principal</target>
         <note>Shown as a subtitle for a row on Settings</note>
       </trans-unit>
       <trans-unit id="Why not shows?" xml:space="preserve">
@@ -1521,7 +1521,7 @@
       </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
         <source>Your favorite characters finally get married.</source>
-        <target state="translated">Tu personaje favorito se casa finalmente</target>
+        <target state="translated">Tu personaje favorito finalmente se casa</target>
         <note>A fake summary shown when demonstrating hiding spoilers</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
@@ -1556,7 +1556,7 @@
       </trans-unit>
       <trans-unit id="pinned items" xml:space="preserve">
         <source>pinned items</source>
-        <target state="translated">elementos con pin</target>
+        <target state="translated">elementos fijados</target>
         <note/>
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
