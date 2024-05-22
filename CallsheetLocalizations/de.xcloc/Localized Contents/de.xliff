@@ -209,6 +209,7 @@
       </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
         <source>Apple Keynote</source>
+        <target state="translated">Apple Keynote</target>
         <note>Example episode name shown in Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
@@ -258,6 +259,7 @@
       </trans-unit>
       <trans-unit id="Botanist" xml:space="preserve">
         <source>Botanist</source>
+        <target state="translated">Botaniker</target>
         <note>Example role shown in Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
@@ -1054,6 +1056,7 @@
       </trans-unit>
       <trans-unit id="Purchase a subscription" xml:space="preserve">
         <source>Purchase a subscription</source>
+        <target state="translated">Abonnement erwerben</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
@@ -1063,6 +1066,7 @@
       </trans-unit>
       <trans-unit id="Purchasing is unavailable at this time." xml:space="preserve">
         <source>Purchasing is unavailable at this time.</source>
+        <target state="translated">Der Kauf ist im Moment nicht verfügbar.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Purchasing…" xml:space="preserve">
@@ -1142,10 +1146,12 @@
       </trans-unit>
       <trans-unit id="Restore Purchases" xml:space="preserve">
         <source>Restore Purchases</source>
+        <target state="translated">Käufe wiederherstellen</target>
         <note>Button title in Settings</note>
       </trans-unit>
       <trans-unit id="Restoring…" xml:space="preserve">
         <source>Restoring…</source>
+        <target state="translated">Wiederherstellung läuft ...</target>
         <note>Button title in Settings when actively restoring a purchase</note>
       </trans-unit>
       <trans-unit id="Reverse sort order" xml:space="preserve">
@@ -1295,6 +1301,7 @@
       </trans-unit>
       <trans-unit id="So sorry!" xml:space="preserve">
         <source>So sorry!</source>
+        <target state="translated">Es tut mir sehr leid!</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Sorry, there was a problem." xml:space="preserve">
@@ -1539,10 +1546,12 @@
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.one" xml:space="preserve">
         <source>You have %lld day remaining in your trial.</source>
+        <target state="translated">Dein Probeabo läuft noch %lld Tag.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.other" xml:space="preserve">
         <source>You have %lld days remaining in your trial.</source>
+        <target state="translated">Dein Probeabo läuft noch %lld Tage.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
@@ -1557,11 +1566,14 @@
       </trans-unit>
       <trans-unit id="You must have a subscription to use the app." xml:space="preserve">
         <source>You must have a subscription to use the app.</source>
+        <target state="translated">Du brauchst ein Abo, um die App zu benutzen.</target>
         <note>Shown in Settings as a subtitle if you haven't purchased the app</note>
       </trans-unit>
       <trans-unit id="Your %@ will expire on&#10;%@" xml:space="preserve">
         <source>Your %1$@ will expire on
 %2$@</source>
+        <target state="translated">Dein %1$@ läuft ab am
+%2$@</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
@@ -1571,6 +1583,7 @@
       </trans-unit>
       <trans-unit id="Your free trial has expired; you must purchase a subscription to use Callsheet." xml:space="preserve">
         <source>Your free trial has expired; you must purchase a subscription to use Callsheet.</source>
+        <target state="translated">Dein Probeabo ist abgelaufen; du musst ein Abo abschließen, um Callsheet zu nutzen.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
@@ -1590,6 +1603,7 @@
       </trans-unit>
       <trans-unit id="Your subscription has expired; you must purchase a new subscription to use Callsheet." xml:space="preserve">
         <source>Your subscription has expired; you must purchase a new subscription to use Callsheet.</source>
+        <target state="translated">Dein Probeabo ist abgelaufen; du musst ein neues Abo abschließen, um Callsheet zu nutzen.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
