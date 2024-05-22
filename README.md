@@ -8,20 +8,20 @@ There are two sections:
 
 ## Current Status
 
-As of [f7ee587](https://github.com/cliss/callsheet-localizations/commit/f7ee587c3838e4092b0181b2802a5208d042f910):
+As of [58c82df](https://github.com/cliss/callsheet-localizations/commit/58c82df0bc8eb5a00080f94b6e64fdfac64a68b4):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
 | English         | N/A         | ✔️              | [cliss](https://github.com/cliss) |
-| Ukrainian       | 100% :tada: | ✔️              |  [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
-| German          | 100% :tada: | ✔️              |  [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
-| Spanish         | 100% :tada: | ✔️              |  [unaiherran](https://github.com/unaiherran) |
-| Russian         | 100% :tada: |                 | [gkeep](https://github.com/gkeep) |
-| Dutch           | 100% :tada: |                 | [Deddiekoel](https://github.com/deddiekoel) |
-| Italian         | 99%         | ✔️              | [cdf1982](https://github.com/cdf1982) |
-| French          | 99%         |                 | [EricEEEEE](https://github.com/EricEEEEE) |
-| Portuguese (🇧🇷) | 77%         |                 | [insidegui](https://github.com/insidegui) |
-| Polish          | 24%         |                 | [spitfire](https://github.com/spitfire) |
+| Ukrainian       | 96%         | ✔️              |  [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
+| German          | 96%         | ✔️              |  [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
+| Spanish         | 96%         | ✔️              |  [unaiherran](https://github.com/unaiherran) |
+| Russian         | 96%         |                 | [gkeep](https://github.com/gkeep) |
+| Dutch           | 96%         | ✔️              | [Deddiekoel](https://github.com/deddiekoel) |
+| Italian         | 95%         | ✔️              | [cdf1982](https://github.com/cdf1982) |
+| French          | 95%         |                 | [EricEEEEE](https://github.com/EricEEEEE) |
+| Portuguese (🇧🇷) | 74%         |                 | [insidegui](https://github.com/insidegui) |
+| Polish          | 23%         |                 | [spitfire](https://github.com/spitfire) |
 | Japanese        | 16%         |                 | [kenroy](https://github.com/kenroy) |
 
 [as]: https://github.com/cliss/callsheet-localizations/tree/main/AppStore
