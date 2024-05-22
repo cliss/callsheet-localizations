@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.other" xml:space="preserve">
         <source>%lld Seasons</source>
-        <target state="new">%lld Seasons</target>
+        <target state="new">%lld セゾン</target>
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.other" xml:space="preserve">
         <source>%lld episodes</source>
-        <target state="new">%lld episodes</target>
+        <target state="new">%lld 話</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.other" xml:space="preserve">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.other" xml:space="preserve">
         <source>%lld minutes</source>
-        <target state="new">%lld minutes</target>
+        <target state="new">%lld 分</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld of %lld" xml:space="preserve">
@@ -97,16 +97,16 @@
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="new">%lld years old</target>
+        <target state="new">%lld 歳</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
-        <source>%lld years</source>
+        <source>%lld years</source><target>%lld 年</target>
         <note>How old a person was when they passed</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="new">%lld years old</target>
+        <target state="new">%lld 歳</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld — " xml:space="preserve">
@@ -372,11 +372,11 @@
         <note>When a show or movie ends if you start it right now</note>
       </trans-unit>
       <trans-unit id="Episode" xml:space="preserve">
-        <source>Episode</source>
+        <source>Episode</source><target>話</target>
         <note/>
       </trans-unit>
       <trans-unit id="Episode Poster" xml:space="preserve">
-        <source>Episode Poster</source>
+        <source>Episode Poster</source><target>エピソードのポスター</target>
         <note/>
       </trans-unit>
       <trans-unit id="Episode Scores" xml:space="preserve">
@@ -464,11 +464,11 @@
         <note>Peek-a-View subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Height" xml:space="preserve">
-        <source>Height</source>
+        <source>Height</source><target>身長</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide Spoilers" xml:space="preserve">
-        <source>Hide Spoilers</source>
+        <source>Hide Spoilers</source><target>ネタバレを隠す</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide Spoilers…" xml:space="preserve">
@@ -548,7 +548,7 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="In-App Browser" xml:space="preserve">
-        <source>In-App Browser</source>
+        <source>In-App Browser</source><target>アプリ内ブラウザ</target>
         <note>Which browser to use for web links (the other option is "Safari")</note>
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
@@ -568,7 +568,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
-        <source>Language Override</source>
+        <source>Language Override</source><target>言語オーバーライド</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
@@ -580,7 +580,7 @@
         <note>How long an actor lived</note>
       </trans-unit>
       <trans-unit id="Loading…" xml:space="preserve">
-        <source>Loading…</source>
+        <source>Loading…</source><target>読み込み中…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Macro State at %@" xml:space="preserve">
@@ -596,7 +596,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="More Info…" xml:space="preserve">
-        <source>More Info…</source>
+        <source>More Info…</source><target>より詳しい情報</target>
         <note/>
       </trans-unit>
       <trans-unit id="More Purchase Options…" xml:space="preserve">
@@ -883,19 +883,19 @@
         <note/>
       </trans-unit>
       <trans-unit id="Refresh" xml:space="preserve">
-        <source>Refresh</source>
+        <source>Refresh</source><target>リフレッシュ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Region Override" xml:space="preserve">
-        <source>Region Override</source>
+        <source>Region Override</source><target>地域のオーバーライド</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Released" xml:space="preserve">
-        <source>Released</source>
+        <source>Released</source><target>公開日</target>
         <note>When a TV episode or movie was released in the past</note>
       </trans-unit>
       <trans-unit id="Released " xml:space="preserve">
-        <source>Released </source>
+        <source>Released </source><target>公開日</target>
         <note/>
       </trans-unit>
       <trans-unit id="Releases" xml:space="preserve">
@@ -927,11 +927,11 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Runtime" xml:space="preserve">
-        <source>Runtime</source>
+        <source>Runtime</source><target>ランタイム</target>
         <note>Heading for the total runtime of a TV episode</note>
       </trans-unit>
       <trans-unit id="Safari" xml:space="preserve">
-        <source>Safari</source>
+        <source>Safari</source><target>サファリ</target>
         <note>Which browser to use for web links (the other option is "In-App Browser")</note>
       </trans-unit>
       <trans-unit id="Same perks as all other plans" xml:space="preserve">
@@ -944,7 +944,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Save %@" xml:space="preserve">
-        <source>Save %@</source>
+        <source>Save %@</source><target>%@割引</target>
         <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
@@ -1286,7 +1286,7 @@
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
       </trans-unit>
       <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
-        <source>© 2023%@ Limitliss LLC</source>
+        <source>© 2023%@ Limitliss LLC</source><target>© 2023%@ Limitliss LLC</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
