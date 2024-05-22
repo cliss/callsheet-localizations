@@ -1286,7 +1286,7 @@
         <note>A fake summary shown when demonstrating hiding spoilers</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
-        <source>Your purchase is still pending. Please wait for it to be approved.</source><target>Twój zakup jest przetwarzany. Proszę czekaj aż zostanie zatwierdzony.</target>
+        <source>Your purchase is still pending. Please wait for it to be approved.</source><target>Twój zakup jest przetwarzany. Proszę czekaj, aż zostanie zatwierdzony.</target>
         <note>Shown when a a purchase needs to be approved; likely a child needs a parent to approve it</note>
       </trans-unit>
       <trans-unit id="Your subscription **will not** auto-renew" xml:space="preserve">
