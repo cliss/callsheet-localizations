@@ -1122,7 +1122,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Subscriptions Debugging" xml:space="preserve">
-        <source>Subscriptions Debugging</source><target>Bedugging subskrypcji</target>
+        <source>Subscriptions Debugging</source><target>Debugging subskrypcji</target>
         <note>Title of a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Summary" xml:space="preserve">
@@ -1270,11 +1270,11 @@
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="You don't seem to have a subscription. 🤨" xml:space="preserve">
-        <source>You don't seem to have a subscription. 🤨</source><target>NIe wygląda na to, że masz subszkrypcję. 🤨</target>
+        <source>You don't seem to have a subscription. 🤨</source><target>Nie wygląda na to, że masz subszkrypcję. 🤨</target>
         <note/>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
-        <source>You have used all your free searches. Subscribe for unlimited searches.</source><target>Żużyto wszystkie darmowe wyszukiwania. Subskrybuj, by mieć dostęp do nielimitowanych wyszukiwań.</target>
+        <source>You have used all your free searches. Subscribe for unlimited searches.</source><target>Zużyto wszystkie darmowe wyszukiwania. Subskrybuj, by mieć dostęp do nielimitowanych wyszukiwań.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You may know them from" xml:space="preserve">
