@@ -168,6 +168,10 @@
         <source>App Icon</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Apple Keynote" xml:space="preserve">
+        <source>Apple Keynote</source>
+        <note>Example episode name shown in Spoiler Settings</note>
+      </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
         <note>Shown when clearing recent searches or search history</note>
@@ -203,6 +207,10 @@
       <trans-unit id="Born" xml:space="preserve">
         <source>Born</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Botanist" xml:space="preserve">
+        <source>Botanist</source>
+        <note>Example role shown in Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
         <source>Browser</source>
@@ -837,9 +845,17 @@
         <source>Purchase Error</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Purchase a subscription" xml:space="preserve">
+        <source>Purchase a subscription</source>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
+      </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
         <source>Purchased</source>
         <note>Shown in a semi-hidden debugging view</note>
+      </trans-unit>
+      <trans-unit id="Purchasing is unavailable at this time." xml:space="preserve">
+        <source>Purchasing is unavailable at this time.</source>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Purchasing…" xml:space="preserve">
         <source>Purchasing…</source>
@@ -900,6 +916,14 @@
       <trans-unit id="Restore Purchase" xml:space="preserve">
         <source>Restore Purchase</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Restore Purchases" xml:space="preserve">
+        <source>Restore Purchases</source>
+        <note>Button title in Settings</note>
+      </trans-unit>
+      <trans-unit id="Restoring…" xml:space="preserve">
+        <source>Restoring…</source>
+        <note>Button title in Settings when actively restoring a purchase</note>
       </trans-unit>
       <trans-unit id="Reverse sort order" xml:space="preserve">
         <source>Reverse sort order</source>
@@ -1016,6 +1040,10 @@
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
         <source>Show titles a person may be known from.</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="So sorry!" xml:space="preserve">
+        <source>So sorry!</source>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Sorry, there was a problem." xml:space="preserve">
         <source>Sorry, there was a problem.</source>
@@ -1209,6 +1237,14 @@
         <source>You don't seem to have a subscription. 🤨</source>
         <note/>
       </trans-unit>
+      <trans-unit id="You have %lld day remaining in your trial.|==|plural.one" xml:space="preserve">
+        <source>You have %lld day remaining in your trial.</source>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
+      </trans-unit>
+      <trans-unit id="You have %lld day remaining in your trial.|==|plural.other" xml:space="preserve">
+        <source>You have %lld days remaining in your trial.</source>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
+      </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
         <source>You have used all your free searches. Subscribe for unlimited searches.</source>
         <note/>
@@ -1217,9 +1253,22 @@
         <source>You may know them from</source>
         <note>Header shown for people</note>
       </trans-unit>
+      <trans-unit id="You must have a subscription to use the app." xml:space="preserve">
+        <source>You must have a subscription to use the app.</source>
+        <note>Shown in Settings as a subtitle if you haven't purchased the app</note>
+      </trans-unit>
+      <trans-unit id="Your %@ will expire on&#10;%@" xml:space="preserve">
+        <source>Your %1$@ will expire on
+%2$@</source>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
+      </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
         <source>Your favorite characters finally get married.</source>
         <note>A fake summary shown when demonstrating hiding spoilers</note>
+      </trans-unit>
+      <trans-unit id="Your free trial has expired; you must purchase a subscription to use Callsheet." xml:space="preserve">
+        <source>Your free trial has expired; you must purchase a subscription to use Callsheet.</source>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
         <source>Your purchase is still pending. Please wait for it to be approved.</source>
@@ -1232,6 +1281,10 @@
       <trans-unit id="Your subscription **will** auto-renew" xml:space="preserve">
         <source>Your subscription **will** auto-renew</source>
         <note>Only shown on a semi-hidden debugging screen</note>
+      </trans-unit>
+      <trans-unit id="Your subscription has expired; you must purchase a new subscription to use Callsheet." xml:space="preserve">
+        <source>Your subscription has expired; you must purchase a new subscription to use Callsheet.</source>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
         <source>`%@` is unimplemented</source>
