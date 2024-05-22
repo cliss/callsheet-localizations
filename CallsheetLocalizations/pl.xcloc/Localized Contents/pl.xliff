@@ -14,7 +14,7 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
-        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source><target>Jeśli Callsheet może używać Twojej sieci lokalnej, powinno móc pokazać linki to aktualnie odtwarzanych mediów na głównym ekranie. Włączenie dostępu do sieci lokalnej jest opcjonalne. Żadne dane na temat Twojej sieci nie są wysyłane z Twojego urządzenia.</target>
+        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source><target>Jeśli Callsheet może używać Twojej sieci lokalnej, powinno móc pokazać linki do aktualnie odtwarzanych mediów na głównym ekranie. Włączenie dostępu do sieci lokalnej jest opcjonalne. Żadne dane na temat Twojej sieci nie są wysyłane z Twojego urządzenia.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -413,7 +413,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
-        <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source><target>Każdy serial może mieć swoje własne ustawienia, dostosowywane przez stuknięcie przycisku ‚Ukryj’ ‚Spoilery’ podczas patrzenia na serial lub jego odcinek.</target>
+        <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source><target>Każdy serial może mieć swoje własne ustawienia, dostosowywane przez stuknięcie przycisku `Ukryj` `Spoilery` podczas patrzenia na serial lub jego odcinek.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
@@ -778,7 +778,7 @@
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.many" xml:space="preserve">
-        <source>Or, you can have %lld more free searches. Just this once.</source><target>Możesz mieć %lld dodatkowych darmowych wyszukiwań Tylko raz.</target>
+        <source>Or, you can have %lld more free searches. Just this once.</source><target>Możesz mieć %lld dodatkowych darmowych wyszukiwań. Tylko raz.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
