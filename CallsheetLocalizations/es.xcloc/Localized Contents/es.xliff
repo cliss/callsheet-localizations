@@ -684,7 +684,7 @@
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
         <source>In-Credits Bonus Scenes</source>
-        <target state="translated">Escenas adicionales en créditos</target>
+        <target state="translated">Escenas adicionales (en créditos)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Integrations" xml:space="preserve">
@@ -734,7 +734,7 @@
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
         <source>Mid-credits</source>
-        <target state="translated">En medio de los créditos</target>
+        <target state="translated">En mitad de los créditos</target>
         <note/>
       </trans-unit>
       <trans-unit id="More Info…" xml:space="preserve">
@@ -1009,7 +1009,7 @@
       </trans-unit>
       <trans-unit id="Post-credits" xml:space="preserve">
         <source>Post-credits</source>
-        <target state="translated">Post créditos</target>
+        <target state="translated">Al final de los créditos</target>
         <note/>
       </trans-unit>
       <trans-unit id="Poster" xml:space="preserve">
