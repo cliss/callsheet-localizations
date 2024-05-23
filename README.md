@@ -65,7 +65,7 @@ As an example, these are the rules for Polish:
 | many           | 5 months   | 5 miesięcy   | 0, 5-19, 100, 1000, 10000, 100000, 1000000, … |
 | other          | 1.5 months | 1,5 miesiąca | 0.0-1.5, 10.0, 100.0, 1000.0, 10000.0, 100000.0, 1000000.0, … |
 
-### Gender
+## Gender
 
 English doesn't have very many gendered nouns, but it does have a few. The words "actor" and "actress" are a good example for Callsheet.
 
@@ -84,7 +84,9 @@ Here, the problem is that the gender of a person is ambiguous in translation to 
 
 Uses of [grammatical gender](https://blog.duolingo.com/what-is-grammatical-gender/) are fine. The trailing parts of the first example say "de la Photographie". That's in the feminine for both, because "photographie" has that grammatical gender.
 
-Other languages have [even more of these](https://blog.duolingo.com/german-gender-der-die-das/). So, when asked to keep it "neutral" if possible, that only means words that refer directly to people.
+Other languages have [even more of these](https://blog.duolingo.com/german-gender-der-die-das/). 
+
+**In general, where it's appropriate and doesn't sound clunky, please use your language's equivalent of "they"/"them" or a genderless word. If not possible, not appropriate, or it just sounds super funky, please choose a sensible default.**
 
 ## Submission Flow
 
