@@ -6,23 +6,28 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Callsheet</source><target>Callsheet</target>
+        <source>Callsheet</source>
+        <target>Callsheet</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>Callsheet</source><target>Callsheet</target>
+        <source>Callsheet</source>
+        <target>Callsheet</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
-        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source><target>Jeśli Callsheet może używać Twojej sieci lokalnej, powinno móc pokazać linki do aktualnie odtwarzanych mediów na głównym ekranie. Włączenie dostępu do sieci lokalnej jest opcjonalne. Żadne dane na temat Twojej sieci nie są wysyłane z Twojego urządzenia.</target>
+        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
+        <target>Jeśli Callsheet może używać Twojej sieci lokalnej, powinno móc pokazać linki do aktualnie odtwarzanych mediów na głównym ekranie. Włączenie dostępu do sieci lokalnej jest opcjonalne. Żadne dane na temat Twojej sieci nie są wysyłane z Twojego urządzenia.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
-        <source>Search</source><target>Szukaj</target>
+        <source>Search</source>
+        <target>Szukaj</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
-        <source>Title, cast, or crew</source><target>Tytuł, aktor(ka) lub załoga</target>
+        <source>Title, cast, or crew</source>
+        <target>Tytuł, aktor(ka) lub załoga</target>
         <note/>
       </trans-unit>
     </body>
