@@ -253,7 +253,7 @@
       </trans-unit>
       <trans-unit id="Born" xml:space="preserve">
         <source>Born</source>
-        <target state="translated">Nacido</target>
+        <target state="translated">Nacimiento</target>
         <note/>
       </trans-unit>
       <trans-unit id="Botanist" xml:space="preserve">
@@ -714,7 +714,7 @@
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
         <source>Lived</source>
-        <target state="translated">Vivio</target>
+        <target state="translated">Vivió</target>
         <note>How long an actor lived</note>
       </trans-unit>
       <trans-unit id="Loading…" xml:space="preserve">
@@ -789,7 +789,7 @@
       </trans-unit>
       <trans-unit id="Name or role" xml:space="preserve">
         <source>Name or role</source>
-        <target state="translated">Nombre o rol</target>
+        <target state="translated">Nombre o papel</target>
         <note>Cast search prompt</note>
       </trans-unit>
       <trans-unit id="New Episodes" xml:space="preserve">
