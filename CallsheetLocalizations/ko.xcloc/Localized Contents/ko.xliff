@@ -124,6 +124,10 @@
         <source>Add pin</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Ads" xml:space="preserve">
+        <source>Ads</source>
+        <note>A kind of service to watch media on. Contrast with "Free", "Rent", "Buy", "Subscription"</note>
+      </trans-unit>
       <trans-unit id="Ages" xml:space="preserve">
         <source>Ages</source>
         <note>Heading in Persnickety Preferences</note>
@@ -187,6 +191,10 @@
       <trans-unit id="Browser" xml:space="preserve">
         <source>Browser</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Buy" xml:space="preserve">
+        <source>Buy</source>
+        <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
         <source>Callsheet</source>
@@ -300,6 +308,10 @@
         <source>Crew</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Current Location" xml:space="preserve">
+        <source>Current Location</source>
+        <note>Shown in Where to Watch if the current locale can't be found</note>
+      </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
         <source>Custom icons</source>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
@@ -400,6 +412,10 @@
       <trans-unit id="For new &amp; popular media." xml:space="preserve">
         <source>For new &amp; popular media.</source>
         <note>Shown in Settings</note>
+      </trans-unit>
+      <trans-unit id="Free" xml:space="preserve">
+        <source>Free</source>
+        <note>A kind of service to watch media on. Contrast with "Ads", "Rent", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
         <source>Free Trial</source>
@@ -877,6 +893,10 @@
         <source>Remove pin</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Rent" xml:space="preserve">
+        <source>Rent</source>
+        <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Buy", "Subscription"</note>
+      </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
         <source>Request Refund</source>
         <note/>
@@ -1048,6 +1068,10 @@
       <trans-unit id="Subscribers can change the app’s icon." xml:space="preserve">
         <source>Subscribers can change the app’s icon.</source>
         <note>Subtitle for the App Icon row in Settings</note>
+      </trans-unit>
+      <trans-unit id="Subscription" xml:space="preserve">
+        <source>Subscription</source>
+        <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Buy"</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
         <source>Subscription Status</source>

@@ -252,6 +252,10 @@
         <target state="translated">Закрепить</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Ads" xml:space="preserve">
+        <source>Ads</source>
+        <note>A kind of service to watch media on. Contrast with "Free", "Rent", "Buy", "Subscription"</note>
+      </trans-unit>
       <trans-unit id="Ages" xml:space="preserve">
         <source>Ages</source>
         <target state="translated">Возрасты</target>
@@ -331,6 +335,10 @@
         <source>Browser</source>
         <target state="translated">Браузер</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Buy" xml:space="preserve">
+        <source>Buy</source>
+        <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
         <source>Callsheet</source>
@@ -472,6 +480,10 @@
         <target state="translated">Создатели</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Current Location" xml:space="preserve">
+        <source>Current Location</source>
+        <note>Shown in Where to Watch if the current locale can't be found</note>
+      </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
         <source>Custom icons</source>
         <target state="translated">Дополнительные иконки</target>
@@ -597,6 +609,10 @@
         <source>For new &amp; popular media.</source>
         <target state="translated">Для нового и популярного</target>
         <note>Shown in Settings</note>
+      </trans-unit>
+      <trans-unit id="Free" xml:space="preserve">
+        <source>Free</source>
+        <note>A kind of service to watch media on. Contrast with "Ads", "Rent", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
         <source>Free Trial</source>
@@ -1208,6 +1224,10 @@
         <target state="translated">Удалить закрепку</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Rent" xml:space="preserve">
+        <source>Rent</source>
+        <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Buy", "Subscription"</note>
+      </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
         <source>Request Refund</source>
         <target state="translated">Запросить возврат денег</target>
@@ -1422,6 +1442,10 @@
         <source>Subscribers can change the app’s icon.</source>
         <target state="translated">Подписчики могут менять иконку приложения.</target>
         <note>Subtitle for the App Icon row in Settings</note>
+      </trans-unit>
+      <trans-unit id="Subscription" xml:space="preserve">
+        <source>Subscription</source>
+        <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Buy"</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
         <source>Subscription Status</source>
