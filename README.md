@@ -67,7 +67,7 @@ As an example, these are the rules for Polish:
 
 ## Gender
 
-English doesn't have very many gendered nouns, but it does have a few. The words "actor" and "actress" are a good example for Callsheet.
+English doesn't have very many gendered nouns, but it does have a few relevant to Callsheet. The words "actor" and "actress" are a good example.
 
 However, other languages have a lot more words that can vary this way. Here is an example problem using the term "Director of Photography" in French:
 
