@@ -8,21 +8,22 @@ There are two sections:
 
 ## Current Status
 
-As of [58c82df](https://github.com/cliss/callsheet-localizations/commit/58c82df0bc8eb5a00080f94b6e64fdfac64a68b4):
+As of [73b8912](https://github.com/cliss/callsheet-localizations/commit/73b891279675f59c37391c0b1439be3fc7889e8f):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
 | English         | N/A         | ✔️              | [cliss](https://github.com/cliss) |
-| Ukrainian       | 96%         | ✔️              |  [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
-| German          | 96%         | ✔️              |  [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
+| German          | 98%         | ✔️              |  [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
+| Russian         | 98%         | ✔️              | [gkeep](https://github.com/gkeep) |
+| Dutch           | 97%         | ✔️              | [Deddiekoel](https://github.com/deddiekoel) |
 | Spanish         | 96%         | ✔️              |  [unaiherran](https://github.com/unaiherran) |
-| Russian         | 96%         |                 | [gkeep](https://github.com/gkeep) |
-| Dutch           | 96%         | ✔️              | [Deddiekoel](https://github.com/deddiekoel) |
-| Italian         | 95%         | ✔️              | [cdf1982](https://github.com/cdf1982) |
-| French          | 95%         |                 | [EricEEEEE](https://github.com/EricEEEEE) |
-| Portuguese (🇧🇷) | 74%         |                 | [insidegui](https://github.com/insidegui) |
-| Polish          | 23%         |                 | [spitfire](https://github.com/spitfire) |
-| Japanese        | 16%         |                 | [kenroy](https://github.com/kenroy) |
+| Ukrainian       | 94%         | ✔️              |  [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
+| Italian         | 93%         | ✔️              | [cdf1982](https://github.com/cdf1982) |
+| French          | 93%         |                 | [EricEEEEE](https://github.com/EricEEEEE) |
+| Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
+| Portuguese (🇵🇹) | 29%         |                 | [apfernandes](https://github.com/apfernandes) |
+| Polish          | 63%         |                 | [spitfire](https://github.com/spitfire) |
+| Japanese        | 21%         |                 | [kenroy](https://github.com/kenroy) |
 
 [as]: https://github.com/cliss/callsheet-localizations/tree/main/AppStore
 
@@ -67,7 +68,7 @@ As an example, these are the rules for Polish:
 
 ## Gender
 
-English doesn't have very many gendered nouns, but it does have a few. The words "actor" and "actress" are a good example for Callsheet.
+English doesn't have very many gendered nouns, but it does have a few relevant to Callsheet. The words "actor" and "actress" are a good example.
 
 However, other languages have a lot more words that can vary this way. Here is an example problem using the term "Director of Photography" in French:
 
