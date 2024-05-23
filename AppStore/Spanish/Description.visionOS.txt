@@ -17,7 +17,6 @@ Callsheet también tiene algunas características novedosas que tu anterior apli
 • Ve fácilmente la altura de los actores (cuando sea posible).
 • Soporte para Modo Oscuro.
 • Soporte para VoiceOver.
-• Íconos de aplicación alternativos para suscriptores.
 • Integración automática (y sin inicio de sesión) con la maravillosa aplicación Channels.
 • Integración experimental (y sin inicio de sesión) con Plex.
 
