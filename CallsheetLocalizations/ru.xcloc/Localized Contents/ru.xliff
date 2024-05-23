@@ -99,7 +99,7 @@
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.few" xml:space="preserve">
         <source>%lld episodes</source>
-        <target state="translated">%lld эпизодов</target>
+        <target state="translated">%lld эпизода</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.many" xml:space="preserve">
@@ -274,6 +274,7 @@
       </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
         <source>Apple Keynote</source>
+        <target state="translated">Презентация Apple</target>
         <note>Example episode name shown in Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
@@ -303,12 +304,12 @@
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
         <source>Began Airing</source>
-        <target state="translated">Начало выходить в эфир</target>
+        <target state="translated">Вышло в эфир</target>
         <note>When a TV season started airing</note>
       </trans-unit>
       <trans-unit id="Begins Airing" xml:space="preserve">
         <source>Begins Airing</source>
-        <target state="translated">Начинает выходить в эфир</target>
+        <target state="translated">Выйдет в эфир</target>
         <note>When a TV season will start airing</note>
       </trans-unit>
       <trans-unit id="Biography" xml:space="preserve">
@@ -323,6 +324,7 @@
       </trans-unit>
       <trans-unit id="Botanist" xml:space="preserve">
         <source>Botanist</source>
+        <target state="translated">Ботанист</target>
         <note>Example role shown in Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
@@ -367,12 +369,12 @@
       </trans-unit>
       <trans-unit id="Cast" xml:space="preserve">
         <source>Cast</source>
-        <target state="translated">Актёрский состав</target>
+        <target state="translated">Актёры</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cast or Crew" xml:space="preserve">
         <source>Cast or Crew</source>
-        <target state="translated">Актёрский состав или съёмочная группа</target>
+        <target state="translated">Актёры или создатели</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
@@ -437,7 +439,7 @@
       </trans-unit>
       <trans-unit id="Copy Error Information" xml:space="preserve">
         <source>Copy Error Information</source>
-        <target state="translated">Скопировать информацию ошибки</target>
+        <target state="translated">Скопировать ошибку</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy e-mail address" xml:space="preserve">
@@ -467,7 +469,7 @@
       </trans-unit>
       <trans-unit id="Crew" xml:space="preserve">
         <source>Crew</source>
-        <target state="translated">Съёмочная группа</target>
+        <target state="translated">Создатели</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
@@ -517,7 +519,7 @@
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
         <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
-        <target state="translated">У каждого шоу могут быть свои настройки, которые устанавливаются нажатием кнопки `Скрыть` `Спойлеры...` при просмотре сериала или эпизода.</target>
+        <target state="translated">У каждого шоу могут быть свои настройки, которые устанавливаются нажатием кнопки `Скрыть спойлеры...` при просмотре сериала или эпизода.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
@@ -643,12 +645,12 @@
       </trans-unit>
       <trans-unit id="Hide Spoilers" xml:space="preserve">
         <source>Hide Spoilers</source>
-        <target state="translated">Скрывать спойлеры</target>
+        <target state="translated">Скрыть спойлеры</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide Spoilers…" xml:space="preserve">
         <source>Hide Spoilers…</source>
-        <target state="translated">Скрывать спойлеры...</target>
+        <target state="translated">Скрыть спойлеры...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide cast character names" xml:space="preserve">
@@ -723,7 +725,7 @@
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
         <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source>
-        <target state="translated">Если вы воспроизводите что-либо через [Channels](https://getchannels.com/) или [Plex](https://plex.tv/) на другом устройстве, Callsheet может отобразить эту передачу или фильм в верхней части экрана Обзор.</target>
+        <target state="translated">Если вы воспроизводите что-либо на другом устройстве через [Channels](https://getchannels.com/) или [Plex](https://plex.tv/), Callsheet может отобразить этот сериал или фильм в верхней части экрана Обзор.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
@@ -743,7 +745,7 @@
       </trans-unit>
       <trans-unit id="In-App Browser" xml:space="preserve">
         <source>In-App Browser</source>
-        <target state="translated">Браузер в приложении</target>
+        <target state="translated">В приложении</target>
         <note>Which browser to use for web links (the other option is "Safari")</note>
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
@@ -753,7 +755,7 @@
       </trans-unit>
       <trans-unit id="Integrations" xml:space="preserve">
         <source>Integrations</source>
-        <target state="translated">Итеграции</target>
+        <target state="translated">Интеграции</target>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="JustWatch" xml:space="preserve">
@@ -898,7 +900,7 @@
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
         <source>No override</source>
-        <target state="translated">Переопределения нет.</target>
+        <target state="translated">Нет</target>
         <note>Default option for language/region override</note>
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
@@ -1008,7 +1010,7 @@
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
         <source>Parental guidance won't be shown for cast and crew.</source>
-        <target state="translated">Рекомендации родителям не будут показаны для актёрского состава или съёмочной группы</target>
+        <target state="translated">Рекомендации родителям не будут показаны для актёров или создателей</target>
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
       </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
@@ -1128,6 +1130,7 @@
       </trans-unit>
       <trans-unit id="Purchase a subscription" xml:space="preserve">
         <source>Purchase a subscription</source>
+        <target state="translated">Купить подписку</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
@@ -1137,6 +1140,7 @@
       </trans-unit>
       <trans-unit id="Purchasing is unavailable at this time." xml:space="preserve">
         <source>Purchasing is unavailable at this time.</source>
+        <target state="translated">Покупки в настоящее время невозможны.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Purchasing…" xml:space="preserve">
@@ -1146,7 +1150,7 @@
       </trans-unit>
       <trans-unit id="Quick Access Link" xml:space="preserve">
         <source>Quick Access Link</source>
-        <target state="translated">Ссылка быстрого доступа</target>
+        <target state="translated">Быстрая ссылка</target>
         <note>Title of the Quick Access Link screen in Settings</note>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
@@ -1216,10 +1220,12 @@
       </trans-unit>
       <trans-unit id="Restore Purchases" xml:space="preserve">
         <source>Restore Purchases</source>
+        <target state="translated">Восстановить покупки</target>
         <note>Button title in Settings</note>
       </trans-unit>
       <trans-unit id="Restoring…" xml:space="preserve">
         <source>Restoring…</source>
+        <target state="translated">Восстановление...</target>
         <note>Button title in Settings when actively restoring a purchase</note>
       </trans-unit>
       <trans-unit id="Reverse sort order" xml:space="preserve">
@@ -1369,6 +1375,7 @@
       </trans-unit>
       <trans-unit id="So sorry!" xml:space="preserve">
         <source>So sorry!</source>
+        <target state="translated">Очень жаль!</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Sorry, there was a problem." xml:space="preserve">
@@ -1383,7 +1390,7 @@
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
         <source>Sort Order</source>
-        <target state="translated">Порядок сортировки</target>
+        <target state="translated">Сортировка</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoiler Settings" xml:space="preserve">
@@ -1433,7 +1440,7 @@
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
         <source>TV Shows</source>
-        <target state="translated">Сериал</target>
+        <target state="translated">Сериалы</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
@@ -1478,7 +1485,7 @@
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source>
-        <target state="translated">Название, актерский состав или команда</target>
+        <target state="translated">Название, актёры или создатели</target>
         <note>Main search prompt on the bottom bar!</note>
       </trans-unit>
       <trans-unit id="Total runtime %@" xml:space="preserve">
@@ -1498,7 +1505,7 @@
       </trans-unit>
       <trans-unit id="Trivia" xml:space="preserve">
         <source>Trivia</source>
-        <target state="translated">Мелочи</target>
+        <target state="translated">Тривиа</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
@@ -1613,18 +1620,22 @@
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.few" xml:space="preserve">
         <source>You have %lld days remaining in your trial.</source>
+        <target state="translated">У вас осталось %lld дня пробного периода.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.many" xml:space="preserve">
         <source>You have %lld days remaining in your trial.</source>
+        <target state="translated">У вас осталось %lld дней пробного периода.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.one" xml:space="preserve">
         <source>You have %lld day remaining in your trial.</source>
+        <target state="translated">У вас остался %lld день пробного периода.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.other" xml:space="preserve">
         <source>You have %lld days remaining in your trial.</source>
+        <target state="translated">У вас осталось %lld дней пробного периода.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
@@ -1639,11 +1650,14 @@
       </trans-unit>
       <trans-unit id="You must have a subscription to use the app." xml:space="preserve">
         <source>You must have a subscription to use the app.</source>
+        <target state="translated">Вы должны иметь подписку чтобы пользоваться Callsheet.</target>
         <note>Shown in Settings as a subtitle if you haven't purchased the app</note>
       </trans-unit>
       <trans-unit id="Your %@ will expire on&#10;%@" xml:space="preserve">
         <source>Your %1$@ will expire on
 %2$@</source>
+        <target state="translated">Ваша %1$@ истечет
+%2$@</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
@@ -1653,6 +1667,7 @@
       </trans-unit>
       <trans-unit id="Your free trial has expired; you must purchase a subscription to use Callsheet." xml:space="preserve">
         <source>Your free trial has expired; you must purchase a subscription to use Callsheet.</source>
+        <target state="translated">Ваш пробный период закончился. Вы должны быть подписаны чтобы пользоваться Callsheet.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
@@ -1672,6 +1687,7 @@
       </trans-unit>
       <trans-unit id="Your subscription has expired; you must purchase a new subscription to use Callsheet." xml:space="preserve">
         <source>Your subscription has expired; you must purchase a new subscription to use Callsheet.</source>
+        <target state="translated">Ваш подписка закончилась. Вы должны быть подписаны чтобы пользоваться Callsheet.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
