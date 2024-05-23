@@ -1552,7 +1552,7 @@
       </trans-unit>
       <trans-unit id="You may know them from" xml:space="preserve">
         <source>You may know them from</source>
-        <target state="translated">Los puedes conocer por</target>
+        <target state="translated">También conocido por</target>
         <note>Header shown for people</note>
       </trans-unit>
       <trans-unit id="You must have a subscription to use the app." xml:space="preserve">
