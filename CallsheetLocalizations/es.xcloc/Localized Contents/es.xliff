@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
         <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
-        <target>Si Callsheet puede usar tu red local, puede que pueda mostrar links a lo que estas viendo en este momento en tu pantalla principal. Permtir el acceso a tu red local es totalmente opcional. Ningún dato de tu red saldrá de tu dispositivo.</target>
+        <target>Si Callsheet puede usar tu red local, es posible que pueda mostrar links a lo que estas viendo en este momento en tu pantalla principal. Permitir el acceso a tu red local es totalmente opcional. Ningún dato de tu configuración de red saldrá de tu dispositivo.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -929,12 +929,12 @@
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
         <source>Parental Guidance</source>
-        <target state="translated">Guía Parental</target>
+        <target state="translated">Guía para padres</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
         <source>Parental guidance won't be shown for cast and crew.</source>
-        <target state="translated">La Guía Parental no se mostrará para el reparto y equipo.</target>
+        <target state="translated">La guía para padres no se mostrará para el reparto y equipo.</target>
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
       </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
@@ -1077,7 +1077,7 @@
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
         <source>Quickly place emoji on photos — for privacy or fun!</source>
-        <target state="translated">Pon emojis en fotos — Por privacidad o por diversión</target>
+        <target state="translated">Pon emojis en fotos rapidamente — Por privacidad o por diversión</target>
         <note>MaskerAid subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Rate this version of Callsheet" xml:space="preserve">
@@ -1364,7 +1364,7 @@
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
         <source>Technical Details</source>
-        <target state="translated">Detalles técnicos</target>
+        <target state="translated">Especificaciones técnicas</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Terms of Service" xml:space="preserve">
@@ -1424,12 +1424,12 @@
       </trans-unit>
       <trans-unit id="Trivia" xml:space="preserve">
         <source>Trivia</source>
-        <target state="translated">Cosas curiosas</target>
+        <target state="translated">Curiosidades</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
         <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source>
-        <target state="translated">Desafortunadamente, [The Movie Database](https://www.themoviedb.org/) no soporta hacer uniones de busquedas para las series. Les he pedido que lo añadan, ¿veremos lo que pasa!</target>
+        <target state="translated">Desafortunadamente, [The Movie Database](https://www.themoviedb.org/) no soporta hacer uniones de busquedas para las series. Les he pedido que lo añadan, ¡veremos lo que pasa!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
@@ -1489,7 +1489,7 @@
       </trans-unit>
       <trans-unit id="Which quick access link is shown." xml:space="preserve">
         <source>Which quick access link is shown.</source>
-        <target state="translated">Que enlace rápido se muestra de forma principal</target>
+        <target state="translated">Qué enlace rápido se muestra por defecto</target>
         <note>Shown as a subtitle for a row on Settings</note>
       </trans-unit>
       <trans-unit id="Why not shows?" xml:space="preserve">
