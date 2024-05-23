@@ -1570,12 +1570,12 @@
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.one" xml:space="preserve">
         <source>You have %lld day remaining in your trial.</source>
-        <target state="new">You have %lld day remaining in your trial.</target>
+        <target state="translated">Je hebt nog %lld dag over in je proefperiode.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.other" xml:space="preserve">
         <source>You have %lld days remaining in your trial.</source>
-        <target state="new">You have %lld days remaining in your trial.</target>
+        <target state="translated">Je hebt nog %lld dagen over in je proefperiode.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
