@@ -207,6 +207,11 @@
         <target state="translated">App-Icon</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Apple Keynote" xml:space="preserve">
+        <source>Apple Keynote</source>
+        <target state="translated">Apple Keynote</target>
+        <note>Example episode name shown in Spoiler Settings</note>
+      </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
         <target state="translated">Bist du sicher?</target>
@@ -251,6 +256,11 @@
         <source>Born</source>
         <target state="translated">Geboren am</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Botanist" xml:space="preserve">
+        <source>Botanist</source>
+        <target state="translated">Botaniker</target>
+        <note>Example role shown in Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
         <source>Browser</source>
@@ -384,7 +394,7 @@
       </trans-unit>
       <trans-unit id="Credits" xml:space="preserve">
         <source>Credits</source>
-        <target state="translated">Credits</target>
+        <target state="translated">Credits-Szene</target>
         <note>Shown as a header on the movie view for the mid- and post-credits scene icons</note>
       </trans-unit>
       <trans-unit id="Credits Lists" xml:space="preserve">
@@ -676,7 +686,7 @@
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
         <source>In-Credits Bonus Scenes</source>
-        <target state="translated">Bonus Szene während des Abspanns</target>
+        <target state="translated">Bonus-Szenen im Abspann</target>
         <note/>
       </trans-unit>
       <trans-unit id="Integrations" xml:space="preserve">
@@ -1044,10 +1054,20 @@
         <target state="translated">Fehler während des Kaufes</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Purchase a subscription" xml:space="preserve">
+        <source>Purchase a subscription</source>
+        <target state="translated">Abonnement erwerben</target>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
+      </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
         <source>Purchased</source>
         <target state="translated">Gekauft</target>
         <note>Shown in a semi-hidden debugging view</note>
+      </trans-unit>
+      <trans-unit id="Purchasing is unavailable at this time." xml:space="preserve">
+        <source>Purchasing is unavailable at this time.</source>
+        <target state="translated">Der Kauf ist im Moment nicht verfügbar.</target>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Purchasing…" xml:space="preserve">
         <source>Purchasing…</source>
@@ -1123,6 +1143,16 @@
         <source>Restore Purchase</source>
         <target state="translated">Kauf wiederherstellen</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Restore Purchases" xml:space="preserve">
+        <source>Restore Purchases</source>
+        <target state="translated">Käufe wiederherstellen</target>
+        <note>Button title in Settings</note>
+      </trans-unit>
+      <trans-unit id="Restoring…" xml:space="preserve">
+        <source>Restoring…</source>
+        <target state="translated">Wiederherstellung läuft ...</target>
+        <note>Button title in Settings when actively restoring a purchase</note>
       </trans-unit>
       <trans-unit id="Reverse sort order" xml:space="preserve">
         <source>Reverse sort order</source>
@@ -1268,6 +1298,11 @@
         <source>Show titles a person may be known from.</source>
         <target state="translated">Zeige weitere bekannte Titel mit dieser Person an.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="So sorry!" xml:space="preserve">
+        <source>So sorry!</source>
+        <target state="translated">Es tut mir sehr leid!</target>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Sorry, there was a problem." xml:space="preserve">
         <source>Sorry, there was a problem.</source>
@@ -1509,6 +1544,16 @@
         <target state="translated">Es sieht so aus, als hättest du kein Abo. 🤨</target>
         <note/>
       </trans-unit>
+      <trans-unit id="You have %lld day remaining in your trial.|==|plural.one" xml:space="preserve">
+        <source>You have %lld day remaining in your trial.</source>
+        <target state="translated">Dein Probeabo läuft noch %lld Tag.</target>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
+      </trans-unit>
+      <trans-unit id="You have %lld day remaining in your trial.|==|plural.other" xml:space="preserve">
+        <source>You have %lld days remaining in your trial.</source>
+        <target state="translated">Dein Probeabo läuft noch %lld Tage.</target>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
+      </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
         <source>You have used all your free searches. Subscribe for unlimited searches.</source>
         <target state="translated">Du hast alle kostenlosen Suchanfragen aufgebraucht. Für unbegrenzte Suchanfragen, schließ ein Abo ab.</target>
@@ -1519,10 +1564,27 @@
         <target state="translated">Kennst du vielleicht von</target>
         <note>Header shown for people</note>
       </trans-unit>
+      <trans-unit id="You must have a subscription to use the app." xml:space="preserve">
+        <source>You must have a subscription to use the app.</source>
+        <target state="translated">Du brauchst ein Abo, um die App zu benutzen.</target>
+        <note>Shown in Settings as a subtitle if you haven't purchased the app</note>
+      </trans-unit>
+      <trans-unit id="Your %@ will expire on&#10;%@" xml:space="preserve">
+        <source>Your %1$@ will expire on
+%2$@</source>
+        <target state="translated">Dein %1$@ läuft ab am
+%2$@</target>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
+      </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
         <source>Your favorite characters finally get married.</source>
         <target state="translated">Endlich heiraten deine Lieblingscharaktere.</target>
         <note>A fake summary shown when demonstrating hiding spoilers</note>
+      </trans-unit>
+      <trans-unit id="Your free trial has expired; you must purchase a subscription to use Callsheet." xml:space="preserve">
+        <source>Your free trial has expired; you must purchase a subscription to use Callsheet.</source>
+        <target state="translated">Dein Probeabo ist abgelaufen; du musst ein Abo abschließen, um Callsheet zu nutzen.</target>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
         <source>Your purchase is still pending. Please wait for it to be approved.</source>
@@ -1538,6 +1600,11 @@
         <source>Your subscription **will** auto-renew</source>
         <target state="translated">Dein Abo **wird** automatisch verlängert.</target>
         <note>Only shown on a semi-hidden debugging screen</note>
+      </trans-unit>
+      <trans-unit id="Your subscription has expired; you must purchase a new subscription to use Callsheet." xml:space="preserve">
+        <source>Your subscription has expired; you must purchase a new subscription to use Callsheet.</source>
+        <target state="translated">Dein Probeabo ist abgelaufen; du musst ein neues Abo abschließen, um Callsheet zu nutzen.</target>
+        <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
         <source>`%@` is unimplemented</source>
