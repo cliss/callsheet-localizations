@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
         <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
-        <target>Si Callsheet puede usar tu red local, puede que pueda mostrar links a lo que estas viendo en este momento en tu pantalla principal. Permtir el acceso a tu red local es totalmente opcional. Ningún dato de tu red saldrá de tu dispositivo. </target>
+        <target>Si Callsheet puede usar tu red local, puede que pueda mostrar links a lo que estas viendo en este momento en tu pantalla principal. Permtir el acceso a tu red local es totalmente opcional. Ningún dato de tu red saldrá de tu dispositivo.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source>
-        <target>Título, reparto o  equipo</target>
+        <target>Título, reparto o equipo</target>
         <note/>
       </trans-unit>
     </body>
@@ -208,7 +208,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
-        <source>Apple Keynote</source>
+        <source>Apple Keynote</source><target>Evento de Apple</target>
         <note>Example episode name shown in Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
@@ -257,7 +257,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Botanist" xml:space="preserve">
-        <source>Botanist</source>
+        <source>Botanist</source><target>Jardinero</target>
         <note>Example role shown in Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
@@ -452,7 +452,7 @@
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
         <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
-        <target state="translated">Cada serie puede tener sus propios ajustes, pulsa el botón 'Ocultar espoilers...'  cuando busques una serie o episodio.</target>
+        <target state="translated">Cada serie puede tener sus propios ajustes, pulsa el botón 'Ocultar espoilers...' cuando busques una serie o episodio.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
@@ -549,7 +549,7 @@
       </trans-unit>
       <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
         <source>Free, but you can only ask once. 😏</source>
-        <target state="translated">Gratis, pero sólo puedes pedirlo una vez  😏</target>
+        <target state="translated">Gratis, pero sólo puedes pedirlo una vez 😏</target>
         <note>Subtitle for the "A few more searches please" option on the "Additional options" purchasing screen</note>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
@@ -1053,7 +1053,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Purchase a subscription" xml:space="preserve">
-        <source>Purchase a subscription</source>
+        <source>Purchase a subscription</source><target>Compra una suscripción</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
@@ -1062,7 +1062,7 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Purchasing is unavailable at this time." xml:space="preserve">
-        <source>Purchasing is unavailable at this time.</source>
+        <source>Purchasing is unavailable at this time.</source><target>No es posible realizar compras en este momento.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Purchasing…" xml:space="preserve">
@@ -1077,7 +1077,7 @@
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
         <source>Quickly place emoji on photos — for privacy or fun!</source>
-        <target state="translated">Pon emojis en fotos  — Por privacidad o por diversión</target>
+        <target state="translated">Pon emojis en fotos — Por privacidad o por diversión</target>
         <note>MaskerAid subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Rate this version of Callsheet" xml:space="preserve">
@@ -1141,11 +1141,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Restore Purchases" xml:space="preserve">
-        <source>Restore Purchases</source>
+        <source>Restore Purchases</source><target>Restaurar compras</target>
         <note>Button title in Settings</note>
       </trans-unit>
       <trans-unit id="Restoring…" xml:space="preserve">
-        <source>Restoring…</source>
+        <source>Restoring…</source><target>Restaurando...</target>
         <note>Button title in Settings when actively restoring a purchase</note>
       </trans-unit>
       <trans-unit id="Reverse sort order" xml:space="preserve">
@@ -1170,7 +1170,7 @@
       </trans-unit>
       <trans-unit id="Same perks as all other plans" xml:space="preserve">
         <source>Same perks as all other plans</source>
-        <target state="translated">Las mismas ventajas  que todos los otros planes</target>
+        <target state="translated">Las mismas ventajas que todos los otros planes</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -1294,7 +1294,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="So sorry!" xml:space="preserve">
-        <source>So sorry!</source>
+        <source>So sorry!</source><target>¡Lo siento!</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Sorry, there was a problem." xml:space="preserve">
@@ -1329,7 +1329,7 @@
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
         <source>Subscribe</source>
-        <target state="translated">Suscribete</target>
+        <target state="translated">Suscríbete</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscribed" xml:space="preserve">
@@ -1494,7 +1494,7 @@
       </trans-unit>
       <trans-unit id="Why not shows?" xml:space="preserve">
         <source>Why not shows?</source>
-        <target state="translated">¡Porqué no hay series?</target>
+        <target state="translated">¿Por qué no hay series?</target>
         <note>Shown at the bottom of the "what movies are both of these actors in?" screen</note>
       </trans-unit>
       <trans-unit id="Wikipedia" xml:space="preserve">
@@ -1538,11 +1538,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.one" xml:space="preserve">
-        <source>You have %lld day remaining in your trial.</source>
+        <source>You have %lld day remaining in your trial.</source><target>Queda %lld día en tu prueba</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.other" xml:space="preserve">
-        <source>You have %lld days remaining in your trial.</source>
+        <source>You have %lld days remaining in your trial.</source><target>Quedan %lld días en tu prueba</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
@@ -1556,12 +1556,13 @@
         <note>Header shown for people</note>
       </trans-unit>
       <trans-unit id="You must have a subscription to use the app." xml:space="preserve">
-        <source>You must have a subscription to use the app.</source>
+        <source>You must have a subscription to use the app.</source><target>Tienes que tener una suscripción para usar la app</target>
         <note>Shown in Settings as a subtitle if you haven't purchased the app</note>
       </trans-unit>
       <trans-unit id="Your %@ will expire on&#10;%@" xml:space="preserve">
         <source>Your %1$@ will expire on
-%2$@</source>
+%2$@</source><target>Tu %1$@ caducará el
+%2$@</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
@@ -1570,7 +1571,7 @@
         <note>A fake summary shown when demonstrating hiding spoilers</note>
       </trans-unit>
       <trans-unit id="Your free trial has expired; you must purchase a subscription to use Callsheet." xml:space="preserve">
-        <source>Your free trial has expired; you must purchase a subscription to use Callsheet.</source>
+        <source>Your free trial has expired; you must purchase a subscription to use Callsheet.</source><target>Tu prueba gratuita ha caducado; tienes que suscribirte para usar Callsheet</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
@@ -1580,16 +1581,16 @@
       </trans-unit>
       <trans-unit id="Your subscription **will not** auto-renew" xml:space="preserve">
         <source>Your subscription **will not** auto-renew</source>
-        <target state="translated">Tu suscripcion **no** se renovará automaticamente</target>
+        <target state="translated">Tu suscripción **no** se renovará automaticamente</target>
         <note>Only shown on a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="Your subscription **will** auto-renew" xml:space="preserve">
         <source>Your subscription **will** auto-renew</source>
-        <target state="translated">Tu suscripcion **si** se renovará automaticamente</target>
+        <target state="translated">Tu suscripción **si** se renovará automaticamente</target>
         <note>Only shown on a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="Your subscription has expired; you must purchase a new subscription to use Callsheet." xml:space="preserve">
-        <source>Your subscription has expired; you must purchase a new subscription to use Callsheet.</source>
+        <source>Your subscription has expired; you must purchase a new subscription to use Callsheet.</source><target>Tu suscripción ha caducado; tienes que renovar tu suscripción para usar Callsheet</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
