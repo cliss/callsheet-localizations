@@ -14,7 +14,7 @@ As of [73b8912](https://github.com/cliss/callsheet-localizations/commit/73b89127
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
 | English         | N/A         | ✔️              | [cliss](https://github.com/cliss) |
 | German          | 98%         | ✔️              |  [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
-| Russian         | 98%         |                 | [gkeep](https://github.com/gkeep) |
+| Russian         | 98%         | ✔️              | [gkeep](https://github.com/gkeep) |
 | Dutch           | 97%         | ✔️              | [Deddiekoel](https://github.com/deddiekoel) |
 | Spanish         | 96%         | ✔️              |  [unaiherran](https://github.com/unaiherran) |
 | Ukrainian       | 94%         | ✔️              |  [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
