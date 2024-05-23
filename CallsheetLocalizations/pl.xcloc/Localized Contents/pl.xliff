@@ -1029,7 +1029,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
-        <source>Preview</source><target/>
+        <source>Preview</source>
+        <target state="translated">Podgląd<target/>
         <note/>
       </trans-unit>
       <trans-unit id="Preview Title" xml:space="preserve">
