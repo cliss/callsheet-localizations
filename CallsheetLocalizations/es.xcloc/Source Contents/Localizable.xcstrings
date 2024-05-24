@@ -257,6 +257,9 @@
     "Add Pin" : {
 
     },
+    "Ads" : {
+      "comment" : "A kind of service to watch media on. Contrast with \"Free\", \"Rent\", \"Buy\", \"Subscription\""
+    },
     "Ages" : {
       "comment" : "Heading in Persnickety Preferences"
     },
@@ -304,6 +307,9 @@
     },
     "Browser" : {
 
+    },
+    "Buy" : {
+      "comment" : "A kind of service to watch media on. Contrast with \"Free\", \"Ads\", \"Rent\", \"Subscription\""
     },
     "Callsheet" : {
       "comment" : "Do not translate"
@@ -390,6 +396,9 @@
     "Crew" : {
 
     },
+    "Current Location" : {
+      "comment" : "Shown in Where to Watch if the current locale can't be found"
+    },
     "Custom icons" : {
       "comment" : "Shown on the pre-sales screen to get users to subscribe"
     },
@@ -465,6 +474,9 @@
     },
     "For Where to Watch." : {
       "comment" : "Shown in Settings"
+    },
+    "Free" : {
+      "comment" : "A kind of service to watch media on. Contrast with \"Ads\", \"Rent\", \"Buy\", \"Subscription\""
     },
     "Free searches remaining" : {
 
@@ -916,6 +928,9 @@
     "Remove Pin" : {
 
     },
+    "Rent" : {
+      "comment" : "A kind of service to watch media on. Contrast with \"Free\", \"Ads\", \"Buy\", \"Subscription\""
+    },
     "Request Refund" : {
 
     },
@@ -1051,6 +1066,9 @@
     },
     "Subscribers can change the app’s icon." : {
       "comment" : "Subtitle for the App Icon row in Settings"
+    },
+    "Subscription" : {
+      "comment" : "A kind of service to watch media on. Contrast with \"Free\", \"Ads\", \"Rent\", \"Buy\""
     },
     "Subscription Status" : {
 
