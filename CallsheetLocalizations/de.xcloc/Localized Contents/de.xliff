@@ -1471,7 +1471,7 @@
       </trans-unit>
       <trans-unit id="Watch in:" xml:space="preserve">
         <source>Watch in:</source>
-        <target state="translated">Hier anschauen in:</target>
+        <target state="translated">Hier läuft es in:</target>
         <note>Shown when choosing a country to use for Where to Watch (short version)</note>
       </trans-unit>
       <trans-unit id="Website" xml:space="preserve">
@@ -1486,7 +1486,7 @@
       </trans-unit>
       <trans-unit id="Where to Watch" xml:space="preserve">
         <source>Where to Watch</source>
-        <target state="translated">Hier anschauen</target>
+        <target state="translated">Wo läuft es?</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Which browser to use to open external links." xml:space="preserve">
