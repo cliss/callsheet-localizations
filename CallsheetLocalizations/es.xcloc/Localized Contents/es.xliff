@@ -832,7 +832,7 @@
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
         <source>No TV show pins found.</source>
-        <target state="translated">No se encuentra pin de serie</target>
+        <target state="translated">No se encuentra pin de series</target>
         <note/>
       </trans-unit>
       <trans-unit id="No credits found." xml:space="preserve">
@@ -982,7 +982,7 @@
       </trans-unit>
       <trans-unit id="Pin your favorites for quick access." xml:space="preserve">
         <source>Pin your favorites for quick access.</source>
-        <target state="translated">Pon un pin a tus favoritos para acceder rápidamente</target>
+        <target state="translated">Pon un pin a tus favoritos para fijarlos</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
