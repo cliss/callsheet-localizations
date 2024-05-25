@@ -189,6 +189,7 @@
       </trans-unit>
       <trans-unit id="Ads" xml:space="preserve">
         <source>Ads</source>
+        <target state="translated">Mit Werbung</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Rent", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Ages" xml:space="preserve">
@@ -273,6 +274,7 @@
       </trans-unit>
       <trans-unit id="Buy" xml:space="preserve">
         <source>Buy</source>
+        <target state="translated">Kaufen</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
@@ -417,6 +419,7 @@
       </trans-unit>
       <trans-unit id="Current Location" xml:space="preserve">
         <source>Current Location</source>
+        <target state="translated">Aktueller Ort</target>
         <note>Shown in Where to Watch if the current locale can't be found</note>
       </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
@@ -548,6 +551,7 @@
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
         <source>Free</source>
+        <target state="translated">Kostenlos</target>
         <note>A kind of service to watch media on. Contrast with "Ads", "Rent", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
@@ -1152,6 +1156,7 @@
       </trans-unit>
       <trans-unit id="Rent" xml:space="preserve">
         <source>Rent</source>
+        <target state="translated">Leihen</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
@@ -1371,6 +1376,7 @@
       </trans-unit>
       <trans-unit id="Subscription" xml:space="preserve">
         <source>Subscription</source>
+        <target state="translated">Abo</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Buy"</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
@@ -1495,7 +1501,7 @@
       </trans-unit>
       <trans-unit id="Watch in:" xml:space="preserve">
         <source>Watch in:</source>
-        <target state="translated">Hier anschauen in:</target>
+        <target state="translated">Hier läuft es in:</target>
         <note>Shown when choosing a country to use for Where to Watch (short version)</note>
       </trans-unit>
       <trans-unit id="Website" xml:space="preserve">
@@ -1510,7 +1516,7 @@
       </trans-unit>
       <trans-unit id="Where to Watch" xml:space="preserve">
         <source>Where to Watch</source>
-        <target state="translated">Hier anschauen</target>
+        <target state="translated">Wo läuft es?</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Which browser to use to open external links." xml:space="preserve">
