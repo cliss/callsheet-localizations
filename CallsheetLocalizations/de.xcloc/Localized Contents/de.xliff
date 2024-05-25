@@ -546,7 +546,7 @@
       </trans-unit>
       <trans-unit id="For new &amp; popular media." xml:space="preserve">
         <source>For new &amp; popular media.</source>
-        <target state="translated">Gilt für neue &amp; beliebte Inhalte.</target>
+        <target state="translated">Gilt für neue und beliebte Inhalte.</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
