@@ -188,7 +188,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Ads" xml:space="preserve">
-        <source>Ads</source>
+        <source>Ads</source><target>Con Anuncios</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Rent", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Ages" xml:space="preserve">
@@ -272,7 +272,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Buy" xml:space="preserve">
-        <source>Buy</source>
+        <source>Buy</source><target>Comprar</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
@@ -416,7 +416,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Current Location" xml:space="preserve">
-        <source>Current Location</source>
+        <source>Current Location</source><target>Ubicación actual</target>
         <note>Shown in Where to Watch if the current locale can't be found</note>
       </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
@@ -547,7 +547,7 @@
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
-        <source>Free</source>
+        <source>Free</source><target>Gratis</target>
         <note>A kind of service to watch media on. Contrast with "Ads", "Rent", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
@@ -832,7 +832,7 @@
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
         <source>No TV show pins found.</source>
-        <target state="translated">No se encuentra pin de serie</target>
+        <target state="translated">No se encuentra pin de series</target>
         <note/>
       </trans-unit>
       <trans-unit id="No credits found." xml:space="preserve">
@@ -982,7 +982,7 @@
       </trans-unit>
       <trans-unit id="Pin your favorites for quick access." xml:space="preserve">
         <source>Pin your favorites for quick access.</source>
-        <target state="translated">Pon un pin a tus favoritos para acceder rápidamente</target>
+        <target state="translated">Pon un pin a tus favoritos para fijarlos</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
@@ -1151,7 +1151,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Rent" xml:space="preserve">
-        <source>Rent</source>
+        <source>Rent</source><target>Alquilar</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
@@ -1370,7 +1370,7 @@
         <note>Subtitle for the App Icon row in Settings</note>
       </trans-unit>
       <trans-unit id="Subscription" xml:space="preserve">
-        <source>Subscription</source>
+        <source>Subscription</source><target>Suscripción</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Buy"</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
