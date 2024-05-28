@@ -591,7 +591,7 @@
       </trans-unit>
       <trans-unit id="Hand your phone to someone knowing they **cannot mess up your photos**." xml:space="preserve">
         <source>Hand your phone to someone knowing they **cannot mess up your photos**.</source>
-        <target state="translated">Geef iemand je telefoon en weet zeker dat **ze niet met je foto's kunnen rommelen**.</target>
+        <target state="translated">Geef iemand je telefoon en weet zeker dat **ze niet met je foto’s kunnen rommelen**.</target>
         <note>Peek-a-View subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Height" xml:space="preserve">
@@ -886,7 +886,7 @@
       </trans-unit>
       <trans-unit id="No results found for &quot;%@&quot;" xml:space="preserve">
         <source>No results found for "%@"</source>
-        <target state="translated">Geen resultaten gevonden voor "%@"</target>
+        <target state="translated">Geen resultaten gevonden voor ‘%@’</target>
         <note>Generic "couldn't find anything for this query" message</note>
       </trans-unit>
       <trans-unit id="No search history found." xml:space="preserve">
