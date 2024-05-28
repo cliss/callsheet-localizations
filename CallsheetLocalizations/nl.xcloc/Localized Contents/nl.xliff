@@ -1161,7 +1161,7 @@
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
         <source>Request Refund</source>
-        <target>Vraag om terugbetaling</target>
+        <target state="translated">Vraag om terugbetaling</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore Purchase" xml:space="preserve">
