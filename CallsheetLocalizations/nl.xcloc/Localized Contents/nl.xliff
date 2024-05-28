@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
         <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
-        <target>Als Callsheet je lokale network mag gebruiken kan het je links tonen naar hetgeen je momenteel naar aan het kijken bent op het hoofdscherm.Toegang verlenen tot je lokale netwerk is volkomen optioneel. Geen informatie over je netwerk wordt buiten je apparaat gedeeld.</target>
+        <target>Als Callsheet je lokale network mag gebruiken kan het je links tonen naar hetgeen je momenteel naar aan het kijken bent op het hoofdscherm.Toegang verlenen tot je lokale netwerk is volkomen optioneel. Er wordt geen informatie over je netwerk buiten je apparaat gedeeld.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source>
-        <target>Titel, cast, of crew</target>
+        <target>Titel, cast of crew</target>
         <note/>
       </trans-unit>
     </body>
@@ -39,7 +39,7 @@
     <body>
       <trans-unit id="" xml:space="preserve">
         <source/>
-        <target state="translated"/>
+        <target/>
         <note/>
       </trans-unit>
       <trans-unit id="#%lld" xml:space="preserve">
@@ -159,7 +159,7 @@
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
         <source>A few more free ones please?</source>
-        <target state="translated">Aub een paar extra gratis?</target>
+        <target state="translated">Een paar extra gratis, alsjeblieft?</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
@@ -179,7 +179,7 @@
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
         <source>Add Pin</source>
-        <target state="translated">Voeg Pin toe</target>
+        <target state="translated">Voeg pin toe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
@@ -204,7 +204,7 @@
       </trans-unit>
       <trans-unit id="All Messages" xml:space="preserve">
         <source>All Messages</source>
-        <target state="translated">Alle Berichten</target>
+        <target state="translated">Alle berichten</target>
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
@@ -309,7 +309,7 @@
       </trans-unit>
       <trans-unit id="Cancel Subscription" xml:space="preserve">
         <source>Cancel Subscription</source>
-        <target state="translated">Annuleer Abonnement</target>
+        <target state="translated">Zeg abonnement op</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cast" xml:space="preserve">
@@ -324,7 +324,7 @@
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
         <source>Choose New Subscription</source>
-        <target state="translated">Kies Nieuwe Abonnement</target>
+        <target state="translated">Kies nieuw abonnement</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose a link:" xml:space="preserve">
@@ -339,7 +339,7 @@
       </trans-unit>
       <trans-unit id="Choose an icon that fits your aesthetic." xml:space="preserve">
         <source>Choose an icon that fits your aesthetic.</source>
-        <target state="translated">Kies een icoontje dat bij je past.</target>
+        <target state="translated">Kies een icoon dat bij je past.</target>
         <note>Subtitle for "Custom icons"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
@@ -359,7 +359,7 @@
       </trans-unit>
       <trans-unit id="Click Me" xml:space="preserve">
         <source>Click Me</source>
-        <target state="translated">Klik Hier</target>
+        <target state="translated">Click Me</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
@@ -369,7 +369,7 @@
       </trans-unit>
       <trans-unit id="Collecting log entries…" xml:space="preserve">
         <source>Collecting log entries…</source>
-        <target state="translated">Logs verzamelen...</target>
+        <target state="translated">Logs verzamelen…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect to devices on your local network to show what's playing." xml:space="preserve">
@@ -384,7 +384,7 @@
       </trans-unit>
       <trans-unit id="Copy Error Information" xml:space="preserve">
         <source>Copy Error Information</source>
-        <target state="translated">Kopieer Error Informatie</target>
+        <target state="translated">Kopieer error-informatie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy e-mail address" xml:space="preserve">
@@ -419,12 +419,12 @@
       </trans-unit>
       <trans-unit id="Current Location" xml:space="preserve">
         <source>Current Location</source>
-        <target state="translated">Huidige Locatie</target>
+        <target state="translated">Huidige locatie</target>
         <note>Shown in Where to Watch if the current locale can't be found</note>
       </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
         <source>Custom icons</source>
-        <target state="translated">Custom icoontjes</target>
+        <target state="translated">Aangepaste iconen</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
@@ -439,7 +439,7 @@
       </trans-unit>
       <trans-unit id="Default Spoiler Settings" xml:space="preserve">
         <source>Default Spoiler Settings</source>
-        <target state="translated">Standaard Spoiler-Instellingen</target>
+        <target state="translated">Standaard spoiler-instellingen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete recent searches" xml:space="preserve">
@@ -459,17 +459,17 @@
       </trans-unit>
       <trans-unit id="Discover" xml:space="preserve">
         <source>Discover</source>
-        <target state="translated">Ontdek</target>
+        <target state="translated">Ontdekken</target>
         <note/>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target state="translated">Klaar</target>
+        <target state="translated">Gereed</target>
         <note/>
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
         <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
-        <target state="translated">Elke serie kent zijn eigen instellingen. In te stellen door op de `Verberg Spoilers...`-knop te drukken als je een serie of aflevering bekijkt.</target>
+        <target state="translated">Elke serie kent zijn eigen instellingen. In te stellen door op de `Verberg spoilers…`-knop te tikken als je een serie of aflevering bekijkt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
@@ -494,7 +494,7 @@
       </trans-unit>
       <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
         <source>Error: should not be able to reach settings from here.</source>
-        <target state="translated">Error: zou niet mogelijk moeten zijn om instellingen vanuit hier te bereiken.</target>
+        <target state="translated">Error: should not be able to reach settings from here.</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
@@ -509,7 +509,7 @@
       </trans-unit>
       <trans-unit id="Export" xml:space="preserve">
         <source>Export</source>
-        <target state="translated">Export</target>
+        <target state="translated">Exporteer</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Faults" xml:space="preserve">
@@ -536,7 +536,7 @@
       </trans-unit>
       <trans-unit id="Find shared film credits" xml:space="preserve">
         <source>Find shared film credits</source>
-        <target state="translated">Vind gedeelde film credits</target>
+        <target state="translated">Vind gedeelde filmcredits</target>
         <note/>
       </trans-unit>
       <trans-unit id="For Where to Watch." xml:space="preserve">
@@ -556,7 +556,7 @@
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
         <source>Free Trial</source>
-        <target state="translated">Gratis Proefperiode</target>
+        <target state="translated">Gratis proefperiode</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
@@ -596,17 +596,17 @@
       </trans-unit>
       <trans-unit id="Height" xml:space="preserve">
         <source>Height</source>
-        <target state="translated">Hoogte</target>
+        <target state="translated">Lengte</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide Spoilers" xml:space="preserve">
         <source>Hide Spoilers</source>
-        <target state="translated">Verberg Spoilers</target>
+        <target state="translated">Verberg spoilers</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide Spoilers…" xml:space="preserve">
         <source>Hide Spoilers…</source>
-        <target state="translated">Verberg Spoilers...</target>
+        <target state="translated">Verberg spoilers…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide cast character names" xml:space="preserve">
@@ -646,7 +646,7 @@
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
         <source>Unlimited searches for a month. Auto-renews</source>
-        <target state="translated">Een maand onbeperkt zoeken. Verlengt automatisch</target>
+        <target state="translated">Een maand onbeperkt zoeken. Wordt automatisch verlengd.</target>
         <note>Description for the monthly subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Display Name" xml:space="preserve">
@@ -681,7 +681,7 @@
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
         <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source>
-        <target state="translated">Als je iets afspeelt via [Channels](https://getchannels.com/) of [Plex](https://plex.tv/) op een ander apparaat, kan Callsheet die serie of aflevering tonen op het Ontdek scherm.</target>
+        <target state="translated">Als je iets afspeelt via [Channels](https://getchannels.com/) of [Plex](https://plex.tv/) op een ander apparaat kan Callsheet die serie of aflevering tonen op het Ontdekken-scherm.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
@@ -701,12 +701,12 @@
       </trans-unit>
       <trans-unit id="In-App Browser" xml:space="preserve">
         <source>In-App Browser</source>
-        <target state="translated">In-App Browser</target>
+        <target state="translated">In-app browser</target>
         <note>Which browser to use for web links (the other option is "Safari")</note>
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
         <source>In-Credits Bonus Scenes</source>
-        <target state="translated">In-Credits Bonus Scenes</target>
+        <target state="translated">In-credits bonus scenes</target>
         <note/>
       </trans-unit>
       <trans-unit id="Integrations" xml:space="preserve">
@@ -721,12 +721,12 @@
       </trans-unit>
       <trans-unit id="Known For" xml:space="preserve">
         <source>Known For</source>
-        <target state="translated">Bekend Om</target>
+        <target state="translated">Bekend van</target>
         <note/>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
-        <target state="translated">Taal Overschrijven</target>
+        <target state="translated">Taal overschrijven</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
@@ -741,17 +741,17 @@
       </trans-unit>
       <trans-unit id="Loading…" xml:space="preserve">
         <source>Loading…</source>
-        <target state="translated">Laden...</target>
+        <target state="translated">Laden…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Macro State at %@" xml:space="preserve">
         <source>Macro State at %@</source>
-        <target state="translated">Macro Staat op %@</target>
+        <target state="translated">Macro-staat op %@</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
         <source>Manage Subscription</source>
-        <target state="translated">Beheer Abonnement</target>
+        <target state="translated">Abonnement beheren</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
@@ -761,17 +761,17 @@
       </trans-unit>
       <trans-unit id="More Info…" xml:space="preserve">
         <source>More Info…</source>
-        <target state="translated">Meer Info...</target>
+        <target state="translated">Meer info…</target>
         <note/>
       </trans-unit>
       <trans-unit id="More Purchase Options…" xml:space="preserve">
         <source>More Purchase Options…</source>
-        <target state="translated">Meer Aankoopopties...</target>
+        <target state="translated">Meer aankoopopties…</target>
         <note/>
       </trans-unit>
       <trans-unit id="More…" xml:space="preserve">
         <source>More…</source>
-        <target state="translated">Meer...</target>
+        <target state="translated">Meer…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movie Poster" xml:space="preserve">
@@ -781,7 +781,7 @@
       </trans-unit>
       <trans-unit id="Movie Poster Placeholder" xml:space="preserve">
         <source>Movie Poster Placeholder</source>
-        <target state="translated">Filmposter Placeholder</target>
+        <target state="translated">Filmposter placeholder</target>
         <note>Accessibility label when a movie's poster is not available</note>
       </trans-unit>
       <trans-unit id="Movies" xml:space="preserve">
@@ -791,7 +791,7 @@
       </trans-unit>
       <trans-unit id="Movies &amp; Shows" xml:space="preserve">
         <source>Movies &amp; Shows</source>
-        <target state="translated">Films &amp; Series</target>
+        <target state="translated">Films &amp; series</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
@@ -816,22 +816,22 @@
       </trans-unit>
       <trans-unit id="New Episodes" xml:space="preserve">
         <source>New Episodes</source>
-        <target state="translated">Nieuwe Afleveringen</target>
+        <target state="translated">Nieuwe afleveringen</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Movies" xml:space="preserve">
         <source>New Movies</source>
-        <target state="translated">Nieuwe Films</target>
+        <target state="translated">Nieuwe films</target>
         <note/>
       </trans-unit>
       <trans-unit id="Newest First" xml:space="preserve">
         <source>Newest First</source>
-        <target state="translated">Nieuwste Eerst</target>
+        <target state="translated">Nieuwste eerst</target>
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Next Episode" xml:space="preserve">
         <source>Next Episode</source>
-        <target state="translated">Nieuwste Aflevering</target>
+        <target state="translated">Volgende aflevering</target>
         <note/>
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
@@ -916,7 +916,7 @@
       </trans-unit>
       <trans-unit id="Oldest First" xml:space="preserve">
         <source>Oldest First</source>
-        <target state="translated">Oudste Eerst</target>
+        <target state="translated">Oudste eerst</target>
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
@@ -936,7 +936,7 @@
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
         <source>Other Great Apps</source>
-        <target state="translated">Andere Geweldige Apps</target>
+        <target state="translated">Andere geweldige apps</target>
         <note>Shown above Maskeraid &amp; Peek‑a‑View</note>
       </trans-unit>
       <trans-unit id="Other person" xml:space="preserve">
@@ -946,27 +946,27 @@
       </trans-unit>
       <trans-unit id="Other settings for more _particular_ users." xml:space="preserve">
         <source>Other settings for more _particular_ users.</source>
-        <target state="translated">Andere instellingen voor _bepaalde_ gebruikers.</target>
+        <target state="translated">Overige instellingen voor _bepaalde_ gebruikers.</target>
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
         <source>Parental Guidance</source>
-        <target state="translated">Ouderlijk Toezicht</target>
+        <target state="translated">Ouderlijk toezicht</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
         <source>Parental guidance won't be shown for cast and crew.</source>
-        <target state="translated">Ouderlijke Begeleiding wordt niet getoond voor cast &amp; crew.</target>
+        <target state="translated">Ouderlijke begeleiding wordt niet getoond voor cast &amp; crew.</target>
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
       </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
         <source>Persnickety Preferences</source>
-        <target state="translated">Persnickety Voorkeuren</target>
+        <target state="translated">Priegelige voorkeuren</target>
         <note/>
       </trans-unit>
       <trans-unit id="Persnickety Prefs" xml:space="preserve">
         <source>Persnickety Prefs</source>
-        <target state="translated">Persnickety Voorkeuren</target>
+        <target state="translated">Priegelige voorkeuren</target>
         <note>Navigation title for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Pick a country" xml:space="preserve">
@@ -996,7 +996,7 @@
       </trans-unit>
       <trans-unit id="Pinned items" xml:space="preserve">
         <source>Pinned items</source>
-        <target state="translated">Gepinde items</target>
+        <target state="translated">Vastgezette items</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
@@ -1006,22 +1006,22 @@
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
         <source>Please send feedback to `hello@limitliss.co`</source>
-        <target state="translated">Stuur je feedback aub naar `hello@limitliss.co`</target>
+        <target state="translated">Stuur je feedback a.u.b. naar `hello@limitliss.co`</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please wait a moment." xml:space="preserve">
         <source>Please wait a moment.</source>
-        <target state="translated">Een moment geduld aub.</target>
+        <target state="translated">Een moment geduld, a.u.b.</target>
         <note>Subtitle when collecting log entries to send</note>
       </trans-unit>
       <trans-unit id="Popular Movies" xml:space="preserve">
         <source>Popular Movies</source>
-        <target state="translated">Populaire Films</target>
+        <target state="translated">Populaire films</target>
         <note/>
       </trans-unit>
       <trans-unit id="Popular TV Shows" xml:space="preserve">
         <source>Popular TV Shows</source>
-        <target state="translated">Populaire Series</target>
+        <target state="translated">Populaire series</target>
         <note/>
       </trans-unit>
       <trans-unit id="Portrait" xml:space="preserve">
@@ -1046,12 +1046,12 @@
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
         <source>Preview</source>
-        <target state="translated">Preview</target>
+        <target state="translated">Voorbeeld</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preview Title" xml:space="preserve">
         <source>Preview Title</source>
-        <target state="translated">Previewtitel</target>
+        <target state="translated">Preview Title</target>
         <note>Do not localize</note>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
@@ -1061,12 +1061,12 @@
       </trans-unit>
       <trans-unit id="Provided by" xml:space="preserve">
         <source>Provided by</source>
-        <target state="translated">Aangeboden door</target>
+        <target state="translated">Geleverd door</target>
         <note>In the context of "Provided by JustWatch"</note>
       </trans-unit>
       <trans-unit id="Provided by [JustWatch](https://www.justwatch.com/)" xml:space="preserve">
         <source>Provided by [JustWatch](https://www.justwatch.com/)</source>
-        <target state="translated">Aangeboden door [JustWatch](https://www.justwatch.com/)</target>
+        <target state="translated">Geleverd door [JustWatch](https://www.justwatch.com/)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Purchase Error" xml:space="preserve">
@@ -1091,17 +1091,17 @@
       </trans-unit>
       <trans-unit id="Purchasing…" xml:space="preserve">
         <source>Purchasing…</source>
-        <target state="translated">Aan het kopen...</target>
+        <target state="translated">Aan het kopen…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Quick Access Link" xml:space="preserve">
         <source>Quick Access Link</source>
-        <target state="translated">Snelle Toeganglink</target>
+        <target state="translated">Snelle-toeganglink</target>
         <note>Title of the Quick Access Link screen in Settings</note>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
         <source>Quickly place emoji on photos — for privacy or fun!</source>
-        <target state="translated">Plaats snel emoji op foto's - voor privacy en plezier!</target>
+        <target state="translated">Plaats snel emoji op foto’s – voor privacy en voor de lol!</target>
         <note>MaskerAid subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Rate this version of Callsheet" xml:space="preserve">
@@ -1116,7 +1116,7 @@
       </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">
         <source>Recent Searches</source>
-        <target state="translated">Recente Zoekopdrachten</target>
+        <target state="translated">Recente zoekopdrachten</target>
         <note/>
       </trans-unit>
       <trans-unit id="Refresh" xml:space="preserve">
@@ -1126,7 +1126,7 @@
       </trans-unit>
       <trans-unit id="Region Override" xml:space="preserve">
         <source>Region Override</source>
-        <target state="translated">Regio Overschrijven</target>
+        <target state="translated">Regio overschrijven</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Released" xml:space="preserve">
@@ -1136,7 +1136,7 @@
       </trans-unit>
       <trans-unit id="Released " xml:space="preserve">
         <source>Released </source>
-        <target state="translated">Uitgebracht op</target>
+        <target state="translated">Uitgebracht op </target>
         <note/>
       </trans-unit>
       <trans-unit id="Releases" xml:space="preserve">
@@ -1146,7 +1146,7 @@
       </trans-unit>
       <trans-unit id="Remove Pin" xml:space="preserve">
         <source>Remove Pin</source>
-        <target state="translated">Verwijder Pin</target>
+        <target state="translated">Verwijder pin</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove pin" xml:space="preserve">
@@ -1161,22 +1161,22 @@
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
         <source>Request Refund</source>
-        <target state="translated">Vraag om Terugbetaling</target>
+        <target>Vraag om terugbetaling</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore Purchase" xml:space="preserve">
         <source>Restore Purchase</source>
-        <target state="translated">Herstel Aankoop</target>
+        <target state="translated">Herstel aankoop</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore Purchases" xml:space="preserve">
         <source>Restore Purchases</source>
-        <target state="translated">Herstel Aankopen</target>
+        <target state="translated">Herstel aankopen</target>
         <note>Button title in Settings</note>
       </trans-unit>
       <trans-unit id="Restoring…" xml:space="preserve">
         <source>Restoring…</source>
-        <target state="translated">Aan het herstellen...</target>
+        <target state="translated">Aan het herstellen…</target>
         <note>Button title in Settings when actively restoring a purchase</note>
       </trans-unit>
       <trans-unit id="Reverse sort order" xml:space="preserve">
@@ -1211,7 +1211,7 @@
       </trans-unit>
       <trans-unit id="Save %@" xml:space="preserve">
         <source>Save %@</source>
-        <target state="translated">Bespaar %@</target>
+        <target state="translated">%@ korting</target>
         <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
@@ -1271,17 +1271,17 @@
       </trans-unit>
       <trans-unit id="Share Callsheet link…" xml:space="preserve">
         <source>Share Callsheet link…</source>
-        <target state="translated">Deel Callsheetlink...</target>
+        <target state="translated">Deel Callsheetlink…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share web link" xml:space="preserve">
         <source>Share web link</source>
-        <target state="translated">Deel Weblink</target>
+        <target state="translated">Deel weblink</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share web link…" xml:space="preserve">
         <source>Share web link…</source>
-        <target state="translated">Deel Weblink</target>
+        <target state="translated">Deel weblink</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shared image" xml:space="preserve">
@@ -1291,17 +1291,17 @@
       </trans-unit>
       <trans-unit id="Show Poster" xml:space="preserve">
         <source>Show Poster</source>
-        <target state="translated">Toon Poster</target>
+        <target state="translated">Toon poster</target>
         <note>Accessibility label</note>
       </trans-unit>
       <trans-unit id="Show Poster Placeholder" xml:space="preserve">
         <source>Show Poster Placeholder</source>
-        <target state="translated">Toon Poster Placeholder</target>
+        <target state="translated">Toon poster placeholder</target>
         <note>Shown in an accessibility label</note>
       </trans-unit>
       <trans-unit id="Show Spoilers" xml:space="preserve">
         <source>Show Spoilers</source>
-        <target state="translated">Toon Spoilers</target>
+        <target state="translated">Toon spoilers</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show age information within credits lists. Ages are always shown for birth/death dates." xml:space="preserve">
@@ -1356,7 +1356,7 @@
       </trans-unit>
       <trans-unit id="Start %@ Free Trial" xml:space="preserve">
         <source>Start %@ Free Trial</source>
-        <target state="translated">Start %@ Gratis Proefperiode</target>
+        <target state="translated">Start %@ gratis proefperiode</target>
         <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
@@ -1386,7 +1386,7 @@
       </trans-unit>
       <trans-unit id="Subscriptions Debugging" xml:space="preserve">
         <source>Subscriptions Debugging</source>
-        <target state="translated">Abonnementen Debugging</target>
+        <target state="translated">Abonnementen debugging</target>
         <note>Title of a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Summary" xml:space="preserve">
@@ -1466,7 +1466,7 @@
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
         <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source>
-        <target state="translated">Helaas, [The Movie Database](https://www.themoviedb.org/) ondersteunt nog geen gecombineerde zoekopdrachten voor series. I heb ze gevraagd om het toe te voegen; we zullen zien wat er gebeurt!</target>
+        <target state="translated">Helaas, [The Movie Database](https://www.themoviedb.org/) ondersteunt nog geen gecombineerde zoekopdrachten voor series. Ik heb ze gevraagd om het toe te voegen; we zullen zien wat er gebeurt!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
@@ -1476,7 +1476,7 @@
       </trans-unit>
       <trans-unit id="Unlimited searches" xml:space="preserve">
         <source>Unlimited searches</source>
-        <target state="translated">Onbeperkte zoekopdrachten</target>
+        <target state="translated">Onbeperkt zoeken</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Upcoming" xml:space="preserve">
@@ -1491,12 +1491,12 @@
       </trans-unit>
       <trans-unit id="User Interface" xml:space="preserve">
         <source>User Interface</source>
-        <target state="translated">User Interface</target>
+        <target state="translated">Gebruikersinterface</target>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Waiting for approval…" xml:space="preserve">
         <source>Waiting for approval…</source>
-        <target state="translated">Wachtend op toestemming...</target>
+        <target state="translated">Wachten op toestemming…</target>
         <note>Shown when waiting for a purchase to be approved (probably by a parent)</note>
       </trans-unit>
       <trans-unit id="Watch in:" xml:space="preserve">
@@ -1511,12 +1511,12 @@
       </trans-unit>
       <trans-unit id="What was that thing I looked up yesterday?" xml:space="preserve">
         <source>What was that thing I looked up yesterday?</source>
-        <target state="translated">Wat was hetgeen ik laatst aan het zoeken was?</target>
+        <target state="translated">Waar was ik gisteren naar op zoek?</target>
         <note>Subtitle for "Search history"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Where to Watch" xml:space="preserve">
         <source>Where to Watch</source>
-        <target state="translated">Waar te Zien</target>
+        <target state="translated">Waar te zien</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Which browser to use to open external links." xml:space="preserve">
@@ -1526,7 +1526,7 @@
       </trans-unit>
       <trans-unit id="Which quick access link is shown." xml:space="preserve">
         <source>Which quick access link is shown.</source>
-        <target state="translated">Welke snelle toegang link wordt getoond.</target>
+        <target state="translated">Welke snelle-toeganglink wordt getoond.</target>
         <note>Shown as a subtitle for a row on Settings</note>
       </trans-unit>
       <trans-unit id="Why not shows?" xml:space="preserve">
@@ -1586,7 +1586,7 @@
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
         <source>You have used all your free searches. Subscribe for unlimited searches.</source>
-        <target state="translated">Je hebt je gratis zoekopdrachten gebruikt. Neem een abonnement om oneindig te kunnen zoeken.</target>
+        <target state="translated">Je hebt je gratis zoekopdrachten opgebruikt. Neem een abonnement om onbeperkt te kunnen zoeken.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You may know them from" xml:space="preserve">
@@ -1658,7 +1658,7 @@
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
         <source>visionOS does not support changing icons yet.</source>
-        <target state="translated">visionOS ondersteunt het wijzigen van icoontjes nog niet.</target>
+        <target state="translated">visionOS ondersteunt het wijzigen van iconen nog niet.</target>
         <note>Subtitle for the App Icon row in Settings on visionOS</note>
       </trans-unit>
       <trans-unit id="years old" xml:space="preserve">
