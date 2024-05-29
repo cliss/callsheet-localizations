@@ -155,10 +155,12 @@
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.one" xml:space="preserve">
         <source>Add %lld Free Search</source>
+        <target state="new">Add %lld Free Search</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.other" xml:space="preserve">
         <source>Add %lld Free Searches</source>
+        <target state="new">Add %lld Free Searches</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
@@ -769,10 +771,12 @@
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
         <source>Or, you can have %lld more free search. Just this once.</source>
+        <target state="new">Or, you can have %lld more free search. Just this once.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
         <source>Or, you can have %lld more free searches. Just this once.</source>
+        <target state="new">Or, you can have %lld more free searches. Just this once.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
@@ -1289,10 +1293,12 @@
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.one" xml:space="preserve">
         <source>You have %lld day remaining in your trial.</source>
+        <target state="new">You have %lld day remaining in your trial.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.other" xml:space="preserve">
         <source>You have %lld days remaining in your trial.</source>
+        <target state="new">You have %lld days remaining in your trial.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
