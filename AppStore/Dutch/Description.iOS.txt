@@ -1,4 +1,4 @@
-Je heb tje vast wel eens afgevraagd "wie is die acteur?", of wellicht "uit welk jaar is deze film?", of "wat was de titel van die aflevering van die serie waar ik zo dol op ben?". Misschien ben je wel filmliefhebber en vraag je je af "hoe oud was deze persoon toen deze film uitkwam?"
+Je hebt je vast wel eens afgevraagd ‘wie is die acteur?’, of wellicht ‘uit welk jaar is deze film?’, of ‘wat was de titel van die aflevering van die serie waar ik zo dol op ben?’. Misschien ben je wel filmliefhebber en vraag je je af ‘hoe oud was deze persoon toen deze film uitkwam?’
 
 Heb je antwoord willen hebben op deze vragen *zonder* elke vijf seconden lastig te worden gevallen om in te loggen? Zonder advertenties en zonder videos die automatisch afspelen? Zonder te moeten leunen op een multinational die je probeert iets te verkopen?
 
@@ -9,21 +9,21 @@ Callsheet is de beste manier om snel de informatie op te zoeken over de cast & c
 Callsheet heeft verder een aantal handige functies die je vorige favoriete database app niet heeft:
 
 • Voorkom spoilers wanneer je een serie bekijkt door (optioneel) karakternamen, afleveringtellingen, afleveringtitels of aflevering thumbnails te verbergen.  
-  Laat niet verraden worden wat iemand's geheime identiteit is, of dat ze snel de serie weer verlaten door deze 'hints' te verbergen.
+  Laat niet verraden worden wat iemands geheime identiteit is, of dat ze snel de serie weer verlaten door deze ‘hints’ te verbergen.
 • Snelle toegang tot weetjes, Wikipedia, ouderlijk advies en waar je dingen kunt zien (mogelijk gemaakt door JustWatch)
 • Pin series, films of mensen voor snelle toegang.
 • Vind je waar je eerder naar zocht door inzicht in je eerdere zoekopdrachten en zoek geschiedenis.
 • Vind gemakkelijk de leeftijd van castleden *op het moment dat de film uitkwam* direct in de castlijst.
 • Vind gemakkelijk de leeftijd van iemand voor elke film waarin deze persoon gespeeld heeft.
 • Vind gemakkelijk de lengte van acteurs (wanneer mogelijk)
-• Ondersteuning voor Dark Mode
+• Ondersteuning voor donkere modus
 • Ondersteuning voor VoiceOver
 • Alternatieve appicoontjes voor abonnees
 • Automatische integratie met de geweldige Channels app, zonder in te loggen
 • Experimentele integratie met Plex, zonder in te loggen
 
-Callsheet is ontwikkeld door een enkele persoon, die écht jouw tijd respecteert. Callsheet is ontworpen om snel in te kunnen springen, te vinden wat je zoekt zonder gedoe en dan weer snel terug te gaan naar de film of serie waar je om geeft. Geen afleidingen, en geen verzoeken om in te loggen.
+Callsheet is ontwikkeld door een enkele persoon, die écht jouw tijd respecteert. Callsheet is ontworpen om snel in te kunnen springen, te vinden wat je zoekt zonder gedoe en dan weer snel terug te gaan naar de film of serie waar je om geeft. Geen afleidingen en geen verzoeken om in te loggen.
 
 Callsheet biedt 20 gratis zoekopdrachten, daarna is een abonnement nodig. Abonnementen hebben allemaal een week proefperiode. Ook ondersteunen ze Delen met Gezin.
 
-Probeer Callsheet eens uit. Je zult bijna niet geloven hoeveel beter het werkt dan de app die je eerste gebruikte.
+Probeer Callsheet eens uit. Je zult bijna niet geloven hoeveel beter het werkt dan de app die je eerst gebruikte.
