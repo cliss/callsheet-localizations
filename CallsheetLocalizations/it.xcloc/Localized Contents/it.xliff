@@ -6,11 +6,13 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Callsheet</source><target>Callsheet</target>
+        <source>Callsheet</source>
+        <target>Callsheet</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>Callsheet</source><target>Callsheet</target>
+        <source>Callsheet</source>
+        <target>Callsheet</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
@@ -101,12 +103,12 @@
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.one" xml:space="preserve">
         <source>%lld free search remaining</source>
-        <target state="new">%lld ricerca gratuita rimasta</target>
+        <target state="new">%lld free search remaining</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.other" xml:space="preserve">
         <source>%lld free searches remaining</source>
-        <target state="new">%lld ricerche gratuite rimaste</target>
+        <target state="new">%lld free searches remaining</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.one" xml:space="preserve">
@@ -185,7 +187,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Ads" xml:space="preserve">
-        <source>Ads</source><target>Pubblicità</target>
+        <source>Ads</source>
+        <target state="translated">Pubblicità</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Rent", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Ages" xml:space="preserve">
@@ -209,7 +212,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
-        <source>Apple Keynote</source><target>Keynote Apple</target>
+        <source>Apple Keynote</source>
+        <target state="translated">Keynote Apple</target>
         <note>Example episode name shown in Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
@@ -258,7 +262,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Botanist" xml:space="preserve">
-        <source>Botanist</source><target>Botanico</target>
+        <source>Botanist</source>
+        <target state="translated">Botanico</target>
         <note>Example role shown in Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
@@ -267,7 +272,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Buy" xml:space="preserve">
-        <source>Buy</source><target>Acquista</target>
+        <source>Buy</source>
+        <target state="translated">Acquista</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Callsheet" xml:space="preserve">
@@ -411,7 +417,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Current Location" xml:space="preserve">
-        <source>Current Location</source><target>Posizione Attuale</target>
+        <source>Current Location</source>
+        <target state="translated">Posizione Attuale</target>
         <note>Shown in Where to Watch if the current locale can't be found</note>
       </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
@@ -541,7 +548,8 @@
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
-        <source>Free</source><target>Gratuito</target>
+        <source>Free</source>
+        <target state="translated">Gratuito</target>
         <note>A kind of service to watch media on. Contrast with "Ads", "Rent", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
@@ -1065,7 +1073,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Purchase a subscription" xml:space="preserve">
-        <source>Purchase a subscription</source><target>Acquista un abbonamento</target>
+        <source>Purchase a subscription</source>
+        <target state="translated">Acquista un abbonamento</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
@@ -1074,7 +1083,8 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Purchasing is unavailable at this time." xml:space="preserve">
-        <source>Purchasing is unavailable at this time.</source><target>Non è al momento possibile acquistare.</target>
+        <source>Purchasing is unavailable at this time.</source>
+        <target state="translated">Non è al momento possibile acquistare.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Purchasing…" xml:space="preserve">
@@ -1143,7 +1153,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Rent" xml:space="preserve">
-        <source>Rent</source><target>Noleggia</target>
+        <source>Rent</source>
+        <target state="translated">Noleggia</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
@@ -1157,11 +1168,13 @@
         <note/>
       </trans-unit>
       <trans-unit id="Restore Purchases" xml:space="preserve">
-        <source>Restore Purchases</source><target>Ripristina Acquisti</target>
+        <source>Restore Purchases</source>
+        <target state="translated">Ripristina Acquisti</target>
         <note>Button title in Settings</note>
       </trans-unit>
       <trans-unit id="Restoring…" xml:space="preserve">
-        <source>Restoring…</source><target>Ripristino…</target>
+        <source>Restoring…</source>
+        <target state="translated">Ripristino…</target>
         <note>Button title in Settings when actively restoring a purchase</note>
       </trans-unit>
       <trans-unit id="Reverse sort order" xml:space="preserve">
@@ -1310,7 +1323,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="So sorry!" xml:space="preserve">
-        <source>So sorry!</source><target>Spiacente!</target>
+        <source>So sorry!</source>
+        <target state="translated">Spiacente!</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Sorry, there was a problem." xml:space="preserve">
@@ -1359,7 +1373,8 @@
         <note>Subtitle for the App Icon row in Settings</note>
       </trans-unit>
       <trans-unit id="Subscription" xml:space="preserve">
-        <source>Subscription</source><target>Abbonamento</target>
+        <source>Subscription</source>
+        <target state="translated">Abbonamento</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Buy"</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
@@ -1558,11 +1573,13 @@
         <note/>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.one" xml:space="preserve">
-        <source>You have %lld day remaining in your trial.</source><target>Hai %lld giorno rimanente nel tuo periodo di prova.</target>
+        <source>You have %lld day remaining in your trial.</source>
+        <target state="translated">Hai %lld giorno rimanente nel tuo periodo di prova.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.other" xml:space="preserve">
-        <source>You have %lld days remaining in your trial.</source><target>Hai %lld giorni rimanenti nel tuo periodo di prova.</target>
+        <source>You have %lld days remaining in your trial.</source>
+        <target state="translated">Hai %lld giorni rimanenti nel tuo periodo di prova.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
@@ -1576,12 +1593,14 @@
         <note>Header shown for people</note>
       </trans-unit>
       <trans-unit id="You must have a subscription to use the app." xml:space="preserve">
-        <source>You must have a subscription to use the app.</source><target>Devi avere un abbonamento per usare l’app.</target>
+        <source>You must have a subscription to use the app.</source>
+        <target state="translated">Devi avere un abbonamento per usare l’app.</target>
         <note>Shown in Settings as a subtitle if you haven't purchased the app</note>
       </trans-unit>
       <trans-unit id="Your %@ will expire on&#10;%@" xml:space="preserve">
         <source>Your %1$@ will expire on
-%2$@</source><target>Il tuo %1$@ scadrà il
+%2$@</source>
+        <target state="translated">Il tuo %1$@ scadrà il
 %2$@</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
@@ -1591,7 +1610,8 @@
         <note>A fake summary shown when demonstrating hiding spoilers</note>
       </trans-unit>
       <trans-unit id="Your free trial has expired; you must purchase a subscription to use Callsheet." xml:space="preserve">
-        <source>Your free trial has expired; you must purchase a subscription to use Callsheet.</source><target>Il tuo periodo di prova gratuito è scaduto; devi acquistare un abbonamento per usare Callsheet.</target>
+        <source>Your free trial has expired; you must purchase a subscription to use Callsheet.</source>
+        <target state="translated">Il tuo periodo di prova gratuito è scaduto; devi acquistare un abbonamento per usare Callsheet.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
@@ -1610,7 +1630,8 @@
         <note>Only shown on a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="Your subscription has expired; you must purchase a new subscription to use Callsheet." xml:space="preserve">
-        <source>Your subscription has expired; you must purchase a new subscription to use Callsheet.</source><target>Il tuo abbonamento è scaduto; devi acquistare un nuovo abbonamento per usare Callsheet.</target>
+        <source>Your subscription has expired; you must purchase a new subscription to use Callsheet.</source>
+        <target state="translated">Il tuo abbonamento è scaduto; devi acquistare un nuovo abbonamento per usare Callsheet.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
