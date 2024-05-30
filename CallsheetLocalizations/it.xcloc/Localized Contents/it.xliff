@@ -39,6 +39,7 @@
     <body>
       <trans-unit id="" xml:space="preserve">
         <source/>
+        <target state="translated"/>
         <note/>
       </trans-unit>
       <trans-unit id="#%lld" xml:space="preserve">
