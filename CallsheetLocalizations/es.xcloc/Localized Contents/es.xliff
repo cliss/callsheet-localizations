@@ -159,7 +159,7 @@
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
         <source>A few more free ones please?</source>
-        <target state="translated">¿Unas pocas más de regalo?</target>
+        <target state="translated">¿Me regalas unas pocas más?</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
@@ -234,7 +234,7 @@
       </trans-unit>
       <trans-unit id="Be a hero and support independent apps" xml:space="preserve">
         <source>Be a hero and support independent apps</source>
-        <target state="translated">Se un heroe y soporta apps independientes</target>
+        <target state="translated">Sé un heroe y soporta apps independientes</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
@@ -621,17 +621,17 @@
       </trans-unit>
       <trans-unit id="Hide episode thumbnails" xml:space="preserve">
         <source>Hide episode thumbnails</source>
-        <target state="translated">Ocultar thumbnails del episodio</target>
+        <target state="translated">Ocultar miniatura del episodio</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide episode titles" xml:space="preserve">
         <source>Hide episode titles</source>
-        <target state="translated">Ocultar titulo de episodio</target>
+        <target state="translated">Ocultar título de episodio</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide summaries" xml:space="preserve">
         <source>Hide summaries</source>
-        <target state="translated">Ocultar resumenes</target>
+        <target state="translated">Ocultar resúmenes</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="How seasons and episodes are sorted." xml:space="preserve">
@@ -721,7 +721,7 @@
       </trans-unit>
       <trans-unit id="Known For" xml:space="preserve">
         <source>Known For</source>
-        <target state="translated">Conocido por</target>
+        <target state="translated">Te suena por</target>
         <note/>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
@@ -766,7 +766,7 @@
       </trans-unit>
       <trans-unit id="More Purchase Options…" xml:space="preserve">
         <source>More Purchase Options…</source>
-        <target state="translated">Más opciones de compra</target>
+        <target state="translated">Otras opciones de compra...</target>
         <note/>
       </trans-unit>
       <trans-unit id="More…" xml:space="preserve">
@@ -856,7 +856,7 @@
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
         <source>No override</source>
-        <target state="translated">No sustituir</target>
+        <target state="translated">No ignorar</target>
         <note>Default option for language/region override</note>
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
@@ -921,7 +921,7 @@
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
         <source>Optionally, you can choose to help more.</source>
-        <target state="translated">Opcionalmente, puedes colaborar más</target>
+        <target state="translated">Si quierés, y de forma opcional, puedes colaborar más.</target>
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
@@ -1011,7 +1011,7 @@
       </trans-unit>
       <trans-unit id="Please wait a moment." xml:space="preserve">
         <source>Please wait a moment.</source>
-        <target state="translated">Espara un poco</target>
+        <target state="translated">Espera un poco</target>
         <note>Subtitle when collecting log entries to send</note>
       </trans-unit>
       <trans-unit id="Popular Movies" xml:space="preserve">
@@ -1041,7 +1041,7 @@
       </trans-unit>
       <trans-unit id="Prevent giving away spoilers by choosing to redact details." xml:space="preserve">
         <source>Prevent giving away spoilers by choosing to redact details.</source>
-        <target state="translated">Evita espoilers eligiendo que detalles ocultar</target>
+        <target state="translated">Evita espoilers eligiendo qué detalles ocultar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
@@ -1411,7 +1411,7 @@
       </trans-unit>
       <trans-unit id="Thank you for trying out Callsheet. 💙" xml:space="preserve">
         <source>Thank you for trying out Callsheet. 💙</source>
-        <target state="translated">Gracias por probar Callsheet. 💙</target>
+        <target state="translated">Gracias por usar Callsheet. 💙</target>
         <note/>
       </trans-unit>
       <trans-unit id="The Movie Database" xml:space="preserve">
@@ -1441,7 +1441,7 @@
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source>
-        <target state="translated">Titulo, reparto o equipo</target>
+        <target state="translated">Título, reparto o equipo</target>
         <note>Main search prompt on the bottom bar!</note>
       </trans-unit>
       <trans-unit id="Total runtime %@" xml:space="preserve">
@@ -1511,7 +1511,7 @@
       </trans-unit>
       <trans-unit id="What was that thing I looked up yesterday?" xml:space="preserve">
         <source>What was that thing I looked up yesterday?</source>
-        <target state="translated">Que miré ayer</target>
+        <target state="translated">Qué miré ayer</target>
         <note>Subtitle for "Search history"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Where to Watch" xml:space="preserve">
@@ -1556,7 +1556,7 @@
       </trans-unit>
       <trans-unit id="You Can Help" xml:space="preserve">
         <source>You Can Help</source>
-        <target state="translated">Puedes Ayudar</target>
+        <target state="translated">Puedes ayudar</target>
         <note>Title shown when trying to upsell users to more-expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="You can be second! That’s pretty great!" xml:space="preserve">
