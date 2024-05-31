@@ -7,22 +7,27 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Callsheet</source>
+        <target state="translated">Callsheet</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Callsheet</source>
+        <target state="translated">Callsheet</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
         <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
+        <target state="translated">Se a APP Callsheet usar a sua rede local, poderá mostrar links para o que estiver a ver no seu écran principal. Activar a utilização da rede local é completamente opcional. Nenhuma informação sobre a sua rede local é enviada fora do seu dispositivo.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
         <source>Search</source>
+        <target state="translated">Pesquisa</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source>
+        <target state="translated">Título, elenco, ou equipa</target>
         <note/>
       </trans-unit>
     </body>
@@ -38,26 +43,32 @@
       </trans-unit>
       <trans-unit id="#%lld" xml:space="preserve">
         <source>#%lld</source>
+        <target state="translated">%lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="#%llu" xml:space="preserve">
         <source>#%llu</source>
+        <target state="translated">%lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
+        <target state="translated">%@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ (%@)" xml:space="preserve">
         <source>%1$@ (%2$@)</source>
+        <target state="translated">%1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ - %@" xml:space="preserve">
         <source>%1$@ - %2$@</source>
+        <target state="translated">%1$@ - %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ / %@" xml:space="preserve">
         <source>%1$@ / %2$@</source>
+        <target state="translated">%1$@ / %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ by %@" xml:space="preserve">
@@ -67,6 +78,7 @@
       </trans-unit>
       <trans-unit id="%lld" xml:space="preserve">
         <source>%lld</source>
+        <target state="translated">%lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.one" xml:space="preserve">
@@ -81,12 +93,12 @@
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.one" xml:space="preserve">
         <source>%lld episode</source>
-        <target state="new">%lld episode</target>
+        <target state="translated">%lld episódio</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.other" xml:space="preserve">
         <source>%lld episodes</source>
-        <target state="new">%lld episodes</target>
+        <target state="translated">%lld episódios</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.one" xml:space="preserve">
@@ -141,11 +153,12 @@
       </trans-unit>
       <trans-unit id="%lld — " xml:space="preserve">
         <source>%lld — </source>
+        <target state="translated">%lld — </target>
         <note/>
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
         <source>A few more free ones please?</source>
-        <target state="translated">Mais uns grátis, por favor?</target>
+        <target state="translated">Mais umas grátis, por favor?</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
