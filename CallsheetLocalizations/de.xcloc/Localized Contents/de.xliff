@@ -1141,7 +1141,7 @@
       </trans-unit>
       <trans-unit id="Releases" xml:space="preserve">
         <source>Releases</source>
-        <target state="translated">Veröffentlichungen</target>
+        <target state="translated">Wird veröffentlicht</target>
         <note>When a TV episode or movie will be released</note>
       </trans-unit>
       <trans-unit id="Remove Pin" xml:space="preserve">
@@ -1296,7 +1296,7 @@
       </trans-unit>
       <trans-unit id="Show Poster Placeholder" xml:space="preserve">
         <source>Show Poster Placeholder</source>
-        <target state="translated">Platzhalter-Plakat anzeigen</target>
+        <target state="translated">Serienplatzhalterplakat</target>
         <note>Shown in an accessibility label</note>
       </trans-unit>
       <trans-unit id="Show Spoilers" xml:space="preserve">
