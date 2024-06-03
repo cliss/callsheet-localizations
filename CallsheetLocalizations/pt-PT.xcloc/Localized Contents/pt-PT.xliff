@@ -925,12 +925,12 @@
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
         <source>Or, you can have %lld more free search. Just this once.</source>
-        <target state="new">Or, you can have %lld more free search. Just this once.</target>
+        <target state="translated">Ou poderá ter mais %lld pesquisa grátis. Só desta vez.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
         <source>Or, you can have %lld more free searches. Just this once.</source>
-        <target state="new">Or, you can have %lld more free searches. Just this once.</target>
+        <target state="translated">Ou poderá ter mais %lld pesquisas grátis. Só desta vez.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
@@ -1575,12 +1575,12 @@
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.one" xml:space="preserve">
         <source>You have %lld day remaining in your trial.</source>
-        <target state="new">You have %lld day remaining in your trial.</target>
+        <target state="translated">Tem mais %lld dia como período de testes.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.other" xml:space="preserve">
         <source>You have %lld days remaining in your trial.</source>
-        <target state="new">You have %lld days remaining in your trial.</target>
+        <target state="translated">Tem mais %lld dias como período de testes.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
