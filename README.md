@@ -8,7 +8,7 @@ There are two sections:
 
 ## Current Status
 
-As of [f5eb5d4](https://github.com/cliss/callsheet-localizations/commit/f5eb5d40f414a743b6b53f71474a7756a6c60806):
+As of [e0a3cb8](https://github.com/cliss/callsheet-localizations/commit/e0a3cb872c518cb14e43d4c13fa69e083e86a782):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
@@ -19,10 +19,10 @@ As of [f5eb5d4](https://github.com/cliss/callsheet-localizations/commit/f5eb5d40
 | Russian         | 100% :tada: | ✔️              | [gkeep](https://github.com/gkeep) |
 | Spanish         | 100% :tada: | ✔️              | [unaiherran](https://github.com/unaiherran) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
-| French (🇫🇷)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek) |
-| French (🇨🇦)     | 100% :tada: <br />(Unverified) |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek) |
+| French (🇫🇷)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
+| French (🇨🇦)     | 100% :tada  |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
 | Hebrew          | 99%         |                 | [orisraeli](https://github.com/orisraeli) |
-| Portuguese (🇵🇹) | 97%         |                 | [apfernandes](https://github.com/apfernandes) |
+| Portuguese (🇵🇹) | 98%         |                 | [apfernandes](https://github.com/apfernandes) |
 | Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
 | Polish          | 63%         |                 | [spitfire](https://github.com/spitfire) |
 | Japanese        | 34%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
