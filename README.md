@@ -8,7 +8,7 @@ There are two sections:
 
 ## Current Status
 
-As of [fd22bbb](https://github.com/cliss/callsheet-localizations/commit/fd22bbb3f330f000bcbc9d2438fe4a810f693203):
+As of [f5eb5d4](https://github.com/cliss/callsheet-localizations/commit/f5eb5d40f414a743b6b53f71474a7756a6c60806):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
@@ -19,12 +19,13 @@ As of [fd22bbb](https://github.com/cliss/callsheet-localizations/commit/fd22bbb3
 | Russian         | 100% :tada: | ✔️              | [gkeep](https://github.com/gkeep) |
 | Spanish         | 100% :tada: | ✔️              | [unaiherran](https://github.com/unaiherran) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
-| French          | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek) |
+| French (🇫🇷)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek) |
+| French (🇨🇦)     | 100% :tada: <br />(Unverified) |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek) |
 | Hebrew          | 99%         |                 | [orisraeli](https://github.com/orisraeli) |
 | Portuguese (🇵🇹) | 97%         |                 | [apfernandes](https://github.com/apfernandes) |
 | Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
 | Polish          | 63%         |                 | [spitfire](https://github.com/spitfire) |
-| Japanese        | 31%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
+| Japanese        | 34%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
 | Danish          | 6%          |                 | [hanse00](https://github.com/hanse00) |
 
 [as]: https://github.com/cliss/callsheet-localizations/tree/main/AppStore
