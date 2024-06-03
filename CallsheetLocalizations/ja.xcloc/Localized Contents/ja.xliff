@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
-        <target state="translated">本気ですか？</target>
+        <target state="translated">本当によろしいですか？</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="As rated by users of" xml:space="preserve">
@@ -181,6 +181,7 @@
       </trans-unit>
       <trans-unit id="Be a hero and support independent apps" xml:space="preserve">
         <source>Be a hero and support independent apps</source>
+        <target state="translated">ヒーローになって独立系アプリを支援しよう</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
@@ -189,18 +190,22 @@
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
         <source>Began Airing</source>
+        <target state="translated">放送開始</target>
         <note>When a TV season started airing</note>
       </trans-unit>
       <trans-unit id="Begins Airing" xml:space="preserve">
         <source>Begins Airing</source>
+        <target state="translated">放映開始</target>
         <note>When a TV season will start airing</note>
       </trans-unit>
       <trans-unit id="Biography" xml:space="preserve">
         <source>Biography</source>
+        <target state="translated">伝記</target>
         <note/>
       </trans-unit>
       <trans-unit id="Born" xml:space="preserve">
         <source>Born</source>
+        <target state="translated">生まれ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Botanist" xml:space="preserve">
@@ -284,14 +289,17 @@
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
         <source>Clear</source>
+        <target state="translated">クリア</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clear all" xml:space="preserve">
         <source>Clear all</source>
+        <target state="translated">すべて消去</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="Click Me" xml:space="preserve">
         <source>Click Me</source>
+        <target state="translated">クリックミー</target>
         <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
@@ -353,10 +361,12 @@
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
         <source>Data provided by The Movie Database</source>
+        <target state="translated">データ提供：The Movie Database</target>
         <note/>
       </trans-unit>
       <trans-unit id="Data provided by:" xml:space="preserve">
         <source>Data provided by:</source>
+        <target state="translated">データ提供：</target>
         <note/>
       </trans-unit>
       <trans-unit id="Default Spoiler Settings" xml:space="preserve">
@@ -484,6 +494,7 @@
       </trans-unit>
       <trans-unit id="Guests" xml:space="preserve">
         <source>Guests</source>
+        <target state="translated">ゲスト</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hand your phone to someone knowing they **cannot mess up your photos**." xml:space="preserve">
@@ -566,6 +577,7 @@
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
         <source>Image</source>
+        <target state="translated">イメージ</target>
         <note/>
       </trans-unit>
       <trans-unit id="In Grace Period" xml:space="preserve">
@@ -779,6 +791,7 @@
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
         <source>Parental Guidance</source>
+        <target state="translated">保護者の指導</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
@@ -787,14 +800,17 @@
       </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
         <source>Persnickety Preferences</source>
+        <target state="translated">こだわりの設定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Persnickety Prefs" xml:space="preserve">
         <source>Persnickety Prefs</source>
+        <target state="translated">こだわりの設定</target>
         <note>Navigation title for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Pick a country" xml:space="preserve">
         <source>Pick a country</source>
+        <target state="translated">国を選択</target>
         <note>Picker label for accessibility purposes, in Where to Watch</note>
       </trans-unit>
       <trans-unit id="Pin" xml:space="preserve">
@@ -804,6 +820,7 @@
       </trans-unit>
       <trans-unit id="Pin Type" xml:space="preserve">
         <source>Pin Type</source>
+        <target state="translated">ピンの種類</target>
         <note>Shown in the list of pins screen</note>
       </trans-unit>
       <trans-unit id="Pin your favorites for quick access." xml:space="preserve">
@@ -822,6 +839,7 @@
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
         <source>Plans:</source>
+        <target state="translated">プラン：</target>
         <note>In the context of different subscription/IAP plans</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
@@ -846,6 +864,7 @@
       </trans-unit>
       <trans-unit id="Portrait" xml:space="preserve">
         <source>Portrait</source>
+        <target state="translated">肖像</target>
         <note/>
       </trans-unit>
       <trans-unit id="Post-credits" xml:space="preserve">
@@ -872,6 +891,7 @@
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
         <source>Privacy Policy</source>
+        <target state="translated">プライバシーポリシー</target>
         <note/>
       </trans-unit>
       <trans-unit id="Provided by" xml:space="preserve">
@@ -900,10 +920,12 @@
       </trans-unit>
       <trans-unit id="Purchasing…" xml:space="preserve">
         <source>Purchasing…</source>
+        <target state="translated">購入中…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Quick Access Link" xml:space="preserve">
         <source>Quick Access Link</source>
+        <target state="translated">クイックアクセスリンク</target>
         <note>Title of the Quick Access Link screen in Settings</note>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
@@ -921,6 +943,7 @@
       </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">
         <source>Recent Searches</source>
+        <target state="translated">最近の検索</target>
         <note/>
       </trans-unit>
       <trans-unit id="Refresh" xml:space="preserve">
@@ -945,14 +968,17 @@
       </trans-unit>
       <trans-unit id="Releases" xml:space="preserve">
         <source>Releases</source>
+        <target state="translated">リリースされます</target>
         <note>When a TV episode or movie will be released</note>
       </trans-unit>
       <trans-unit id="Remove Pin" xml:space="preserve">
         <source>Remove Pin</source>
+        <target state="translated">ピンを外す</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove pin" xml:space="preserve">
         <source>Remove pin</source>
+        <target state="translated">ピンを外す</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rent" xml:space="preserve">
@@ -1027,10 +1053,12 @@
       </trans-unit>
       <trans-unit id="Season %lld Episode %lld" xml:space="preserve">
         <source>Season %1$lld Episode %2$lld</source>
+        <target state="translated">シーズン %1$lld エピソード %2$lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="Seasons" xml:space="preserve">
         <source>Seasons</source>
+        <target state="translated">セゾン</target>
         <note>Navigation title for the screen showing the seasons of a TV show; NOT spring/summer</note>
       </trans-unit>
       <trans-unit id="Select a View" xml:space="preserve">
@@ -1047,22 +1075,27 @@
       </trans-unit>
       <trans-unit id="Share" xml:space="preserve">
         <source>Share</source>
+        <target state="translated">共有</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share Callsheet link" xml:space="preserve">
         <source>Share Callsheet link</source>
+        <target state="translated">コールシートリンクを共有する</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share Callsheet link…" xml:space="preserve">
         <source>Share Callsheet link…</source>
+        <target state="translated">コールシートリンクを共有する。。。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share web link" xml:space="preserve">
         <source>Share web link</source>
+        <target state="translated">ウェブリンクを共有する</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share web link…" xml:space="preserve">
         <source>Share web link…</source>
+        <target state="translated">ウェブリンクを共有する。。。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shared image" xml:space="preserve">
@@ -1364,6 +1397,7 @@
       </trans-unit>
       <trans-unit id="pinned items" xml:space="preserve">
         <source>pinned items</source>
+        <target state="translated">ピンした作品</target>
         <note/>
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
