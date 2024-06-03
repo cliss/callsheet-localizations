@@ -8,7 +8,7 @@ There are two sections:
 
 ## Current Status
 
-As of [fd22bbb](https://github.com/cliss/callsheet-localizations/commit/fd22bbb3f330f000bcbc9d2438fe4a810f693203):
+As of [f5eb5d4](https://github.com/cliss/callsheet-localizations/commit/f5eb5d40f414a743b6b53f71474a7756a6c60806):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
