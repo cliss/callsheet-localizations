@@ -6,11 +6,13 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Callsheet</source><target>Callsheet</target>
+        <source>Callsheet</source>
+        <target>Callsheet</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>Callsheet</source><target>Callsheet</target>
+        <source>Callsheet</source>
+        <target>Callsheet</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
@@ -317,7 +319,7 @@
       </trans-unit>
       <trans-unit id="Cast or Crew" xml:space="preserve">
         <source>Cast or Crew</source>
-        <target state="translated">Dristribution ou Équipe</target>
+        <target state="translated">Distribution ou Équipe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
@@ -664,7 +666,7 @@
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
         <source>Yearly Max-Supporter</source>
-        <target state="translated">Supporteur Maximum annuel</target>
+        <target state="translated">Supporteur Maximum Annuel</target>
         <note>Name of the annual subscription that is a bit more money than the normal one</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Description" xml:space="preserve">
@@ -869,7 +871,7 @@
       </trans-unit>
       <trans-unit id="No people pins found." xml:space="preserve">
         <source>No people pins found.</source>
-        <target state="translated">Pas de personnes épinglkées trouvées.</target>
+        <target state="translated">Pas de personnes épinglées trouvées.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pinned items found." xml:space="preserve">
