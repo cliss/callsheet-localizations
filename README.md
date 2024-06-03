@@ -20,7 +20,7 @@ As of [e0a3cb8](https://github.com/cliss/callsheet-localizations/commit/e0a3cb87
 | Spanish         | 100% :tada: | ✔️              | [unaiherran](https://github.com/unaiherran) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
 | French (🇫🇷)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
-| French (🇨🇦)     | 100% :tada  |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
+| French (🇨🇦)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
 | Hebrew          | 99%         |                 | [orisraeli](https://github.com/orisraeli) |
 | Portuguese (🇵🇹) | 98%         |                 | [apfernandes](https://github.com/apfernandes) |
 | Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
