@@ -25,7 +25,7 @@ As of [fd22bbb](https://github.com/cliss/callsheet-localizations/commit/fd22bbb3
 | Portuguese (🇵🇹) | 97%         |                 | [apfernandes](https://github.com/apfernandes) |
 | Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
 | Polish          | 63%         |                 | [spitfire](https://github.com/spitfire) |
-| Japanese        | 31%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
+| Japanese        | 34%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
 | Danish          | 6%          |                 | [hanse00](https://github.com/hanse00) |
 
 [as]: https://github.com/cliss/callsheet-localizations/tree/main/AppStore
