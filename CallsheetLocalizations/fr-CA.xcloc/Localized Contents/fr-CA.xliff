@@ -219,7 +219,7 @@
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
-        <target state="translated">Êtes vous certain?</target>
+        <target state="translated">Êtes-vous certain?</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="As rated by users of" xml:space="preserve">
@@ -731,7 +731,7 @@
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
         <source>Learn about the people behind Callsheet.</source>
-        <target state="translated">Informez vous sur les personnes qui créent Callsheet.</target>
+        <target state="translated">Informez-vous sur les personnes qui créent Callsheet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
