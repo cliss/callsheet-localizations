@@ -8,23 +8,24 @@ There are two sections:
 
 ## Current Status
 
-As of [56fbd63](https://github.com/cliss/callsheet-localizations/commit/56fbd637218c96174e7a4c2a19fc3c7a31cee1c9):
+As of [f5eb5d4](https://github.com/cliss/callsheet-localizations/commit/f5eb5d40f414a743b6b53f71474a7756a6c60806):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
 | English         | N/A         | ✔️              | [cliss](https://github.com/cliss) |
+| Dutch           | 100% :tada: | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
+| Italian         | 100% :tada: | ✔️              | [cdf1982](https://github.com/cdf1982) |
 | German          | 100% :tada: | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
 | Russian         | 100% :tada: | ✔️              | [gkeep](https://github.com/gkeep) |
-| Dutch           | 100% :tada: | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
 | Spanish         | 100% :tada: | ✔️              | [unaiherran](https://github.com/unaiherran) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
-| French          | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek) |
+| French (🇫🇷)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek) |
+| French (🇨🇦)     | 100% :tada: <br />(Unverified) |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek) |
 | Hebrew          | 99%         |                 | [orisraeli](https://github.com/orisraeli) |
-| Italian         | 99%         | ✔️              | [cdf1982](https://github.com/cdf1982) |
+| Portuguese (🇵🇹) | 97%         |                 | [apfernandes](https://github.com/apfernandes) |
 | Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
-| Portuguese (🇵🇹) | 29%         |                 | [apfernandes](https://github.com/apfernandes) |
 | Polish          | 63%         |                 | [spitfire](https://github.com/spitfire) |
-| Japanese        | 21%         |                 | [kenroy](https://github.com/kenroy) |
+| Japanese        | 34%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
 | Danish          | 6%          |                 | [hanse00](https://github.com/hanse00) |
 
 [as]: https://github.com/cliss/callsheet-localizations/tree/main/AppStore

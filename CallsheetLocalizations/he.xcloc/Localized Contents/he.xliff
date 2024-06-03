@@ -989,7 +989,7 @@
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
-        <source>Optionally, you can choose to help more.</source><target>אם תרצה, תוכל לעזור אפילו יותר.</target>
+        <source>Optionally, you can choose to help more.</source>
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.many" xml:space="preserve">
