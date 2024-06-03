@@ -234,7 +234,7 @@
       </trans-unit>
       <trans-unit id="Be a hero and support independent apps" xml:space="preserve">
         <source>Be a hero and support independent apps</source>
-        <target state="translated">Sei ein toller Mensch und supporte Indie-Apps</target>
+        <target state="translated">Sei ein toller Mensch und supporte Indie-Apps.</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
@@ -921,7 +921,7 @@
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
         <source>Optionally, you can choose to help more.</source>
-        <target state="translated">Wenn du möchtest, kannst du mehr geben.</target>
+        <target state="translated">Diese optionalen Pläne geben dir die Gelegenheit dazu.</target>
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.one" xml:space="preserve">
@@ -1201,7 +1201,7 @@
       </trans-unit>
       <trans-unit id="Same perks as all other plans" xml:space="preserve">
         <source>Same perks as all other plans</source>
-        <target state="translated">Die gleichen Vorteile wie in den anderen Plänen</target>
+        <target state="translated">Die gleichen Vorteile wie in den anderen Plänen.</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -1316,7 +1316,7 @@
       </trans-unit>
       <trans-unit id="Show that you _really_ care" xml:space="preserve">
         <source>Show that you _really_ care</source>
-        <target state="translated">Zeig, dass es dir _wirklich_ wichtig ist</target>
+        <target state="translated">Zeig, dass es dir _wirklich_ wichtig ist.</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
@@ -1556,7 +1556,7 @@
       </trans-unit>
       <trans-unit id="You Can Help" xml:space="preserve">
         <source>You Can Help</source>
-        <target state="translated">Du kannst helfen</target>
+        <target state="translated">Du möchtest noch mehr unterstützen?</target>
         <note>Title shown when trying to upsell users to more-expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="You can be second! That’s pretty great!" xml:space="preserve">
