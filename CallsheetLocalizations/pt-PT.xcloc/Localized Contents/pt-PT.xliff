@@ -169,12 +169,12 @@
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.one" xml:space="preserve">
         <source>Add %lld Free Search</source>
-        <target state="new">Acrescentar %lld Pesquisa Grátis</target>
+        <target state="translated">Acrescentar %lld Pesquisa Grátis</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.other" xml:space="preserve">
         <source>Add %lld Free Searches</source>
-        <target state="new">Acrescentar %lld Pesquisas Grátis</target>
+        <target state="translated">Acrescentar %lld Pesquisas Grátis</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
@@ -1210,7 +1210,7 @@
       </trans-unit>
       <trans-unit id="Save %@" xml:space="preserve">
         <source>Save %@</source>
-        <target>Gravar %@</target>
+        <target state="translated">Gravar %@</target>
         <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
