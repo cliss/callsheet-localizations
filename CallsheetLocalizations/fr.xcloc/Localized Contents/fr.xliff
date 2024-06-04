@@ -1006,7 +1006,7 @@
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
         <source>Please send feedback to `hello@limitliss.co`</source>
-        <target state="translated">Merci d’envoyer vos retours à`hello@limitliss.co`</target>
+        <target state="translated">Merci d’envoyer vos retours à `hello@limitliss.co`</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please wait a moment." xml:space="preserve">
