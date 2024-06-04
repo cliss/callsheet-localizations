@@ -24,7 +24,7 @@ As of [d7be45dc](https://github.com/cliss/callsheet-localizations/commit/d7be45d
 | French (🇨🇦)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
 | Hebrew          | 99%         | ✔️              | [orisraeli](https://github.com/orisraeli) |
 | Polish          | 99%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
-| Portuguese (🇵🇹) | 98%         |                 | [apfernandes](https://github.com/apfernandes) |
+| Portuguese (🇵🇹) | 98%         | ✔️              | [apfernandes](https://github.com/apfernandes) |
 | Norwegian       | 88%         | ✔️              | [lognseth](https://github.com/lognseth) |
 | Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
 | Japanese        | 34%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
