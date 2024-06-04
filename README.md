@@ -8,7 +8,7 @@ There are two sections:
 
 ## Current Status
 
-As of [e0a3cb8](https://github.com/cliss/callsheet-localizations/commit/e0a3cb872c518cb14e43d4c13fa69e083e86a782):
+As of [9ead9fd](https://github.com/cliss/callsheet-localizations/commit/9ead9fd6269a2a2e589368e9660b002d0082e40e):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
@@ -18,6 +18,7 @@ As of [e0a3cb8](https://github.com/cliss/callsheet-localizations/commit/e0a3cb87
 | German          | 100% :tada: | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
 | Russian         | 100% :tada: | ✔️              | [gkeep](https://github.com/gkeep) |
 | Spanish         | 100% :tada: | ✔️              | [unaiherran](https://github.com/unaiherran) |
+| Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
 | French (🇫🇷)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
 | French (🇨🇦)     | 100% :tada  |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
