@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Flookup/en.lproj/InfoPlist.strings" source-language="en" target-language="pt-PT" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -34,7 +34,7 @@
   </file>
   <file original="Localizable.xcstrings" source-language="en" target-language="pt-PT" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
@@ -74,7 +74,7 @@
       </trans-unit>
       <trans-unit id="%@ by %@" xml:space="preserve">
         <source>%1$@ by %2$@</source>
-        <target state="translated">%1$@ por  %2$@</target>
+        <target state="translated">%1$@ por %2$@</target>
         <note>{Icon name} by {Icon artist}</note>
       </trans-unit>
       <trans-unit id="%lld" xml:space="preserve">
@@ -469,7 +469,7 @@
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
         <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
-        <target state="translated">Ca</target>
+        <target state="translated">Cada programa de TV pode ter as suas próprias definições carregando no butão `Esconder` `Spoilers…` quando visualizando um programa ou episódio.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
@@ -675,12 +675,12 @@
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Display Name" xml:space="preserve">
         <source>Yearly Ultra-Supporter</source>
-        <target state="translated">Apoiante anual Ultra </target>
+        <target state="translated">Apoiante anual Ultra</target>
         <note>Name of the maximum-cost annual subscription </note>
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
         <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source>
-        <target state="translated">Se visualizar filmes ou programas utilizando  [Channels](https://getchannels.com/) ou [Plex](https://plex.tv/) noutro dispositivo, Callsheet pode mostrar informação sobre esse filme our programa no início do écran de "Discover"</target>
+        <target state="translated">Se visualizar filmes ou programas utilizando [Channels](https://getchannels.com/) ou [Plex](https://plex.tv/) noutro dispositivo, Callsheet pode mostrar informação sobre esse filme our programa no início do écran de "Descobrir”</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
@@ -865,7 +865,7 @@
       </trans-unit>
       <trans-unit id="No people matching *%@* found." xml:space="preserve">
         <source>No people matching *%@* found.</source>
-        <target state="translated">Não foram encontradas pessoas pelo nome  *%@* </target>
+        <target state="translated">Não foram encontradas pessoas pelo nome *%@*</target>
         <note>Shown when searching a list of credits, but no matches were found</note>
       </trans-unit>
       <trans-unit id="No people pins found." xml:space="preserve">
@@ -1065,7 +1065,7 @@
       </trans-unit>
       <trans-unit id="Provided by [JustWatch](https://www.justwatch.com/)" xml:space="preserve">
         <source>Provided by [JustWatch](https://www.justwatch.com/)</source>
-        <target state="translated">Disponibilizado por  [JustWatch](https://www.justwatch.com/)</target>
+        <target state="translated">Disponibilizado por [JustWatch](https://www.justwatch.com/)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Purchase Error" xml:space="preserve">
@@ -1085,7 +1085,7 @@
       </trans-unit>
       <trans-unit id="Purchasing is unavailable at this time." xml:space="preserve">
         <source>Purchasing is unavailable at this time.</source>
-        <target state="translated"> De momento, a compra não está disponível</target>
+        <target state="translated">De momento, a compra não está disponível</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Purchasing…" xml:space="preserve">
@@ -1657,7 +1657,7 @@
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
         <source>visionOS does not support changing icons yet.</source>
-        <target state="translated">Definições do subtítulo para a linha do ícone da APP  em visionOS</target>
+        <target state="translated">Definições do subtítulo para a linha do ícone da app  em visionOS</target>
         <note>Subtitle for the App Icon row in Settings on visionOS</note>
       </trans-unit>
       <trans-unit id="years old" xml:space="preserve">
