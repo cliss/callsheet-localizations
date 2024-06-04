@@ -8,7 +8,7 @@ There are two sections:
 
 ## Current Status
 
-As of [d7be45dc](https://github.com/cliss/callsheet-localizations/commit/d7be45dcc6701c52465a7036811ed822c7eaf79f):
+As of [df58e79](https://github.com/cliss/callsheet-localizations/commit/6f58e79eb96482037aeb60bf0dd567ece387b926):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
@@ -22,8 +22,8 @@ As of [d7be45dc](https://github.com/cliss/callsheet-localizations/commit/d7be45d
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
 | French (🇫🇷)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
 | French (🇨🇦)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
+| Polish          | 100% :tada: |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
 | Hebrew          | 99%         | ✔️              | [orisraeli](https://github.com/orisraeli) |
-| Polish          | 99%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
 | Portuguese (🇵🇹) | 98%         | ✔️              | [apfernandes](https://github.com/apfernandes) |
 | Norwegian       | 88%         | ✔️              | [lognseth](https://github.com/lognseth) |
 | Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
