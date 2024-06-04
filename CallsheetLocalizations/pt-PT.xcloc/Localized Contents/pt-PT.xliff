@@ -84,12 +84,12 @@
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.one" xml:space="preserve">
         <source>%lld Season</source>
-        <target state="new">%lld Season</target>
+        <target state="translated">%lld Temporada</target>
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.other" xml:space="preserve">
         <source>%lld Seasons</source>
-        <target state="new">%lld Seasons</target>
+        <target state="translated">%lld Temporadas</target>
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.one" xml:space="preserve">
