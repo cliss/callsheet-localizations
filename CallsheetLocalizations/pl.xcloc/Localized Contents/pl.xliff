@@ -194,22 +194,22 @@
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.few" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="new">%lld years old</target>
+        <target state="new">%lld lata</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.many" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="new">%lld years old</target>
+        <target state="new">%lld lat</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.one" xml:space="preserve">
         <source>%lld year old</source>
-        <target state="new">%lld year old</target>
+        <target state="new">%lld rok</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="new">%lld years old</target>
+        <target state="new">%lld roku</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld — " xml:space="preserve">
@@ -1655,22 +1655,22 @@
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.few" xml:space="preserve">
         <source>You have %lld days remaining in your trial.</source>
-        <target state="new">You have %lld days remaining in your trial.</target>
+        <target state="new">Pozostało %lld dni okresu próbnego.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.many" xml:space="preserve">
         <source>You have %lld days remaining in your trial.</source>
-        <target state="new">You have %lld days remaining in your trial.</target>
+        <target state="new">Pozostało %lld dni okresu próbnego.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.one" xml:space="preserve">
         <source>You have %lld day remaining in your trial.</source>
-        <target state="new">You have %lld day remaining in your trial.</target>
+        <target state="new">Pozostał %lld dzień okresu próbnego.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.other" xml:space="preserve">
         <source>You have %lld days remaining in your trial.</source>
-        <target state="new">You have %lld days remaining in your trial.</target>
+        <target state="new">Pozostało %lld dnia okresu próbnego.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
