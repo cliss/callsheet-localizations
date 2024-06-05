@@ -646,7 +646,7 @@
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
         <source>Unlimited searches for a month. Auto-renews</source>
         <target state="translated">Ricerche illimitate per un mese. Si rinnova automaticamente.</target>
-        <note>Description for the monthly subscription in-app purchase</note>
+        <note>Description for the monthly subscription in-app purchase; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Display Name" xml:space="preserve">
         <source>Monthly</source>
@@ -656,12 +656,17 @@
       <trans-unit id="IAP: Yearly Description" xml:space="preserve">
         <source>Access to Callsheet for 1 year. Auto-renews</source>
         <target state="translated">Accesso a Callsheet per 1 anno. Si rinnova automaticamente.</target>
-        <note>Description for the annual subscription in-app purchase</note>
+        <note>Description for the annual subscription in-app purchase; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
         <source>Yearly Subscription</source>
         <target state="translated">Annuale</target>
         <note>Name of the annual subscription in-app purchase</note>
+      </trans-unit>
+      <trans-unit id="IAP: Yearly Max Description" xml:space="preserve">
+        <source>Show your added support!</source>
+        <target state="translated">Mostra il tuo ulteriore supporto!</target>
+        <note>Description for the medium-cost annual subscription; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
         <source>Yearly Max-Supporter</source>
@@ -671,7 +676,7 @@
       <trans-unit id="IAP: Yearly Ultra Description" xml:space="preserve">
         <source>Show your extreme support!</source>
         <target state="translated">Mostra il tuo massimo supporto!</target>
-        <note>Description for the maximum-cost annual subscription</note>
+        <note>Description for the maximum-cost annual subscription; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Display Name" xml:space="preserve">
         <source>Yearly Ultra-Supporter</source>

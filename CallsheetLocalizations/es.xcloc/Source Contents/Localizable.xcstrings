@@ -533,7 +533,7 @@
       "comment" : "Do not translate"
     },
     "IAP: Monthly Description" : {
-      "comment" : "Description for the monthly subscription in-app purchase",
+      "comment" : "Description for the monthly subscription in-app purchase; 45 characters or less",
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -557,7 +557,7 @@
       }
     },
     "IAP: Yearly Description" : {
-      "comment" : "Description for the annual subscription in-app purchase",
+      "comment" : "Description for the annual subscription in-app purchase; 45 characters or less",
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -580,6 +580,18 @@
         }
       }
     },
+    "IAP: Yearly Max Description" : {
+      "comment" : "Description for the medium-cost annual subscription; 45 characters or less",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show your added support!"
+          }
+        }
+      }
+    },
     "IAP: Yearly Max Display Name" : {
       "comment" : "Name of the annual subscription that is a bit more money than the normal one",
       "extractionState" : "manual",
@@ -593,7 +605,7 @@
       }
     },
     "IAP: Yearly Ultra Description" : {
-      "comment" : "Description for the maximum-cost annual subscription",
+      "comment" : "Description for the maximum-cost annual subscription; 45 characters or less",
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
