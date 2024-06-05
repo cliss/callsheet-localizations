@@ -344,7 +344,7 @@
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
         <source>Choose spoiler-risky things to hide by default.</source>
-        <target state="translated">Velg hva du vil ha skjult som standard for å unngå spoilere.</target>
+        <target state="translated">Velg hva du vil skjule som standard for å unngå spoilere.</target>
         <note>Subtitle for a row in Settings</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
@@ -901,7 +901,7 @@
       </trans-unit>
       <trans-unit id="Not a subscription" xml:space="preserve">
         <source>Not a subscription</source>
-        <target state="translated">Ikke et abonnement.</target>
+        <target state="translated">Ikke et abonnement</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Not purchased" xml:space="preserve">
@@ -1101,7 +1101,7 @@
       </trans-unit>
       <trans-unit id="Quick Access Link" xml:space="preserve">
         <source>Quick Access Link</source>
-        <target state="translated">Lenke til hurtigtilgang</target>
+        <target state="translated">Hurtigtilgangslenke</target>
         <note>Title of the Quick Access Link screen in Settings</note>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
@@ -1116,7 +1116,7 @@
       </trans-unit>
       <trans-unit id="Rating" xml:space="preserve">
         <source>Rating</source>
-        <target state="translated">Vurdering</target>
+        <target state="translated">Aldersgrense</target>
         <note>A content rating like G/PG/PG-13/R</note>
       </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">
@@ -1521,7 +1521,7 @@
       </trans-unit>
       <trans-unit id="Where to Watch" xml:space="preserve">
         <source>Where to Watch</source>
-        <target state="translated">Hvor man kan se</target>
+        <target state="translated">Hvor du kan se</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Which browser to use to open external links." xml:space="preserve">
@@ -1662,7 +1662,7 @@
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
         <source>visionOS does not support changing icons yet.</source>
-        <target state="translated">visionOS støtter ikke å endre ikoner enda.</target>
+        <target state="translated">visionOS støtter ikke endring av ikoner enda.</target>
         <note>Subtitle for the App Icon row in Settings on visionOS</note>
       </trans-unit>
       <trans-unit id="years old" xml:space="preserve">
