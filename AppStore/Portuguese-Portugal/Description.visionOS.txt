@@ -18,7 +18,6 @@ Não descubra de forma indesejada a identidade secreta de uma personagem, ou que
 • Ver facilmente a altura dos actores (quando possível).
 • Suporte para modo escuro.
 • Suporte para VoiceOver.
-• Ícones de aplicação alternativos para assinantes.
 • Integração automática, sem login, com a maravilhosa aplicação Channels.
 • Integração experimental, sem login, com o Plex.
 

@@ -18,7 +18,6 @@ Callsheet har också några nya funktioner som din tidigare favoritdatabasapp in
 • Se enkelt skådespelares längd (när det är möjligt).
 • Stöd för mörkt läge.
 • Stöd för VoiceOver.
-• Alternativa appikoner för prenumeranter.
 • Automatisk, inloggningsfri integration med den fantastiska Channels-appen.
 • Experimentell, inloggningsfri integration med Plex.
 
