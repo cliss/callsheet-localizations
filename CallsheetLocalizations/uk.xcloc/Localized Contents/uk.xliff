@@ -716,7 +716,7 @@
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
         <source>Unlimited searches for a month. Auto-renews</source>
-        <target state="translated">Рік без обмежень. Автоматично оновлюється</target>
+        <target state="translated">Місяць без обмежень. Автоматично оновлюється</target>
         <note>Description for the monthly subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Display Name" xml:space="preserve">
@@ -726,7 +726,7 @@
       </trans-unit>
       <trans-unit id="IAP: Yearly Description" xml:space="preserve">
         <source>Access to Callsheet for 1 year. Auto-renews</source>
-        <target state="translated">Доступ до Callsheet на рік. Автоматично оновлюється</target>
+        <target state="translated">Рік без обмежень. Автоматично оновлюється</target>
         <note>Description for the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
