@@ -8,11 +8,12 @@ There are two sections:
 
 ## Current Status
 
-As of [81c9fa4](https://github.com/cliss/callsheet-localizations/commit/81c9fa434bf26cbe0a867067086cb59e8d4bfd75):
+As of [2cb2ec8](https://github.com/cliss/callsheet-localizations/commit/2cb2ec86a3b7cb62bc4463fb92526b86e0000d7c):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
 | English         | N/A         | ✔️              | [cliss](https://github.com/cliss) |
+| Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
 | Dutch           | 99%         | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
 | Italian         | 99%         | ✔️              | [cdf1982](https://github.com/cdf1982) |
 | German          | 99%         | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
@@ -20,7 +21,6 @@ As of [81c9fa4](https://github.com/cliss/callsheet-localizations/commit/81c9fa43
 | Russian         | 99%         | ✔️              | [gkeep](https://github.com/gkeep) |
 | Spanish         | 99%         | ✔️              | [unaiherran](https://github.com/unaiherran) |
 | Swedish         | 99%         | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
-| Ukrainian       | 99%         | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
 | French (🇫🇷)     | 99%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
 | French (🇨🇦)     | 99%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
 | Polish          | 99%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
