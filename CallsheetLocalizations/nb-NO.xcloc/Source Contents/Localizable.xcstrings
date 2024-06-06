@@ -272,6 +272,9 @@
     "App Icon" : {
 
     },
+    "App Language" : {
+      "comment" : "Title for the row in settings that allows you to set the app's language"
+    },
     "Apple Keynote" : {
       "comment" : "Example episode name shown in Spoiler Settings"
     },
@@ -337,6 +340,9 @@
     },
     "Cast or Crew" : {
 
+    },
+    "Change what language Callsheet itself uses" : {
+      "comment" : "Description for the row in settings that allows you to set the app's language"
     },
     "Choose a link:" : {
       "comment" : "Shown in settings for the quick access link"
@@ -533,7 +539,7 @@
       "comment" : "Do not translate"
     },
     "IAP: Monthly Description" : {
-      "comment" : "Description for the monthly subscription in-app purchase",
+      "comment" : "Description for the monthly subscription in-app purchase; 45 characters or less",
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -557,7 +563,7 @@
       }
     },
     "IAP: Yearly Description" : {
-      "comment" : "Description for the annual subscription in-app purchase",
+      "comment" : "Description for the annual subscription in-app purchase; 45 characters or less",
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -580,6 +586,18 @@
         }
       }
     },
+    "IAP: Yearly Max Description" : {
+      "comment" : "Description for the medium-cost annual subscription; 45 characters or less",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show your added support!"
+          }
+        }
+      }
+    },
     "IAP: Yearly Max Display Name" : {
       "comment" : "Name of the annual subscription that is a bit more money than the normal one",
       "extractionState" : "manual",
@@ -593,7 +611,7 @@
       }
     },
     "IAP: Yearly Ultra Description" : {
-      "comment" : "Description for the maximum-cost annual subscription",
+      "comment" : "Description for the maximum-cost annual subscription; 45 characters or less",
       "extractionState" : "manual",
       "localizations" : {
         "en" : {

@@ -282,6 +282,11 @@
         <target state="translated">Іконка програми</target>
         <note/>
       </trans-unit>
+      <trans-unit id="App Language" xml:space="preserve">
+        <source>App Language</source>
+        <target state="translated">Мова</target>
+        <note>Title for the row in settings that allows you to set the app's language</note>
+      </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
         <source>Apple Keynote</source>
         <target state="translated">Трагичне весілля</target>
@@ -391,6 +396,11 @@
         <source>Cast or Crew</source>
         <target state="translated">Актори або знімальна група</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Change what language Callsheet itself uses" xml:space="preserve">
+        <source>Change what language Callsheet itself uses</source>
+        <target state="translated">Змінити мову інтерфейсу Callsheet</target>
+        <note>Description for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
         <source>Choose New Subscription</source>
@@ -716,8 +726,8 @@
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
         <source>Unlimited searches for a month. Auto-renews</source>
-        <target state="translated">Пошук без обмежень на місяць. Автоматично подовжується</target>
-        <note>Description for the monthly subscription in-app purchase</note>
+        <target state="translated">Місяць без обмежень. Автоматично подовжується</target>
+        <note>Description for the monthly subscription in-app purchase; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Display Name" xml:space="preserve">
         <source>Monthly</source>
@@ -726,13 +736,18 @@
       </trans-unit>
       <trans-unit id="IAP: Yearly Description" xml:space="preserve">
         <source>Access to Callsheet for 1 year. Auto-renews</source>
-        <target state="translated">Доступ до Callsheet на рік. Автоматично подовжується</target>
-        <note>Description for the annual subscription in-app purchase</note>
+        <target state="translated">Рік без обмежень. Автоматично подовжується</target>
+        <note>Description for the annual subscription in-app purchase; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
         <source>Yearly Subscription</source>
         <target state="translated">Річна передплата</target>
         <note>Name of the annual subscription in-app purchase</note>
+      </trans-unit>
+      <trans-unit id="IAP: Yearly Max Description" xml:space="preserve">
+        <source>Show your added support!</source>
+        <target state="translated">Покажіть свою додаткову підтримку!</target>
+        <note>Description for the medium-cost annual subscription; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
         <source>Yearly Max-Supporter</source>
@@ -742,7 +757,7 @@
       <trans-unit id="IAP: Yearly Ultra Description" xml:space="preserve">
         <source>Show your extreme support!</source>
         <target state="translated">Для найщиріших прихильників!</target>
-        <note>Description for the maximum-cost annual subscription</note>
+        <note>Description for the maximum-cost annual subscription; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Display Name" xml:space="preserve">
         <source>Yearly Ultra-Supporter</source>
