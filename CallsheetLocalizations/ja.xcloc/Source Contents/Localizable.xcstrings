@@ -272,6 +272,9 @@
     "App Icon" : {
 
     },
+    "App Language" : {
+      "comment" : "Title for the row in settings that allows you to set the app's language"
+    },
     "Apple Keynote" : {
       "comment" : "Example episode name shown in Spoiler Settings"
     },
@@ -337,6 +340,9 @@
     },
     "Cast or Crew" : {
 
+    },
+    "Change what language Callsheet itself uses" : {
+      "comment" : "Description for the row in settings that allows you to set the app's language"
     },
     "Choose a link:" : {
       "comment" : "Shown in settings for the quick access link"

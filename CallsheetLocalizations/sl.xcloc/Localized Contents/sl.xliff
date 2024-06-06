@@ -228,6 +228,10 @@
         <source>App Icon</source>
         <note/>
       </trans-unit>
+      <trans-unit id="App Language" xml:space="preserve">
+        <source>App Language</source>
+        <note>Title for the row in settings that allows you to set the app's language</note>
+      </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
         <source>Apple Keynote</source>
         <note>Example episode name shown in Spoiler Settings</note>
@@ -315,6 +319,10 @@
       <trans-unit id="Cast or Crew" xml:space="preserve">
         <source>Cast or Crew</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Change what language Callsheet itself uses" xml:space="preserve">
+        <source>Change what language Callsheet itself uses</source>
+        <note>Description for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
         <source>Choose New Subscription</source>
