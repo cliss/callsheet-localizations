@@ -8,22 +8,22 @@ There are two sections:
 
 ## Current Status
 
-As of [9a797ee](https://github.com/cliss/callsheet-localizations/commit/9a797ee7959c4e15dcd90e00bfcc7c267faed0c4):
+As of [81c9fa4](https://github.com/cliss/callsheet-localizations/commit/81c9fa434bf26cbe0a867067086cb59e8d4bfd75):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
 | English         | N/A         | ✔️              | [cliss](https://github.com/cliss) |
-| Dutch           | 100% :tada: | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
-| Italian         | 100% :tada: | ✔️              | [cdf1982](https://github.com/cdf1982) |
-| German          | 100% :tada: | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
-| Portuguese (🇵🇹) | 100% :tada: | ✔️              | [apfernandes](https://github.com/apfernandes) |
-| Russian         | 100% :tada: | ✔️              | [gkeep](https://github.com/gkeep) |
-| Spanish         | 100% :tada: | ✔️              | [unaiherran](https://github.com/unaiherran) |
-| Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
-| Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
-| French (🇫🇷)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
-| French (🇨🇦)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
-| Polish          | 100% :tada: |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
+| Dutch           | 99%         | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
+| Italian         | 99%         | ✔️              | [cdf1982](https://github.com/cdf1982) |
+| German          | 99%         | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
+| Portuguese (🇵🇹) | 99%         | ✔️              | [apfernandes](https://github.com/apfernandes) |
+| Russian         | 99%         | ✔️              | [gkeep](https://github.com/gkeep) |
+| Spanish         | 99%         | ✔️              | [unaiherran](https://github.com/unaiherran) |
+| Swedish         | 99%         | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
+| Ukrainian       | 99%         | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
+| French (🇫🇷)     | 99%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
+| French (🇨🇦)     | 99%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
+| Polish          | 99%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
 | Hebrew          | 99%         | ✔️              | [orisraeli](https://github.com/orisraeli) |
 | Norwegian       | 88%         | ✔️              | [lognseth](https://github.com/lognseth) |
 | Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
