@@ -283,7 +283,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="App Language" xml:space="preserve">
-        <source>App Language</source><target>Мова</target>
+        <source>App Language</source>
+        <target state="translated">Мова</target>
         <note>Title for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
@@ -397,7 +398,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Change what language Callsheet itself uses" xml:space="preserve">
-        <source>Change what language Callsheet itself uses</source><target>Змінити мову інтерфейсу Callsheet</target>
+        <source>Change what language Callsheet itself uses</source>
+        <target state="translated">Змінити мову інтерфейсу Callsheet</target>
         <note>Description for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
