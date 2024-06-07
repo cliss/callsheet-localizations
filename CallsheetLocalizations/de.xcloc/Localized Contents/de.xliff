@@ -214,6 +214,7 @@
       </trans-unit>
       <trans-unit id="App Language" xml:space="preserve">
         <source>App Language</source>
+        <target state="translated">App-Sprache</target>
         <note>Title for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
@@ -328,6 +329,7 @@
       </trans-unit>
       <trans-unit id="Change what language Callsheet itself uses" xml:space="preserve">
         <source>Change what language Callsheet itself uses</source>
+        <target state="translated">Ändere die Sprache, die Callsheet nutzt.</target>
         <note>Description for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
@@ -654,7 +656,7 @@
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
         <source>Unlimited searches for a month. Auto-renews</source>
-        <target state="translated">Unendlich Suchen für einen Monat. Wird automatisch verlängert.</target>
+        <target state="translated">1 Monat, ∞ Suchen. Verlängert automatisch.</target>
         <note>Description for the monthly subscription in-app purchase; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Display Name" xml:space="preserve">
@@ -664,7 +666,7 @@
       </trans-unit>
       <trans-unit id="IAP: Yearly Description" xml:space="preserve">
         <source>Access to Callsheet for 1 year. Auto-renews</source>
-        <target state="translated">Zugriff auf Callsheet für ein Jahr. Wird automatisch verlängert.</target>
+        <target state="translated">1 Jahr, ∞ Callsheet. Verlängert automatisch.</target>
         <note>Description for the annual subscription in-app purchase; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
@@ -674,7 +676,7 @@
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Description" xml:space="preserve">
         <source>Show your added support!</source>
-        <target state="translated">Zeigen Sie Ihre zusätzliche Unterstützung!</target>
+        <target state="translated">Zeig deine zusätzliche Unterstützung!</target>
         <note>Description for the medium-cost annual subscription; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
