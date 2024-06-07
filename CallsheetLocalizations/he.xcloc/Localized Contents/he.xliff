@@ -807,11 +807,6 @@
         <target state="translated">JustWatch</target>
         <note>Do not translate</note>
       </trans-unit>
-      <trans-unit id="Known For" xml:space="preserve">
-        <source>Known For</source>
-        <target state="translated">ידוע/ה עבור</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Known-For-People-Key" xml:space="preserve">
         <source>Known For</source>
         <target state="translated">ידוע/ה עבור</target>

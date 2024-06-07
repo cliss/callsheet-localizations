@@ -739,11 +739,6 @@
         <target state="new">JustWatch</target>
         <note>Do not translate</note>
       </trans-unit>
-      <trans-unit id="Known For" xml:space="preserve">
-        <source>Known For</source>
-        <target state="new">Known For</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Known-For-People-Key" xml:space="preserve">
         <source>Known For</source>
         <target state="translated">Known For</target>

@@ -661,9 +661,6 @@
     "JustWatch" : {
       "comment" : "Do not translate"
     },
-    "Known For" : {
-      "extractionState" : "stale"
-    },
     "Known-For-People-Key" : {
       "comment" : "Shown on the people screen; \"Known For\" in English",
       "localizations" : {
