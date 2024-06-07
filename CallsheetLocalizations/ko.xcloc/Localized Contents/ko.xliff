@@ -152,6 +152,10 @@
         <source>Apple Keynote</source>
         <note>Example episode name shown in Spoiler Settings</note>
       </trans-unit>
+      <trans-unit id="Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet." xml:space="preserve">
+        <source>Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
+      </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
         <note>Shown when clearing recent searches or search history</note>
@@ -561,9 +565,13 @@
         <source>JustWatch</source>
         <note>Do not translate</note>
       </trans-unit>
-      <trans-unit id="Known For" xml:space="preserve">
+      <trans-unit id="Known-For-People-Key" xml:space="preserve">
         <source>Known For</source>
-        <note/>
+        <note>Shown on the people screen; "Known For" in English</note>
+      </trans-unit>
+      <trans-unit id="Known-For-Settings-Key" xml:space="preserve">
+        <source>Known For</source>
+        <note>Shown as a header in Settings; "Known For" in English</note>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
@@ -784,6 +792,10 @@
       <trans-unit id="Plans:" xml:space="preserve">
         <source>Plans:</source>
         <note>In the context of different subscription/IAP plans</note>
+      </trans-unit>
+      <trans-unit id="Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet." xml:space="preserve">
+        <source>Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
         <source>Please send feedback to `hello@limitliss.co`</source>
@@ -1262,6 +1274,10 @@
 %2$@</source>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
+      <trans-unit id="Your access to Callsheet will end on %@." xml:space="preserve">
+        <source>Your access to Callsheet will end on %@.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
+      </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
         <source>Your favorite characters finally get married.</source>
         <note>A fake summary shown when demonstrating hiding spoilers</note>
@@ -1285,6 +1301,14 @@
       <trans-unit id="Your subscription has expired; you must purchase a new subscription to use Callsheet." xml:space="preserve">
         <source>Your subscription has expired; you must purchase a new subscription to use Callsheet.</source>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
+      </trans-unit>
+      <trans-unit id="Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
+        <source>Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
+      </trans-unit>
+      <trans-unit id="Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
+        <source>Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
         <source>`%@` is unimplemented</source>

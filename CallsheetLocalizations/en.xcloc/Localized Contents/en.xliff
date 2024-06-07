@@ -222,6 +222,11 @@
         <target state="new">Apple Keynote</target>
         <note>Example episode name shown in Spoiler Settings</note>
       </trans-unit>
+      <trans-unit id="Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet." xml:space="preserve">
+        <source>Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet.</source>
+        <target state="new">Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet.</target>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
+      </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
         <target state="new">Are you sure?</target>
@@ -734,10 +739,15 @@
         <target state="new">JustWatch</target>
         <note>Do not translate</note>
       </trans-unit>
-      <trans-unit id="Known For" xml:space="preserve">
+      <trans-unit id="Known-For-People-Key" xml:space="preserve">
         <source>Known For</source>
-        <target state="new">Known For</target>
-        <note/>
+        <target state="translated">Known For</target>
+        <note>Shown on the people screen; "Known For" in English</note>
+      </trans-unit>
+      <trans-unit id="Known-For-Settings-Key" xml:space="preserve">
+        <source>Known For</source>
+        <target state="translated">Known For</target>
+        <note>Shown as a header in Settings; "Known For" in English</note>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
@@ -1018,6 +1028,11 @@
         <source>Plans:</source>
         <target state="new">Plans:</target>
         <note>In the context of different subscription/IAP plans</note>
+      </trans-unit>
+      <trans-unit id="Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet." xml:space="preserve">
+        <source>Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet.</source>
+        <target state="new">Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet.</target>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
         <source>Please send feedback to `hello@limitliss.co`</source>
@@ -1621,6 +1636,11 @@
 %2$@</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
+      <trans-unit id="Your access to Callsheet will end on %@." xml:space="preserve">
+        <source>Your access to Callsheet will end on %@.</source>
+        <target state="new">Your access to Callsheet will end on %@.</target>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
+      </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
         <source>Your favorite characters finally get married.</source>
         <target state="new">Your favorite characters finally get married.</target>
@@ -1650,6 +1670,16 @@
         <source>Your subscription has expired; you must purchase a new subscription to use Callsheet.</source>
         <target state="new">Your subscription has expired; you must purchase a new subscription to use Callsheet.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
+      </trans-unit>
+      <trans-unit id="Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
+        <source>Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription.</source>
+        <target state="new">Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription.</target>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
+      </trans-unit>
+      <trans-unit id="Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
+        <source>Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</source>
+        <target state="new">Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</target>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="`%@` is unimplemented" xml:space="preserve">
         <source>`%@` is unimplemented</source>
