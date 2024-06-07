@@ -224,7 +224,7 @@
       </trans-unit>
       <trans-unit id="Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet." xml:space="preserve">
         <source>Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet.</source>
-        <target state="translated">Apple konnte dein Abo nicht abrechnen. Bitte korrigiere deine Zahlungsdaten und schließe erneut ein Abo ab, um Callsheet weiter nutzen zu können.</target>
+        <target state="translated">Apple konnte die Zahlung für dein Abo nicht abbuchen. Bitte korrigiere deine Zahlungsdaten und schließe erneut ein Abo ab, um Callsheet weiter nutzen zu können.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
