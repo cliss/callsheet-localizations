@@ -763,7 +763,7 @@
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
         <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source>
-        <target state="translated">אם אתה מנגן מדיה באמצעות [Channels](https://getchannels.com/) או [Plex](https://plex.tv/) במכשיר אחר, Callsheet יכול להציג את הסדרה או הסרט בראש המסך הביתי.</target>
+        <target state="translated">אם אתה מנגן מדיה באמצעות [Channels](https://getchannels.com/) או [Plex](https://plex.tv/) במכשיר אחר, Callsheet יכול להציג את הסדרה או הסרט בראש המסך הבית.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
@@ -803,7 +803,7 @@
       </trans-unit>
       <trans-unit id="Known For" xml:space="preserve">
         <source>Known For</source>
-        <target state="translated">ידוע עבור</target>
+        <target state="translated">ידוע/ה עבור</target>
         <note/>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
