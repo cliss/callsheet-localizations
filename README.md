@@ -16,10 +16,10 @@ As of [8e3d85a](https://github.com/cliss/callsheet-localizations/commit/8e3d85ae
 | Italian         | 100% :tada: | ✔️              | [cdf1982](https://github.com/cdf1982) |
 | Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
-| Dutch           | 97%         | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
 | German          | 98%         | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
 | Hebrew          | 98%         | ✔️              | [orisraeli](https://github.com/orisraeli) |
 | Polish          | 98%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
+| Dutch           | 97%         | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
 | Portuguese (🇵🇹) | 97%         | ✔️              | [apfernandes](https://github.com/apfernandes) |
 | Russian         | 97%         | ✔️              | [gkeep](https://github.com/gkeep) |
 | Spanish         | 97%         | ✔️              | [unaiherran](https://github.com/unaiherran) |
