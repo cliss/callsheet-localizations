@@ -662,7 +662,29 @@
       "comment" : "Do not translate"
     },
     "Known For" : {
-
+      "extractionState" : "stale"
+    },
+    "Known-For-People-Key" : {
+      "comment" : "Shown on the people screen; \"Known For\" in English",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Known For"
+          }
+        }
+      }
+    },
+    "Known-For-Settings-Key" : {
+      "comment" : "Shown as a header in Settings; \"Known For\" in English",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Known For"
+          }
+        }
+      }
     },
     "Language Override" : {
       "comment" : "Shown in Settings"

@@ -653,6 +653,14 @@
         <source>Known For</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Known-For-People-Key" xml:space="preserve">
+        <source>Known For</source>
+        <note>Shown on the people screen; "Known For" in English</note>
+      </trans-unit>
+      <trans-unit id="Known-For-Settings-Key" xml:space="preserve">
+        <source>Known For</source>
+        <note>Shown as a header in Settings; "Known For" in English</note>
+      </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
         <note>Shown in Settings</note>

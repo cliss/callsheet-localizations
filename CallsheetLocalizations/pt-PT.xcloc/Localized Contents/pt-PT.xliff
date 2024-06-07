@@ -740,6 +740,16 @@
         <target state="translated">Conhecido por</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Known-For-People-Key" xml:space="preserve">
+        <source>Known For</source>
+        <target state="translated">Conhecido por</target>
+        <note>Shown on the people screen; "Known For" in English</note>
+      </trans-unit>
+      <trans-unit id="Known-For-Settings-Key" xml:space="preserve">
+        <source>Known For</source>
+        <target state="translated">Conhecido por</target>
+        <note>Shown as a header in Settings; "Known For" in English</note>
+      </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
         <target state="translated">Ignorar definições de idioma</target>
