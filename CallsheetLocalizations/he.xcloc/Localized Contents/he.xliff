@@ -169,22 +169,22 @@
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.many" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="translated">בן %lld שנים</target>
+        <target state="translated">גיל %lld שנים</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.one" xml:space="preserve">
         <source>%lld year old</source>
-        <target state="translated">בן %lld שנה</target>
+        <target state="translated">גיל %lld שנה</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="translated">בן %lld שנים</target>
+        <target state="translated">גיל %lld שנים</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.two" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="translated">בן %lld שנים</target>
+        <target state="translated">גיל %lld שנים</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
@@ -194,22 +194,22 @@
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.many" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="translated">בן %lld שנים</target>
+        <target state="translated">גיל %lld שנים</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.one" xml:space="preserve">
         <source>%lld year old</source>
-        <target state="translated">בן %lld שנה</target>
+        <target state="translated">גיל %lld שנה</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="translated">בן %lld שנים</target>
+        <target state="translated">גיל %lld שנים</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.two" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="translated">בן %lld שנים</target>
+        <target state="translated">גיל %lld שנים</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld — " xml:space="preserve">
@@ -283,7 +283,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="App Language" xml:space="preserve">
-        <source>App Language</source>
+        <source>App Language</source><target>שפת היישום</target>
         <note>Title for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
         <source>Browser</source>
-        <target state="translated">סייר</target>
+        <target state="translated">דפדפן</target>
         <note/>
       </trans-unit>
       <trans-unit id="Buy" xml:space="preserve">
@@ -373,7 +373,7 @@
       </trans-unit>
       <trans-unit id="Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**." xml:space="preserve">
         <source>Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**.</source>
-        <target state="translated">Callsheet נבנה בוירגיניה על-ידי **[קייסי ליס](https://www.caseyliss.com/)**.</target>
+        <target state="translated">היישום Callsheet נבנה בוירגיניה על-ידי **[קייסי ליס](https://www.caseyliss.com/)**.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -397,7 +397,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Change what language Callsheet itself uses" xml:space="preserve">
-        <source>Change what language Callsheet itself uses</source>
+        <source>Change what language Callsheet itself uses</source><target>שנה את השפה בה Callsheet מוצג</target>
         <note>Description for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
@@ -487,12 +487,12 @@
       </trans-unit>
       <trans-unit id="Credits Lists" xml:space="preserve">
         <source>Credits Lists</source>
-        <target state="translated">רשימות קרדיטים</target>
+        <target state="translated">רשימת קרדיטים</target>
         <note>Persnickety Preferences header</note>
       </trans-unit>
       <trans-unit id="Crew" xml:space="preserve">
         <source>Crew</source>
-        <target state="translated">ליהוק</target>
+        <target state="translated">צוות</target>
         <note/>
       </trans-unit>
       <trans-unit id="Current Location" xml:space="preserve">
@@ -547,7 +547,7 @@
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
         <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
-        <target state="translated">ניתן לקבוע הגדרות אישיות לכל סדרה, על-ידי הקשה על מקש `Hide` `Spoilers…` כאשר צופים בפרטי סדרה או פרק.</target>
+        <target state="translated">ניתן לקבוע הגדרות אישיות לכל סדרה, על-ידי הקשה על מקש `הסתר` `ספוילרים…`כאשר צופים בפרטי סדרה או פרק.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
@@ -763,7 +763,7 @@
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
         <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source>
-        <target state="translated">אם אתה מנגן מדיה באמצעות [Channels](https://getchannels.com/) או [Plex](https://plex.tv/) במכשיר אחר, Callsheet יכול להציג את הסדרה או הסרט בראש המסך הראשי.</target>
+        <target state="translated">אם אתה מנגן מדיה באמצעות [Channels](https://getchannels.com/) או [Plex](https://plex.tv/) במכשיר אחר, Callsheet יכול להציג את הסדרה או הסרט בראש המסך הבית.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
@@ -803,12 +803,12 @@
       </trans-unit>
       <trans-unit id="Known For" xml:space="preserve">
         <source>Known For</source>
-        <target state="translated">מוכר מ...</target>
+        <target state="translated">ידוע/ה עבור</target>
         <note/>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
-        <target state="translated">מעקף שפה</target>
+        <target state="translated">שינוי שפה</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
@@ -878,7 +878,7 @@
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
         <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source>
-        <target state="translated">סרטים וסדרות יציגו לינק גישה מהירה אחד. האחרים יהיו זמינים בתוך תפריט ׳עוד׳.</target>
+        <target state="translated">סרטים וסדרות יציגו קישור גישה מהירה אחד. האחרים יהיו זמינים בתוך תפריט ׳עוד׳.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movies featuring" xml:space="preserve">
@@ -938,7 +938,7 @@
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
         <source>No override</source>
-        <target state="translated">ללא מעקף</target>
+        <target state="translated">ללא שינוי</target>
         <note>Default option for language/region override</note>
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
@@ -1003,7 +1003,7 @@
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
         <source>Optionally, you can choose to help more.</source>
-        <target state="translated">לחלופין, אתה יכול לבחור לעזור יותר.</target>
+        <target state="translated">אם תרצה, תוכל לעזור אפילו יותר.</target>
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.many" xml:space="preserve">
@@ -1078,7 +1078,7 @@
       </trans-unit>
       <trans-unit id="Pin your favorites for quick access." xml:space="preserve">
         <source>Pin your favorites for quick access.</source>
-        <target state="translated">נעץ את המועדפים עליך לגישה מהירה.</target>
+        <target state="translated">נעץ את הפריטים המועדפים עליך לגישה מהירה.</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
@@ -1133,7 +1133,7 @@
       </trans-unit>
       <trans-unit id="Prevent giving away spoilers by choosing to redact details." xml:space="preserve">
         <source>Prevent giving away spoilers by choosing to redact details.</source>
-        <target state="translated">הימנע מספוילרים על-ידי ציזנור פרטים.</target>
+        <target state="translated">הימנע מספוילרים על-ידי ציזנור פרטים מסוימים.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
@@ -1218,7 +1218,7 @@
       </trans-unit>
       <trans-unit id="Region Override" xml:space="preserve">
         <source>Region Override</source>
-        <target state="translated">מעקף אזור</target>
+        <target state="translated">שינוי איזור</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Released" xml:space="preserve">
@@ -1403,12 +1403,12 @@
       </trans-unit>
       <trans-unit id="Show movies, shows, or both in credit lists." xml:space="preserve">
         <source>Show movies, shows, or both in credit lists.</source>
-        <target state="translated">הצג סרטים, סדרות או גם וגם.</target>
+        <target state="translated">הצג בסרטים, סדרות או בהכל.</target>
         <note>Persnickety Preferences subtitle</note>
       </trans-unit>
       <trans-unit id="Show that you _really_ care" xml:space="preserve">
         <source>Show that you _really_ care</source>
-        <target state="translated">מראה _שממש_ אכפת לך</target>
+        <target state="translated">זה מראה _שממש_ אכפת לך</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
@@ -1518,7 +1518,7 @@
       </trans-unit>
       <trans-unit id="These are the default settings." xml:space="preserve">
         <source>These are the default settings.</source>
-        <target state="translated">אלה הגדרות הברירת-מחדל.</target>
+        <target state="translated">אלה הגדרות ברירת-מחדל.</target>
         <note/>
       </trans-unit>
       <trans-unit id="These settings will only affect *%@*." xml:space="preserve">
@@ -1643,7 +1643,7 @@
       </trans-unit>
       <trans-unit id="With a subscription, you get:" xml:space="preserve">
         <source>With a subscription, you get:</source>
-        <target state="translated">עם מינוי אתה מקבל:</target>
+        <target state="translated">עם מינוי תקבלו:</target>
         <note/>
       </trans-unit>
       <trans-unit id="You Can Help" xml:space="preserve">
