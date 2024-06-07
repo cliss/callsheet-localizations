@@ -285,11 +285,6 @@
         <target state="translated">Comprar</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Subscription"</note>
       </trans-unit>
-      <trans-unit id="Callsheet" xml:space="preserve">
-        <source>Callsheet</source>
-        <target state="translated">Callsheet</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="Callsheet Premium" xml:space="preserve">
         <source>Callsheet Premium</source>
         <target state="translated">Callsheet Premium</target>
@@ -368,11 +363,6 @@
         <source>Clear all</source>
         <target state="translated">Limpiar todo</target>
         <note>Shown when clearing recent searches or search history</note>
-      </trans-unit>
-      <trans-unit id="Click Me" xml:space="preserve">
-        <source>Click Me</source>
-        <target state="translated">Pulsame</target>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
@@ -503,11 +493,6 @@
         <source>Episode Scores</source>
         <target state="translated">Puntuación del episodio</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
-        <source>Error: should not be able to reach settings from here.</source>
-        <target state="translated">Error: no deberías llegar a Ajustes desde aquí</target>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
         <source>Expired</source>
@@ -651,11 +636,6 @@
         <target state="translated">Cómo se ordenan las temporadas y episodios.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="I'm in a popover" xml:space="preserve">
-        <source>I'm in a popover</source>
-        <target state="translated">I'm in a popover</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
         <source>Unlimited searches for a month. Auto-renews</source>
         <target state="translated">Búsquedas ilimitadas durante un mes. Renovación automática.</target>
@@ -730,11 +710,6 @@
         <source>Integrations</source>
         <target state="translated">Integraciones</target>
         <note>Header in Persnickety Preferences</note>
-      </trans-unit>
-      <trans-unit id="JustWatch" xml:space="preserve">
-        <source>JustWatch</source>
-        <target state="translated">JustWatch</target>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Known-For-People-Key" xml:space="preserve">
         <source>Known For</source>
@@ -1440,11 +1415,6 @@
         <target state="translated">Gracias por usar Callsheet. 💙</target>
         <note/>
       </trans-unit>
-      <trans-unit id="The Movie Database" xml:space="preserve">
-        <source>The Movie Database</source>
-        <target state="translated">The Movie Database</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
         <source>There is no watch information available for *%@*.</source>
         <target state="translated">No hay información de visionado para *%@*.</target>
@@ -1674,11 +1644,6 @@
         <source>Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</source>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
-      <trans-unit id="`%@` is unimplemented" xml:space="preserve">
-        <source>`%@` is unimplemented</source>
-        <target state="translated">`%@` is unimplemented</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
         <source>per %@</source>
         <target state="translated">al</target>
@@ -1703,11 +1668,6 @@
         <source>years old</source>
         <target state="translated">años</target>
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
-      </trans-unit>
-      <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
-        <source>© 2023%@ Limitliss LLC</source>
-        <target state="translated">© 2023%@ Limitliss LLC</target>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
         <source>🤝</source>

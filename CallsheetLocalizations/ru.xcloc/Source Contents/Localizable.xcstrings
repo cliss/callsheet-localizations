@@ -210,12 +210,6 @@
         }
       }
     },
-    "`%@` is unimplemented" : {
-      "comment" : "Do not translate"
-    },
-    "© 2023%@ Limitliss LLC" : {
-      "comment" : "Do not translate"
-    },
     "🤝" : {
 
     },
@@ -317,9 +311,6 @@
     "Buy" : {
       "comment" : "A kind of service to watch media on. Contrast with \"Free\", \"Ads\", \"Rent\", \"Subscription\""
     },
-    "Callsheet" : {
-      "comment" : "Do not translate"
-    },
     "Callsheet couldn't parse the information from The Movie Database." : {
 
     },
@@ -368,9 +359,6 @@
     },
     "Clear all" : {
       "comment" : "Shown when clearing recent searches or search history"
-    },
-    "Click Me" : {
-      "comment" : "Do not translate"
     },
     "Close" : {
 
@@ -449,9 +437,6 @@
     },
     "Episode Scores" : {
 
-    },
-    "Error: should not be able to reach settings from here." : {
-      "comment" : "Do not translate"
     },
     "Expired" : {
       "comment" : "Shown in a semi-hidden debugging view"
@@ -537,9 +522,6 @@
     },
     "How seasons and episodes are sorted." : {
 
-    },
-    "I'm in a popover" : {
-      "comment" : "Do not translate"
     },
     "IAP: Monthly Description" : {
       "comment" : "Description for the monthly subscription in-app purchase; 45 characters or less",
@@ -657,9 +639,6 @@
     },
     "Integrations" : {
       "comment" : "Header in Persnickety Preferences"
-    },
-    "JustWatch" : {
-      "comment" : "Do not translate"
     },
     "Known-For-People-Key" : {
       "comment" : "Shown on the people screen; \"Known For\" in English",
@@ -1130,9 +1109,6 @@
     },
     "Thank you for trying out Callsheet. 💙" : {
 
-    },
-    "The Movie Database" : {
-      "comment" : "Do not translate"
     },
     "There is no watch information available for *%@*." : {
 
