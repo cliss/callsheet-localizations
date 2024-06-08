@@ -115,7 +115,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
-        <source>A few more free ones please?</source>
+        <source>A few more free ones please?</source><target>無料の検索を追加する？</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
@@ -139,7 +139,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Ads" xml:space="preserve">
-        <source>Ads</source>
+        <source>Ads</source><target>広告</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Rent", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Ages" xml:space="preserve">
@@ -163,7 +163,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="App Language" xml:space="preserve">
-        <source>App Language</source>
+        <source>App Language</source><target>アプリの言語</target>
         <note>Title for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
@@ -172,7 +172,7 @@
         <note>Example episode name shown in Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet." xml:space="preserve">
-        <source>Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet.</source>
+        <source>Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet.</source><target>Appleがユーザー様のお支払いを受け取れなかったため、サブスクリプションの更新ができませんでした。お支払い方法をご確認の上、再度ご登録をお願いいたします。</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
@@ -185,7 +185,7 @@
         <note>Shown in a popover explaining TV/movie scores</note>
       </trans-unit>
       <trans-unit id="Average runtime" xml:space="preserve">
-        <source>Average runtime</source>
+        <source>Average runtime</source><target>平均上映時間</target>
         <note>How long episodes run in a single season of TV</note>
       </trans-unit>
       <trans-unit id="Be a hero and support independent apps" xml:space="preserve">
@@ -194,7 +194,7 @@
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
-        <source>Be like the many other beautiful people who have rated this version.</source>
+        <source>Be like the many other beautiful people who have rated this version.</source><target>アプリの評価をお願いいたします。</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
@@ -204,7 +204,7 @@
       </trans-unit>
       <trans-unit id="Begins Airing" xml:space="preserve">
         <source>Begins Airing</source>
-        <target state="translated">放映開始</target>
+        <target state="translated">放送開始予定</target>
         <note>When a TV season will start airing</note>
       </trans-unit>
       <trans-unit id="Biography" xml:space="preserve">
@@ -238,11 +238,11 @@
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet couldn't parse the information from The Movie Database." xml:space="preserve">
-        <source>Callsheet couldn't parse the information from The Movie Database.</source>
+        <source>Callsheet couldn't parse the information from The Movie Database.</source><target>The Movie Databaseから情報を取得することができませんでした。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet couldn't reach The Movie Database." xml:space="preserve">
-        <source>Callsheet couldn't reach The Movie Database.</source>
+        <source>Callsheet couldn't reach The Movie Database.</source><target>The Movie Databaseに接続ができませんでした。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**." xml:space="preserve">
@@ -358,7 +358,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Current Location" xml:space="preserve">
-        <source>Current Location</source>
+        <source>Current Location</source><target>現在の所在地</target>
         <note>Shown in Where to Watch if the current locale can't be found</note>
       </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
@@ -376,23 +376,23 @@
         <note/>
       </trans-unit>
       <trans-unit id="Default Spoiler Settings" xml:space="preserve">
-        <source>Default Spoiler Settings</source>
+        <source>Default Spoiler Settings</source><target>ネタバレの設定を初期化</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete recent searches" xml:space="preserve">
-        <source>Delete recent searches</source>
+        <source>Delete recent searches</source><target>最近の検索を削除する</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete search history" xml:space="preserve">
-        <source>Delete search history</source>
+        <source>Delete search history</source><target>検索履歴を消去する</target>
         <note/>
       </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
-        <source>Details</source>
+        <source>Details</source><target>詳細</target>
         <note/>
       </trans-unit>
       <trans-unit id="Discover" xml:space="preserve">
-        <source>Discover</source>
+        <source>Discover</source><target>h</target>
         <note/>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
@@ -405,7 +405,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
-        <source>Ends at %@</source>
+        <source>Ends at %@</source><target>終了時間</target>
         <note>When a show or movie ends if you start it right now</note>
       </trans-unit>
       <trans-unit id="Episode" xml:space="preserve">
@@ -419,7 +419,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Episode Scores" xml:space="preserve">
-        <source>Episode Scores</source>
+        <source>Episode Scores</source><target>エピソードスコア</target>
         <note/>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
@@ -439,7 +439,7 @@
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
       <trans-unit id="Feedback emails are lovely to read!" xml:space="preserve">
-        <source>Feedback emails are lovely to read!</source>
+        <source>Feedback emails are lovely to read!</source><target>皆様のご意見・ご感想をお待ちしております！</target>
         <note>Shown in Settings to try to get users to rate the app</note>
       </trans-unit>
       <trans-unit id="Find a way to watch in:" xml:space="preserve">
@@ -515,27 +515,27 @@
         <note/>
       </trans-unit>
       <trans-unit id="Hide Spoilers…" xml:space="preserve">
-        <source>Hide Spoilers…</source>
+        <source>Hide Spoilers…</source><target>ネタバレを隠す…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide cast character names" xml:space="preserve">
-        <source>Hide cast character names</source>
+        <source>Hide cast character names</source><target>キャストの役名を隠す</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide cast episode counts" xml:space="preserve">
-        <source>Hide cast episode counts</source>
+        <source>Hide cast episode counts</source><target>出演したエピソードの数を隠す</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide episode thumbnails" xml:space="preserve">
-        <source>Hide episode thumbnails</source>
+        <source>Hide episode thumbnails</source><target>エピソードのサムネイルを隠す</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide episode titles" xml:space="preserve">
-        <source>Hide episode titles</source>
+        <source>Hide episode titles</source><target>エピソードのタイトルを隠す</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide summaries" xml:space="preserve">
-        <source>Hide summaries</source>
+        <source>Hide summaries</source><target/>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="How seasons and episodes are sorted." xml:space="preserve">
@@ -784,7 +784,7 @@
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
-        <source>Other Great Apps</source>
+        <source>Other Great Apps</source><target>他の優良なアプリ</target>
         <note>Shown above Maskeraid &amp; Peek‑a‑View</note>
       </trans-unit>
       <trans-unit id="Other person" xml:space="preserve">
@@ -849,7 +849,7 @@
         <note>In the context of different subscription/IAP plans</note>
       </trans-unit>
       <trans-unit id="Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet." xml:space="preserve">
-        <source>Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet.</source>
+        <source>Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet.</source><target>コールシートをご利用いただくために、App Storeでお支払い方法の問題を解消する必要があります。ご確認をお願いいたします。</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
@@ -1080,7 +1080,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
-        <source>Settings</source>
+        <source>Settings</source><target>設定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share" xml:space="preserve">
@@ -1121,7 +1121,7 @@
         <note>Shown in an accessibility label</note>
       </trans-unit>
       <trans-unit id="Show Spoilers" xml:space="preserve">
-        <source>Show Spoilers</source>
+        <source>Show Spoilers</source><target>ネタバレを表示</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show age information within credits lists. Ages are always shown for birth/death dates." xml:space="preserve">
@@ -1157,15 +1157,15 @@
         <note/>
       </trans-unit>
       <trans-unit id="Spoiler Settings" xml:space="preserve">
-        <source>Spoiler Settings</source>
+        <source>Spoiler Settings</source><target>ネタバレの設定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoilers" xml:space="preserve">
-        <source>Spoilers</source>
+        <source>Spoilers</source><target>ネタバレ</target>
         <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Start %@ Free Trial" xml:space="preserve">
-        <source>Start %@ Free Trial</source>
+        <source>Start %@ Free Trial</source><target>無料体験を始める</target>
         <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
@@ -1177,7 +1177,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Subscribers can change the app’s icon." xml:space="preserve">
-        <source>Subscribers can change the app’s icon.</source>
+        <source>Subscribers can change the app’s icon.</source><target>サブスクの登録者はアプリのアイコンを変更できます。</target>
         <note>Subtitle for the App Icon row in Settings</note>
       </trans-unit>
       <trans-unit id="Subscription" xml:space="preserve">
@@ -1252,7 +1252,7 @@
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
-        <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source>
+        <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source><target/>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
@@ -1356,7 +1356,7 @@
         <note>Header shown for people</note>
       </trans-unit>
       <trans-unit id="You must have a subscription to use the app." xml:space="preserve">
-        <source>You must have a subscription to use the app.</source>
+        <source>You must have a subscription to use the app.</source><target>アプリを利用するためにはサブスクリプションの登録が必要です。</target>
         <note>Shown in Settings as a subtitle if you haven't purchased the app</note>
       </trans-unit>
       <trans-unit id="Your %@ will expire on&#10;%@" xml:space="preserve">
@@ -1373,7 +1373,7 @@
         <note>A fake summary shown when demonstrating hiding spoilers</note>
       </trans-unit>
       <trans-unit id="Your free trial has expired; you must purchase a subscription to use Callsheet." xml:space="preserve">
-        <source>Your free trial has expired; you must purchase a subscription to use Callsheet.</source>
+        <source>Your free trial has expired; you must purchase a subscription to use Callsheet.</source><target>無料体験期間が終わりました。コールシートのご利用を継続する場合は、サブスクリプションを購入してください。</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
