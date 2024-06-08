@@ -17,7 +17,6 @@ Callsheet har også noen nyskapende funksjoner som din forrige favorittdatabase-
 • Du kan lett se høyden til skuespillere (når informasjonen er tilgjengelig).
 • Støtte for mørk modus.
 • Støtte for VoiceOver.
-• Alternative app-ikoner for abonnenter.
 • Automatisk integrasjon uten innlogging med den fantastiske Channels-appen.
 • Eksperimentell integrasjon med Plex uten innlogging.
 
