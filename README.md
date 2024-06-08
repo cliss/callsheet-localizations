@@ -8,20 +8,22 @@ There are two sections:
 
 ## Current Status
 
-As of [eaf64c0](https://github.com/cliss/callsheet-localizations/commit/eaf64c051cac126bb5c615e17634981b080a920c):
+As of [8e0f6cf](https://github.com/cliss/callsheet-localizations/commit/8e0f6cffa6c64307b13c7bfae49f17ed3e39ae34):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
-| English         | N/A         | ✔️              | [cliss](https://github.com/cliss) |
+| English ([Modern](https://en.wikipedia.org/wiki/United_States)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
+| English ([Traditional](https://en.wikipedia.org/wiki/United_Kingdom)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
+| English ([Simplified](https://en.wikipedia.org/wiki/Australia)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
 | German          | 100% :tada: | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
+| Hebrew          | 100% :tada: | ✔️              | [orisraeli](https://github.com/orisraeli) |
 | Italian         | 100% :tada: | ✔️              | [cdf1982](https://github.com/cdf1982) |
+| Russian         | 100% :tada: | ✔️              | [gkeep](https://github.com/gkeep) |
 | Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
-| Hebrew          | 98%         | ✔️              | [orisraeli](https://github.com/orisraeli) |
 | Polish          | 98%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
 | Dutch           | 97%         | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
 | Portuguese (🇵🇹) | 97%         | ✔️              | [apfernandes](https://github.com/apfernandes) |
-| Russian         | 97%         | ✔️              | [gkeep](https://github.com/gkeep) |
 | Spanish         | 97%         | ✔️              | [unaiherran](https://github.com/unaiherran) |
 | French (🇫🇷)     | 97%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
 | French (🇨🇦)     | 97%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
