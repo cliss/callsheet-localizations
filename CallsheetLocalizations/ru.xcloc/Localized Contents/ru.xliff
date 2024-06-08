@@ -279,6 +279,7 @@
       </trans-unit>
       <trans-unit id="App Language" xml:space="preserve">
         <source>App Language</source>
+        <target state="translated">Язык</target>
         <note>Title for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
@@ -288,6 +289,7 @@
       </trans-unit>
       <trans-unit id="Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet." xml:space="preserve">
         <source>Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet.</source>
+        <target state="translated">Apple не удалось произвести оплату за продолжение подписки. Вам необходимо исправить ошибку и подписаться заново, чтобы продолжить пользоваться Callsheet. </target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
@@ -392,6 +394,7 @@
       </trans-unit>
       <trans-unit id="Change what language Callsheet itself uses" xml:space="preserve">
         <source>Change what language Callsheet itself uses</source>
+        <target state="translated">Изменить язык, используемый Callsheet</target>
         <note>Description for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
@@ -1077,6 +1080,7 @@
       </trans-unit>
       <trans-unit id="Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet." xml:space="preserve">
         <source>Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet.</source>
+        <target state="translated">Пожалуйста, как можно скорее исправьте ошибку покупки в App Store, чтобы продолжать пользоваться Callsheet.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
@@ -1688,6 +1692,7 @@
       </trans-unit>
       <trans-unit id="Your access to Callsheet will end on %@." xml:space="preserve">
         <source>Your access to Callsheet will end on %@.</source>
+        <target state="translated">Ваш доступ к Callsheet закончится %@.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
@@ -1722,10 +1727,12 @@
       </trans-unit>
       <trans-unit id="Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
         <source>Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription.</source>
+        <target state="translated">Ваша подписка закончилась. Чтобы продолжить пользоваться Callsheet, вам необходимо оформить новую подписку.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
         <source>Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</source>
+        <target state="translated">Ваша подписка была отозвана или за нее были возвращены деньги. Чтобы продолжить пользоваться Callsheet вам необходимо заново оформить подписку.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
