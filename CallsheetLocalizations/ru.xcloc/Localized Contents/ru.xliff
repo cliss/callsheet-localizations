@@ -279,7 +279,7 @@
       </trans-unit>
       <trans-unit id="App Language" xml:space="preserve">
         <source>App Language</source>
-        <target state="translated">Язык</target>
+        <target state="translated">Язык приложения</target>
         <note>Title for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
