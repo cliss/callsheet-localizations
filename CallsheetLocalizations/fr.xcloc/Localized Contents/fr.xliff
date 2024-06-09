@@ -212,10 +212,18 @@
         <target state="translated">Icône de l’App</target>
         <note/>
       </trans-unit>
+      <trans-unit id="App Language" xml:space="preserve">
+        <source>App Language</source>
+        <note>Title for the row in settings that allows you to set the app's language</note>
+      </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
         <source>Apple Keynote</source>
         <target state="translated">Apple Keynote</target>
         <note>Example episode name shown in Spoiler Settings</note>
+      </trans-unit>
+      <trans-unit id="Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet." xml:space="preserve">
+        <source>Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
@@ -277,11 +285,6 @@
         <target state="translated">Acheter</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Subscription"</note>
       </trans-unit>
-      <trans-unit id="Callsheet" xml:space="preserve">
-        <source>Callsheet</source>
-        <target state="translated">Callsheet</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="Callsheet Premium" xml:space="preserve">
         <source>Callsheet Premium</source>
         <target state="translated">Callsheet Prémium</target>
@@ -322,6 +325,10 @@
         <target state="translated">Distribution ou Équipe</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Change what language Callsheet itself uses" xml:space="preserve">
+        <source>Change what language Callsheet itself uses</source>
+        <note>Description for the row in settings that allows you to set the app's language</note>
+      </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
         <source>Choose New Subscription</source>
         <target state="translated">Choisissez un nouvel abonnement</target>
@@ -356,11 +363,6 @@
         <source>Clear all</source>
         <target state="translated">Tout effacer</target>
         <note>Shown when clearing recent searches or search history</note>
-      </trans-unit>
-      <trans-unit id="Click Me" xml:space="preserve">
-        <source>Click Me</source>
-        <target state="translated">Click Me</target>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
@@ -491,11 +493,6 @@
         <source>Episode Scores</source>
         <target state="translated">Scores de les Épisodes</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
-        <source>Error: should not be able to reach settings from here.</source>
-        <target state="translated">Error: should not be able to reach settings from here.</target>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
         <source>Expired</source>
@@ -639,11 +636,6 @@
         <target state="translated">Comment sont classés les saisons et épisodes.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="I'm in a popover" xml:space="preserve">
-        <source>I'm in a popover</source>
-        <target state="translated">I'm in a popover</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
         <source>Unlimited searches for a month. Auto-renews</source>
         <target state="translated">Recherches illimités pour un mois. Se renouvelle automatiquement</target>
@@ -719,15 +711,15 @@
         <target state="translated">Intégrations</target>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
-      <trans-unit id="JustWatch" xml:space="preserve">
-        <source>JustWatch</source>
-        <target state="translated">JustWatch</target>
-        <note>Do not translate</note>
-      </trans-unit>
-      <trans-unit id="Known For" xml:space="preserve">
+      <trans-unit id="Known-For-People-Key" xml:space="preserve">
         <source>Known For</source>
         <target state="translated">Connu Pour</target>
-        <note/>
+        <note>Shown on the people screen; "Known For" in English</note>
+      </trans-unit>
+      <trans-unit id="Known-For-Settings-Key" xml:space="preserve">
+        <source>Known For</source>
+        <target state="translated">Connu Pour</target>
+        <note>Shown as a header in Settings; "Known For" in English</note>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
@@ -1008,6 +1000,10 @@
         <source>Plans:</source>
         <target state="translated">Plans :</target>
         <note>In the context of different subscription/IAP plans</note>
+      </trans-unit>
+      <trans-unit id="Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet." xml:space="preserve">
+        <source>Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
         <source>Please send feedback to `hello@limitliss.co`</source>
@@ -1419,11 +1415,6 @@
         <target state="translated">Merci d’avoir essayé Callsheet. 💙</target>
         <note/>
       </trans-unit>
-      <trans-unit id="The Movie Database" xml:space="preserve">
-        <source>The Movie Database</source>
-        <target state="translated">The Movie Database</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
         <source>There is no watch information available for *%@*.</source>
         <target state="translated">ThIl n’y a pas d’information pour *%@*.</target>
@@ -1610,6 +1601,10 @@
         <target state="translated">Votre %1$@ expirera le %2$@</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
+      <trans-unit id="Your access to Callsheet will end on %@." xml:space="preserve">
+        <source>Your access to Callsheet will end on %@.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
+      </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
         <source>Your favorite characters finally get married.</source>
         <target state="translated">Vos personnages préférés se marient à la fin.</target>
@@ -1640,10 +1635,13 @@
         <target state="translated">Votre abonnement a expiré; vous devez acheter un nouvel abonnement pour utiliser Callsheet.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
-      <trans-unit id="`%@` is unimplemented" xml:space="preserve">
-        <source>`%@` is unimplemented</source>
-        <target state="translated">`%@` is unimplemented</target>
-        <note>Do not translate</note>
+      <trans-unit id="Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
+        <source>Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
+      </trans-unit>
+      <trans-unit id="Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
+        <source>Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
         <source>per %@</source>
@@ -1669,11 +1667,6 @@
         <source>years old</source>
         <target state="translated">ans</target>
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
-      </trans-unit>
-      <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
-        <source>© 2023%@ Limitliss LLC</source>
-        <target state="translated">© 2023%@ Limitliss LLC</target>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
         <source>🤝</source>

@@ -210,12 +210,6 @@
         }
       }
     },
-    "`%@` is unimplemented" : {
-      "comment" : "Do not translate"
-    },
-    "© 2023%@ Limitliss LLC" : {
-      "comment" : "Do not translate"
-    },
     "🤝" : {
 
     },
@@ -272,6 +266,12 @@
     "App Icon" : {
 
     },
+    "App Language" : {
+      "comment" : "Title for the row in settings that allows you to set the app's language"
+    },
+    "Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet." : {
+      "comment" : "Shown in the subscription status screen @ callsheet://subs"
+    },
     "Apple Keynote" : {
       "comment" : "Example episode name shown in Spoiler Settings"
     },
@@ -311,9 +311,6 @@
     "Buy" : {
       "comment" : "A kind of service to watch media on. Contrast with \"Free\", \"Ads\", \"Rent\", \"Subscription\""
     },
-    "Callsheet" : {
-      "comment" : "Do not translate"
-    },
     "Callsheet couldn't parse the information from The Movie Database." : {
 
     },
@@ -338,6 +335,9 @@
     "Cast or Crew" : {
 
     },
+    "Change what language Callsheet itself uses" : {
+      "comment" : "Description for the row in settings that allows you to set the app's language"
+    },
     "Choose a link:" : {
       "comment" : "Shown in settings for the quick access link"
     },
@@ -359,9 +359,6 @@
     },
     "Clear all" : {
       "comment" : "Shown when clearing recent searches or search history"
-    },
-    "Click Me" : {
-      "comment" : "Do not translate"
     },
     "Close" : {
 
@@ -440,9 +437,6 @@
     },
     "Episode Scores" : {
 
-    },
-    "Error: should not be able to reach settings from here." : {
-      "comment" : "Do not translate"
     },
     "Expired" : {
       "comment" : "Shown in a semi-hidden debugging view"
@@ -528,9 +522,6 @@
     },
     "How seasons and episodes are sorted." : {
 
-    },
-    "I'm in a popover" : {
-      "comment" : "Do not translate"
     },
     "IAP: Monthly Description" : {
       "comment" : "Description for the monthly subscription in-app purchase; 45 characters or less",
@@ -649,11 +640,27 @@
     "Integrations" : {
       "comment" : "Header in Persnickety Preferences"
     },
-    "JustWatch" : {
-      "comment" : "Do not translate"
+    "Known-For-People-Key" : {
+      "comment" : "Shown on the people screen; \"Known For\" in English",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Known For"
+          }
+        }
+      }
     },
-    "Known For" : {
-
+    "Known-For-Settings-Key" : {
+      "comment" : "Shown as a header in Settings; \"Known For\" in English",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Known For"
+          }
+        }
+      }
     },
     "Language Override" : {
       "comment" : "Shown in Settings"
@@ -849,6 +856,9 @@
     },
     "Plans:" : {
       "comment" : "In the context of different subscription/IAP plans"
+    },
+    "Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet." : {
+      "comment" : "Shown in the subscription status screen @ callsheet://subs"
     },
     "Please send feedback to `hello@limitliss.co`" : {
 
@@ -1100,9 +1110,6 @@
     "Thank you for trying out Callsheet. 💙" : {
 
     },
-    "The Movie Database" : {
-      "comment" : "Do not translate"
-    },
     "There is no watch information available for *%@*." : {
 
     },
@@ -1249,6 +1256,9 @@
         }
       }
     },
+    "Your access to Callsheet will end on %@." : {
+      "comment" : "Shown in the subscription status screen @ callsheet://subs"
+    },
     "Your favorite characters finally get married." : {
       "comment" : "A fake summary shown when demonstrating hiding spoilers"
     },
@@ -1266,6 +1276,12 @@
     },
     "Your subscription has expired; you must purchase a new subscription to use Callsheet." : {
       "comment" : "Shown on the \"Purchase now\" row in Settings if purchasing is unavailable"
+    },
+    "Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription." : {
+      "comment" : "Shown in the subscription status screen @ callsheet://subs"
+    },
+    "Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription." : {
+      "comment" : "Shown in the subscription status screen @ callsheet://subs"
     }
   },
   "version" : "1.0"
