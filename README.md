@@ -8,7 +8,7 @@ There are two sections:
 
 ## Current Status
 
-As of [8e0f6cf](https://github.com/cliss/callsheet-localizations/commit/8e0f6cffa6c64307b13c7bfae49f17ed3e39ae34):
+As of [2f5c69b](https://github.com/cliss/callsheet-localizations/commit/2f5c69b9d3ffde51e231c36f90269d7ff57be23d):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
@@ -18,6 +18,7 @@ As of [8e0f6cf](https://github.com/cliss/callsheet-localizations/commit/8e0f6cff
 | German          | 100% :tada: | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
 | Hebrew          | 100% :tada: | ✔️              | [orisraeli](https://github.com/orisraeli) |
 | Italian         | 100% :tada: | ✔️              | [cdf1982](https://github.com/cdf1982) |
+| Norwegian (Bokmål) | 100% :tada: | ✔️              | [lognseth](https://github.com/lognseth) |
 | Russian         | 100% :tada: | ✔️              | [gkeep](https://github.com/gkeep) |
 | Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
@@ -27,7 +28,6 @@ As of [8e0f6cf](https://github.com/cliss/callsheet-localizations/commit/8e0f6cff
 | Spanish         | 97%         | ✔️              | [unaiherran](https://github.com/unaiherran) |
 | French (🇫🇷)     | 97%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
 | French (🇨🇦)     | 97%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
-| Norwegian (Bokmål) | 97%         | ✔️              | [lognseth](https://github.com/lognseth) |
 | Portuguese (🇧🇷) | 71%         |                 | [insidegui](https://github.com/insidegui) |
 | Japanese        | 33%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
 | Danish          | 6%          |                 | [hanse00](https://github.com/hanse00) |
