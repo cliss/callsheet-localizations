@@ -1237,7 +1237,7 @@
       </trans-unit>
       <trans-unit id="Season %lld Episode %lld" xml:space="preserve">
         <source>Season %1$lld Episode %2$lld</source>
-        <target state="translated">Temporada %1$lld Epidodio %2$lld</target>
+        <target state="translated">Temporada %1$lld Episodio %2$lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="Seasons" xml:space="preserve">
@@ -1357,7 +1357,7 @@
       </trans-unit>
       <trans-unit id="Start %@ Free Trial" xml:space="preserve">
         <source>Start %@ Free Trial</source>
-        <target state="translated">Empieza %@ la prueba gratuita</target>
+        <target state="translated">Empieza la prueba gratuita (%@)</target>
         <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
@@ -1442,7 +1442,7 @@
       </trans-unit>
       <trans-unit id="Total runtime %@" xml:space="preserve">
         <source>Total runtime %@</source>
-        <target state="translated">Duración total</target>
+        <target state="translated">Duración total %@</target>
         <note>Shown in a popover when looking at a TV season</note>
       </trans-unit>
       <trans-unit id="Transaction" xml:space="preserve">
@@ -1646,7 +1646,7 @@
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
         <source>per %@</source>
-        <target state="translated">al</target>
+        <target state="translated">al %@</target>
         <note>cost per period; ie "per month" or "per year"</note>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
