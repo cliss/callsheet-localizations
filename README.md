@@ -8,13 +8,14 @@ There are two sections:
 
 ## Current Status
 
-As of [2f5c69b](https://github.com/cliss/callsheet-localizations/commit/2f5c69b9d3ffde51e231c36f90269d7ff57be23d):
+As of [5e8f2c5](https://github.com/cliss/callsheet-localizations/commit/5e8f2c52b02aba3d04d23cb901a27b067df5a730):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
 | English ([Modern](https://en.wikipedia.org/wiki/United_States)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
 | English ([Traditional](https://en.wikipedia.org/wiki/United_Kingdom)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
 | English ([Simplified](https://en.wikipedia.org/wiki/Australia)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
+| Dutch           | 100% :tada: | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
 | German          | 100% :tada: | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
 | Hebrew          | 100% :tada: | ✔️              | [orisraeli](https://github.com/orisraeli) |
 | Italian         | 100% :tada: | ✔️              | [cdf1982](https://github.com/cdf1982) |
@@ -23,7 +24,6 @@ As of [2f5c69b](https://github.com/cliss/callsheet-localizations/commit/2f5c69b9
 | Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
 | Polish          | 98%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
-| Dutch           | 97%         | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
 | Portuguese (🇵🇹) | 97%         | ✔️              | [apfernandes](https://github.com/apfernandes) |
 | Spanish         | 97%         | ✔️              | [unaiherran](https://github.com/unaiherran) |
 | French (🇫🇷)     | 97%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
