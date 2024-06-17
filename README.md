@@ -8,7 +8,7 @@ There are two sections:
 
 ## Current Status
 
-As of [5e8f2c5](https://github.com/cliss/callsheet-localizations/commit/5e8f2c52b02aba3d04d23cb901a27b067df5a730):
+As of [e5d60f8](https://github.com/cliss/callsheet-localizations/commit/e5d60f8a00fcee72d50324479f9cfc37595ec656):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
@@ -21,15 +21,16 @@ As of [5e8f2c5](https://github.com/cliss/callsheet-localizations/commit/5e8f2c52
 | Italian         | 100% :tada: | ✔️              | [cdf1982](https://github.com/cdf1982) |
 | Norwegian (Bokmål) | 100% :tada: | ✔️              | [lognseth](https://github.com/lognseth) |
 | Russian         | 100% :tada: | ✔️              | [gkeep](https://github.com/gkeep) |
+| Spanish         | 100% :tada: | ✔️              | [unaiherran](https://github.com/unaiherran) |
+| Spanish (🇲🇽)    | 100% :tada: |                 | [ccavazos](https://github.com/ccavazos |
 | Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
 | Polish          | 98%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
 | Portuguese (🇵🇹) | 97%         | ✔️              | [apfernandes](https://github.com/apfernandes) |
-| Spanish         | 97%         | ✔️              | [unaiherran](https://github.com/unaiherran) |
 | French (🇫🇷)     | 97%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
 | French (🇨🇦)     | 97%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
-| Portuguese (🇧🇷) | 71%         |                 | [insidegui](https://github.com/insidegui) |
-| Japanese        | 33%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
+| Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
+| Japanese        | 45%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
 | Danish          | 6%          |                 | [hanse00](https://github.com/hanse00) |
 
 [as]: https://github.com/cliss/callsheet-localizations/tree/main/AppStore
