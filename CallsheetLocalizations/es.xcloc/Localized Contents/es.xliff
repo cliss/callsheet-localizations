@@ -227,12 +227,12 @@
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
-        <target state="translated">¿estás seguro?</target>
+        <target state="translated">¿Estás seguro?</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="As rated by users of" xml:space="preserve">
         <source>As rated by users of</source>
-        <target state="translated">Valorado por usuario de</target>
+        <target state="translated">Valorado por usuarios de</target>
         <note>Shown in a popover explaining TV/movie scores</note>
       </trans-unit>
       <trans-unit id="Average runtime" xml:space="preserve">
@@ -242,12 +242,12 @@
       </trans-unit>
       <trans-unit id="Be a hero and support independent apps" xml:space="preserve">
         <source>Be a hero and support independent apps</source>
-        <target state="translated">Sé un heroe y soporta apps independientes</target>
+        <target state="translated">Sé un héroe y soporta apps independientes</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
         <source>Be like the many other beautiful people who have rated this version.</source>
-        <target state="translated">Sé como muchas de las bellisimas personas que han valorado esta versión.</target>
+        <target state="translated">Sé como muchas de las bellísimas personas que han valorado esta versión.</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
@@ -297,7 +297,7 @@
       </trans-unit>
       <trans-unit id="Callsheet couldn't reach The Movie Database." xml:space="preserve">
         <source>Callsheet couldn't reach The Movie Database.</source>
-        <target state="translated">Callsheet no ha conectar con The Movie Database</target>
+        <target state="translated">Callsheet no se ha podido conectar con The Movie Database</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**." xml:space="preserve">
@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="Cancel Subscription" xml:space="preserve">
         <source>Cancel Subscription</source>
-        <target state="translated">Cancelar subscripción</target>
+        <target state="translated">Cancelar suscripción</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cast" xml:space="preserve">
@@ -331,7 +331,7 @@
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
         <source>Choose New Subscription</source>
-        <target state="translated">Elige una nueva subscripción</target>
+        <target state="translated">Elige una nueva suscripción</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose a link:" xml:space="preserve">
@@ -446,12 +446,12 @@
       </trans-unit>
       <trans-unit id="Delete recent searches" xml:space="preserve">
         <source>Delete recent searches</source>
-        <target state="translated">Borrar busquedas recientes</target>
+        <target state="translated">Borrar búsquedas recientes</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete search history" xml:space="preserve">
         <source>Delete search history</source>
-        <target state="translated">Borrar historial de busquedas</target>
+        <target state="translated">Borrar historial de búsquedas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
@@ -486,7 +486,7 @@
       </trans-unit>
       <trans-unit id="Episode Poster" xml:space="preserve">
         <source>Episode Poster</source>
-        <target state="translated">Poster del episiodio</target>
+        <target state="translated">Poster del episodio</target>
         <note/>
       </trans-unit>
       <trans-unit id="Episode Scores" xml:space="preserve">
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="Hand your phone to someone knowing they **cannot mess up your photos**." xml:space="preserve">
         <source>Hand your phone to someone knowing they **cannot mess up your photos**.</source>
-        <target state="translated">Dejale tu teléfono a alguien sabiendo que **no pueden enredar con tus fotos**</target>
+        <target state="translated">Déjale tu teléfono a alguien sabiendo que **no pueden enredar con tus fotos**</target>
         <note>Peek-a-View subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Height" xml:space="preserve">
@@ -653,7 +653,7 @@
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
         <source>Yearly Subscription</source>
-        <target state="translated">Subscripción anual</target>
+        <target state="translated">Suscripción anual</target>
         <note>Name of the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Description" xml:space="preserve">
@@ -663,7 +663,7 @@
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
         <source>Yearly Max-Supporter</source>
-        <target state="translated">Subscripción anual Max</target>
+        <target state="translated">Suscripción anual Max</target>
         <note>Name of the annual subscription that is a bit more money than the normal one</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Description" xml:space="preserve">
@@ -673,7 +673,7 @@
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Display Name" xml:space="preserve">
         <source>Yearly Ultra-Supporter</source>
-        <target state="translated">Subscripción anual Ultra</target>
+        <target state="translated">Suscripción anual Ultra</target>
         <note>Name of the maximum-cost annual subscription </note>
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
@@ -748,7 +748,7 @@
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
         <source>Manage Subscription</source>
-        <target state="translated">Gestionar subscripción</target>
+        <target state="translated">Gestionar suscripción</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
@@ -768,7 +768,7 @@
       </trans-unit>
       <trans-unit id="More…" xml:space="preserve">
         <source>More…</source>
-        <target state="translated">Más</target>
+        <target state="translated">Más...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movie Poster" xml:space="preserve">
@@ -858,7 +858,7 @@
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
         <source>No people found.</source>
-        <target state="translated">No se encuentra reparto/equipo</target>
+        <target state="translated">No se encuentra reparto/equipo.</target>
         <note>Shown when a movie/show has no cast/crew</note>
       </trans-unit>
       <trans-unit id="No people matching *%@* found." xml:space="preserve">
@@ -1012,7 +1012,7 @@
       </trans-unit>
       <trans-unit id="Please wait a moment." xml:space="preserve">
         <source>Please wait a moment.</source>
-        <target state="translated">Espera un poco</target>
+        <target state="translated">Espera un poco.</target>
         <note>Subtitle when collecting log entries to send</note>
       </trans-unit>
       <trans-unit id="Popular Movies" xml:space="preserve">
@@ -1117,7 +1117,7 @@
       </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">
         <source>Recent Searches</source>
-        <target state="translated">Busquedas recientes</target>
+        <target state="translated">Búsquedas recientes</target>
         <note/>
       </trans-unit>
       <trans-unit id="Refresh" xml:space="preserve">
@@ -1227,12 +1227,12 @@
       </trans-unit>
       <trans-unit id="Search History" xml:space="preserve">
         <source>Search History</source>
-        <target state="translated">Historial de Busquedas</target>
+        <target state="translated">Historial de Búsquedas</target>
         <note>Title of the Search History screen</note>
       </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
         <source>Search history</source>
-        <target state="translated">Historial de busquedas</target>
+        <target state="translated">Historial de búsquedas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Season %lld Episode %lld" xml:space="preserve">
@@ -1462,7 +1462,7 @@
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
         <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source>
-        <target state="translated">Desafortunadamente, [The Movie Database](https://www.themoviedb.org/) no soporta hacer uniones de busquedas para las series. Les he pedido que lo añadan, ¡veremos lo que pasa!</target>
+        <target state="translated">Desafortunadamente, [The Movie Database](https://www.themoviedb.org/) no soporta hacer uniones de búsquedas para las series. Les he pedido que lo añadan, ¡veremos lo que pasa!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
@@ -1567,7 +1567,7 @@
       </trans-unit>
       <trans-unit id="You don't seem to have a subscription. 🤨" xml:space="preserve">
         <source>You don't seem to have a subscription. 🤨</source>
-        <target state="translated">No parece que tengas una subscripción. 🤨</target>
+        <target state="translated">No parece que tengas una suscripción. 🤨</target>
         <note/>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.one" xml:space="preserve">
@@ -1582,7 +1582,7 @@
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
         <source>You have used all your free searches. Subscribe for unlimited searches.</source>
-        <target state="translated">Has alcanzado todas tus busquedas gratis. Suscribete para busquedas ilimitadas</target>
+        <target state="translated">Has alcanzado todas tus búsquedas gratis. Suscríbete para búsquedas ilimitadas</target>
         <note/>
       </trans-unit>
       <trans-unit id="You may know them from" xml:space="preserve">
@@ -1618,7 +1618,7 @@
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
         <source>Your purchase is still pending. Please wait for it to be approved.</source>
-        <target state="translated">Tu compra esta aun pendiente. Espera a que se apruebe, por favor.</target>
+        <target state="translated">Tu compra está aun pendiente. Espera a que se apruebe, por favor.</target>
         <note>Shown when a a purchase needs to be approved; likely a child needs a parent to approve it</note>
       </trans-unit>
       <trans-unit id="Your subscription **will not** auto-renew" xml:space="preserve">
@@ -1661,7 +1661,7 @@
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
         <source>visionOS does not support changing icons yet.</source>
-        <target state="translated">visionOS no soporta cambiar iconos aun.</target>
+        <target state="translated">visionOS no soporta cambiar iconos aún.</target>
         <note>Subtitle for the App Icon row in Settings on visionOS</note>
       </trans-unit>
       <trans-unit id="years old" xml:space="preserve">
