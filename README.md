@@ -21,8 +21,12 @@ As of [e5d60f8](https://github.com/cliss/callsheet-localizations/commit/e5d60f8a
 | Italian         | 100% :tada: | ✔️              | [cdf1982](https://github.com/cdf1982) |
 | Norwegian (Bokmål) | 100% :tada: | ✔️              | [lognseth](https://github.com/lognseth) |
 | Russian         | 100% :tada: | ✔️              | [gkeep](https://github.com/gkeep) |
-| Spanish         | 100% :tada: | ✔️              | [unaiherran](https://github.com/unaiherran) |
-| Spanish (🇲🇽)    | 100% :tada: |                 | [ccavazos](https://github.com/ccavazos |
+| Spanish (🇪🇸)    | 100% :tada: | ✔️              | [unaiherran](https://github.com/unaiherran) |
+| Spanish (🇲🇽)    | 100% :tada: |                 | [ccavazos](https://github.com/ccavazos) |
+<!---
+Spanish (419) (🌎)
+Spanish (AR/UY) (🇦🇷/🇺🇾) 
+--->
 | Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
 | Polish          | 98%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
