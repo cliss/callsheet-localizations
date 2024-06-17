@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
         <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
-        <target state="translated">Al recibir permiso para acceder tu red local, Callsheet tiene la posibilidad de mostrar links a lo que estás viendo en este momento en tu pantalla principal. Permitir el acceso a tu red local es opcional. Ningún dato relacionado a tu red saldrá de tu dispositivo.</target>
+        <target>Al recibir permiso para acceder tu red local, Callsheet tiene la posibilidad de mostrar links a lo que estás viendo en este momento en tu pantalla principal. Permitir el acceso a tu red local es opcional. Ningún dato relacionado a tu red saldrá de tu dispositivo.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source>
-        <target state="translated">Título, reparto o equipo de filmación</target>
+        <target>Título, reparto o equipo de filmación</target>
         <note/>
       </trans-unit>
     </body>

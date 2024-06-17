@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.other" xml:space="preserve">
         <source>%lld minutes</source>
-        <target state="new">%lld 分</target>
+        <target state="translated">%lld 分</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld of %lld" xml:space="preserve">
@@ -97,7 +97,7 @@
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="new">%lld 才</target>
+        <target state="translated">%lld 才</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
@@ -107,7 +107,7 @@
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="new">%lld 才</target>
+        <target state="translated">%lld 才</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld — " xml:space="preserve">
@@ -690,11 +690,13 @@
         <note>Accessibility label when a movie's poster is not available</note>
       </trans-unit>
       <trans-unit id="Movies" xml:space="preserve">
-        <source>Movies</source><target>映画</target>
+        <source>Movies</source>
+        <target state="translated">映画</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies &amp; Shows" xml:space="preserve">
-        <source>Movies &amp; Shows</source><target>映画とショー</target>
+        <source>Movies &amp; Shows</source>
+        <target state="translated">映画とショー</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
@@ -790,7 +792,8 @@
         <note>A header on the home screen &amp; a row in Settings; shows what is currently playing in Plex and/or Channels.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
-        <source>OK</source><target>OK</target>
+        <source>OK</source>
+        <target state="translated">OK</target>
         <note/>
       </trans-unit>
       <trans-unit id="Oldest First" xml:space="preserve">
@@ -1017,7 +1020,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Rent" xml:space="preserve">
-        <source>Rent</source><target>借りる</target>
+        <source>Rent</source>
+        <target state="translated">借りる</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
@@ -1242,7 +1246,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Thank you for trying out Callsheet. 💙" xml:space="preserve">
-        <source>Thank you for trying out Callsheet. 💙</source><target>コールシートをお試しいただきありがとうございます。💙</target>
+        <source>Thank you for trying out Callsheet. 💙</source>
+        <target state="translated">コールシートをお試しいただきありがとうございます。💙</target>
         <note/>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
@@ -1288,7 +1293,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
-        <source>Unknown</source><target>無名</target>
+        <source>Unknown</source>
+        <target state="translated">無名</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unlimited searches" xml:space="preserve">
