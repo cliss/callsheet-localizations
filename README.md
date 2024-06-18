@@ -8,7 +8,7 @@ There are two sections:
 
 ## Current Status
 
-As of [e5d60f8](https://github.com/cliss/callsheet-localizations/commit/e5d60f8a00fcee72d50324479f9cfc37595ec656):
+As of [ff8d87e](https://github.com/cliss/callsheet-localizations/commit/ff8d87ee62cd9ffac0c1f92672b5827f7186ce75):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
@@ -23,6 +23,7 @@ As of [e5d60f8](https://github.com/cliss/callsheet-localizations/commit/e5d60f8a
 | Russian         | 100% :tada: | ✔️              | [gkeep](https://github.com/gkeep) |
 | Spanish (🇪🇸)    | 100% :tada: | ✔️              | [unaiherran](https://github.com/unaiherran) |
 | Spanish (🇲🇽)    | 100% :tada: |                 | [ccavazos](https://github.com/ccavazos) |
+| Spanish (🌎)    | 100% (unverified) |           | [ccavazos](https://github.com/ccavazos) |
 | Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
 | Polish          | 98%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
@@ -32,11 +33,6 @@ As of [e5d60f8](https://github.com/cliss/callsheet-localizations/commit/e5d60f8a
 | Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
 | Japanese        | 45%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
 | Danish          | 6%          |                 | [hanse00](https://github.com/hanse00) |
-
-<!---
-Spanish (419) (🌎)
-Spanish (AR/UY) (🇦🇷/🇺🇾) 
---->
 
 [as]: https://github.com/cliss/callsheet-localizations/tree/main/AppStore
 
