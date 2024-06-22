@@ -442,6 +442,7 @@
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
         <source>Expired</source>
+        <target state="translated">期限切れ</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Expires" xml:space="preserve">
@@ -1050,6 +1051,7 @@
       </trans-unit>
       <trans-unit id="Revoked" xml:space="preserve">
         <source>Revoked</source>
+        <target state="translated">取り消される</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Runtime" xml:space="preserve">
@@ -1382,6 +1384,7 @@
       </trans-unit>
       <trans-unit id="You can be the first! Don’t be shy!" xml:space="preserve">
         <source>You can be the first! Don’t be shy!</source>
+        <target state="translated">あなたも最初の人になれます！ 恥ずかしがらないで！</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="You don't seem to have a subscription. 🤨" xml:space="preserve">
