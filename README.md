@@ -8,7 +8,7 @@ There are two sections:
 
 ## Current Status
 
-As of [ff8d87e](https://github.com/cliss/callsheet-localizations/commit/ff8d87ee62cd9ffac0c1f92672b5827f7186ce75):
+As of [8467253e](https://github.com/cliss/callsheet-localizations/commit/8467253eab24f2d9d637330dada72113b348d046):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
@@ -31,7 +31,7 @@ As of [ff8d87e](https://github.com/cliss/callsheet-localizations/commit/ff8d87ee
 | French (🇫🇷)     | 97%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
 | French (🇨🇦)     | 97%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
 | Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
-| Japanese        | 45%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
+| Japanese        | 50%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
 | Danish          | 6%          |                 | [hanse00](https://github.com/hanse00) |
 
 [as]: https://github.com/cliss/callsheet-localizations/tree/main/AppStore
