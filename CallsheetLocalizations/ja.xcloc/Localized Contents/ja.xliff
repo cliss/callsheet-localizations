@@ -422,7 +422,7 @@
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
         <source>Ends at %@</source>
-        <target state="translated">終了時間</target>
+        <target state="translated">%@に終了</target>
         <note>When a show or movie ends if you start it right now</note>
       </trans-unit>
       <trans-unit id="Episode" xml:space="preserve">
@@ -446,7 +446,7 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Expires" xml:space="preserve">
-        <source>Expires</source>
+        <source>Expires</source><target>切れる</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Export" xml:space="preserve">
@@ -463,7 +463,7 @@
         <note>Shown in Settings to try to get users to rate the app</note>
       </trans-unit>
       <trans-unit id="Find a way to watch in:" xml:space="preserve">
-        <source>Find a way to watch in:</source>
+        <source>Find a way to watch in:</source><target>視聴する方法を見つける：</target>
         <note>Shown when choosing a country to use for Where to Watch (long version)</note>
       </trans-unit>
       <trans-unit id="Find movies where&#10;%@ worked with:" xml:space="preserve">
@@ -476,7 +476,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="For Where to Watch." xml:space="preserve">
-        <source>For Where to Watch.</source>
+        <source>For Where to Watch.</source><target>視聴できる場所を探す。</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="For new &amp; popular media." xml:space="preserve">
@@ -490,11 +490,11 @@
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
         <source>Free Trial</source>
-        <target state="translated">無料体験</target>
+        <target state="translated">無料トライアル</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
-        <source>Free searches remaining</source>
+        <source>Free searches remaining</source><target>残りの無料検索</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
@@ -723,7 +723,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="New Movies" xml:space="preserve">
-        <source>New Movies</source>
+        <source>New Movies</source><target>新作映画</target>
         <note/>
       </trans-unit>
       <trans-unit id="Newest First" xml:space="preserve">
