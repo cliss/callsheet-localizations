@@ -8,7 +8,7 @@ There are two sections:
 
 ## Current Status
 
-As of [47648fe](https://github.com/cliss/callsheet-localizations/commit/47648fe468c646b353677d5aa7d7e3e3d58fd85c):
+As of [b9e7c12](https://github.com/cliss/callsheet-localizations/commit/b9e7c12cf9bd5d0a5ea8b5c6652288f4983720b4):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
@@ -31,7 +31,8 @@ As of [47648fe](https://github.com/cliss/callsheet-localizations/commit/47648fe4
 | French (🇫🇷)     | 96%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
 | French (🇨🇦)     | 96%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
 | Portuguese (🇧🇷) | 72%         |                 | [insidegui](https://github.com/insidegui) |
-| Japanese        | 50%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
+| Japanese        | 51%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
+| Korean          | 48%         |                 | [EdogawaKun](https://github.com/EdogawaKun)
 | Danish          | 6%          |                 | [hanse00](https://github.com/hanse00) |
 
 [as]: https://github.com/cliss/callsheet-localizations/tree/main/AppStore
