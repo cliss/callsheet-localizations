@@ -210,12 +210,6 @@
         }
       }
     },
-    "`%@` is unimplemented" : {
-      "comment" : "Do not translate"
-    },
-    "© 2023%@ Limitliss LLC" : {
-      "comment" : "Do not translate"
-    },
     "🤝" : {
 
     },
@@ -228,11 +222,37 @@
     "About Callsheet" : {
       "extractionState" : "manual"
     },
+    "Add %lld Free Search" : {
+      "comment" : "Shown on the \"Buy Now\" button when asking for more free searches",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Add %lld Free Search"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Add %lld Free Searches"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Add pin" : {
 
     },
     "Add Pin" : {
 
+    },
+    "Ads" : {
+      "comment" : "A kind of service to watch media on. Contrast with \"Free\", \"Rent\", \"Buy\", \"Subscription\""
     },
     "Ages" : {
       "comment" : "Heading in Persnickety Preferences"
@@ -245,6 +265,15 @@
     },
     "App Icon" : {
 
+    },
+    "App Language" : {
+      "comment" : "Title for the row in settings that allows you to set the app's language"
+    },
+    "Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet." : {
+      "comment" : "Shown in the subscription status screen @ callsheet://subs"
+    },
+    "Apple Keynote" : {
+      "comment" : "Example episode name shown in Spoiler Settings"
     },
     "Are you sure?" : {
       "comment" : "Shown when clearing recent searches or search history"
@@ -273,11 +302,14 @@
     "Born" : {
 
     },
+    "Botanist" : {
+      "comment" : "Example role shown in Spoiler Settings"
+    },
     "Browser" : {
 
     },
-    "Callsheet" : {
-      "comment" : "Do not translate"
+    "Buy" : {
+      "comment" : "A kind of service to watch media on. Contrast with \"Free\", \"Ads\", \"Rent\", \"Subscription\""
     },
     "Callsheet couldn't parse the information from The Movie Database." : {
 
@@ -303,6 +335,9 @@
     "Cast or Crew" : {
 
     },
+    "Change what language Callsheet itself uses" : {
+      "comment" : "Description for the row in settings that allows you to set the app's language"
+    },
     "Choose a link:" : {
       "comment" : "Shown in settings for the quick access link"
     },
@@ -325,10 +360,10 @@
     "Clear all" : {
       "comment" : "Shown when clearing recent searches or search history"
     },
-    "Click Me" : {
-      "comment" : "Do not translate"
-    },
     "Close" : {
+
+    },
+    "Collecting log entries…" : {
 
     },
     "Connect to devices on your local network to show what's playing." : {
@@ -358,8 +393,14 @@
     "Crew" : {
 
     },
+    "Current Location" : {
+      "comment" : "Shown in Where to Watch if the current locale can't be found"
+    },
     "Custom icons" : {
       "comment" : "Shown on the pre-sales screen to get users to subscribe"
+    },
+    "Dark" : {
+      "comment" : "Dark theme (other options are \"light\" and \"system\")"
     },
     "Data provided by The Movie Database" : {
 
@@ -400,9 +441,6 @@
     "Episode Scores" : {
 
     },
-    "Error: should not be able to reach settings from here." : {
-      "comment" : "Do not translate"
-    },
     "Expired" : {
       "comment" : "Shown in a semi-hidden debugging view"
     },
@@ -433,6 +471,12 @@
     },
     "For Where to Watch." : {
       "comment" : "Shown in Settings"
+    },
+    "Force Callsheet's theme, or use the system one." : {
+
+    },
+    "Free" : {
+      "comment" : "A kind of service to watch media on. Contrast with \"Ads\", \"Rent\", \"Buy\", \"Subscription\""
     },
     "Free searches remaining" : {
 
@@ -485,11 +529,8 @@
     "How seasons and episodes are sorted." : {
 
     },
-    "I'm in a popover" : {
-      "comment" : "Do not translate"
-    },
     "IAP: Monthly Description" : {
-      "comment" : "Description for the monthly subscription in-app purchase",
+      "comment" : "Description for the monthly subscription in-app purchase; 45 characters or less",
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -513,7 +554,7 @@
       }
     },
     "IAP: Yearly Description" : {
-      "comment" : "Description for the annual subscription in-app purchase",
+      "comment" : "Description for the annual subscription in-app purchase; 45 characters or less",
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -531,7 +572,19 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yearly"
+            "value" : "Yearly Subscription"
+          }
+        }
+      }
+    },
+    "IAP: Yearly Max Description" : {
+      "comment" : "Description for the medium-cost annual subscription; 45 characters or less",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show your added support!"
           }
         }
       }
@@ -549,7 +602,7 @@
       }
     },
     "IAP: Yearly Ultra Description" : {
-      "comment" : "Description for the maximum-cost annual subscription",
+      "comment" : "Description for the maximum-cost annual subscription; 45 characters or less",
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -593,17 +646,36 @@
     "Integrations" : {
       "comment" : "Header in Persnickety Preferences"
     },
-    "JustWatch" : {
-      "comment" : "Do not translate"
+    "Known-For-People-Key" : {
+      "comment" : "Shown on the people screen; \"Known For\" in English",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Known For"
+          }
+        }
+      }
     },
-    "Known For" : {
-
+    "Known-For-Settings-Key" : {
+      "comment" : "Shown as a header in Settings; \"Known For\" in English",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Known For"
+          }
+        }
+      }
     },
     "Language Override" : {
       "comment" : "Shown in Settings"
     },
     "Learn about the people behind Callsheet." : {
       "extractionState" : "manual"
+    },
+    "Light" : {
+      "comment" : "Light theme (other options are \"system\" and \"dark\")"
     },
     "Lived" : {
       "comment" : "How long an actor lived"
@@ -719,6 +791,29 @@
     "Optionally, you can choose to help more." : {
       "comment" : "Shown when trying to upsell the user on expensive subscriptions"
     },
+    "Or, you can have %lld more free search. Just this once." : {
+      "comment" : "Shown when trying to sell more expensive subscriptions",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Or, you can have %lld more free search. Just this once."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Or, you can have %lld more free searches. Just this once."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Other Great Apps" : {
       "comment" : "Shown above Maskeraid & Peek‑a‑View"
     },
@@ -771,6 +866,15 @@
     "Plans:" : {
       "comment" : "In the context of different subscription/IAP plans"
     },
+    "Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet." : {
+      "comment" : "Shown in the subscription status screen @ callsheet://subs"
+    },
+    "Please send feedback to `hello@limitliss.co`" : {
+
+    },
+    "Please wait a moment." : {
+      "comment" : "Subtitle when collecting log entries to send"
+    },
     "Popular Movies" : {
 
     },
@@ -804,11 +908,17 @@
     "Provided by [JustWatch](https://www.justwatch.com/)" : {
 
     },
+    "Purchase a subscription" : {
+      "comment" : "Shown on the \"Purchase now\" row in Settings if purchasing is unavailable"
+    },
     "Purchase Error" : {
 
     },
     "Purchased" : {
       "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "Purchasing is unavailable at this time." : {
+      "comment" : "Shown on the \"Purchase now\" row in Settings if purchasing is unavailable"
     },
     "Purchasing…" : {
 
@@ -849,11 +959,20 @@
     "Remove Pin" : {
 
     },
+    "Rent" : {
+      "comment" : "A kind of service to watch media on. Contrast with \"Free\", \"Ads\", \"Buy\", \"Subscription\""
+    },
     "Request Refund" : {
 
     },
     "Restore Purchase" : {
 
+    },
+    "Restore Purchases" : {
+      "comment" : "Button title in Settings"
+    },
+    "Restoring…" : {
+      "comment" : "Button title in Settings when actively restoring a purchase"
     },
     "Reverse sort order" : {
 
@@ -949,7 +1068,13 @@
     "Show titles a person may be known from." : {
 
     },
+    "So sorry!" : {
+      "comment" : "Shown on the \"Purchase now\" row in Settings if purchasing is unavailable"
+    },
     "Sorry, there was a problem." : {
+
+    },
+    "Sorry, there was an error making your purchase. Please try it again later." : {
 
     },
     "Sort Order" : {
@@ -961,6 +1086,9 @@
     "Spoilers" : {
       "comment" : "Title for the row in Settings to get you to the default Spoiler Settings"
     },
+    "Start %@ Free Trial" : {
+      "comment" : "Shown on the \"Buy Now\" button when subscribing"
+    },
     "Subscribe" : {
 
     },
@@ -969,6 +1097,9 @@
     },
     "Subscribers can change the app’s icon." : {
       "comment" : "Subtitle for the App Icon row in Settings"
+    },
+    "Subscription" : {
+      "comment" : "A kind of service to watch media on. Contrast with \"Free\", \"Ads\", \"Rent\", \"Buy\""
     },
     "Subscription Status" : {
 
@@ -979,6 +1110,9 @@
     "Summary" : {
 
     },
+    "System" : {
+      "comment" : "System theme; this represents \"the light/dark mode the device is in\" (other options are always light and always dark)"
+    },
     "Technical Details" : {
       "comment" : "Quick access link"
     },
@@ -988,8 +1122,8 @@
     "Thank you for trying out Callsheet. 💙" : {
 
     },
-    "The Movie Database" : {
-      "comment" : "Do not translate"
+    "Theme" : {
+      "comment" : "Persnickety Preference for light/dark/system theme"
     },
     "There is no watch information available for *%@*." : {
 
@@ -1094,14 +1228,57 @@
     "You don't seem to have a subscription. 🤨" : {
 
     },
+    "You have %lld day remaining in your trial." : {
+      "comment" : "Shown on the \"Purchase now\" row in Settings if purchasing is unavailable",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "You have %lld day remaining in your trial."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "You have %lld days remaining in your trial."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "You have used all your free searches. Subscribe for unlimited searches." : {
 
     },
     "You may know them from" : {
       "comment" : "Header shown for people"
     },
+    "You must have a subscription to use the app." : {
+      "comment" : "Shown in Settings as a subtitle if you haven't purchased the app"
+    },
+    "Your %@ will expire on\n%@" : {
+      "comment" : "Shown on the \"Purchase now\" row in Settings if purchasing is unavailable",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your %1$@ will expire on\n%2$@"
+          }
+        }
+      }
+    },
+    "Your access to Callsheet will end on %@." : {
+      "comment" : "Shown in the subscription status screen @ callsheet://subs"
+    },
     "Your favorite characters finally get married." : {
       "comment" : "A fake summary shown when demonstrating hiding spoilers"
+    },
+    "Your free trial has expired; you must purchase a subscription to use Callsheet." : {
+      "comment" : "Shown on the \"Purchase now\" row in Settings if purchasing is unavailable"
     },
     "Your purchase is still pending. Please wait for it to be approved." : {
       "comment" : "Shown when a a purchase needs to be approved; likely a child needs a parent to approve it"
@@ -1111,6 +1288,15 @@
     },
     "Your subscription **will** auto-renew" : {
       "comment" : "Only shown on a semi-hidden debugging screen"
+    },
+    "Your subscription has expired; you must purchase a new subscription to use Callsheet." : {
+      "comment" : "Shown on the \"Purchase now\" row in Settings if purchasing is unavailable"
+    },
+    "Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription." : {
+      "comment" : "Shown in the subscription status screen @ callsheet://subs"
+    },
+    "Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription." : {
+      "comment" : "Shown in the subscription status screen @ callsheet://subs"
     }
   },
   "version" : "1.0"

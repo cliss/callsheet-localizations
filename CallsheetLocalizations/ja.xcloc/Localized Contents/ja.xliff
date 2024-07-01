@@ -376,6 +376,10 @@
         <source>Custom icons</source>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
+      <trans-unit id="Dark" xml:space="preserve">
+        <source>Dark</source>
+        <note>Dark theme (other options are "light" and "system")</note>
+      </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
         <source>Data provided by The Movie Database</source>
         <target state="translated">データ提供：The Movie Database</target>
@@ -446,7 +450,8 @@
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Expires" xml:space="preserve">
-        <source>Expires</source><target>切れる</target>
+        <source>Expires</source>
+        <target state="translated">切れる</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Export" xml:space="preserve">
@@ -463,7 +468,8 @@
         <note>Shown in Settings to try to get users to rate the app</note>
       </trans-unit>
       <trans-unit id="Find a way to watch in:" xml:space="preserve">
-        <source>Find a way to watch in:</source><target>視聴する方法を見つける：</target>
+        <source>Find a way to watch in:</source>
+        <target state="translated">視聴する方法を見つける：</target>
         <note>Shown when choosing a country to use for Where to Watch (long version)</note>
       </trans-unit>
       <trans-unit id="Find movies where&#10;%@ worked with:" xml:space="preserve">
@@ -476,12 +482,17 @@
         <note/>
       </trans-unit>
       <trans-unit id="For Where to Watch." xml:space="preserve">
-        <source>For Where to Watch.</source><target>視聴できる場所を探す。</target>
+        <source>For Where to Watch.</source>
+        <target state="translated">視聴できる場所を探す。</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="For new &amp; popular media." xml:space="preserve">
         <source>For new &amp; popular media.</source>
         <note>Shown in Settings</note>
+      </trans-unit>
+      <trans-unit id="Force Callsheet's theme, or use the system one." xml:space="preserve">
+        <source>Force Callsheet's theme, or use the system one.</source>
+        <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
         <source>Free</source>
@@ -494,7 +505,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
-        <source>Free searches remaining</source><target>残りの無料検索</target>
+        <source>Free searches remaining</source>
+        <target state="translated">残りの無料検索</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
@@ -650,6 +662,10 @@
         <source>Learn about the people behind Callsheet.</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Light" xml:space="preserve">
+        <source>Light</source>
+        <note>Light theme (other options are "system" and "dark")</note>
+      </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
         <source>Lived</source>
         <note>How long an actor lived</note>
@@ -723,7 +739,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="New Movies" xml:space="preserve">
-        <source>New Movies</source><target>新作映画</target>
+        <source>New Movies</source>
+        <target state="translated">新作映画</target>
         <note/>
       </trans-unit>
       <trans-unit id="Newest First" xml:space="preserve">
@@ -1239,6 +1256,10 @@
         <source>Summary</source>
         <note/>
       </trans-unit>
+      <trans-unit id="System" xml:space="preserve">
+        <source>System</source>
+        <note>System theme; this represents "the light/dark mode the device is in" (other options are always light and always dark)</note>
+      </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
         <source>TV Shows</source>
         <target state="translated">テレビ番組</target>
@@ -1258,6 +1279,10 @@
         <source>Thank you for trying out Callsheet. 💙</source>
         <target state="translated">コールシートをお試しいただきありがとうございます。💙</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Theme" xml:space="preserve">
+        <source>Theme</source>
+        <note>Persnickety Preference for light/dark/system theme</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
         <source>There is no watch information available for *%@*.</source>
