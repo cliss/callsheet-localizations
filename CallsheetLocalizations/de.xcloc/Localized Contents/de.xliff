@@ -556,7 +556,7 @@
       </trans-unit>
       <trans-unit id="Force Callsheet's theme, or use the system one." xml:space="preserve">
         <source>Force Callsheet's theme, or use the system one.</source>
-        <target state="translated">Erzwinge hellen oder dunklen Modus für Callsheet oder nutze die Systemeinstellung.</target>
+        <target state="translated">Bestimme, wie Callsheet dargestellt wird, oder lass das System entscheiden.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
@@ -1441,7 +1441,7 @@
       </trans-unit>
       <trans-unit id="Theme" xml:space="preserve">
         <source>Theme</source>
-        <target state="translated">Anzeigemodus</target>
+        <target state="translated">Erscheinungsbild</target>
         <note>Persnickety Preference for light/dark/system theme</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
