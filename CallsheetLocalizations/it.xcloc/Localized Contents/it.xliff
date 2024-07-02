@@ -249,7 +249,7 @@
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
         <source>Be like the many other beautiful people who have rated this version.</source>
-        <target state="translated">Sii come le tante altre persone meravigliose che hanno valutato questa versione</target>
+        <target state="translated">Fai come le tante altre persone meravigliose che hanno valutato questa versione</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
@@ -354,7 +354,7 @@
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
         <source>Choose spoiler-risky things to hide by default.</source>
-        <target state="translated">Scegli che le cose a rischio di spoiler siano nascoste di default.</target>
+        <target state="translated">Scegli che le informazioni a rischio di spoiler siano nascoste di default.</target>
         <note>Subtitle for a row in Settings</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
@@ -523,7 +523,7 @@
       </trans-unit>
       <trans-unit id="Feedback emails are lovely to read!" xml:space="preserve">
         <source>Feedback emails are lovely to read!</source>
-        <target state="translated">E' un piacere ricevere email di feedback!</target>
+        <target state="translated">Ci fa piacere ricevere email di feedback!</target>
         <note>Shown in Settings to try to get users to rate the app</note>
       </trans-unit>
       <trans-unit id="Find a way to watch in:" xml:space="preserve">
@@ -578,7 +578,7 @@
       </trans-unit>
       <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
         <source>Free, but you can only ask once. 😏</source>
-        <target state="translated">Gratis, ma puoi chiedere sono una volta. 😏</target>
+        <target state="translated">Gratis, ma puoi chiederle sono una volta. 😏</target>
         <note>Subtitle for the "A few more searches please" option on the "Additional options" purchasing screen</note>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
@@ -738,7 +738,7 @@
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
         <source>Learn about the people behind Callsheet.</source>
-        <target state="translated">Maggiori informazioni chi c'è dietro Callsheet.</target>
+        <target state="translated">Maggiori informazioni su chi c’è dietro a Callsheet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Light" xml:space="preserve">
@@ -887,7 +887,7 @@
       </trans-unit>
       <trans-unit id="No pinned items found." xml:space="preserve">
         <source>No pinned items found.</source>
-        <target state="translated">Non è stato trovato nessun elemento contrassegnato.</target>
+        <target state="translated">Non sono stati trovati elementi contrassegnati.</target>
         <note>Shown on the home screen</note>
       </trans-unit>
       <trans-unit id="No providers found." xml:space="preserve">
@@ -902,7 +902,7 @@
       </trans-unit>
       <trans-unit id="No search history found." xml:space="preserve">
         <source>No search history found.</source>
-        <target state="translated">Nessuna storia di ricerca trovata.</target>
+        <target state="translated">Non sono state trovate ricerche precedenti.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Not a subscription" xml:space="preserve">
@@ -957,7 +957,7 @@
       </trans-unit>
       <trans-unit id="Other settings for more _particular_ users." xml:space="preserve">
         <source>Other settings for more _particular_ users.</source>
-        <target state="translated">Altre impostazione per utenti più _particolari_.</target>
+        <target state="translated">Altre impostazioni per utenti con esigenze più _particolari_.</target>
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
@@ -1332,7 +1332,7 @@
       </trans-unit>
       <trans-unit id="Show that you _really_ care" xml:space="preserve">
         <source>Show that you _really_ care</source>
-        <target state="translated">Show a cui tieni _davvero_</target>
+        <target state="translated">Dimostra che ci tieni _davvero_</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
@@ -1545,7 +1545,7 @@
       </trans-unit>
       <trans-unit id="Which quick access link is shown." xml:space="preserve">
         <source>Which quick access link is shown.</source>
-        <target state="translated">Qualche link di accesso veloce è mostrato.</target>
+        <target state="translated">Che link di accesso veloce viene mostrato.</target>
         <note>Shown as a subtitle for a row on Settings</note>
       </trans-unit>
       <trans-unit id="Why not shows?" xml:space="preserve">
