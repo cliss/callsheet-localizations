@@ -285,11 +285,6 @@
         <target state="translated">Acheter</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Subscription"</note>
       </trans-unit>
-      <trans-unit id="Callsheet" xml:space="preserve">
-        <source>Callsheet</source>
-        <target state="translated">Callsheet</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="Callsheet Premium" xml:space="preserve">
         <source>Callsheet Premium</source>
         <target state="translated">Callsheet Prémium</target>
@@ -369,11 +364,6 @@
         <target state="translated">Tout effacer</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
-      <trans-unit id="Click Me" xml:space="preserve">
-        <source>Click Me</source>
-        <target state="translated">Click Me</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
         <target state="translated">Fermer</target>
@@ -438,6 +428,10 @@
         <source>Custom icons</source>
         <target state="translated">Icônes personnalisées</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
+      </trans-unit>
+      <trans-unit id="Dark" xml:space="preserve">
+        <source>Dark</source>
+        <note>Dark theme (other options are "light" and "system")</note>
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
         <source>Data provided by The Movie Database</source>
@@ -504,11 +498,6 @@
         <target state="translated">Scores de les Épisodes</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
-        <source>Error: should not be able to reach settings from here.</source>
-        <target state="translated">Error: should not be able to reach settings from here.</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
         <source>Expired</source>
         <target state="translated">Expiré</target>
@@ -560,6 +549,10 @@
         <source>For new &amp; popular media.</source>
         <target state="translated">Pour les médias récents &amp; populaires.</target>
         <note>Shown in Settings</note>
+      </trans-unit>
+      <trans-unit id="Force Callsheet's theme, or use the system one." xml:space="preserve">
+        <source>Force Callsheet's theme, or use the system one.</source>
+        <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
         <source>Free</source>
@@ -651,11 +644,6 @@
         <target state="translated">Comment sont classés les saisons et épisodes.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="I'm in a popover" xml:space="preserve">
-        <source>I'm in a popover</source>
-        <target state="translated">I'm in a popover</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
         <source>Unlimited searches for a month. Auto-renews</source>
         <target state="translated">Recherches illimités pour un mois. Se renouvelle automatiquement</target>
@@ -731,11 +719,6 @@
         <target state="translated">Intégrations</target>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
-      <trans-unit id="JustWatch" xml:space="preserve">
-        <source>JustWatch</source>
-        <target state="translated">JustWatch</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="Known-For-People-Key" xml:space="preserve">
         <source>Known For</source>
         <target state="translated">Connu Pour</target>
@@ -755,6 +738,10 @@
         <source>Learn about the people behind Callsheet.</source>
         <target state="translated">Informez-vous sur les personnes qui créent Callsheet.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Light" xml:space="preserve">
+        <source>Light</source>
+        <note>Light theme (other options are "system" and "dark")</note>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
         <source>Lived</source>
@@ -1420,6 +1407,10 @@
         <target state="translated">Résumé</target>
         <note/>
       </trans-unit>
+      <trans-unit id="System" xml:space="preserve">
+        <source>System</source>
+        <note>System theme; this represents "the light/dark mode the device is in" (other options are always light and always dark)</note>
+      </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
         <source>TV Shows</source>
         <target state="translated">Émissions de Téle</target>
@@ -1440,10 +1431,9 @@
         <target state="translated">Merci d’avoir essayé Callsheet. 💙</target>
         <note/>
       </trans-unit>
-      <trans-unit id="The Movie Database" xml:space="preserve">
-        <source>The Movie Database</source>
-        <target state="translated">The Movie Database</target>
-        <note>Do not translate</note>
+      <trans-unit id="Theme" xml:space="preserve">
+        <source>Theme</source>
+        <note>Persnickety Preference for light/dark/system theme</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
         <source>There is no watch information available for *%@*.</source>
@@ -1673,11 +1663,6 @@
         <source>Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</source>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
-      <trans-unit id="`%@` is unimplemented" xml:space="preserve">
-        <source>`%@` is unimplemented</source>
-        <target state="translated">`%@` is unimplemented</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
         <source>per %@</source>
         <target state="translated">par %@</target>
@@ -1702,11 +1687,6 @@
         <source>years old</source>
         <target state="translated">ans</target>
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
-      </trans-unit>
-      <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
-        <source>© 2023%@ Limitliss LLC</source>
-        <target state="translated">© 2023%@ Limitliss LLC</target>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
         <source>🤝</source>

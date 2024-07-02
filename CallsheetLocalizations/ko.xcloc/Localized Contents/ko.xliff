@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Flookup/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ko">
+  <file original="Flookup/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Callsheet</source>
+        <target>Callsheet</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Callsheet</source>
+        <target>Callsheet</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
         <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
+        <target>Callsheet이 로컬 네트워크 연결을 통해 지금 여러분이 보고 있는 콘텐츠를 인식할 수도 있어요. 로컬 네트워크 연결을 허용하는 것은 필수가 아닙니다. 여러분의 네트워크에 대한 정보는 기기를 떠나지 않습니다.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -38,90 +41,112 @@
       </trans-unit>
       <trans-unit id="#%lld" xml:space="preserve">
         <source>#%lld</source>
+        <target state="translated">#%lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="#%llu" xml:space="preserve">
         <source>#%llu</source>
+        <target state="translated">#%llu</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
+        <target state="translated">%@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ (%@)" xml:space="preserve">
         <source>%1$@ (%2$@)</source>
+        <target state="translated">%1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ - %@" xml:space="preserve">
         <source>%1$@ - %2$@</source>
+        <target state="translated">%1$@ - %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ / %@" xml:space="preserve">
         <source>%1$@ / %2$@</source>
+        <target state="translated">%1$@ / %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ by %@" xml:space="preserve">
         <source>%1$@ by %2$@</source>
+        <target state="translated">%2$@중 %1$@</target>
         <note>{Icon name} by {Icon artist}</note>
       </trans-unit>
       <trans-unit id="%lld" xml:space="preserve">
         <source>%lld</source>
+        <target state="translated">%lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.other" xml:space="preserve">
         <source>%lld Seasons</source>
+        <target state="translated">총 시즌 %lld개</target>
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.other" xml:space="preserve">
         <source>%lld episodes</source>
+        <target state="translated">에피소드 %lld개</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.other" xml:space="preserve">
         <source>%lld free searches remaining</source>
+        <target state="translated">무료 검색이 %lld회 남았습니다.</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.other" xml:space="preserve">
         <source>%lld minutes</source>
+        <target state="translated">%lld분</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld of %lld" xml:space="preserve">
         <source>%1$lld of %2$lld</source>
+        <target state="translated">%2$lld중 %1$lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
+        <target state="translated">당시 %lld세</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
         <source>%lld years</source>
+        <target state="translated">%lld세</target>
         <note>How old a person was when they passed</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
+        <target state="translated">현재 %lld세</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld — " xml:space="preserve">
         <source>%lld — </source>
+        <target state="translated">%lld — </target>
         <note/>
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
         <source>A few more free ones please?</source>
+        <target state="translated">무료 검색 몇 번만 더 하고 싶어요.</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
         <source>About Callsheet</source>
+        <target state="translated">Callsheet에 대해</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.other" xml:space="preserve">
         <source>Add %lld Free Searches</source>
+        <target state="new">Add %lld Free Searches</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
         <source>Add Pin</source>
+        <target state="translated">핀 추가</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
         <source>Add pin</source>
+        <target state="translated">핀 추가</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ads" xml:space="preserve">
@@ -130,18 +155,22 @@
       </trans-unit>
       <trans-unit id="Ages" xml:space="preserve">
         <source>Ages</source>
+        <target state="translated">나이 표시하기</target>
         <note>Heading in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
+        <target state="translated">모두</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Messages" xml:space="preserve">
         <source>All Messages</source>
+        <target state="translated">모든 메시지</target>
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
         <source>App Icon</source>
+        <target state="translated">앱 아이콘</target>
         <note/>
       </trans-unit>
       <trans-unit id="App Language" xml:space="preserve">
@@ -158,38 +187,47 @@
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
+        <target state="translated">진짜로 지우시겠어요?</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="As rated by users of" xml:space="preserve">
         <source>As rated by users of</source>
+        <target state="translated">해당 사용자들이 리뷰함</target>
         <note>Shown in a popover explaining TV/movie scores</note>
       </trans-unit>
       <trans-unit id="Average runtime" xml:space="preserve">
         <source>Average runtime</source>
+        <target state="translated">1회 평균 재생시간</target>
         <note>How long episodes run in a single season of TV</note>
       </trans-unit>
       <trans-unit id="Be a hero and support independent apps" xml:space="preserve">
         <source>Be a hero and support independent apps</source>
+        <target state="translated">독립 앱들을 지원하는 히어로가 되어주세요</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
         <source>Be like the many other beautiful people who have rated this version.</source>
+        <target state="translated">이미 해주신 많은 멋진 분들처럼 여러분도 이번 버전을 리뷰해주시면 감사하겠습니다.</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
         <source>Began Airing</source>
+        <target state="translated">방송 시작일</target>
         <note>When a TV season started airing</note>
       </trans-unit>
       <trans-unit id="Begins Airing" xml:space="preserve">
         <source>Begins Airing</source>
+        <target state="translated">방송 시작 예정일</target>
         <note>When a TV season will start airing</note>
       </trans-unit>
       <trans-unit id="Biography" xml:space="preserve">
         <source>Biography</source>
+        <target state="translated">생애</target>
         <note/>
       </trans-unit>
       <trans-unit id="Born" xml:space="preserve">
         <source>Born</source>
+        <target state="translated">출생</target>
         <note/>
       </trans-unit>
       <trans-unit id="Botanist" xml:space="preserve">
@@ -198,46 +236,51 @@
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
         <source>Browser</source>
+        <target state="translated">브라우저</target>
         <note/>
       </trans-unit>
       <trans-unit id="Buy" xml:space="preserve">
         <source>Buy</source>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Subscription"</note>
       </trans-unit>
-      <trans-unit id="Callsheet" xml:space="preserve">
-        <source>Callsheet</source>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="Callsheet Premium" xml:space="preserve">
         <source>Callsheet Premium</source>
+        <target state="translated">Callsheet Premium</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet couldn't parse the information from The Movie Database." xml:space="preserve">
         <source>Callsheet couldn't parse the information from The Movie Database.</source>
+        <target state="translated">Callsheet이 The Movie Database에서 정보를 가져오지 못했어요.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet couldn't reach The Movie Database." xml:space="preserve">
         <source>Callsheet couldn't reach The Movie Database.</source>
+        <target state="translated">Callsheet이 The Movie Database에 연결하지 못했어요.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**." xml:space="preserve">
         <source>Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**.</source>
+        <target state="translated">Callsheet은 **[Casey Liss](https://www.caseyliss.com/)**가 미국 버지니아 주에서 개발했습니다.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
+        <target state="translated">취소</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel Subscription" xml:space="preserve">
         <source>Cancel Subscription</source>
+        <target state="translated">구독 취소</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cast" xml:space="preserve">
         <source>Cast</source>
+        <target state="translated">출연진</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cast or Crew" xml:space="preserve">
         <source>Cast or Crew</source>
+        <target state="translated">출연진 혹은 제작진</target>
         <note/>
       </trans-unit>
       <trans-unit id="Change what language Callsheet itself uses" xml:space="preserve">
@@ -246,38 +289,42 @@
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
         <source>Choose New Subscription</source>
+        <target state="translated">새로운 구독제 선택하기</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose a link:" xml:space="preserve">
         <source>Choose a link:</source>
+        <target state="translated">링크할 사이트를 선택해주세요.</target>
         <note>Shown in settings for the quick access link</note>
       </trans-unit>
       <trans-unit id="Choose a quick link" xml:space="preserve">
         <source>Choose a quick link</source>
+        <target state="translated">빠른 링크 선택하기</target>
         <note>Accessibility label for the quick access picker in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Choose an icon that fits your aesthetic." xml:space="preserve">
         <source>Choose an icon that fits your aesthetic.</source>
+        <target state="translated">여러분의 마음에 드는 아이콘을 선택해주세요.</target>
         <note>Subtitle for "Custom icons"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
         <source>Choose spoiler-risky things to hide by default.</source>
+        <target state="translated">스포일러 위험이 있는 항목을 기본으로 숨겨줘요.</target>
         <note>Subtitle for a row in Settings</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
         <source>Clear</source>
+        <target state="translated">지우기</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clear all" xml:space="preserve">
         <source>Clear all</source>
+        <target state="translated">모두 지우기</target>
         <note>Shown when clearing recent searches or search history</note>
-      </trans-unit>
-      <trans-unit id="Click Me" xml:space="preserve">
-        <source>Click Me</source>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
+        <target state="translated">닫기</target>
         <note/>
       </trans-unit>
       <trans-unit id="Collecting log entries…" xml:space="preserve">
@@ -286,18 +333,22 @@
       </trans-unit>
       <trans-unit id="Connect to devices on your local network to show what's playing." xml:space="preserve">
         <source>Connect to devices on your local network to show what's playing.</source>
+        <target state="translated">로컬 네트워크에 있는 기기들에 연결하여 지금 재생 중인 항목을 확인하세요.</target>
         <note>Subtitle in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Copy" xml:space="preserve">
         <source>Copy</source>
+        <target state="translated">복사하기</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy Error Information" xml:space="preserve">
         <source>Copy Error Information</source>
+        <target state="translated">오류 정보 복사하기</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy e-mail address" xml:space="preserve">
         <source>Copy e-mail address</source>
+        <target state="translated">이메일 주소 복사하기</target>
         <note/>
       </trans-unit>
       <trans-unit id="Could not load static JSON" xml:space="preserve">
@@ -310,14 +361,17 @@
       </trans-unit>
       <trans-unit id="Credits" xml:space="preserve">
         <source>Credits</source>
+        <target state="translated">제작진</target>
         <note>Shown as a header on the movie view for the mid- and post-credits scene icons</note>
       </trans-unit>
       <trans-unit id="Credits Lists" xml:space="preserve">
         <source>Credits Lists</source>
+        <target state="translated">참여작품 목록 설정</target>
         <note>Persnickety Preferences header</note>
       </trans-unit>
       <trans-unit id="Crew" xml:space="preserve">
         <source>Crew</source>
+        <target state="translated">제작진</target>
         <note/>
       </trans-unit>
       <trans-unit id="Current Location" xml:space="preserve">
@@ -326,104 +380,132 @@
       </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
         <source>Custom icons</source>
+        <target state="translated">커스텀 아이콘</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
+      </trans-unit>
+      <trans-unit id="Dark" xml:space="preserve">
+        <source>Dark</source>
+        <note>Dark theme (other options are "light" and "system")</note>
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
         <source>Data provided by The Movie Database</source>
+        <target state="translated">The Movie Database에서 데이터 제공</target>
         <note/>
       </trans-unit>
       <trans-unit id="Data provided by:" xml:space="preserve">
         <source>Data provided by:</source>
+        <target state="translated">데이터 제공:</target>
         <note/>
       </trans-unit>
       <trans-unit id="Default Spoiler Settings" xml:space="preserve">
         <source>Default Spoiler Settings</source>
+        <target state="translated">기본 스포일러 설정</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete recent searches" xml:space="preserve">
         <source>Delete recent searches</source>
+        <target state="translated">최근 검색 항목 지우기</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete search history" xml:space="preserve">
         <source>Delete search history</source>
+        <target state="translated">검색 히스토리 지우기</target>
         <note/>
       </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
         <source>Details</source>
+        <target state="translated">상세 정보</target>
         <note/>
       </trans-unit>
       <trans-unit id="Discover" xml:space="preserve">
         <source>Discover</source>
+        <target state="translated">둘러보기</target>
         <note/>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
+        <target state="translated">완료</target>
         <note/>
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
         <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
+        <target state="translated">TV 프로그램이나 에피소드를 보고 있을 때 `스포일러 숨기기` 설정을 해두면 각각의 TV 프로그램별로 설정할 수 있어요.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
         <source>Ends at %@</source>
+        <target state="translated">%@에 끝나요</target>
         <note>When a show or movie ends if you start it right now</note>
       </trans-unit>
       <trans-unit id="Episode" xml:space="preserve">
         <source>Episode</source>
+        <target state="translated">에피소드</target>
         <note/>
       </trans-unit>
       <trans-unit id="Episode Poster" xml:space="preserve">
         <source>Episode Poster</source>
+        <target state="translated">에피소드 포스터</target>
         <note/>
       </trans-unit>
       <trans-unit id="Episode Scores" xml:space="preserve">
         <source>Episode Scores</source>
+        <target state="translated">에피소드 평점</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
-        <source>Error: should not be able to reach settings from here.</source>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
         <source>Expired</source>
+        <target state="translated">만료됨</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Expires" xml:space="preserve">
         <source>Expires</source>
+        <target state="translated">만료예정일</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Export" xml:space="preserve">
         <source>Export</source>
+        <target state="translated">내보내기</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Faults" xml:space="preserve">
         <source>Faults</source>
+        <target state="translated">오류</target>
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
       <trans-unit id="Feedback emails are lovely to read!" xml:space="preserve">
         <source>Feedback emails are lovely to read!</source>
+        <target state="translated">피드백 이메일은 언제나 환영해요!</target>
         <note>Shown in Settings to try to get users to rate the app</note>
       </trans-unit>
       <trans-unit id="Find a way to watch in:" xml:space="preserve">
         <source>Find a way to watch in:</source>
+        <target state="translated">이 콘텐츠를 보실 국가를 선택해주세요</target>
         <note>Shown when choosing a country to use for Where to Watch (long version)</note>
       </trans-unit>
       <trans-unit id="Find movies where&#10;%@ worked with:" xml:space="preserve">
         <source>Find movies where
 %@ worked with:</source>
+        <target state="translated">함께 작업한 영화를 찾아보세요.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Find shared film credits" xml:space="preserve">
         <source>Find shared film credits</source>
+        <target state="translated">함께 작업한 영화 찾기</target>
         <note/>
       </trans-unit>
       <trans-unit id="For Where to Watch." xml:space="preserve">
         <source>For Where to Watch.</source>
+        <target state="translated">"어디서 볼 수 있나요?" 기능에서 국가 설정을 바꿉니다.</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="For new &amp; popular media." xml:space="preserve">
         <source>For new &amp; popular media.</source>
+        <target state="translated">신작과 인기있는 작품의 언어 설정을 바꿉니다.</target>
         <note>Shown in Settings</note>
+      </trans-unit>
+      <trans-unit id="Force Callsheet's theme, or use the system one." xml:space="preserve">
+        <source>Force Callsheet's theme, or use the system one.</source>
+        <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
         <source>Free</source>
@@ -431,86 +513,102 @@
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
         <source>Free Trial</source>
+        <target state="translated">무료 체험</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
         <source>Free searches remaining</source>
+        <target state="translated">무료 검색 잔여 횟수</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
         <source>Free stuff doesn't last forever.</source>
+        <target state="translated">공짜는 영원하지 않아요.</target>
         <note>Subtitle for "Unlimited searches"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
         <source>Free, but you can only ask once. 😏</source>
+        <target state="translated">무료지만, 딱 한번만 쓸 수 있어요 😏</target>
         <note>Subtitle for the "A few more searches please" option on the "Additional options" purchasing screen</note>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
         <source>Genre</source>
+        <target state="translated">장르</target>
         <note/>
       </trans-unit>
       <trans-unit id="Genres" xml:space="preserve">
         <source>Genres</source>
+        <target state="translated">장르</target>
         <note/>
       </trans-unit>
       <trans-unit id="Guests" xml:space="preserve">
         <source>Guests</source>
+        <target state="translated">특별출연</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hand your phone to someone knowing they **cannot mess up your photos**." xml:space="preserve">
         <source>Hand your phone to someone knowing they **cannot mess up your photos**.</source>
+        <target state="translated">남에게 아이폰을 빌려줄 때 **여러분의 사진을 사수하세요**.</target>
         <note>Peek-a-View subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Height" xml:space="preserve">
         <source>Height</source>
+        <target state="translated">신장</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide Spoilers" xml:space="preserve">
         <source>Hide Spoilers</source>
+        <target state="translated">스포일러 숨기기</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide Spoilers…" xml:space="preserve">
         <source>Hide Spoilers…</source>
+        <target state="translated">스포일러 숨기기...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide cast character names" xml:space="preserve">
         <source>Hide cast character names</source>
+        <target state="translated">출연진의 배역 이름 숨기기</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide cast episode counts" xml:space="preserve">
         <source>Hide cast episode counts</source>
+        <target state="translated">출연진이 출연한 에피소드 수 숨기기</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide episode thumbnails" xml:space="preserve">
         <source>Hide episode thumbnails</source>
+        <target state="translated">에피소드 썸네일 숨기기</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide episode titles" xml:space="preserve">
         <source>Hide episode titles</source>
+        <target state="translated">에피소드 제목 숨기기</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide summaries" xml:space="preserve">
         <source>Hide summaries</source>
+        <target state="translated">줄거리 숨기기</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="How seasons and episodes are sorted." xml:space="preserve">
         <source>How seasons and episodes are sorted.</source>
+        <target state="translated">시즌과 에피소드의 정렬 순서를 설정하세요.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="I'm in a popover" xml:space="preserve">
-        <source>I'm in a popover</source>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
         <source>Unlimited searches for a month. Auto-renews</source>
+        <target state="translated">한 달 동안 무제한으로 검색할 수 있어요. 자동으로 갱신됩니다.</target>
         <note>Description for the monthly subscription in-app purchase; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Display Name" xml:space="preserve">
         <source>Monthly</source>
+        <target state="translated">월간 구독</target>
         <note>Name of the monthly subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Description" xml:space="preserve">
         <source>Access to Callsheet for 1 year. Auto-renews</source>
+        <target state="translated">Callsheet를 1년 동안 마음껏 사용할 수 있어요. 자동으로 갱신됩니다.</target>
         <note>Description for the annual subscription in-app purchase; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
@@ -523,47 +621,53 @@
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
         <source>Yearly Max-Supporter</source>
+        <target state="translated">"맥스 서포터" 연간 구독</target>
         <note>Name of the annual subscription that is a bit more money than the normal one</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Description" xml:space="preserve">
         <source>Show your extreme support!</source>
+        <target state="translated">이 앱이 정말로 마음에 드시는군요!</target>
         <note>Description for the maximum-cost annual subscription; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Display Name" xml:space="preserve">
         <source>Yearly Ultra-Supporter</source>
+        <target state="translated">"울트라 서포터" 연간 구독</target>
         <note>Name of the maximum-cost annual subscription </note>
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
         <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source>
+        <target state="translated">Channels](https://getchannels.com/)나 [Plex](https://plex.tv/)로 영화나 TV 프로그램을 재생하면, Callsheet에서 둘러보기 화면 상단에 해당 영화나 프로그램을 표시해요.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
         <source>Image</source>
+        <target state="translated">이미지</target>
         <note/>
       </trans-unit>
       <trans-unit id="In Grace Period" xml:space="preserve">
         <source>In Grace Period</source>
+        <target state="translated">In Grace Period</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="In Retry Period" xml:space="preserve">
         <source>In Retry Period</source>
+        <target state="translated">In Retry Period</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="In-App Browser" xml:space="preserve">
         <source>In-App Browser</source>
+        <target state="translated">앱 내 브라우저</target>
         <note>Which browser to use for web links (the other option is "Safari")</note>
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
         <source>In-Credits Bonus Scenes</source>
+        <target state="translated">쿠키 장면</target>
         <note/>
       </trans-unit>
       <trans-unit id="Integrations" xml:space="preserve">
         <source>Integrations</source>
+        <target state="translated">추가 서비스 연결</target>
         <note>Header in Persnickety Preferences</note>
-      </trans-unit>
-      <trans-unit id="JustWatch" xml:space="preserve">
-        <source>JustWatch</source>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Known-For-People-Key" xml:space="preserve">
         <source>Known For</source>
@@ -575,18 +679,26 @@
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
+        <target state="translated">언어 강제 설정하기</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
         <source>Learn about the people behind Callsheet.</source>
+        <target state="translated">Callsheet을 만든 사람들에 대하여</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Light" xml:space="preserve">
+        <source>Light</source>
+        <note>Light theme (other options are "system" and "dark")</note>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
         <source>Lived</source>
+        <target state="translated">출생 및 사망</target>
         <note>How long an actor lived</note>
       </trans-unit>
       <trans-unit id="Loading…" xml:space="preserve">
         <source>Loading…</source>
+        <target state="translated">불러오는 중...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Macro State at %@" xml:space="preserve">
@@ -595,118 +707,147 @@
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
         <source>Manage Subscription</source>
+        <target state="translated">구독 관리하기</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
         <source>Mid-credits</source>
+        <target state="translated">크레딧 중간</target>
         <note/>
       </trans-unit>
       <trans-unit id="More Info…" xml:space="preserve">
         <source>More Info…</source>
+        <target state="translated">더 많은 정보...</target>
         <note/>
       </trans-unit>
       <trans-unit id="More Purchase Options…" xml:space="preserve">
         <source>More Purchase Options…</source>
+        <target state="translated">더 많은 구매 옵션...</target>
         <note/>
       </trans-unit>
       <trans-unit id="More…" xml:space="preserve">
         <source>More…</source>
+        <target state="translated">더 보기...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movie Poster" xml:space="preserve">
         <source>Movie Poster</source>
+        <target state="translated">영화 포스터</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movie Poster Placeholder" xml:space="preserve">
         <source>Movie Poster Placeholder</source>
+        <target state="translated">영화 포스터 플레이스홀더</target>
         <note>Accessibility label when a movie's poster is not available</note>
       </trans-unit>
       <trans-unit id="Movies" xml:space="preserve">
         <source>Movies</source>
+        <target state="translated">영화</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies &amp; Shows" xml:space="preserve">
         <source>Movies &amp; Shows</source>
+        <target state="translated">영화 및 TV 프로그램</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
         <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source>
+        <target state="translated">영화와 TV 프로그램에서 링크 하나를 선택해 빠르게 접근할 수 있습니다. 다른 링크들은 "더 보기"에서 선택할 수 있어요.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movies featuring" xml:space="preserve">
         <source>Movies featuring</source>
+        <target state="translated">같이 나온 영화를 찾았어요</target>
         <note>Title for cast union view</note>
       </trans-unit>
       <trans-unit id="Name or job" xml:space="preserve">
         <source>Name or job</source>
+        <target state="translated">이름 혹은 직책</target>
         <note>Crew search prompt</note>
       </trans-unit>
       <trans-unit id="Name or role" xml:space="preserve">
         <source>Name or role</source>
+        <target state="translated">이름 혹은 배역</target>
         <note>Cast search prompt</note>
       </trans-unit>
       <trans-unit id="New Episodes" xml:space="preserve">
         <source>New Episodes</source>
+        <target state="translated">새로운 에피소드</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Movies" xml:space="preserve">
         <source>New Movies</source>
+        <target state="translated">새로운 영화</target>
         <note/>
       </trans-unit>
       <trans-unit id="Newest First" xml:space="preserve">
         <source>Newest First</source>
+        <target state="translated">최신 작품부터</target>
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Next Episode" xml:space="preserve">
         <source>Next Episode</source>
+        <target state="translated">다음 에피소드</target>
         <note/>
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
         <source>No TV show pins found.</source>
+        <target state="translated">핀을 걸어둔 TV 프로그램을 찾지 못했어요.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No credits found." xml:space="preserve">
         <source>No credits found.</source>
+        <target state="translated">크레딧 항목을 찾지 못했어요.</target>
         <note>Shown when a person has no cast nor crew credits</note>
       </trans-unit>
       <trans-unit id="No media found." xml:space="preserve">
         <source>No media found.</source>
+        <target state="translated">미디어를 찾지 못했어요.</target>
         <note>Shown when there's no data for new movies / new shows / etc</note>
       </trans-unit>
       <trans-unit id="No movie pins found." xml:space="preserve">
         <source>No movie pins found.</source>
+        <target state="translated">핀을 걸어둔 영화를 찾지 못했어요.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
         <source>No override</source>
+        <target state="translated">강제 설정 안함</target>
         <note>Default option for language/region override</note>
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
         <source>No people found.</source>
+        <target state="translated">사람들을 찾지 못했어요.</target>
         <note>Shown when a movie/show has no cast/crew</note>
       </trans-unit>
       <trans-unit id="No people matching *%@* found." xml:space="preserve">
         <source>No people matching *%@* found.</source>
+        <target state="translated">일치하는 사람을 찾지 못했어요.</target>
         <note>Shown when searching a list of credits, but no matches were found</note>
       </trans-unit>
       <trans-unit id="No people pins found." xml:space="preserve">
         <source>No people pins found.</source>
+        <target state="translated">핀을 걸어둔 인물을 찾지 못했어요.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pinned items found." xml:space="preserve">
         <source>No pinned items found.</source>
+        <target state="translated">핀을 걸어둔 항목을 찾지 못했어요.</target>
         <note>Shown on the home screen</note>
       </trans-unit>
       <trans-unit id="No providers found." xml:space="preserve">
         <source>No providers found.</source>
+        <target state="translated">일치하는 제공자를 찾지 못했어요.</target>
         <note>Shown when there's no data for Where to Watch</note>
       </trans-unit>
       <trans-unit id="No results found for &quot;%@&quot;" xml:space="preserve">
         <source>No results found for "%@"</source>
+        <target state="translated">일하는 결과를 찾지 못했어요.</target>
         <note>Generic "couldn't find anything for this query" message</note>
       </trans-unit>
       <trans-unit id="No search history found." xml:space="preserve">
         <source>No search history found.</source>
+        <target state="translated">검색 히스토리를 찾지 못했어요.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Not a subscription" xml:space="preserve">
@@ -719,42 +860,52 @@
       </trans-unit>
       <trans-unit id="Now Playing" xml:space="preserve">
         <source>Now Playing</source>
+        <target state="translated">지금 재생 중</target>
         <note>A header on the home screen &amp; a row in Settings; shows what is currently playing in Plex and/or Channels.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
+        <target state="translated">확인</target>
         <note/>
       </trans-unit>
       <trans-unit id="Oldest First" xml:space="preserve">
         <source>Oldest First</source>
+        <target state="translated">가장 오래된 항목부터</target>
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
         <source>Optionally, you can choose to help more.</source>
+        <target state="translated">아니면, 좀 더 도와주실 수도 있어요.</target>
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
         <source>Or, you can have %lld more free searches. Just this once.</source>
+        <target state="new">Or, you can have %lld more free searches. Just this once.</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
         <source>Other Great Apps</source>
+        <target state="translated">정말 좋은 다른 앱들</target>
         <note>Shown above Maskeraid &amp; Peek‑a‑View</note>
       </trans-unit>
       <trans-unit id="Other person" xml:space="preserve">
         <source>Other person</source>
+        <target state="translated">다른 인물</target>
         <note>Shown when doing cast union search for movies</note>
       </trans-unit>
       <trans-unit id="Other settings for more _particular_ users." xml:space="preserve">
         <source>Other settings for more _particular_ users.</source>
+        <target state="translated">좀 더 _세밀한_ 설정을 하고 싶은 분들을 위해.</target>
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
         <source>Parental Guidance</source>
+        <target state="translated">보호자 지침</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
         <source>Parental guidance won't be shown for cast and crew.</source>
+        <target state="translated">배우와 제작진 메뉴에서는 보호자 지침 메뉴가 보이지 않아요.</target>
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
       </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
@@ -1109,6 +1260,10 @@
         <source>Summary</source>
         <note/>
       </trans-unit>
+      <trans-unit id="System" xml:space="preserve">
+        <source>System</source>
+        <note>System theme; this represents "the light/dark mode the device is in" (other options are always light and always dark)</note>
+      </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
         <source>TV Shows</source>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
@@ -1125,9 +1280,9 @@
         <source>Thank you for trying out Callsheet. 💙</source>
         <note/>
       </trans-unit>
-      <trans-unit id="The Movie Database" xml:space="preserve">
-        <source>The Movie Database</source>
-        <note>Do not translate</note>
+      <trans-unit id="Theme" xml:space="preserve">
+        <source>Theme</source>
+        <note>Persnickety Preference for light/dark/system theme</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
         <source>There is no watch information available for *%@*.</source>
@@ -1255,6 +1410,7 @@
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.other" xml:space="preserve">
         <source>You have %lld days remaining in your trial.</source>
+        <target state="new">You have %lld days remaining in your trial.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
@@ -1310,12 +1466,9 @@
         <source>Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</source>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
-      <trans-unit id="`%@` is unimplemented" xml:space="preserve">
-        <source>`%@` is unimplemented</source>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
         <source>per %@</source>
+        <target state="translated"/>
         <note>cost per period; ie "per month" or "per year"</note>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
@@ -1334,16 +1487,14 @@
         <source>years old</source>
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
       </trans-unit>
-      <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
-        <source>© 2023%@ Limitliss LLC</source>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
         <source>🤝</source>
+        <target state="translated">🤝</target>
         <note/>
       </trans-unit>
       <trans-unit id="🤷‍♂️" xml:space="preserve">
         <source>🤷‍♂️</source>
+        <target state="translated">🤷‍♂️</target>
         <note/>
       </trans-unit>
     </body>

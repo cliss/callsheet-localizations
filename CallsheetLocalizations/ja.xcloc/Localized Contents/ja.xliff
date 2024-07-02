@@ -49,6 +49,7 @@
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
+        <target state="translated">%@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ (%@)" xml:space="preserve">
@@ -61,6 +62,7 @@
       </trans-unit>
       <trans-unit id="%@ / %@" xml:space="preserve">
         <source>%1$@ / %2$@</source>
+        <target state="translated">%1$@ / %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ by %@" xml:space="preserve">
@@ -88,7 +90,7 @@
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.other" xml:space="preserve">
         <source>%lld minutes</source>
-        <target state="new">%lld minutes</target>
+        <target state="translated">%lld 分</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld of %lld" xml:space="preserve">
@@ -97,7 +99,7 @@
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="new">%lld years old</target>
+        <target state="translated">%lld 才</target>
         <note>The age of an actor at the time a piece of media was released</note>
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
@@ -107,7 +109,7 @@
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
-        <target state="new">%lld years old</target>
+        <target state="translated">%lld 才</target>
         <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld — " xml:space="preserve">
@@ -116,6 +118,7 @@
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
         <source>A few more free ones please?</source>
+        <target state="translated">無料の検索を追加する？</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
@@ -140,6 +143,7 @@
       </trans-unit>
       <trans-unit id="Ads" xml:space="preserve">
         <source>Ads</source>
+        <target state="translated">広告</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Rent", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Ages" xml:space="preserve">
@@ -164,6 +168,7 @@
       </trans-unit>
       <trans-unit id="App Language" xml:space="preserve">
         <source>App Language</source>
+        <target state="translated">アプリの言語</target>
         <note>Title for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
@@ -173,6 +178,7 @@
       </trans-unit>
       <trans-unit id="Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet." xml:space="preserve">
         <source>Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet.</source>
+        <target state="translated">Appleがユーザー様のお支払いを受け取れなかったため、サブスクリプションの更新ができませんでした。お支払い方法をご確認の上、再度ご登録をお願いいたします。</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
@@ -186,6 +192,7 @@
       </trans-unit>
       <trans-unit id="Average runtime" xml:space="preserve">
         <source>Average runtime</source>
+        <target state="translated">平均上映時間</target>
         <note>How long episodes run in a single season of TV</note>
       </trans-unit>
       <trans-unit id="Be a hero and support independent apps" xml:space="preserve">
@@ -195,6 +202,7 @@
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
         <source>Be like the many other beautiful people who have rated this version.</source>
+        <target state="translated">アプリの評価をお願いいたします。</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
@@ -204,7 +212,7 @@
       </trans-unit>
       <trans-unit id="Begins Airing" xml:space="preserve">
         <source>Begins Airing</source>
-        <target state="translated">放映開始</target>
+        <target state="translated">放送開始予定</target>
         <note>When a TV season will start airing</note>
       </trans-unit>
       <trans-unit id="Biography" xml:space="preserve">
@@ -232,11 +240,6 @@
         <target state="translated">買う</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Subscription"</note>
       </trans-unit>
-      <trans-unit id="Callsheet" xml:space="preserve">
-        <source>Callsheet</source>
-        <target state="translated">コールシート</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="Callsheet Premium" xml:space="preserve">
         <source>Callsheet Premium</source>
         <target state="translated">コールシートプレミアム</target>
@@ -244,10 +247,12 @@
       </trans-unit>
       <trans-unit id="Callsheet couldn't parse the information from The Movie Database." xml:space="preserve">
         <source>Callsheet couldn't parse the information from The Movie Database.</source>
+        <target state="translated">The Movie Databaseから情報を取得することができませんでした。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet couldn't reach The Movie Database." xml:space="preserve">
         <source>Callsheet couldn't reach The Movie Database.</source>
+        <target state="translated">The Movie Databaseに接続ができませんでした。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**." xml:space="preserve">
@@ -312,11 +317,6 @@
         <target state="translated">すべて消去</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
-      <trans-unit id="Click Me" xml:space="preserve">
-        <source>Click Me</source>
-        <target state="translated">クリックミー</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
         <target state="translated">閉じる</target>
@@ -369,11 +369,16 @@
       </trans-unit>
       <trans-unit id="Current Location" xml:space="preserve">
         <source>Current Location</source>
+        <target state="translated">現在の所在地</target>
         <note>Shown in Where to Watch if the current locale can't be found</note>
       </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
         <source>Custom icons</source>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
+      </trans-unit>
+      <trans-unit id="Dark" xml:space="preserve">
+        <source>Dark</source>
+        <note>Dark theme (other options are "light" and "system")</note>
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
         <source>Data provided by The Movie Database</source>
@@ -387,22 +392,27 @@
       </trans-unit>
       <trans-unit id="Default Spoiler Settings" xml:space="preserve">
         <source>Default Spoiler Settings</source>
+        <target state="translated">ネタバレの設定を初期化</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete recent searches" xml:space="preserve">
         <source>Delete recent searches</source>
+        <target state="translated">最近の検索を削除する</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete search history" xml:space="preserve">
         <source>Delete search history</source>
+        <target state="translated">検索履歴を消去する</target>
         <note/>
       </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
         <source>Details</source>
+        <target state="translated">詳細</target>
         <note/>
       </trans-unit>
       <trans-unit id="Discover" xml:space="preserve">
         <source>Discover</source>
+        <target state="translated"/>
         <note/>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
@@ -416,6 +426,7 @@
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
         <source>Ends at %@</source>
+        <target state="translated">%@に終了</target>
         <note>When a show or movie ends if you start it right now</note>
       </trans-unit>
       <trans-unit id="Episode" xml:space="preserve">
@@ -430,18 +441,17 @@
       </trans-unit>
       <trans-unit id="Episode Scores" xml:space="preserve">
         <source>Episode Scores</source>
+        <target state="translated">エピソードスコア</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
-        <source>Error: should not be able to reach settings from here.</source>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
         <source>Expired</source>
+        <target state="translated">期限切れ</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Expires" xml:space="preserve">
         <source>Expires</source>
+        <target state="translated">切れる</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Export" xml:space="preserve">
@@ -454,10 +464,12 @@
       </trans-unit>
       <trans-unit id="Feedback emails are lovely to read!" xml:space="preserve">
         <source>Feedback emails are lovely to read!</source>
+        <target state="translated">皆様のご意見・ご感想をお待ちしております！</target>
         <note>Shown in Settings to try to get users to rate the app</note>
       </trans-unit>
       <trans-unit id="Find a way to watch in:" xml:space="preserve">
         <source>Find a way to watch in:</source>
+        <target state="translated">視聴する方法を見つける：</target>
         <note>Shown when choosing a country to use for Where to Watch (long version)</note>
       </trans-unit>
       <trans-unit id="Find movies where&#10;%@ worked with:" xml:space="preserve">
@@ -471,11 +483,16 @@
       </trans-unit>
       <trans-unit id="For Where to Watch." xml:space="preserve">
         <source>For Where to Watch.</source>
+        <target state="translated">視聴できる場所を探す。</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="For new &amp; popular media." xml:space="preserve">
         <source>For new &amp; popular media.</source>
         <note>Shown in Settings</note>
+      </trans-unit>
+      <trans-unit id="Force Callsheet's theme, or use the system one." xml:space="preserve">
+        <source>Force Callsheet's theme, or use the system one.</source>
+        <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
         <source>Free</source>
@@ -484,11 +501,12 @@
       </trans-unit>
       <trans-unit id="Free Trial" xml:space="preserve">
         <source>Free Trial</source>
-        <target state="translated">無料体験</target>
+        <target state="translated">無料トライアル</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
         <source>Free searches remaining</source>
+        <target state="translated">残りの無料検索</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free stuff doesn't last forever." xml:space="preserve">
@@ -530,35 +548,37 @@
       </trans-unit>
       <trans-unit id="Hide Spoilers…" xml:space="preserve">
         <source>Hide Spoilers…</source>
+        <target state="translated">ネタバレを隠す…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide cast character names" xml:space="preserve">
         <source>Hide cast character names</source>
+        <target state="translated">キャストの役名を隠す</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide cast episode counts" xml:space="preserve">
         <source>Hide cast episode counts</source>
+        <target state="translated">出演したエピソードの数を隠す</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide episode thumbnails" xml:space="preserve">
         <source>Hide episode thumbnails</source>
+        <target state="translated">エピソードのサムネイルを隠す</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide episode titles" xml:space="preserve">
         <source>Hide episode titles</source>
+        <target state="translated">エピソードのタイトルを隠す</target>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="Hide summaries" xml:space="preserve">
         <source>Hide summaries</source>
+        <target state="translated"/>
         <note>Toggle for TV spoiler settings</note>
       </trans-unit>
       <trans-unit id="How seasons and episodes are sorted." xml:space="preserve">
         <source>How seasons and episodes are sorted.</source>
         <note/>
-      </trans-unit>
-      <trans-unit id="I'm in a popover" xml:space="preserve">
-        <source>I'm in a popover</source>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
         <source>Unlimited searches for a month. Auto-renews</source>
@@ -623,11 +643,6 @@
         <source>Integrations</source>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
-      <trans-unit id="JustWatch" xml:space="preserve">
-        <source>JustWatch</source>
-        <target state="translated">JustWatch</target>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="Known-For-People-Key" xml:space="preserve">
         <source>Known For</source>
         <target state="translated">で知られている</target>
@@ -646,6 +661,10 @@
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
         <source>Learn about the people behind Callsheet.</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Light" xml:space="preserve">
+        <source>Light</source>
+        <note>Light theme (other options are "system" and "dark")</note>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
         <source>Lived</source>
@@ -691,10 +710,12 @@
       </trans-unit>
       <trans-unit id="Movies" xml:space="preserve">
         <source>Movies</source>
+        <target state="translated">映画</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies &amp; Shows" xml:space="preserve">
         <source>Movies &amp; Shows</source>
+        <target state="translated">映画とショー</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
@@ -719,6 +740,7 @@
       </trans-unit>
       <trans-unit id="New Movies" xml:space="preserve">
         <source>New Movies</source>
+        <target state="translated">新作映画</target>
         <note/>
       </trans-unit>
       <trans-unit id="Newest First" xml:space="preserve">
@@ -783,6 +805,7 @@
       </trans-unit>
       <trans-unit id="Not purchased" xml:space="preserve">
         <source>Not purchased</source>
+        <target state="translated">購入されていない</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Now Playing" xml:space="preserve">
@@ -791,6 +814,7 @@
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
+        <target state="translated">OK</target>
         <note/>
       </trans-unit>
       <trans-unit id="Oldest First" xml:space="preserve">
@@ -808,6 +832,7 @@
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
         <source>Other Great Apps</source>
+        <target state="translated">他の優良なアプリ</target>
         <note>Shown above Maskeraid &amp; Peek‑a‑View</note>
       </trans-unit>
       <trans-unit id="Other person" xml:space="preserve">
@@ -873,6 +898,7 @@
       </trans-unit>
       <trans-unit id="Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet." xml:space="preserve">
         <source>Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet.</source>
+        <target state="translated">コールシートをご利用いただくために、App Storeでお支払い方法の問題を解消する必要があります。ご確認をお願いいたします。</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
@@ -941,6 +967,7 @@
       </trans-unit>
       <trans-unit id="Purchase a subscription" xml:space="preserve">
         <source>Purchase a subscription</source>
+        <target state="translated">購読を購入する</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
@@ -1016,6 +1043,7 @@
       </trans-unit>
       <trans-unit id="Rent" xml:space="preserve">
         <source>Rent</source>
+        <target state="translated">借りる</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
@@ -1040,6 +1068,7 @@
       </trans-unit>
       <trans-unit id="Revoked" xml:space="preserve">
         <source>Revoked</source>
+        <target state="translated">取り消される</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Runtime" xml:space="preserve">
@@ -1104,6 +1133,7 @@
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
+        <target state="translated">設定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share" xml:space="preserve">
@@ -1145,6 +1175,7 @@
       </trans-unit>
       <trans-unit id="Show Spoilers" xml:space="preserve">
         <source>Show Spoilers</source>
+        <target state="translated">ネタバレを表示</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show age information within credits lists. Ages are always shown for birth/death dates." xml:space="preserve">
@@ -1153,6 +1184,7 @@
       </trans-unit>
       <trans-unit id="Show movies, shows, or both in credit lists." xml:space="preserve">
         <source>Show movies, shows, or both in credit lists.</source>
+        <target state="translated">映画、テレビ番組、またはその両方をクレジットリストに表示します。</target>
         <note>Persnickety Preferences subtitle</note>
       </trans-unit>
       <trans-unit id="Show that you _really_ care" xml:space="preserve">
@@ -1181,14 +1213,17 @@
       </trans-unit>
       <trans-unit id="Spoiler Settings" xml:space="preserve">
         <source>Spoiler Settings</source>
+        <target state="translated">ネタバレの設定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoilers" xml:space="preserve">
         <source>Spoilers</source>
+        <target state="translated">ネタバレ</target>
         <note>Title for the row in Settings to get you to the default Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Start %@ Free Trial" xml:space="preserve">
         <source>Start %@ Free Trial</source>
+        <target state="translated">無料体験を始める</target>
         <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
@@ -1197,10 +1232,12 @@
       </trans-unit>
       <trans-unit id="Subscribed" xml:space="preserve">
         <source>Subscribed</source>
+        <target state="translated">購読しました</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscribers can change the app’s icon." xml:space="preserve">
         <source>Subscribers can change the app’s icon.</source>
+        <target state="translated">サブスクの登録者はアプリのアイコンを変更できます。</target>
         <note>Subtitle for the App Icon row in Settings</note>
       </trans-unit>
       <trans-unit id="Subscription" xml:space="preserve">
@@ -1219,6 +1256,10 @@
         <source>Summary</source>
         <note/>
       </trans-unit>
+      <trans-unit id="System" xml:space="preserve">
+        <source>System</source>
+        <note>System theme; this represents "the light/dark mode the device is in" (other options are always light and always dark)</note>
+      </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
         <source>TV Shows</source>
         <target state="translated">テレビ番組</target>
@@ -1226,6 +1267,7 @@
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
         <source>Technical Details</source>
+        <target state="translated">技術的詳細</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Terms of Service" xml:space="preserve">
@@ -1235,11 +1277,12 @@
       </trans-unit>
       <trans-unit id="Thank you for trying out Callsheet. 💙" xml:space="preserve">
         <source>Thank you for trying out Callsheet. 💙</source>
+        <target state="translated">コールシートをお試しいただきありがとうございます。💙</target>
         <note/>
       </trans-unit>
-      <trans-unit id="The Movie Database" xml:space="preserve">
-        <source>The Movie Database</source>
-        <note>Do not translate</note>
+      <trans-unit id="Theme" xml:space="preserve">
+        <source>Theme</source>
+        <note>Persnickety Preference for light/dark/system theme</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
         <source>There is no watch information available for *%@*.</source>
@@ -1263,6 +1306,7 @@
       </trans-unit>
       <trans-unit id="Total runtime %@" xml:space="preserve">
         <source>Total runtime %@</source>
+        <target state="translated">ランタイム合計%@</target>
         <note>Shown in a popover when looking at a TV season</note>
       </trans-unit>
       <trans-unit id="Transaction" xml:space="preserve">
@@ -1280,10 +1324,12 @@
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
         <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source>
+        <target state="translated"/>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
+        <target state="translated">無名</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unlimited searches" xml:space="preserve">
@@ -1363,6 +1409,7 @@
       </trans-unit>
       <trans-unit id="You can be the first! Don’t be shy!" xml:space="preserve">
         <source>You can be the first! Don’t be shy!</source>
+        <target state="translated">あなたも最初の人になれます！ 恥ずかしがらないで！</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="You don't seem to have a subscription. 🤨" xml:space="preserve">
@@ -1384,6 +1431,7 @@
       </trans-unit>
       <trans-unit id="You must have a subscription to use the app." xml:space="preserve">
         <source>You must have a subscription to use the app.</source>
+        <target state="translated">アプリを利用するためにはサブスクリプションの登録が必要です。</target>
         <note>Shown in Settings as a subtitle if you haven't purchased the app</note>
       </trans-unit>
       <trans-unit id="Your %@ will expire on&#10;%@" xml:space="preserve">
@@ -1393,6 +1441,7 @@
       </trans-unit>
       <trans-unit id="Your access to Callsheet will end on %@." xml:space="preserve">
         <source>Your access to Callsheet will end on %@.</source>
+        <target state="translated">コールシートへのアクセスは%@に終了します</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
@@ -1401,6 +1450,7 @@
       </trans-unit>
       <trans-unit id="Your free trial has expired; you must purchase a subscription to use Callsheet." xml:space="preserve">
         <source>Your free trial has expired; you must purchase a subscription to use Callsheet.</source>
+        <target state="translated">無料体験期間が終わりました。コールシートのご利用を継続する場合は、サブスクリプションを購入してください。</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
@@ -1427,12 +1477,9 @@
         <source>Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</source>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
-      <trans-unit id="`%@` is unimplemented" xml:space="preserve">
-        <source>`%@` is unimplemented</source>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
         <source>per %@</source>
+        <target state="translated">%@割り</target>
         <note>cost per period; ie "per month" or "per year"</note>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
@@ -1453,11 +1500,6 @@
         <source>years old</source>
         <target state="translated">歳</target>
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
-      </trans-unit>
-      <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
-        <source>© 2023%@ Limitliss LLC</source>
-        <target state="translated">© 2023%@ Limitliss LLC</target>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
         <source>🤝</source>

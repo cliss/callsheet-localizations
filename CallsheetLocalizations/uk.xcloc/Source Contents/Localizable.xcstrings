@@ -210,12 +210,6 @@
         }
       }
     },
-    "`%@` is unimplemented" : {
-      "comment" : "Do not translate"
-    },
-    "© 2023%@ Limitliss LLC" : {
-      "comment" : "Do not translate"
-    },
     "🤝" : {
 
     },
@@ -317,9 +311,6 @@
     "Buy" : {
       "comment" : "A kind of service to watch media on. Contrast with \"Free\", \"Ads\", \"Rent\", \"Subscription\""
     },
-    "Callsheet" : {
-      "comment" : "Do not translate"
-    },
     "Callsheet couldn't parse the information from The Movie Database." : {
 
     },
@@ -369,9 +360,6 @@
     "Clear all" : {
       "comment" : "Shown when clearing recent searches or search history"
     },
-    "Click Me" : {
-      "comment" : "Do not translate"
-    },
     "Close" : {
 
     },
@@ -410,6 +398,9 @@
     },
     "Custom icons" : {
       "comment" : "Shown on the pre-sales screen to get users to subscribe"
+    },
+    "Dark" : {
+      "comment" : "Dark theme (other options are \"light\" and \"system\")"
     },
     "Data provided by The Movie Database" : {
 
@@ -450,9 +441,6 @@
     "Episode Scores" : {
 
     },
-    "Error: should not be able to reach settings from here." : {
-      "comment" : "Do not translate"
-    },
     "Expired" : {
       "comment" : "Shown in a semi-hidden debugging view"
     },
@@ -483,6 +471,9 @@
     },
     "For Where to Watch." : {
       "comment" : "Shown in Settings"
+    },
+    "Force Callsheet's theme, or use the system one." : {
+
     },
     "Free" : {
       "comment" : "A kind of service to watch media on. Contrast with \"Ads\", \"Rent\", \"Buy\", \"Subscription\""
@@ -537,9 +528,6 @@
     },
     "How seasons and episodes are sorted." : {
 
-    },
-    "I'm in a popover" : {
-      "comment" : "Do not translate"
     },
     "IAP: Monthly Description" : {
       "comment" : "Description for the monthly subscription in-app purchase; 45 characters or less",
@@ -658,9 +646,6 @@
     "Integrations" : {
       "comment" : "Header in Persnickety Preferences"
     },
-    "JustWatch" : {
-      "comment" : "Do not translate"
-    },
     "Known-For-People-Key" : {
       "comment" : "Shown on the people screen; \"Known For\" in English",
       "localizations" : {
@@ -688,6 +673,9 @@
     },
     "Learn about the people behind Callsheet." : {
       "extractionState" : "manual"
+    },
+    "Light" : {
+      "comment" : "Light theme (other options are \"system\" and \"dark\")"
     },
     "Lived" : {
       "comment" : "How long an actor lived"
@@ -1122,6 +1110,9 @@
     "Summary" : {
 
     },
+    "System" : {
+      "comment" : "System theme; this represents \"the light/dark mode the device is in\" (other options are always light and always dark)"
+    },
     "Technical Details" : {
       "comment" : "Quick access link"
     },
@@ -1131,8 +1122,8 @@
     "Thank you for trying out Callsheet. 💙" : {
 
     },
-    "The Movie Database" : {
-      "comment" : "Do not translate"
+    "Theme" : {
+      "comment" : "Persnickety Preference for light/dark/system theme"
     },
     "There is no watch information available for *%@*." : {
 
