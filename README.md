@@ -8,15 +8,15 @@ There are two sections:
 
 ## Current Status
 
-As of [b9e7c12](https://github.com/cliss/callsheet-localizations/commit/b9e7c12cf9bd5d0a5ea8b5c6652288f4983720b4):
+As of [4381e68](https://github.com/cliss/callsheet-localizations/commit/4381e68d06ea924c82997d538f79fb66388b6fa3):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
 | English ([Modern](https://en.wikipedia.org/wiki/United_States)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
 | English ([Traditional](https://en.wikipedia.org/wiki/United_Kingdom)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
 | English ([Simplified](https://en.wikipedia.org/wiki/Australia)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
+| German          | 100% :tada: | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
 | Dutch           | 98% | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
-| German          | 98% | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
 | Hebrew          | 98% | ✔️              | [orisraeli](https://github.com/orisraeli) |
 | Italian         | 98% | ✔️              | [cdf1982](https://github.com/cdf1982) |
 | Norwegian (Bokmål) | 98% | ✔️              | [lognseth](https://github.com/lognseth) |
