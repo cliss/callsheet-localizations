@@ -502,6 +502,10 @@
         <target state="translated">סמלי יישום מותאמים אישית</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
+      <trans-unit id="Dark" xml:space="preserve">
+        <source>Dark</source>
+        <note>Dark theme (other options are "light" and "system")</note>
+      </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
         <source>Data provided by The Movie Database</source>
         <target state="translated">מידע סופק על-ידי The Movie Database</target>
@@ -617,6 +621,10 @@
         <source>For new &amp; popular media.</source>
         <target state="translated">עבור סרטים וסדרות חדשים ופופולרים.</target>
         <note>Shown in Settings</note>
+      </trans-unit>
+      <trans-unit id="Force Callsheet's theme, or use the system one." xml:space="preserve">
+        <source>Force Callsheet's theme, or use the system one.</source>
+        <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
         <source>Free</source>
@@ -802,6 +810,10 @@
         <source>Learn about the people behind Callsheet.</source>
         <target state="translated">למד על האנשים מאחורי Callsheet.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Light" xml:space="preserve">
+        <source>Light</source>
+        <note>Light theme (other options are "system" and "dark")</note>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
         <source>Lived</source>
@@ -1478,6 +1490,10 @@
         <target state="translated">תקציר</target>
         <note/>
       </trans-unit>
+      <trans-unit id="System" xml:space="preserve">
+        <source>System</source>
+        <note>System theme; this represents "the light/dark mode the device is in" (other options are always light and always dark)</note>
+      </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
         <source>TV Shows</source>
         <target state="translated">סדרות</target>
@@ -1497,6 +1513,10 @@
         <source>Thank you for trying out Callsheet. 💙</source>
         <target state="translated">תודה רבה שניסיתם את Callsheet. 💙</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Theme" xml:space="preserve">
+        <source>Theme</source>
+        <note>Persnickety Preference for light/dark/system theme</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
         <source>There is no watch information available for *%@*.</source>

@@ -399,6 +399,9 @@
     "Custom icons" : {
       "comment" : "Shown on the pre-sales screen to get users to subscribe"
     },
+    "Dark" : {
+      "comment" : "Dark theme (other options are \"light\" and \"system\")"
+    },
     "Data provided by The Movie Database" : {
 
     },
@@ -468,6 +471,9 @@
     },
     "For Where to Watch." : {
       "comment" : "Shown in Settings"
+    },
+    "Force Callsheet's theme, or use the system one." : {
+
     },
     "Free" : {
       "comment" : "A kind of service to watch media on. Contrast with \"Ads\", \"Rent\", \"Buy\", \"Subscription\""
@@ -667,6 +673,9 @@
     },
     "Learn about the people behind Callsheet." : {
       "extractionState" : "manual"
+    },
+    "Light" : {
+      "comment" : "Light theme (other options are \"system\" and \"dark\")"
     },
     "Lived" : {
       "comment" : "How long an actor lived"
@@ -1101,6 +1110,9 @@
     "Summary" : {
 
     },
+    "System" : {
+      "comment" : "System theme; this represents \"the light/dark mode the device is in\" (other options are always light and always dark)"
+    },
     "Technical Details" : {
       "comment" : "Quick access link"
     },
@@ -1109,6 +1121,9 @@
     },
     "Thank you for trying out Callsheet. 💙" : {
 
+    },
+    "Theme" : {
+      "comment" : "Persnickety Preference for light/dark/system theme"
     },
     "There is no watch information available for *%@*." : {
 
