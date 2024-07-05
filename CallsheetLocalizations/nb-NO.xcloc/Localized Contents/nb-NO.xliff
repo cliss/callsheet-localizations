@@ -433,7 +433,8 @@
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
-        <source>Dark</source><target>Mørk</target>
+        <source>Dark</source>
+        <target state="translated">Mørk</target>
         <note>Dark theme (other options are "light" and "system")</note>
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
@@ -554,7 +555,8 @@
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Force Callsheet's theme, or use the system one." xml:space="preserve">
-        <source>Force Callsheet's theme, or use the system one.</source><target>Velg mellom lys og mørk modus, eller følg iOS-innstillingene.</target>
+        <source>Force Callsheet's theme, or use the system one.</source>
+        <target state="translated">Velg mellom lys og mørk modus, eller følg iOS-innstillingene.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
@@ -743,7 +745,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Light" xml:space="preserve">
-        <source>Light</source><target>Lys</target>
+        <source>Light</source>
+        <target state="translated">Lys</target>
         <note>Light theme (other options are "system" and "dark")</note>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
@@ -1412,7 +1415,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
-        <source>System</source><target>System</target>
+        <source>System</source>
+        <target state="translated">System</target>
         <note>System theme; this represents "the light/dark mode the device is in" (other options are always light and always dark)</note>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
@@ -1436,7 +1440,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Theme" xml:space="preserve">
-        <source>Theme</source><target>Modus</target>
+        <source>Theme</source>
+        <target state="translated">Modus</target>
         <note>Persnickety Preference for light/dark/system theme</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">

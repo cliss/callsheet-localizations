@@ -503,7 +503,8 @@
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
-        <source>Dark</source><target>כהה</target>
+        <source>Dark</source>
+        <target state="translated">כהה</target>
         <note>Dark theme (other options are "light" and "system")</note>
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
@@ -623,7 +624,8 @@
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Force Callsheet's theme, or use the system one." xml:space="preserve">
-        <source>Force Callsheet's theme, or use the system one.</source><target>קבע את המראה של Callsheet, או השתמש במראה המערכת.</target>
+        <source>Force Callsheet's theme, or use the system one.</source>
+        <target state="translated">קבע את המראה של Callsheet, או השתמש במראה המערכת.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
@@ -812,7 +814,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Light" xml:space="preserve">
-        <source>Light</source><target>בהיר</target>
+        <source>Light</source>
+        <target state="translated">בהיר</target>
         <note>Light theme (other options are "system" and "dark")</note>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
@@ -1491,7 +1494,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
-        <source>System</source><target>מערכת</target>
+        <source>System</source>
+        <target state="translated">מערכת</target>
         <note>System theme; this represents "the light/dark mode the device is in" (other options are always light and always dark)</note>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
@@ -1515,7 +1519,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Theme" xml:space="preserve">
-        <source>Theme</source><target>מראה</target>
+        <source>Theme</source>
+        <target state="translated">מראה</target>
         <note>Persnickety Preference for light/dark/system theme</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
