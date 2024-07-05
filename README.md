@@ -19,7 +19,7 @@ As of [4381e68](https://github.com/cliss/callsheet-localizations/commit/4381e68d
 | Dutch           | 98% | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
 | Hebrew          | 98% | ✔️              | [orisraeli](https://github.com/orisraeli) |
 | Italian         | 98% | ✔️              | [cdf1982](https://github.com/cdf1982) |
-| Norwegian (Bokmål) | 98% | ✔️              | [lognseth](https://github.com/lognseth) |
+| Norwegian (Bokmål) |100% :tada: | ✔️              | [lognseth](https://github.com/lognseth) |
 | Russian         | 98% | ✔️              | [gkeep](https://github.com/gkeep) |
 | Spanish (🇪🇸)    | 98% | ✔️              | [unaiherran](https://github.com/unaiherran) |
 | Spanish (🇲🇽)    | 98% |                 | [ccavazos](https://github.com/ccavazos) |
@@ -95,7 +95,7 @@ Here, the problem is that the gender of a person is ambiguous in translation to 
 
 Uses of [grammatical gender](https://blog.duolingo.com/what-is-grammatical-gender/) are fine. The trailing parts of the first example say "de la Photographie". That's in the feminine for both, because "photographie" has that grammatical gender.
 
-Other languages have [even more of these](https://blog.duolingo.com/german-gender-der-die-das/). 
+Other languages have [even more of these](https://blog.duolingo.com/german-gender-der-die-das/).
 
 **In general, where it's appropriate and doesn't sound clunky, please use your language's equivalent of "they"/"them" or a genderless word. If not possible, not appropriate, or it just sounds super funky, please choose a sensible default.**
 
