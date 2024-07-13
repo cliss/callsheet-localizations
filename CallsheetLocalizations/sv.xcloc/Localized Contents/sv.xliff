@@ -433,7 +433,7 @@
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
-        <source>Dark</source>
+        <source>Dark</source><target>Mörk</target>
         <note>Dark theme (other options are "light" and "system")</note>
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
@@ -554,7 +554,7 @@
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="Force Callsheet's theme, or use the system one." xml:space="preserve">
-        <source>Force Callsheet's theme, or use the system one.</source>
+        <source>Force Callsheet's theme, or use the system one.</source><target>Välj Callsheets tema, eller använd systeminställningen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
@@ -743,7 +743,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Light" xml:space="preserve">
-        <source>Light</source>
+        <source>Light</source><target>Ljus</target>
         <note>Light theme (other options are "system" and "dark")</note>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
@@ -1412,7 +1412,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
-        <source>System</source>
+        <source>System</source><target>System</target>
         <note>System theme; this represents "the light/dark mode the device is in" (other options are always light and always dark)</note>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
@@ -1436,7 +1436,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Theme" xml:space="preserve">
-        <source>Theme</source>
+        <source>Theme</source><target>Tema</target>
         <note>Persnickety Preference for light/dark/system theme</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
