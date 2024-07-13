@@ -8,7 +8,7 @@ There are two sections:
 
 ## Current Status
 
-As of [f41c4ee](https://github.com/cliss/callsheet-localizations/commit/f41c4eece92ba4c2afcdce41182b2c522767d523):
+As of [16fff44](https://github.com/cliss/callsheet-localizations/commit/16fff4446c5d784741321dac49ba58a1a5379bf9):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
@@ -20,12 +20,12 @@ As of [f41c4ee](https://github.com/cliss/callsheet-localizations/commit/f41c4eec
 | Hebrew          | 100% :tada: | ✔️              | [orisraeli](https://github.com/orisraeli) |
 | Italian         | 100% :tada: | ✔️              | [cdf1982](https://github.com/cdf1982) |
 | Norwegian (Bokmål) |100% :tada: | ✔️              | [lognseth](https://github.com/lognseth) |
+| Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
-| Russian         | 98% | ✔️              | [gkeep](https://github.com/gkeep) |
-| Spanish (🇪🇸)    | 98% | ✔️              | [unaiherran](https://github.com/unaiherran) |
-| Spanish (🇲🇽)    | 98% |                 | [ccavazos](https://github.com/ccavazos) |
-| Spanish (🌎)    | 98% (unverified) |           | [ccavazos](https://github.com/ccavazos) |
-| Swedish         | 98% | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
+| Russian         | 98%         | ✔️              | [gkeep](https://github.com/gkeep) |
+| Spanish (🇪🇸)    | 98%         | ✔️              | [unaiherran](https://github.com/unaiherran) |
+| Spanish (🇲🇽)    | 98%         |                 | [ccavazos](https://github.com/ccavazos) |
+| Spanish (🌎)    | 98%         |           | [ccavazos](https://github.com/ccavazos) |
 | Polish          | 96%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
 | Portuguese (🇵🇹) | 96%         | ✔️              | [apfernandes](https://github.com/apfernandes) |
 | French (🇫🇷)     | 96%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
