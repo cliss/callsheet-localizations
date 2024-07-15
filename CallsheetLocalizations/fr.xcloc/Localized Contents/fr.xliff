@@ -1627,12 +1627,12 @@
       </trans-unit>
       <trans-unit id="Your subscription **will not** auto-renew" xml:space="preserve">
         <source>Your subscription **will not** auto-renew</source>
-        <target state="translated">Votre souscription **ne se renouvellera pas** automatiquement</target>
+        <target state="translated">Votre abonnement **ne se renouvellera pas** automatiquement</target>
         <note>Only shown on a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="Your subscription **will** auto-renew" xml:space="preserve">
         <source>Your subscription **will** auto-renew</source>
-        <target state="translated">Votre souscription **se renouvellera** automatiquement</target>
+        <target state="translated">Votre abonnement **se renouvellera** automatiquement</target>
         <note>Only shown on a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="Your subscription has expired; you must purchase a new subscription to use Callsheet." xml:space="preserve">
