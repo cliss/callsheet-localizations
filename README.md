@@ -8,7 +8,7 @@ There are two sections:
 
 ## Current Status
 
-As of [958dd07](https://github.com/cliss/callsheet-localizations/commit/958dd07426449404a8bbd36f2373eec2630939c0):
+As of [4174286](https://github.com/cliss/callsheet-localizations/commit/41742867567da603e8b13d7bb1e1b35cf5b7d427):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
@@ -21,12 +21,12 @@ As of [958dd07](https://github.com/cliss/callsheet-localizations/commit/958dd074
 | Italian         | 100% :tada: | ✔️              | [cdf1982](https://github.com/cdf1982) |
 | Norwegian (Bokmål) |100% :tada: | ✔️              | [lognseth](https://github.com/lognseth) |
 | Spanish (🇲🇽)    | 100% :tada: |                 | [ccavazos](https://github.com/ccavazos), [sayrer](https://github.com/sayrer) |
+| Spanish (🇪🇸)    | 100% :tada: | ✔️              | [unaiherran](https://github.com/unaiherran) |
+| Spanish (🌎)    | 100% :tada: |           | [ccavazos](https://github.com/ccavazos) |
 | Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
 | French (🇫🇷)     | 98%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak), [sayrer](https://github.com/sayrer) |
 | Russian         | 98%         | ✔️              | [gkeep](https://github.com/gkeep) |
-| Spanish (🇪🇸)    | 98%         | ✔️              | [unaiherran](https://github.com/unaiherran) |
-| Spanish (🌎)    | 98%         |           | [ccavazos](https://github.com/ccavazos) |
 | Polish          | 96%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
 | Portuguese (🇵🇹) | 96%         | ✔️              | [apfernandes](https://github.com/apfernandes) |
 | French (🇨🇦)     | 96%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
