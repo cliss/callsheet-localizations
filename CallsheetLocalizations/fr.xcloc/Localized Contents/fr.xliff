@@ -1647,7 +1647,7 @@
       </trans-unit>
       <trans-unit id="Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
         <source>Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</source>
-        <target state="translated">Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</target>
+        <target state="translated">Votre abonnement a été remboursé ou résilié. Pour continuer à utiliser Callsheet, vous devrez souscrire un nouvel abonnement.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
