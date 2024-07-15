@@ -214,6 +214,7 @@
       </trans-unit>
       <trans-unit id="App Language" xml:space="preserve">
         <source>App Language</source>
+        <target state="translated">Langue de l'application</target>
         <note>Title for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
@@ -223,6 +224,7 @@
       </trans-unit>
       <trans-unit id="Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet." xml:space="preserve">
         <source>Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet.</source>
+        <target state="translated">Apple ne pouvait pas vous facturer le renouvellement de votre abonnement. Vous devrez corriger votre paiement et vous réabonner pour continuer à utiliser Callsheet.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
@@ -327,6 +329,7 @@
       </trans-unit>
       <trans-unit id="Change what language Callsheet itself uses" xml:space="preserve">
         <source>Change what language Callsheet itself uses</source>
+        <target state="translated">Changer la langue utilisée par Callsheet</target>
         <note>Description for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
@@ -431,6 +434,7 @@
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
+        <target state="translated">Sombre</target>
         <note>Dark theme (other options are "light" and "system")</note>
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
@@ -552,6 +556,7 @@
       </trans-unit>
       <trans-unit id="Force Callsheet's theme, or use the system one." xml:space="preserve">
         <source>Force Callsheet's theme, or use the system one.</source>
+        <target state="translated">Forcez le thème de Callsheet ou utilisez celui du système.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
@@ -741,6 +746,7 @@
       </trans-unit>
       <trans-unit id="Light" xml:space="preserve">
         <source>Light</source>
+        <target state="translated">Lumière</target>
         <note>Light theme (other options are "system" and "dark")</note>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
@@ -1015,6 +1021,7 @@
       </trans-unit>
       <trans-unit id="Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet." xml:space="preserve">
         <source>Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet.</source>
+        <target state="translated">Veuillez résoudre votre problème de facturation dès que possible à l'aide de l'application App Store afin de continuer à utiliser Callsheet.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
@@ -1409,6 +1416,7 @@
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
         <source>System</source>
+        <target state="translated">Système</target>
         <note>System theme; this represents "the light/dark mode the device is in" (other options are always light and always dark)</note>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
@@ -1433,6 +1441,7 @@
       </trans-unit>
       <trans-unit id="Theme" xml:space="preserve">
         <source>Theme</source>
+        <target state="translated">Thème</target>
         <note>Persnickety Preference for light/dark/system theme</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
@@ -1623,6 +1632,7 @@
       </trans-unit>
       <trans-unit id="Your access to Callsheet will end on %@." xml:space="preserve">
         <source>Your access to Callsheet will end on %@.</source>
+        <target state="translated">Votre accès à Callsheet prendra fin le %@.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
@@ -1657,10 +1667,12 @@
       </trans-unit>
       <trans-unit id="Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
         <source>Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription.</source>
+        <target state="translated">Votre abonnement est expiré. Pour continuer à utiliser Callsheet, vous devrez souscrire un nouvel abonnement.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
         <source>Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</source>
+        <target state="translated">Votre abonnement a été remboursé ou résilié. Pour continuer à utiliser Callsheet, vous devrez souscrire un nouvel abonnement.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
