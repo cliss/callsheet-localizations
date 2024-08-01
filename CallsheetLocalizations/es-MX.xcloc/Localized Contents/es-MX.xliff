@@ -434,7 +434,7 @@
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
-        <target state="translated">Oscuro</target>
+        <target state="translated">Obscuro</target>
         <note>Dark theme (other options are "light" and "system")</note>
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
@@ -556,7 +556,7 @@
       </trans-unit>
       <trans-unit id="Force Callsheet's theme, or use the system one." xml:space="preserve">
         <source>Force Callsheet's theme, or use the system one.</source>
-        <target state="translated">Fuerce el tema de Callsheet o utilice el del sistema.</target>
+        <target state="translated">Forzar el tema de Callsheet o utilizar el del sistema.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
@@ -746,7 +746,7 @@
       </trans-unit>
       <trans-unit id="Light" xml:space="preserve">
         <source>Light</source>
-        <target state="translated">Luz</target>
+        <target state="translated">Claro</target>
         <note>Light theme (other options are "system" and "dark")</note>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
