@@ -18,7 +18,6 @@ Callsheet also has some novel features that your previous favorite database app 
 • Easily see the height of actors (when possible)
 • Dark mode support
 • VoiceOver support
-• Alternate app icons for subscribers
 • Automatic, no-login integration with the wonderful Channels app
 • Experimental, no-login integration with Plex
 

@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Flookup/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="th">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -29,7 +29,7 @@
   </file>
   <file original="Localizable.xcstrings" source-language="en" target-language="th" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
@@ -144,9 +144,17 @@
         <source>App Icon</source>
         <note/>
       </trans-unit>
+      <trans-unit id="App Language" xml:space="preserve">
+        <source>App Language</source>
+        <note>Title for the row in settings that allows you to set the app's language</note>
+      </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
         <source>Apple Keynote</source>
         <note>Example episode name shown in Spoiler Settings</note>
+      </trans-unit>
+      <trans-unit id="Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet." xml:space="preserve">
+        <source>Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
@@ -196,10 +204,6 @@
         <source>Buy</source>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Subscription"</note>
       </trans-unit>
-      <trans-unit id="Callsheet" xml:space="preserve">
-        <source>Callsheet</source>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="Callsheet Premium" xml:space="preserve">
         <source>Callsheet Premium</source>
         <note/>
@@ -232,6 +236,10 @@
         <source>Cast or Crew</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Change what language Callsheet itself uses" xml:space="preserve">
+        <source>Change what language Callsheet itself uses</source>
+        <note>Description for the row in settings that allows you to set the app's language</note>
+      </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
         <source>Choose New Subscription</source>
         <note/>
@@ -259,10 +267,6 @@
       <trans-unit id="Clear all" xml:space="preserve">
         <source>Clear all</source>
         <note>Shown when clearing recent searches or search history</note>
-      </trans-unit>
-      <trans-unit id="Click Me" xml:space="preserve">
-        <source>Click Me</source>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
@@ -367,10 +371,6 @@
       <trans-unit id="Episode Scores" xml:space="preserve">
         <source>Episode Scores</source>
         <note/>
-      </trans-unit>
-      <trans-unit id="Error: should not be able to reach settings from here." xml:space="preserve">
-        <source>Error: should not be able to reach settings from here.</source>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
         <source>Expired</source>
@@ -485,13 +485,9 @@
         <source>How seasons and episodes are sorted.</source>
         <note/>
       </trans-unit>
-      <trans-unit id="I'm in a popover" xml:space="preserve">
-        <source>I'm in a popover</source>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
         <source>Unlimited searches for a month. Auto-renews</source>
-        <note>Description for the monthly subscription in-app purchase</note>
+        <note>Description for the monthly subscription in-app purchase; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Display Name" xml:space="preserve">
         <source>Monthly</source>
@@ -499,11 +495,15 @@
       </trans-unit>
       <trans-unit id="IAP: Yearly Description" xml:space="preserve">
         <source>Access to Callsheet for 1 year. Auto-renews</source>
-        <note>Description for the annual subscription in-app purchase</note>
+        <note>Description for the annual subscription in-app purchase; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
         <source>Yearly Subscription</source>
         <note>Name of the annual subscription in-app purchase</note>
+      </trans-unit>
+      <trans-unit id="IAP: Yearly Max Description" xml:space="preserve">
+        <source>Show your added support!</source>
+        <note>Description for the medium-cost annual subscription; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
         <source>Yearly Max-Supporter</source>
@@ -511,7 +511,7 @@
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Description" xml:space="preserve">
         <source>Show your extreme support!</source>
-        <note>Description for the maximum-cost annual subscription</note>
+        <note>Description for the maximum-cost annual subscription; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Display Name" xml:space="preserve">
         <source>Yearly Ultra-Supporter</source>
@@ -545,13 +545,13 @@
         <source>Integrations</source>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
-      <trans-unit id="JustWatch" xml:space="preserve">
-        <source>JustWatch</source>
-        <note>Do not translate</note>
-      </trans-unit>
-      <trans-unit id="Known For" xml:space="preserve">
+      <trans-unit id="Known-For-People-Key" xml:space="preserve">
         <source>Known For</source>
-        <note/>
+        <note>Shown on the people screen; "Known For" in English</note>
+      </trans-unit>
+      <trans-unit id="Known-For-Settings-Key" xml:space="preserve">
+        <source>Known For</source>
+        <note>Shown as a header in Settings; "Known For" in English</note>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
         <source>Language Override</source>
@@ -772,6 +772,10 @@
       <trans-unit id="Plans:" xml:space="preserve">
         <source>Plans:</source>
         <note>In the context of different subscription/IAP plans</note>
+      </trans-unit>
+      <trans-unit id="Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet." xml:space="preserve">
+        <source>Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
         <source>Please send feedback to `hello@limitliss.co`</source>
@@ -1101,10 +1105,6 @@
         <source>Thank you for trying out Callsheet. 💙</source>
         <note/>
       </trans-unit>
-      <trans-unit id="The Movie Database" xml:space="preserve">
-        <source>The Movie Database</source>
-        <note>Do not translate</note>
-      </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
         <source>There is no watch information available for *%@*.</source>
         <note/>
@@ -1250,6 +1250,10 @@
 %2$@</source>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
+      <trans-unit id="Your access to Callsheet will end on %@." xml:space="preserve">
+        <source>Your access to Callsheet will end on %@.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
+      </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
         <source>Your favorite characters finally get married.</source>
         <note>A fake summary shown when demonstrating hiding spoilers</note>
@@ -1274,9 +1278,13 @@
         <source>Your subscription has expired; you must purchase a new subscription to use Callsheet.</source>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
-      <trans-unit id="`%@` is unimplemented" xml:space="preserve">
-        <source>`%@` is unimplemented</source>
-        <note>Do not translate</note>
+      <trans-unit id="Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
+        <source>Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
+      </trans-unit>
+      <trans-unit id="Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
+        <source>Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</source>
+        <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
         <source>per %@</source>
@@ -1297,10 +1305,6 @@
       <trans-unit id="years old" xml:space="preserve">
         <source>years old</source>
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
-      </trans-unit>
-      <trans-unit id="© 2023%@ Limitliss LLC" xml:space="preserve">
-        <source>© 2023%@ Limitliss LLC</source>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
         <source>🤝</source>

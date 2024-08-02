@@ -18,7 +18,6 @@ Callsheet bietet auch einige neuartige Funktionen, die deine bisherige Film-/Ser
 • Direkte Anzeige der Körpergröße der Schauspielenden (wenn möglich)
 • Unterstützt den Dunkelmodus
 • Unterstützt VoiceOver
-• Alternative App-Symbole für Abonnenten
 • Automatische Integration mit der wunderbaren Channels-App - keine Anmeldung erforderlich!
 • Experimentelle Integration mit Plex, ebenfalls ohne Anmeldung.
 

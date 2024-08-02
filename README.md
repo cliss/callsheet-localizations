@@ -8,22 +8,32 @@ There are two sections:
 
 ## Current Status
 
-As of [73b8912](https://github.com/cliss/callsheet-localizations/commit/73b891279675f59c37391c0b1439be3fc7889e8f):
+As of [8109812](https://github.com/cliss/callsheet-localizations/commit/8109812c1ba8351d5a4477404e341b4d5c347a10):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
-| English         | N/A         | ✔️              | [cliss](https://github.com/cliss) |
-| German          | 98%         | ✔️              |  [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
+| English ([Modern](https://en.wikipedia.org/wiki/United_States)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
+| English ([Traditional](https://en.wikipedia.org/wiki/United_Kingdom)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
+| English ([Simplified](https://en.wikipedia.org/wiki/Australia)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
+| German          | 100% :tada: | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
+| Dutch           | 100% :tada: | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
+| French (🇫🇷)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak), [sayrer](https://github.com/sayrer) |
+| Hebrew          | 100% :tada: | ✔️              | [orisraeli](https://github.com/orisraeli) |
+| Italian         | 100% :tada: | ✔️              | [cdf1982](https://github.com/cdf1982) |
+| Norwegian (Bokmål) |100% :tada: | ✔️              | [lognseth](https://github.com/lognseth) |
+| Portuguese (🇵🇹) | 100% :tada:  | ✔️              | [apfernandes](https://github.com/apfernandes), [sayrer](https://github.com/sayrer) |
+| Spanish (🇲🇽)    | 100% :tada: |                 | [ccavazos](https://github.com/ccavazos), [sayrer](https://github.com/sayrer) |
+| Spanish (🇪🇸)    | 100% :tada: | ✔️              | [unaiherran](https://github.com/unaiherran) |
+| Spanish (🌎)    | 100% :tada: |           | [ccavazos](https://github.com/ccavazos) |
+| Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
+| Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
 | Russian         | 98%         | ✔️              | [gkeep](https://github.com/gkeep) |
-| Dutch           | 97%         | ✔️              | [Deddiekoel](https://github.com/deddiekoel) |
-| Spanish         | 96%         | ✔️              |  [unaiherran](https://github.com/unaiherran) |
-| Ukrainian       | 94%         | ✔️              |  [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
-| Italian         | 93%         | ✔️              | [cdf1982](https://github.com/cdf1982) |
-| French          | 93%         |                 | [EricEEEEE](https://github.com/EricEEEEE) |
-| Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
-| Portuguese (🇵🇹) | 29%         |                 | [apfernandes](https://github.com/apfernandes) |
-| Polish          | 63%         |                 | [spitfire](https://github.com/spitfire) |
-| Japanese        | 21%         |                 | [kenroy](https://github.com/kenroy) |
+| Polish          | 96%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
+| French (🇨🇦)     | 96%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
+| Portuguese (🇧🇷) | 72%         |                 | [insidegui](https://github.com/insidegui) |
+| Japanese        | 60%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
+| Korean          | 48%         |                 | [EdogawaKun](https://github.com/EdogawaKun)
+| Danish          | 6%          |                 | [hanse00](https://github.com/hanse00) |
 
 [as]: https://github.com/cliss/callsheet-localizations/tree/main/AppStore
 
@@ -85,7 +95,7 @@ Here, the problem is that the gender of a person is ambiguous in translation to 
 
 Uses of [grammatical gender](https://blog.duolingo.com/what-is-grammatical-gender/) are fine. The trailing parts of the first example say "de la Photographie". That's in the feminine for both, because "photographie" has that grammatical gender.
 
-Other languages have [even more of these](https://blog.duolingo.com/german-gender-der-die-das/). 
+Other languages have [even more of these](https://blog.duolingo.com/german-gender-der-die-das/).
 
 **In general, where it's appropriate and doesn't sound clunky, please use your language's equivalent of "they"/"them" or a genderless word. If not possible, not appropriate, or it just sounds super funky, please choose a sensible default.**
 
