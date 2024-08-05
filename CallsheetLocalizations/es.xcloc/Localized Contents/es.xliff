@@ -434,7 +434,7 @@
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
-        <target state="translated">Obscuro</target>
+        <target state="translated">Oscuro</target>
         <note>Dark theme (other options are "light" and "system")</note>
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
