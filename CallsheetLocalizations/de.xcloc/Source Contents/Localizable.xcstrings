@@ -990,7 +990,7 @@
       "comment" : "Shown when trying to sell a subscription"
     },
     "Save" : {
-
+      "comment" : "As in, commit a pending change"
     },
     "Save %@" : {
       "comment" : "Encouraging users to save money by purchasing a yearly subscription — \"Save 17%\""

@@ -1301,7 +1301,7 @@
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
         <target state="translated">Zapisz</target>
-        <note/>
+        <note>As in, commit a pending change</note>
       </trans-unit>
       <trans-unit id="Save %@" xml:space="preserve">
         <source>Save %@</source>
