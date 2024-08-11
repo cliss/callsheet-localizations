@@ -555,7 +555,7 @@
       </trans-unit>
       <trans-unit id="Force Callsheet's theme, or use the system one." xml:space="preserve">
         <source>Force Callsheet's theme, or use the system one.</source>
-        <target state="translated">Force o tema do Callsheet, ou utilize o do sistema.</target>
+        <target state="translated">Force modo de apresentação a partir da aplicação Callsheet ou utilize as definições de sistema</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
@@ -660,7 +660,7 @@
       </trans-unit>
       <trans-unit id="IAP: Yearly Description" xml:space="preserve">
         <source>Access to Callsheet for 1 year. Auto-renews</source>
-        <target state="translated">Aceder a Callsheet durante 1 ano. Renova automaticamente</target>
+        <target state="translated">Aceder à aplicação Callsheet durante 1 ano. Renova automaticamente</target>
         <note>Description for the annual subscription in-app purchase; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
@@ -740,7 +740,7 @@
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
         <source>Learn about the people behind Callsheet.</source>
-        <target state="translated">Saber mais sobre as pessoas por detrás do Callsheet</target>
+        <target state="translated">Saber mais sobre as pessoas por detrás da aplicação Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Light" xml:space="preserve">
@@ -1125,7 +1125,7 @@
       </trans-unit>
       <trans-unit id="Rate this version of Callsheet" xml:space="preserve">
         <source>Rate this version of Callsheet</source>
-        <target state="translated">Classifique esta versão do Callsheet</target>
+        <target state="translated">Classifique esta versão da aplicação Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rating" xml:space="preserve">
@@ -1632,7 +1632,7 @@
       </trans-unit>
       <trans-unit id="Your access to Callsheet will end on %@." xml:space="preserve">
         <source>Your access to Callsheet will end on %@.</source>
-        <target state="translated">O seu acesso ao Callsheet terminará em %@.</target>
+        <target state="translated">O seu acesso à aplicação Callsheet terminará em %@.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
@@ -1667,7 +1667,7 @@
       </trans-unit>
       <trans-unit id="Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
         <source>Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription.</source>
-        <target state="translated">A sua assinatura expirou. Para continuar a utilizar o Callsheet, terá de iniciar uma nova subscrição.</target>
+        <target state="translated">A sua assinatura expirou. Para continuar a utilizar a aplicação Callsheet, terá de iniciar uma novas subscrição</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
