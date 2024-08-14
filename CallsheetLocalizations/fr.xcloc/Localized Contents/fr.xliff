@@ -1621,7 +1621,7 @@
       </trans-unit>
       <trans-unit id="You must have a subscription to use the app." xml:space="preserve">
         <source>You must have a subscription to use the app.</source>
-        <target state="translated">Un abonnement est nécessaire pour utiliser l'app.</target>
+        <target state="translated">Il faut s'abonner pour utiliser l'app</target>
         <note>Shown in Settings as a subtitle if you haven't purchased the app</note>
       </trans-unit>
       <trans-unit id="Your %@ will expire on&#10;%@" xml:space="preserve">
