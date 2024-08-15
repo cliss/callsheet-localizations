@@ -284,6 +284,9 @@
     "Average runtime" : {
       "comment" : "How long episodes run in a single season of TV"
     },
+    "Awards" : {
+      "comment" : "Quick access link; awards that a film or show has won"
+    },
     "Be a hero and support independent apps" : {
       "comment" : "Shown when trying to sell a subscription"
     },

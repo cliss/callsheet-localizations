@@ -307,6 +307,11 @@
         <target state="translated">Средняя длина</target>
         <note>How long episodes run in a single season of TV</note>
       </trans-unit>
+      <trans-unit id="Awards" xml:space="preserve">
+        <source>Awards</source>
+        <target state="translated">Награды</target>
+        <note>Quick access link; awards that a film or show has won</note>
+      </trans-unit>
       <trans-unit id="Be a hero and support independent apps" xml:space="preserve">
         <source>Be a hero and support independent apps</source>
         <target state="translated">Будте героем и поддержите независимые приложения</target>
