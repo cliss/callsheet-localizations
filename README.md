@@ -23,12 +23,12 @@ As of [635cc3a](https://github.com/cliss/callsheet-localizations/commit/635cc3aa
 | Italian         | 100% :tada: | ✔️              | [cdf1982](https://github.com/cdf1982) |
 | Norwegian (Bokmål) |100% :tada: | ✔️              | [lognseth](https://github.com/lognseth) |
 | Portuguese (🇵🇹) | 100% :tada:  | ✔️              | [apfernandes](https://github.com/apfernandes), [sayrer](https://github.com/sayrer) |
+| Russian         | 100% :tada:  | ✔️              | [gkeep](https://github.com/gkeep), ChatGPT-4.o |
 | Spanish (🇲🇽)    | 100% :tada: |                 | [ccavazos](https://github.com/ccavazos), [sayrer](https://github.com/sayrer) |
 | Spanish (🇪🇸)    | 100% :tada: | ✔️              | [unaiherran](https://github.com/unaiherran) |
 | Spanish (🌎)    | 100% :tada: |           | [ccavazos](https://github.com/ccavazos) |
 | Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
-| Russian         | 98%         | ✔️              | [gkeep](https://github.com/gkeep) |
 | Polish          | 96%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
 | Portuguese (🇧🇷) | 72%         |                 | [insidegui](https://github.com/insidegui) |
 | Japanese        | 60%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
