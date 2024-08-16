@@ -641,7 +641,7 @@
       "comment" : "Shown in a semi-hidden debugging view"
     },
     "In-App Browser" : {
-      "comment" : "Which browser to use for web links (the other option is \"Safari\")"
+      "comment" : "Which browser to use for web links (the other option is \"System Default\")"
     },
     "In-Credits Bonus Scenes" : {
 
@@ -986,9 +986,6 @@
     "Runtime" : {
       "comment" : "Heading for the total runtime of a TV episode"
     },
-    "Safari" : {
-      "comment" : "Which browser to use for web links (the other option is \"In-App Browser\")"
-    },
     "Same perks as all other plans" : {
       "comment" : "Shown when trying to sell a subscription"
     },
@@ -1115,6 +1112,9 @@
     },
     "System" : {
       "comment" : "System theme; this represents \"the light/dark mode the device is in\" (other options are always light and always dark)"
+    },
+    "System Default" : {
+      "comment" : "Which browser to use for web links (the other option is \"In-App Browser\")"
     },
     "Technical Details" : {
       "comment" : "Quick access link"

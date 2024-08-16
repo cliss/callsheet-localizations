@@ -673,7 +673,7 @@
       </trans-unit>
       <trans-unit id="In-App Browser" xml:space="preserve">
         <source>In-App Browser</source>
-        <note>Which browser to use for web links (the other option is "Safari")</note>
+        <note>Which browser to use for web links (the other option is "System Default")</note>
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
         <source>In-Credits Bonus Scenes</source>
@@ -1155,10 +1155,6 @@
         <target state="translated">Duração</target>
         <note>Heading for the total runtime of a TV episode</note>
       </trans-unit>
-      <trans-unit id="Safari" xml:space="preserve">
-        <source>Safari</source>
-        <note>Which browser to use for web links (the other option is "In-App Browser")</note>
-      </trans-unit>
       <trans-unit id="Same perks as all other plans" xml:space="preserve">
         <source>Same perks as all other plans</source>
         <target state="translated">Mesmos benefícios dos outros planos</target>
@@ -1349,6 +1345,11 @@
       <trans-unit id="System" xml:space="preserve">
         <source>System</source>
         <note>System theme; this represents "the light/dark mode the device is in" (other options are always light and always dark)</note>
+      </trans-unit>
+      <trans-unit id="System Default" xml:space="preserve">
+        <source>System Default</source>
+        <target state="translated">Padrão do sistema</target>
+        <note>Which browser to use for web links (the other option is "In-App Browser")</note>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
         <source>TV Shows</source>

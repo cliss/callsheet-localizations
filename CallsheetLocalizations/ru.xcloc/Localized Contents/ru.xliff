@@ -504,6 +504,7 @@
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
+        <target state="translated">Тёмный</target>
         <note>Dark theme (other options are "light" and "system")</note>
       </trans-unit>
       <trans-unit id="Data provided by The Movie Database" xml:space="preserve">
@@ -624,6 +625,7 @@
       </trans-unit>
       <trans-unit id="Force Callsheet's theme, or use the system one." xml:space="preserve">
         <source>Force Callsheet's theme, or use the system one.</source>
+        <target state="translated">Принудительно использовать тему Callsheet или систему.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
@@ -779,7 +781,7 @@
       <trans-unit id="In-App Browser" xml:space="preserve">
         <source>In-App Browser</source>
         <target state="translated">В приложении</target>
-        <note>Which browser to use for web links (the other option is "Safari")</note>
+        <note>Which browser to use for web links (the other option is "System Default")</note>
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
         <source>In-Credits Bonus Scenes</source>
@@ -813,6 +815,7 @@
       </trans-unit>
       <trans-unit id="Light" xml:space="preserve">
         <source>Light</source>
+        <target state="translated">Светлый</target>
         <note>Light theme (other options are "system" and "dark")</note>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
@@ -1290,11 +1293,6 @@
         <target state="translated">Длина</target>
         <note>Heading for the total runtime of a TV episode</note>
       </trans-unit>
-      <trans-unit id="Safari" xml:space="preserve">
-        <source>Safari</source>
-        <target state="translated">Safari</target>
-        <note>Which browser to use for web links (the other option is "In-App Browser")</note>
-      </trans-unit>
       <trans-unit id="Same perks as all other plans" xml:space="preserve">
         <source>Same perks as all other plans</source>
         <target state="translated">Те же преимущества, что и в других планах</target>
@@ -1492,7 +1490,13 @@
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
         <source>System</source>
+        <target state="translated">Системный</target>
         <note>System theme; this represents "the light/dark mode the device is in" (other options are always light and always dark)</note>
+      </trans-unit>
+      <trans-unit id="System Default" xml:space="preserve">
+        <source>System Default</source>
+        <target state="translated">Системный по умолчанию</target>
+        <note>Which browser to use for web links (the other option is "In-App Browser")</note>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
         <source>TV Shows</source>
@@ -1516,6 +1520,7 @@
       </trans-unit>
       <trans-unit id="Theme" xml:space="preserve">
         <source>Theme</source>
+        <target state="translated">Тема</target>
         <note>Persnickety Preference for light/dark/system theme</note>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
