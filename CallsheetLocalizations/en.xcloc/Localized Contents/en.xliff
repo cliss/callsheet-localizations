@@ -1746,11 +1746,6 @@
         <target state="new">years old</target>
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
       </trans-unit>
-      <trans-unit id="🎭" xml:space="preserve">
-        <source>🎭</source>
-        <target state="new">🎭</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
         <source>🤝</source>
         <target state="new">🤝</target>
