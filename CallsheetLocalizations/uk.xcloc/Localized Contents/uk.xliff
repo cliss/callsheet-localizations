@@ -272,10 +272,18 @@
         <target state="translated">Усі</target>
         <note/>
       </trans-unit>
+      <trans-unit id="All Jobs" xml:space="preserve">
+        <source>All Jobs</source>
+        <note>When viewing a person, show their movie &amp; TV crew jobs</note>
+      </trans-unit>
       <trans-unit id="All Messages" xml:space="preserve">
         <source>All Messages</source>
         <target state="translated">Усі повідомлення</target>
         <note>Shown in the context of a semi-hidden debugging screen.</note>
+      </trans-unit>
+      <trans-unit id="All Roles" xml:space="preserve">
+        <source>All Roles</source>
+        <note>When viewing a person, show their movie &amp; TV acting roles</note>
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
         <source>App Icon</source>
@@ -397,10 +405,9 @@
         <target state="translated">Актори</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Cast or Crew" xml:space="preserve">
-        <source>Cast or Crew</source>
-        <target state="translated">Актори або знімальна група</target>
-        <note/>
+      <trans-unit id="Cast Options" xml:space="preserve">
+        <source>Cast Options</source>
+        <note>Accessibility title of the menu item for all/movie/TV cast selection</note>
       </trans-unit>
       <trans-unit id="Change what language Callsheet itself uses" xml:space="preserve">
         <source>Change what language Callsheet itself uses</source>
@@ -496,6 +503,10 @@
         <source>Crew</source>
         <target state="translated">Знімальна група</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Crew Options" xml:space="preserve">
+        <source>Crew Options</source>
+        <note>Accessibility title of the menu item for all/movie/TV crew selection</note>
       </trans-unit>
       <trans-unit id="Current Location" xml:space="preserve">
         <source>Current Location</source>
@@ -601,6 +612,14 @@
         <source>Feedback emails are lovely to read!</source>
         <target state="translated">Листи з відгуками приємно читати!</target>
         <note>Shown in Settings to try to get users to rate the app</note>
+      </trans-unit>
+      <trans-unit id="Film Jobs" xml:space="preserve">
+        <source>Film Jobs</source>
+        <note>When viewing a person, show only their movie crew jobs</note>
+      </trans-unit>
+      <trans-unit id="Film Roles" xml:space="preserve">
+        <source>Film Roles</source>
+        <note>When viewing a person, show only their movie acting roles</note>
       </trans-unit>
       <trans-unit id="Find a way to watch in:" xml:space="preserve">
         <source>Find a way to watch in:</source>
@@ -894,15 +913,13 @@
         <target state="translated">Фільми з</target>
         <note>Title for cast union view</note>
       </trans-unit>
-      <trans-unit id="Name or job" xml:space="preserve">
-        <source>Name or job</source>
-        <target state="translated">Імʼя або робота</target>
-        <note>Crew search prompt</note>
+      <trans-unit id="Name or job in %@" xml:space="preserve">
+        <source>Name or job in %@</source>
+        <note>Crew search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
-      <trans-unit id="Name or role" xml:space="preserve">
-        <source>Name or role</source>
-        <target state="translated">Проєкт або роль</target>
-        <note>Cast search prompt</note>
+      <trans-unit id="Name or role in %@" xml:space="preserve">
+        <source>Name or role in %@</source>
+        <note>Cast search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
       <trans-unit id="New Episodes" xml:space="preserve">
         <source>New Episodes</source>
@@ -1008,6 +1025,10 @@
         <source>Oldest First</source>
         <target state="translated">Спочатку старе</target>
         <note>When setting sort order</note>
+      </trans-unit>
+      <trans-unit id="Open in browser" xml:space="preserve">
+        <source>Open in browser</source>
+        <note>Shown on the share menu to open the active screen on the web</note>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
         <source>Optionally, you can choose to help more.</source>
@@ -1364,19 +1385,9 @@
         <target state="translated">Поділитися</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Share Callsheet link" xml:space="preserve">
-        <source>Share Callsheet link</source>
-        <target state="translated">Поділитися посиланням на Callsheet</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Share Callsheet link…" xml:space="preserve">
         <source>Share Callsheet link…</source>
         <target state="translated">Поділитися посиланням на Callsheet…</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Share web link" xml:space="preserve">
-        <source>Share web link</source>
-        <target state="translated">Поділитися веб-посиланням</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share web link…" xml:space="preserve">
@@ -1504,6 +1515,14 @@
         <target state="translated">Системний за замовчуванням</target>
         <note>Which browser to use for web links (the other option is "In-App Browser")</note>
       </trans-unit>
+      <trans-unit id="TV Jobs" xml:space="preserve">
+        <source>TV Jobs</source>
+        <note>When viewing a pesron, show only their TV crew jobs</note>
+      </trans-unit>
+      <trans-unit id="TV Roles" xml:space="preserve">
+        <source>TV Roles</source>
+        <note>When viewing a person, show only their TV acting roles</note>
+      </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
         <source>TV Shows</source>
         <target state="translated">Серіали</target>
@@ -1548,6 +1567,14 @@
         <source>Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:</source>
         <target state="translated">Хоча я написав Callsheet, це не було б можливим без зусилль усіх цих людей:</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Title or job" xml:space="preserve">
+        <source>Title or job</source>
+        <note>Crew search prompt in the context of a single person (not a movie/show/etc)</note>
+      </trans-unit>
+      <trans-unit id="Title or role" xml:space="preserve">
+        <source>Title or role</source>
+        <note>Cast search prompt in the context of a single person (not a movie/show/etc)</note>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source>
@@ -1795,6 +1822,10 @@
         <source>years old</source>
         <target state="translated">років</target>
         <note>Shown as a header for a year in a person's filmography; "52 - 53 years old</note>
+      </trans-unit>
+      <trans-unit id="🎭" xml:space="preserve">
+        <source>🎭</source>
+        <note/>
       </trans-unit>
       <trans-unit id="🤝" xml:space="preserve">
         <source>🤝</source>

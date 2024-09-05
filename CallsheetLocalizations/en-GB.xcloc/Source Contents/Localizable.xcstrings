@@ -210,6 +210,9 @@
         }
       }
     },
+    "🎭" : {
+      "extractionState" : "stale"
+    },
     "🤝" : {
 
     },
@@ -260,8 +263,14 @@
     "All" : {
 
     },
+    "All Jobs" : {
+      "comment" : "When viewing a person, show their movie & TV crew jobs"
+    },
     "All Messages" : {
       "comment" : "Shown in the context of a semi-hidden debugging screen."
+    },
+    "All Roles" : {
+      "comment" : "When viewing a person, show their movie & TV acting roles"
     },
     "App Icon" : {
 
@@ -335,8 +344,8 @@
     "Cast" : {
 
     },
-    "Cast or Crew" : {
-
+    "Cast Options" : {
+      "comment" : "Accessibility title of the menu item for all/movie/TV cast selection"
     },
     "Change what language Callsheet itself uses" : {
       "comment" : "Description for the row in settings that allows you to set the app's language"
@@ -395,6 +404,9 @@
     },
     "Crew" : {
 
+    },
+    "Crew Options" : {
+      "comment" : "Accessibility title of the menu item for all/movie/TV crew selection"
     },
     "Current Location" : {
       "comment" : "Shown in Where to Watch if the current locale can't be found"
@@ -459,6 +471,12 @@
     "Feedback emails are lovely to read!" : {
       "comment" : "Shown in Settings to try to get users to rate the app",
       "extractionState" : "manual"
+    },
+    "Film Jobs" : {
+      "comment" : "When viewing a person, show only their movie crew jobs"
+    },
+    "Film Roles" : {
+      "comment" : "When viewing a person, show only their movie acting roles"
     },
     "Find a way to watch in:" : {
       "comment" : "Shown when choosing a country to use for Where to Watch (long version)"
@@ -722,11 +740,11 @@
     "Movies featuring" : {
       "comment" : "Title for cast union view"
     },
-    "Name or job" : {
-      "comment" : "Crew search prompt"
+    "Name or job in %@" : {
+      "comment" : "Crew search prompt; I'll replace \"%@\" with the name of the media in question, so for the translation, please include \"%@\" where appropriate."
     },
-    "Name or role" : {
-      "comment" : "Cast search prompt"
+    "Name or role in %@" : {
+      "comment" : "Cast search prompt; I'll replace \"%@\" with the name of the media in question, so for the translation, please include \"%@\" where appropriate."
     },
     "New Episodes" : {
 
@@ -790,6 +808,9 @@
     },
     "Oldest First" : {
       "comment" : "When setting sort order"
+    },
+    "Open in browser" : {
+      "comment" : "Shown on the share menu to open the active screen on the web"
     },
     "Optionally, you can choose to help more." : {
       "comment" : "Shown when trying to upsell the user on expensive subscriptions"
@@ -1032,13 +1053,7 @@
     "Share" : {
 
     },
-    "Share Callsheet link" : {
-
-    },
     "Share Callsheet link…" : {
-
-    },
-    "Share web link" : {
 
     },
     "Share web link…" : {
@@ -1140,6 +1155,12 @@
     "Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:" : {
 
     },
+    "Title or job" : {
+      "comment" : "Crew search prompt in the context of a single person (not a movie/show/etc)"
+    },
+    "Title or role" : {
+      "comment" : "Cast search prompt in the context of a single person (not a movie/show/etc)"
+    },
     "Title, cast, or crew" : {
       "comment" : "Main search prompt on the bottom bar!"
     },
@@ -1154,6 +1175,12 @@
     },
     "Trivia" : {
       "comment" : "Quick access link"
+    },
+    "TV Jobs" : {
+      "comment" : "When viewing a pesron, show only their TV crew jobs"
+    },
+    "TV Roles" : {
+      "comment" : "When viewing a person, show only their TV acting roles"
     },
     "TV Shows" : {
       "comment" : "On cast list, display movies, shows, or movies & shows"
