@@ -16,22 +16,21 @@ As of [635cc3a](https://github.com/cliss/callsheet-localizations/commit/635cc3aa
 | English ([Traditional](https://en.wikipedia.org/wiki/United_Kingdom)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
 | English ([Simplified](https://en.wikipedia.org/wiki/Australia)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
 | Dutch           | 100% :tada: | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
-| French (🇫🇷)     | 96% |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak), [sayrer]
-(https://github.com/sayrer) |
-| French (🇨🇦)     | 96%  |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
-| German          | 96% | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
-| Hebrew          | 96% | ✔️              | [orisraeli](https://github.com/orisraeli) |
-| Italian         | 96% | ✔️              | [cdf1982](https://github.com/cdf1982) |
-| Norwegian (Bokmål) | 96% | ✔️              | [lognseth](https://github.com/lognseth) |
-| Portuguese (🇵🇹) | 96%  | ✔️              | [apfernandes](https://github.com/apfernandes), [sayrer](https://github.com/sayrer) |
-| Russian         | 96%  | ✔️              | [gkeep](https://github.com/gkeep), ChatGPT-4.o |
-| Spanish (🇲🇽)    | 96% |                 | [ccavazos](https://github.com/ccavazos), [sayrer](https://github.com/sayrer) |
-| Spanish (🇪🇸)    | 96% | ✔️              | [unaiherran](https://github.com/unaiherran) |
-| Spanish (🌎)    | 96% |           | [ccavazos](https://github.com/ccavazos) |
-| Swedish         | 96% | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
-| Ukrainian       | 96% | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
-| Polish          | 93%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
-| Portuguese (🇧🇷) | 68%         |                 | [insidegui](https://github.com/insidegui) |
+| French (🇫🇷)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak), [sayrer](https://github.com/sayrer) |
+| French (🇨🇦)     | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
+| German          | 100% :tada: | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
+| Hebrew          | 100% :tada: | ✔️              | [orisraeli](https://github.com/orisraeli) |
+| Italian         | 100% :tada: | ✔️              | [cdf1982](https://github.com/cdf1982) |
+| Norwegian (Bokmål) | 100% :tada: | ✔️              | [lognseth](https://github.com/lognseth) |
+| Portuguese (🇵🇹) | 100% :tada: | ✔️              | [apfernandes](https://github.com/apfernandes), [sayrer](https://github.com/sayrer) |
+| Russian         | 100% :tada: | ✔️              | [gkeep](https://github.com/gkeep), ChatGPT-4.o |
+| Spanish (🇲🇽)    | 100% :tada: |                 | [ccavazos](https://github.com/ccavazos), [sayrer](https://github.com/sayrer) |
+| Spanish (🇪🇸)    | 100% :tada: | ✔️              | [unaiherran](https://github.com/unaiherran) |
+| Spanish (🌎)    | 100% :tada: |           | [ccavazos](https://github.com/ccavazos) |
+| Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
+| Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
+| Polish          | 100% :tada: |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
+| Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
 | Japanese        | 58%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
 | Korean          | 46%         |                 | [EdogawaKun](https://github.com/EdogawaKun)
 | Danish          | 5%          |                 | [hanse00](https://github.com/hanse00) |
