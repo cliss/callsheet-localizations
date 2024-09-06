@@ -204,7 +204,7 @@
       </trans-unit>
       <trans-unit id="All Jobs" xml:space="preserve">
         <source>All Jobs</source>
-        <target>Alle taken</target>
+        <target state="translated">Alle taken</target>
         <note>When viewing a person, show their movie &amp; TV crew jobs</note>
       </trans-unit>
       <trans-unit id="All Messages" xml:space="preserve">
@@ -214,7 +214,7 @@
       </trans-unit>
       <trans-unit id="All Roles" xml:space="preserve">
         <source>All Roles</source>
-        <target>Alle rollen</target>
+        <target state="translated">Alle rollen</target>
         <note>When viewing a person, show their movie &amp; TV acting roles</note>
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
@@ -339,7 +339,7 @@
       </trans-unit>
       <trans-unit id="Cast Options" xml:space="preserve">
         <source>Cast Options</source>
-        <target>Castopties</target>
+        <target state="translated">Castopties</target>
         <note>Accessibility title of the menu item for all/movie/TV cast selection</note>
       </trans-unit>
       <trans-unit id="Change what language Callsheet itself uses" xml:space="preserve">
@@ -439,7 +439,7 @@
       </trans-unit>
       <trans-unit id="Crew Options" xml:space="preserve">
         <source>Crew Options</source>
-        <target>Crewopties</target>
+        <target state="translated">Crewopties</target>
         <note>Accessibility title of the menu item for all/movie/TV crew selection</note>
       </trans-unit>
       <trans-unit id="Current Location" xml:space="preserve">
@@ -549,12 +549,12 @@
       </trans-unit>
       <trans-unit id="Film Jobs" xml:space="preserve">
         <source>Film Jobs</source>
-        <target>Filmtaken</target>
+        <target state="translated">Filmtaken</target>
         <note>When viewing a person, show only their movie crew jobs</note>
       </trans-unit>
       <trans-unit id="Film Roles" xml:space="preserve">
         <source>Film Roles</source>
-        <target>Filmrollen</target>
+        <target state="translated">Filmrollen</target>
         <note>When viewing a person, show only their movie acting roles</note>
       </trans-unit>
       <trans-unit id="Find a way to watch in:" xml:space="preserve">
@@ -851,12 +851,12 @@
       </trans-unit>
       <trans-unit id="Name or job in %@" xml:space="preserve">
         <source>Name or job in %@</source>
-        <target>Naam of taak in %@</target>
+        <target state="translated">Naam of taak in %@</target>
         <note>Crew search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
       <trans-unit id="Name or role in %@" xml:space="preserve">
         <source>Name or role in %@</source>
-        <target>Naam of rol in %@</target>
+        <target state="translated">Naam of rol in %@</target>
         <note>Cast search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
       <trans-unit id="New Episodes" xml:space="preserve">
@@ -966,7 +966,7 @@
       </trans-unit>
       <trans-unit id="Open in browser" xml:space="preserve">
         <source>Open in browser</source>
-        <target>Open in browser</target>
+        <target state="translated">Open in browser</target>
         <note>Shown on the share menu to open the active screen on the web</note>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
@@ -1446,12 +1446,12 @@
       </trans-unit>
       <trans-unit id="TV Jobs" xml:space="preserve">
         <source>TV Jobs</source>
-        <target>TV-taken</target>
+        <target state="translated">TV-taken</target>
         <note>When viewing a pesron, show only their TV crew jobs</note>
       </trans-unit>
       <trans-unit id="TV Roles" xml:space="preserve">
         <source>TV Roles</source>
-        <target>TV-rollen</target>
+        <target state="translated">TV-rollen</target>
         <note>When viewing a person, show only their TV acting roles</note>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
@@ -1501,12 +1501,12 @@
       </trans-unit>
       <trans-unit id="Title or job" xml:space="preserve">
         <source>Title or job</source>
-        <target>Titel of taak</target>
+        <target state="translated">Titel of taak</target>
         <note>Crew search prompt in the context of a single person (not a movie/show/etc)</note>
       </trans-unit>
       <trans-unit id="Title or role" xml:space="preserve">
         <source>Title or role</source>
-        <target>Titel of rol</target>
+        <target state="translated">Titel of rol</target>
         <note>Cast search prompt in the context of a single person (not a movie/show/etc)</note>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">

@@ -274,6 +274,7 @@
       </trans-unit>
       <trans-unit id="All Jobs" xml:space="preserve">
         <source>All Jobs</source>
+        <target state="translated">Усі роботи</target>
         <note>When viewing a person, show their movie &amp; TV crew jobs</note>
       </trans-unit>
       <trans-unit id="All Messages" xml:space="preserve">
@@ -283,6 +284,7 @@
       </trans-unit>
       <trans-unit id="All Roles" xml:space="preserve">
         <source>All Roles</source>
+        <target state="translated">Усі ролі</target>
         <note>When viewing a person, show their movie &amp; TV acting roles</note>
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
@@ -407,6 +409,7 @@
       </trans-unit>
       <trans-unit id="Cast Options" xml:space="preserve">
         <source>Cast Options</source>
+        <target state="translated">Параметри акторського складу</target>
         <note>Accessibility title of the menu item for all/movie/TV cast selection</note>
       </trans-unit>
       <trans-unit id="Change what language Callsheet itself uses" xml:space="preserve">
@@ -506,6 +509,7 @@
       </trans-unit>
       <trans-unit id="Crew Options" xml:space="preserve">
         <source>Crew Options</source>
+        <target state="translated">Параметри знімальної групи</target>
         <note>Accessibility title of the menu item for all/movie/TV crew selection</note>
       </trans-unit>
       <trans-unit id="Current Location" xml:space="preserve">
@@ -615,10 +619,12 @@
       </trans-unit>
       <trans-unit id="Film Jobs" xml:space="preserve">
         <source>Film Jobs</source>
+        <target state="translated">Роботи в кіно</target>
         <note>When viewing a person, show only their movie crew jobs</note>
       </trans-unit>
       <trans-unit id="Film Roles" xml:space="preserve">
         <source>Film Roles</source>
+        <target state="translated">Ролі в кіно</target>
         <note>When viewing a person, show only their movie acting roles</note>
       </trans-unit>
       <trans-unit id="Find a way to watch in:" xml:space="preserve">
@@ -915,10 +921,12 @@
       </trans-unit>
       <trans-unit id="Name or job in %@" xml:space="preserve">
         <source>Name or job in %@</source>
+        <target state="translated">Ім'я або робота в %@</target>
         <note>Crew search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
       <trans-unit id="Name or role in %@" xml:space="preserve">
         <source>Name or role in %@</source>
+        <target state="translated">Ім'я або роль в %@</target>
         <note>Cast search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
       <trans-unit id="New Episodes" xml:space="preserve">
@@ -1028,6 +1036,7 @@
       </trans-unit>
       <trans-unit id="Open in browser" xml:space="preserve">
         <source>Open in browser</source>
+        <target state="translated">Відкрити у браузері</target>
         <note>Shown on the share menu to open the active screen on the web</note>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
@@ -1517,10 +1526,12 @@
       </trans-unit>
       <trans-unit id="TV Jobs" xml:space="preserve">
         <source>TV Jobs</source>
+        <target state="translated">Роботи на телебаченні</target>
         <note>When viewing a pesron, show only their TV crew jobs</note>
       </trans-unit>
       <trans-unit id="TV Roles" xml:space="preserve">
         <source>TV Roles</source>
+        <target state="translated">Ролі на телебаченні</target>
         <note>When viewing a person, show only their TV acting roles</note>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
@@ -1570,10 +1581,12 @@
       </trans-unit>
       <trans-unit id="Title or job" xml:space="preserve">
         <source>Title or job</source>
+        <target state="translated">Назва або робота</target>
         <note>Crew search prompt in the context of a single person (not a movie/show/etc)</note>
       </trans-unit>
       <trans-unit id="Title or role" xml:space="preserve">
         <source>Title or role</source>
+        <target state="translated">Назва або роль</target>
         <note>Cast search prompt in the context of a single person (not a movie/show/etc)</note>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
