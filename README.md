@@ -15,7 +15,7 @@ As of [635cc3a](https://github.com/cliss/callsheet-localizations/commit/635cc3aa
 | English ([Modern](https://en.wikipedia.org/wiki/United_States)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
 | English ([Traditional](https://en.wikipedia.org/wiki/United_Kingdom)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
 | English ([Simplified](https://en.wikipedia.org/wiki/Australia)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
-| Dutch           | 96% | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
+| Dutch           | 100% :tada: | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
 | French (🇫🇷)     | 96% |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak), [sayrer]
 (https://github.com/sayrer) |
 | French (🇨🇦)     | 96%  |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
