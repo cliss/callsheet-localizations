@@ -1,8 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Flookup/en.lproj/AppShortcuts.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+    </header>
+    <body>
+      <trans-unit id="Open ${applicationName} favorites" xml:space="preserve">
+        <source>Open ${applicationName} favorites</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open ${applicationName} pins" xml:space="preserve">
+        <source>Open ${applicationName} pins</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open ${applicationName} recent search" xml:space="preserve">
+        <source>Open ${applicationName} recent search</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open my most recent search in ${applicationName}" xml:space="preserve">
+        <source>Open my most recent search in ${applicationName}</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open recent search in ${applicationName}" xml:space="preserve">
+        <source>Open recent search in ${applicationName}</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open saved items in ${applicationName}" xml:space="preserve">
+        <source>Open saved items in ${applicationName}</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search ${applicationName}" xml:space="preserve">
+        <source>Search ${applicationName}</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show ${applicationName} recent search" xml:space="preserve">
+        <source>Show ${applicationName} recent search</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show my most recent search in ${applicationName}" xml:space="preserve">
+        <source>Show my most recent search in ${applicationName}</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show recent search in ${applicationName}" xml:space="preserve">
+        <source>Show recent search in ${applicationName}</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Flookup/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ru">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -29,7 +76,7 @@
   </file>
   <file original="Localizable.xcstrings" source-language="en" target-language="ru" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
@@ -50,7 +97,7 @@
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
         <target state="translated">%@</target>
-        <note/>
+        <note>Product display price</note>
       </trans-unit>
       <trans-unit id="%@ (%@)" xml:space="preserve">
         <source>%1$@ (%2$@)</source>
@@ -476,16 +523,6 @@
         <source>Copy e-mail address</source>
         <target state="translated">Скопировать e-mail адрес</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Could not load static JSON" xml:space="preserve">
-        <source>Could not load static JSON</source>
-        <target state="translated">Could not load static JSON</target>
-        <note>Do not translate</note>
-      </trans-unit>
-      <trans-unit id="Could not parse static JSON" xml:space="preserve">
-        <source>Could not parse static JSON</source>
-        <target state="translated">Could not parse static JSON</target>
-        <note>Do not translate</note>
       </trans-unit>
       <trans-unit id="Credits" xml:space="preserve">
         <source>Credits</source>
@@ -1028,10 +1065,22 @@
         <target state="translated">Сначала старые</target>
         <note>When setting sort order</note>
       </trans-unit>
+      <trans-unit id="Open Pinned Items" xml:space="preserve">
+        <source>Open Pinned Items</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Pins" xml:space="preserve">
+        <source>Open Pins</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Open in browser" xml:space="preserve">
         <source>Open in browser</source>
         <target state="translated">Открыть в браузере</target>
         <note>Shown on the share menu to open the active screen on the web</note>
+      </trans-unit>
+      <trans-unit id="Open the list of your pinned items" xml:space="preserve">
+        <source>Open the list of your pinned items</source>
+        <note/>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
         <source>Optionally, you can choose to help more.</source>
@@ -1156,7 +1205,7 @@
       <trans-unit id="Portrait" xml:space="preserve">
         <source>Portrait</source>
         <target state="translated">Портрет</target>
-        <note/>
+        <note>Shown in an accessibility label</note>
       </trans-unit>
       <trans-unit id="Post-credits" xml:space="preserve">
         <source>Post-credits</source>
@@ -1177,11 +1226,6 @@
         <source>Preview</source>
         <target state="translated">Просмотреть</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Preview Title" xml:space="preserve">
-        <source>Preview Title</source>
-        <target state="translated">Preview Title</target>
-        <note>Do not localize</note>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
         <source>Privacy Policy</source>
@@ -1243,6 +1287,10 @@
         <target state="translated">Рейтинг</target>
         <note>A content rating like G/PG/PG-13/R</note>
       </trans-unit>
+      <trans-unit id="Recent Search" xml:space="preserve">
+        <source>Recent Search</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">
         <source>Recent Searches</source>
         <target state="translated">Недавние поиски</target>
@@ -1287,6 +1335,14 @@
         <source>Rent</source>
         <target state="translated">Арендовать</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Buy", "Subscription"</note>
+      </trans-unit>
+      <trans-unit id="Repeat Search" xml:space="preserve">
+        <source>Repeat Search</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Repeats the most recent search." xml:space="preserve">
+        <source>Repeats the most recent search.</source>
+        <note/>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
         <source>Request Refund</source>
@@ -1472,6 +1528,10 @@
         <source>Start %@ Free Trial</source>
         <target state="translated">Начать пробную подписку</target>
         <note>Shown on the "Buy Now" button when subscribing</note>
+      </trans-unit>
+      <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
+        <source>Starts a new Search within Callsheet.</source>
+        <note/>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
         <source>Subscribe</source>
@@ -1838,6 +1898,92 @@
       <trans-unit id="🤷‍♂️" xml:space="preserve">
         <source>🤷‍♂️</source>
         <target state="translated">🤷‍♂️</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Widgets/InfoPlist.xcstrings" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Widgets</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>WidgetsExtension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source/>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Widgets/Localizable.xcstrings" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+    </header>
+    <body>
+      <trans-unit id="Open Pinned Items" xml:space="preserve">
+        <source>Open Pinned Items</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Pins" xml:space="preserve">
+        <source>Open Pins</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open the list of your pinned items" xml:space="preserve">
+        <source>Open the list of your pinned items</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open your pins in Callsheet" xml:space="preserve">
+        <source>Open your pins in Callsheet</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Perform your most recent search in Callsheet" xml:space="preserve">
+        <source>Perform your most recent search in Callsheet</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pinned Items" xml:space="preserve">
+        <source>Pinned Items</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Recent Search" xml:space="preserve">
+        <source>Recent Search</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Repeat Last Search" xml:space="preserve">
+        <source>Repeat Last Search</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Repeat Search" xml:space="preserve">
+        <source>Repeat Search</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Repeats the most recent search." xml:space="preserve">
+        <source>Repeats the most recent search.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search" xml:space="preserve">
+        <source>Search</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search Callsheet" xml:space="preserve">
+        <source>Search Callsheet</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Shows one or more of your most recent pinned items" xml:space="preserve">
+        <source>Shows one or more of your most recent pinned items</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start a new search in Callsheet" xml:space="preserve">
+        <source>Start a new search in Callsheet</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
+        <source>Starts a new Search within Callsheet.</source>
         <note/>
       </trans-unit>
     </body>

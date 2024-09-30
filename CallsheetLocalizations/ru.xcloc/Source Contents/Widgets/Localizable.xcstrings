@@ -1,0 +1,51 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Open Pinned Items" : {
+
+    },
+    "Open Pins" : {
+
+    },
+    "Open the list of your pinned items" : {
+
+    },
+    "Open your pins in Callsheet" : {
+
+    },
+    "Perform your most recent search in Callsheet" : {
+
+    },
+    "Pinned Items" : {
+
+    },
+    "Recent Search" : {
+
+    },
+    "Repeat Last Search" : {
+
+    },
+    "Repeat Search" : {
+
+    },
+    "Repeats the most recent search." : {
+
+    },
+    "Search" : {
+
+    },
+    "Search Callsheet" : {
+
+    },
+    "Shows one or more of your most recent pinned items" : {
+
+    },
+    "Start a new search in Callsheet" : {
+
+    },
+    "Starts a new Search within Callsheet." : {
+
+    }
+  },
+  "version" : "1.0"
+}
