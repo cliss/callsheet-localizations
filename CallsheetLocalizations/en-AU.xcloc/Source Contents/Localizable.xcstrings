@@ -222,6 +222,9 @@
     "About Callsheet" : {
       "extractionState" : "manual"
     },
+    "Add" : {
+
+    },
     "Add %lld Free Search" : {
       "comment" : "Shown on the \"Buy Now\" button when asking for more free searches",
       "localizations" : {
@@ -244,6 +247,12 @@
           }
         }
       }
+    },
+    "Add list…" : {
+
+    },
+    "Add or Remove From Other Lists" : {
+
     },
     "Add pin" : {
 
@@ -283,6 +292,9 @@
     },
     "Are you sure?" : {
       "comment" : "Shown when clearing recent searches or search history"
+    },
+    "Are You Sure?" : {
+
     },
     "As rated by users of" : {
       "comment" : "Shown in a popover explaining TV/movie scores"
@@ -423,6 +435,31 @@
     "Delete search history" : {
 
     },
+    "Delete the list \"%@\"?\n\nIt currently has %lld pins." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Delete the list \"%1$@\"?\n\nIt currently has %2$lld pin."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Delete the list \"%1$@\"?\n\nIt currently has %2$lld pins."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Delete this list?" : {
+
+    },
     "Details" : {
 
     },
@@ -489,6 +526,9 @@
     },
     "Free" : {
       "comment" : "A kind of service to watch media on. Contrast with \"Ads\", \"Rent\", \"Buy\", \"Subscription\""
+    },
+    "Free search remaining" : {
+
     },
     "Free searches remaining" : {
 
@@ -689,14 +729,26 @@
     "Light" : {
       "comment" : "Light theme (other options are \"system\" and \"dark\")"
     },
+    "List Name" : {
+
+    },
     "Lived" : {
       "comment" : "How long an actor lived"
     },
     "Loading…" : {
 
     },
+    "Long-Running Series" : {
+      "comment" : "Header shown on a person's credit list, for long-running series such as Saturday Night Live"
+    },
     "Macro State at %@" : {
       "comment" : "Shown in a semi-hidden debugging view"
+    },
+    "Manage Lists" : {
+
+    },
+    "Manage lists…" : {
+
     },
     "Manage Subscription" : {
 
@@ -749,6 +801,9 @@
     "Next Episode" : {
 
     },
+    "No" : {
+
+    },
     "No credits found." : {
       "comment" : "Shown when a person has no cast nor crew credits"
     },
@@ -772,6 +827,12 @@
     },
     "No pinned items found." : {
       "comment" : "Shown on the home screen"
+    },
+    "No pins" : {
+
+    },
+    "No pins found." : {
+
     },
     "No providers found." : {
       "comment" : "Shown when there's no data for Where to Watch"
@@ -872,6 +933,9 @@
     "Pin" : {
       "comment" : "Noun, a pin/favorite"
     },
+    "Pin This Item" : {
+
+    },
     "Pin Type" : {
       "comment" : "Shown in the list of pins screen"
     },
@@ -885,6 +949,12 @@
       "comment" : "Shown on the pre-sales screen to get users to subscribe"
     },
     "Pinned Items" : {
+
+    },
+    "Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people." : {
+
+    },
+    "Pins" : {
 
     },
     "Plans:" : {
@@ -1134,11 +1204,17 @@
     "Summary" : {
 
     },
+    "Switch list" : {
+      "extractionState" : "stale"
+    },
     "System" : {
       "comment" : "System theme; this represents \"the light/dark mode the device is in\" (other options are always light and always dark)"
     },
     "System Default" : {
       "comment" : "Which browser to use for web links (the other option is \"In-App Browser\")"
+    },
+    "Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists." : {
+
     },
     "Technical Details" : {
       "comment" : "Quick access link"
@@ -1151,6 +1227,16 @@
     },
     "Theme" : {
       "comment" : "Persnickety Preference for light/dark/system theme"
+    },
+    "There are a total of %lld lists and %lld pins." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "There are a total of %1$lld lists and %2$lld pins."
+          }
+        }
+      }
     },
     "There is no watch information available for *%@*." : {
 
@@ -1254,6 +1340,9 @@
     },
     "years old" : {
       "comment" : "Shown as a header for a year in a person's filmography; \"52 - 53 years old"
+    },
+    "Yes" : {
+
     },
     "You can be second! That’s pretty great!" : {
       "comment" : "Shown to try to encourage the user to rate the app"

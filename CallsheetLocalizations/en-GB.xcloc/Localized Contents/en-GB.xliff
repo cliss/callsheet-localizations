@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Flookup/en.lproj/AppShortcuts.strings" datatype="plaintext" source-language="en" target-language="en-GB">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.1" build-num="16B40"/>
     </header>
     <body>
       <trans-unit id="Open ${applicationName} favorites" xml:space="preserve">
@@ -49,7 +49,7 @@
   </file>
   <file original="Flookup/en.lproj/InfoPlist.strings" source-language="en" target-language="en-GB" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.1" build-num="16B40"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -81,7 +81,7 @@
   </file>
   <file original="Localizable.xcstrings" source-language="en" target-language="en-GB" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.1" build-num="16B40"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
@@ -214,6 +214,11 @@
         <target state="translated">About Callsheet</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Add" xml:space="preserve">
+        <source>Add</source>
+        <target state="translated">Add</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.one" xml:space="preserve">
         <source>Add %lld Free Search</source>
         <target state="translated">Add %lld Free Search</target>
@@ -227,6 +232,16 @@
       <trans-unit id="Add Pin" xml:space="preserve">
         <source>Add Pin</source>
         <target state="translated">Add Pin</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add list…" xml:space="preserve">
+        <source>Add list…</source>
+        <target state="translated">Add list…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add or Remove From Other Lists" xml:space="preserve">
+        <source>Add or Remove From Other Lists</source>
+        <target state="translated">Add or Remove From Other Lists</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
@@ -283,6 +298,11 @@
         <source>Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet.</source>
         <target state="translated">Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to use Callsheet.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
+      </trans-unit>
+      <trans-unit id="Are You Sure?" xml:space="preserve">
+        <source>Are You Sure?</source>
+        <target state="translated">Are You Sure?</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
@@ -519,6 +539,29 @@
         <target state="translated">Delete search history</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Delete the list &quot;%@&quot;?&#10;&#10;It currently has %lld pins.|==|plural.one" xml:space="preserve">
+        <source>Delete the list "%1$@"?
+
+It currently has %2$lld pin.</source>
+        <target state="translated">Delete the list “%1$@”?
+
+It currently has %2$lld pin.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete the list &quot;%@&quot;?&#10;&#10;It currently has %lld pins.|==|plural.other" xml:space="preserve">
+        <source>Delete the list "%1$@"?
+
+It currently has %2$lld pins.</source>
+        <target state="translated">Delete the list "%1$@"?
+
+It currently has %2$lld pins.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete this list?" xml:space="preserve">
+        <source>Delete this list?</source>
+        <target state="translated">Delete this list?</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
         <source>Details</source>
         <target state="translated">Details</target>
@@ -633,6 +676,11 @@
       <trans-unit id="Free Trial" xml:space="preserve">
         <source>Free Trial</source>
         <target state="translated">Free Trial</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Free search remaining" xml:space="preserve">
+        <source>Free search remaining</source>
+        <target state="translated">Free search remaining</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
@@ -815,6 +863,11 @@
         <target state="translated">Light</target>
         <note>Light theme (other options are "system" and "dark")</note>
       </trans-unit>
+      <trans-unit id="List Name" xml:space="preserve">
+        <source>List Name</source>
+        <target state="translated">List Name</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
         <source>Lived</source>
         <target state="translated">Lived</target>
@@ -825,14 +878,29 @@
         <target state="translated">Loading…</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Long-Running Series" xml:space="preserve">
+        <source>Long-Running Series</source>
+        <target state="translated">Long-Running Series</target>
+        <note>Header shown on a person's credit list, for long-running series such as Saturday Night Live</note>
+      </trans-unit>
       <trans-unit id="Macro State at %@" xml:space="preserve">
         <source>Macro State at %@</source>
         <target state="translated">Macro State at %@</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
+      <trans-unit id="Manage Lists" xml:space="preserve">
+        <source>Manage Lists</source>
+        <target state="translated">Manage Lists</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
         <source>Manage Subscription</source>
         <target state="translated">Manage Subscription</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Manage lists…" xml:space="preserve">
+        <source>Manage lists…</source>
+        <target state="translated">Manage lists…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
@@ -915,6 +983,11 @@
         <target state="translated">Next Episode</target>
         <note/>
       </trans-unit>
+      <trans-unit id="No" xml:space="preserve">
+        <source>No</source>
+        <target state="translated">No</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
         <source>No TV show pins found.</source>
         <target state="translated">No TV show pins found.</target>
@@ -959,6 +1032,16 @@
         <source>No pinned items found.</source>
         <target state="translated">No pinned items found.</target>
         <note>Shown on the home screen</note>
+      </trans-unit>
+      <trans-unit id="No pins" xml:space="preserve">
+        <source>No pins</source>
+        <target state="translated">No pins</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No pins found." xml:space="preserve">
+        <source>No pins found.</source>
+        <target state="translated">No pins found.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="No providers found." xml:space="preserve">
         <source>No providers found.</source>
@@ -1080,6 +1163,11 @@
         <target state="translated">Pin</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
+      <trans-unit id="Pin This Item" xml:space="preserve">
+        <source>Pin This Item</source>
+        <target state="translated">Pin This Item</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Pin Type" xml:space="preserve">
         <source>Pin Type</source>
         <target state="translated">Pin Type</target>
@@ -1099,6 +1187,16 @@
         <source>Pinned items</source>
         <target state="translated">Pinned items</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
+      </trans-unit>
+      <trans-unit id="Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people." xml:space="preserve">
+        <source>Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people.</source>
+        <target state="translated">Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pins" xml:space="preserve">
+        <source>Pins</source>
+        <target state="translated">Pins</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
         <source>Plans:</source>
@@ -1500,6 +1598,11 @@
         <target state="translated">Summary</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Switch list" xml:space="preserve">
+        <source>Switch list</source>
+        <target state="translated">Switch list</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="System" xml:space="preserve">
         <source>System</source>
         <target state="translated">System</target>
@@ -1525,6 +1628,11 @@
         <target state="translated">TV Shows</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
+      <trans-unit id="Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists." xml:space="preserve">
+        <source>Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists.</source>
+        <target state="translated">Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
         <source>Technical Details</source>
         <target state="translated">Technical Details</target>
@@ -1544,6 +1652,11 @@
         <source>Theme</source>
         <target state="translated">Theme</target>
         <note>Persnickety Preference for light/dark/system theme</note>
+      </trans-unit>
+      <trans-unit id="There are a total of %lld lists and %lld pins." xml:space="preserve">
+        <source>There are a total of %1$lld lists and %2$lld pins.</source>
+        <target state="translated">There are a total of %1$lld lists and %2$lld pins.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
         <source>There is no watch information available for *%@*.</source>
@@ -1690,6 +1803,11 @@
         <target state="translated">With a subscription, you get:</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Yes" xml:space="preserve">
+        <source>Yes</source>
+        <target state="translated">Yes</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="You Can Help" xml:space="preserve">
         <source>You Can Help</source>
         <target state="translated">You Can Help</target>
@@ -1825,7 +1943,7 @@
   </file>
   <file original="Widgets/InfoPlist.xcstrings" source-language="en" target-language="en-GB" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.1" build-num="16B40"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1844,9 +1962,17 @@
   </file>
   <file original="Widgets/Localizable.xcstrings" source-language="en" target-language="en-GB" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.1" build-num="16B40"/>
     </header>
     <body>
+      <trans-unit id="Name or job in %@" xml:space="preserve">
+        <source>Name or job in %@</source>
+        <note>Crew search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
+      </trans-unit>
+      <trans-unit id="Name or role in %@" xml:space="preserve">
+        <source>Name or role in %@</source>
+        <note>Cast search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
+      </trans-unit>
       <trans-unit id="Open Pinned Items" xml:space="preserve">
         <source>Open Pinned Items</source>
         <note/>
@@ -1866,6 +1992,10 @@
       <trans-unit id="Perform your most recent search in Callsheet" xml:space="preserve">
         <source>Perform your most recent search in Callsheet</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Pin" xml:space="preserve">
+        <source>Pin</source>
+        <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
         <source>Pinned Items</source>
@@ -1905,6 +2035,22 @@
       </trans-unit>
       <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
         <source>Starts a new Search within Callsheet.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Title or job" xml:space="preserve">
+        <source>Title or job</source>
+        <note>Crew search prompt in the context of a single person (not a movie/show/etc)</note>
+      </trans-unit>
+      <trans-unit id="Title or role" xml:space="preserve">
+        <source>Title or role</source>
+        <note>Cast search prompt in the context of a single person (not a movie/show/etc)</note>
+      </trans-unit>
+      <trans-unit id="pin" xml:space="preserve">
+        <source>pin</source>
+        <note>Noun, a pin/favorite</note>
+      </trans-unit>
+      <trans-unit id="pinned items" xml:space="preserve">
+        <source>pinned items</source>
         <note/>
       </trans-unit>
     </body>
