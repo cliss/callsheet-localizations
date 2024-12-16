@@ -6,43 +6,43 @@
     </header>
     <body>
       <trans-unit id="Open ${applicationName} favorites" xml:space="preserve">
-        <source>Open ${applicationName} favorites</source>
+        <source>Open ${applicationName} favorites</source><target>Åpne ${applicationName} favoritter</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open ${applicationName} pins" xml:space="preserve">
-        <source>Open ${applicationName} pins</source>
+        <source>Open ${applicationName} pins</source><target>Åpne ${applicationName} festede elementer</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open ${applicationName} recent search" xml:space="preserve">
-        <source>Open ${applicationName} recent search</source>
+        <source>Open ${applicationName} recent search</source><target>Åpne ${applicationName} nylig søk</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open my most recent search in ${applicationName}" xml:space="preserve">
-        <source>Open my most recent search in ${applicationName}</source>
+        <source>Open my most recent search in ${applicationName}</source><target>Åpne siste søk i ${applicationName}</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open recent search in ${applicationName}" xml:space="preserve">
-        <source>Open recent search in ${applicationName}</source>
+        <source>Open recent search in ${applicationName}</source><target>Åpne nylig søk i ${applicationName}</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open saved items in ${applicationName}" xml:space="preserve">
-        <source>Open saved items in ${applicationName}</source>
+        <source>Open saved items in ${applicationName}</source><target>Åpne lagrede elementer i ${applicationName}</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Search ${applicationName}" xml:space="preserve">
-        <source>Search ${applicationName}</source>
+        <source>Search ${applicationName}</source><target>Søk i ${applicationName}</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show ${applicationName} recent search" xml:space="preserve">
-        <source>Show ${applicationName} recent search</source>
+        <source>Show ${applicationName} recent search</source><target>Vis nylig søk ${applicationName} </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show my most recent search in ${applicationName}" xml:space="preserve">
-        <source>Show my most recent search in ${applicationName}</source>
+        <source>Show my most recent search in ${applicationName}</source><target>Vis siste søk i ${applicationName}</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show recent search in ${applicationName}" xml:space="preserve">
-        <source>Show recent search in ${applicationName}</source>
+        <source>Show recent search in ${applicationName}</source><target>Vis nylig søk i ${applicationName} </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -215,7 +215,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
-        <source>Add</source>
+        <source>Add</source><target>Legg til</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.one" xml:space="preserve">
@@ -230,20 +230,20 @@
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
         <source>Add Pin</source>
-        <target state="translated">Fest</target>
+        <target state="translated">Fest element</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add list…" xml:space="preserve">
-        <source>Add list…</source>
+        <source>Add list…</source><target>Ny liste…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add or Remove From Other Lists" xml:space="preserve">
-        <source>Add or Remove From Other Lists</source>
+        <source>Add or Remove From Other Lists</source><target>Legg til eller fjern fra andre lister</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
         <source>Add pin</source>
-        <target state="translated">Fest</target>
+        <target state="translated">Fest element</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ads" xml:space="preserve">
@@ -297,7 +297,7 @@
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Are You Sure?" xml:space="preserve">
-        <source>Are You Sure?</source>
+        <source>Are You Sure?</source><target>Er du sikker?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
@@ -538,17 +538,21 @@
       <trans-unit id="Delete the list &quot;%@&quot;?&#10;&#10;It currently has %lld pins.|==|plural.one" xml:space="preserve">
         <source>Delete the list "%1$@"?
 
-It currently has %2$lld pin.</source>
+It currently has %2$lld pin.</source><target>Slett listen "%1$@"?
+
+Den inneholder %2$lld festet element.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete the list &quot;%@&quot;?&#10;&#10;It currently has %lld pins.|==|plural.other" xml:space="preserve">
         <source>Delete the list "%1$@"?
 
-It currently has %2$lld pins.</source>
+It currently has %2$lld pins.</source><target>Slett listen "%1$@"?
+
+Den inneholder %2$lld festede elementer.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete this list?" xml:space="preserve">
-        <source>Delete this list?</source>
+        <source>Delete this list?</source><target>Slett listen?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
@@ -669,7 +673,7 @@ It currently has %2$lld pins.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Free search remaining" xml:space="preserve">
-        <source>Free search remaining</source>
+        <source>Free search remaining</source><target>Gjenstående gratis søk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
@@ -853,7 +857,7 @@ It currently has %2$lld pins.</source>
         <note>Light theme (other options are "system" and "dark")</note>
       </trans-unit>
       <trans-unit id="List Name" xml:space="preserve">
-        <source>List Name</source>
+        <source>List Name</source><target>Listenavn</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
@@ -867,7 +871,7 @@ It currently has %2$lld pins.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Long-Running Series" xml:space="preserve">
-        <source>Long-Running Series</source>
+        <source>Long-Running Series</source><target>Serier med lang levetid</target>
         <note>Header shown on a person's credit list, for long-running series such as Saturday Night Live</note>
       </trans-unit>
       <trans-unit id="Macro State at %@" xml:space="preserve">
@@ -876,7 +880,7 @@ It currently has %2$lld pins.</source>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Manage Lists" xml:space="preserve">
-        <source>Manage Lists</source>
+        <source>Manage Lists</source><target>Behandle lister</target>
         <note/>
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
@@ -885,7 +889,7 @@ It currently has %2$lld pins.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Manage lists…" xml:space="preserve">
-        <source>Manage lists…</source>
+        <source>Manage lists…</source><target>Behandle lister…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
@@ -969,7 +973,7 @@ It currently has %2$lld pins.</source>
         <note/>
       </trans-unit>
       <trans-unit id="No" xml:space="preserve">
-        <source>No</source>
+        <source>No</source><target>Nei</target>
         <note/>
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
@@ -1018,11 +1022,11 @@ It currently has %2$lld pins.</source>
         <note>Shown on the home screen</note>
       </trans-unit>
       <trans-unit id="No pins" xml:space="preserve">
-        <source>No pins</source>
+        <source>No pins</source><target>Ingen festede elementer</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pins found." xml:space="preserve">
-        <source>No pins found.</source>
+        <source>No pins found.</source><target>Fant ingen festede elementer</target>
         <note/>
       </trans-unit>
       <trans-unit id="No providers found." xml:space="preserve">
@@ -1066,11 +1070,11 @@ It currently has %2$lld pins.</source>
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Open Pinned Items" xml:space="preserve">
-        <source>Open Pinned Items</source>
+        <source>Open Pinned Items</source><target>Åpne festede elementer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Pins" xml:space="preserve">
-        <source>Open Pins</source>
+        <source>Open Pins</source><target>Åpne festede elementer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open in browser" xml:space="preserve">
@@ -1079,7 +1083,7 @@ It currently has %2$lld pins.</source>
         <note>Shown on the share menu to open the active screen on the web</note>
       </trans-unit>
       <trans-unit id="Open the list of your pinned items" xml:space="preserve">
-        <source>Open the list of your pinned items</source>
+        <source>Open the list of your pinned items</source><target>Åpne listen med dine festede elementer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
@@ -1109,7 +1113,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Other settings for more _particular_ users." xml:space="preserve">
         <source>Other settings for more _particular_ users.</source>
-        <target state="translated">Andre innstillinger for mer _særskilte_ brukere.</target>
+        <target state="translated">Andre innstillinger for mer _kresne_ brukere.</target>
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
@@ -1143,7 +1147,7 @@ It currently has %2$lld pins.</source>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="Pin This Item" xml:space="preserve">
-        <source>Pin This Item</source>
+        <source>Pin This Item</source><target>Fest dette elementet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pin Type" xml:space="preserve">
@@ -1167,11 +1171,11 @@ It currently has %2$lld pins.</source>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people." xml:space="preserve">
-        <source>Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people.</source>
+        <source>Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people.</source><target>Festede elementer vises øverst på hovedskjermen når du åpner Callsheet. Du kan feste filmer, programmer eller personer.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pins" xml:space="preserve">
-        <source>Pins</source>
+        <source>Pins</source><target>Festede elementer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
@@ -1290,7 +1294,7 @@ It currently has %2$lld pins.</source>
         <note>A content rating like G/PG/PG-13/R</note>
       </trans-unit>
       <trans-unit id="Recent Search" xml:space="preserve">
-        <source>Recent Search</source>
+        <source>Recent Search</source><target>Nylig søk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">
@@ -1339,11 +1343,11 @@ It currently has %2$lld pins.</source>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Buy", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Repeat Search" xml:space="preserve">
-        <source>Repeat Search</source>
+        <source>Repeat Search</source><target>Gjenta søk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeats the most recent search." xml:space="preserve">
-        <source>Repeats the most recent search.</source>
+        <source>Repeats the most recent search.</source><target>Gjentar det siste søket.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
@@ -1532,7 +1536,7 @@ It currently has %2$lld pins.</source>
         <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
-        <source>Starts a new Search within Callsheet.</source>
+        <source>Starts a new Search within Callsheet.</source><target>Utfører et nytt søk i Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
@@ -1571,7 +1575,7 @@ It currently has %2$lld pins.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Switch list" xml:space="preserve">
-        <source>Switch list</source>
+        <source>Switch list</source><target>Bytt liste</target>
         <note/>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
@@ -1600,7 +1604,7 @@ It currently has %2$lld pins.</source>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists." xml:space="preserve">
-        <source>Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists.</source>
+        <source>Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists.</source><target>Trykk og hold nede på pinnen i verktøylinjen for å se en meny med flere handlinger. Slik kan du raskt legge til eller fjerne dette elementet fra andre lister.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
@@ -1624,7 +1628,7 @@ It currently has %2$lld pins.</source>
         <note>Persnickety Preference for light/dark/system theme</note>
       </trans-unit>
       <trans-unit id="There are a total of %lld lists and %lld pins." xml:space="preserve">
-        <source>There are a total of %1$lld lists and %2$lld pins.</source>
+        <source>There are a total of %1$lld lists and %2$lld pins.</source><target>Det finnes totalt %1$lld lister og %2$lld pins.</target>
         <note/>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
@@ -1773,7 +1777,7 @@ It currently has %2$lld pins.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Yes" xml:space="preserve">
-        <source>Yes</source>
+        <source>Yes</source><target>Ja</target>
         <note/>
       </trans-unit>
       <trans-unit id="You Can Help" xml:space="preserve">
@@ -1915,7 +1919,7 @@ It currently has %2$lld pins.</source>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Widgets</source>
+        <source>Widgets</source><target>Widgets</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1934,91 +1938,91 @@ It currently has %2$lld pins.</source>
     </header>
     <body>
       <trans-unit id="Name or job in %@" xml:space="preserve">
-        <source>Name or job in %@</source>
+        <source>Name or job in %@</source><target>Name or job in %@</target>
         <note>Crew search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
       <trans-unit id="Name or role in %@" xml:space="preserve">
-        <source>Name or role in %@</source>
+        <source>Name or role in %@</source><target>Name or job in %@</target>
         <note>Cast search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
       <trans-unit id="Open Pinned Items" xml:space="preserve">
-        <source>Open Pinned Items</source>
+        <source>Open Pinned Items</source><target>Åpne festede elementer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Pins" xml:space="preserve">
-        <source>Open Pins</source>
+        <source>Open Pins</source><target>Åpne festede elementer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open the list of your pinned items" xml:space="preserve">
-        <source>Open the list of your pinned items</source>
+        <source>Open the list of your pinned items</source><target>Åpne listen med dine festede elementer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open your pins in Callsheet" xml:space="preserve">
-        <source>Open your pins in Callsheet</source>
+        <source>Open your pins in Callsheet</source><target>Åpne dine festede elementer i Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Perform your most recent search in Callsheet" xml:space="preserve">
-        <source>Perform your most recent search in Callsheet</source>
+        <source>Perform your most recent search in Callsheet</source><target>Utfør ditt siste søk i Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pin" xml:space="preserve">
-        <source>Pin</source>
+        <source>Pin</source><target>Festet element</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
-        <source>Pinned Items</source>
+        <source>Pinned Items</source><target>Festede elementer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Recent Search" xml:space="preserve">
-        <source>Recent Search</source>
+        <source>Recent Search</source><target>Nylig søk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeat Last Search" xml:space="preserve">
-        <source>Repeat Last Search</source>
+        <source>Repeat Last Search</source><target>Gjenta siste søk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeat Search" xml:space="preserve">
-        <source>Repeat Search</source>
+        <source>Repeat Search</source><target>Gjenta søk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeats the most recent search." xml:space="preserve">
-        <source>Repeats the most recent search.</source>
+        <source>Repeats the most recent search.</source><target>Gjentar det siste søket</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
-        <source>Search</source>
+        <source>Search</source><target>Søk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search Callsheet" xml:space="preserve">
-        <source>Search Callsheet</source>
+        <source>Search Callsheet</source><target>Søk i Callseet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shows one or more of your most recent pinned items" xml:space="preserve">
-        <source>Shows one or more of your most recent pinned items</source>
+        <source>Shows one or more of your most recent pinned items</source><target>Viser ett eller flere av dine nylig festede elementer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Start a new search in Callsheet" xml:space="preserve">
-        <source>Start a new search in Callsheet</source>
+        <source>Start a new search in Callsheet</source><target>Utfør et nytt søk i Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
-        <source>Starts a new Search within Callsheet.</source>
+        <source>Starts a new Search within Callsheet.</source><target>Utfører et nytt søk i Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title or job" xml:space="preserve">
-        <source>Title or job</source>
+        <source>Title or job</source><target>Tittel eller jobb</target>
         <note>Crew search prompt in the context of a single person (not a movie/show/etc)</note>
       </trans-unit>
       <trans-unit id="Title or role" xml:space="preserve">
-        <source>Title or role</source>
+        <source>Title or role</source><target>Tittel eller rolle</target>
         <note>Cast search prompt in the context of a single person (not a movie/show/etc)</note>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
-        <source>pin</source>
+        <source>pin</source><target>festet element</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="pinned items" xml:space="preserve">
-        <source>pinned items</source>
+        <source>pinned items</source><target>festede elementer</target>
         <note/>
       </trans-unit>
     </body>
