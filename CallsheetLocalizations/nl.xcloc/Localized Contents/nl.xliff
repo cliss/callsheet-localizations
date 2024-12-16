@@ -196,7 +196,7 @@
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
         <source>%lld years</source>
-        <target state="translated">%lld jaren</target>
+        <target state="translated">%lld jaar</target>
         <note>How old a person was when they passed</note>
       </trans-unit>
       <trans-unit id="%lld years old|==|plural.one" xml:space="preserve">
