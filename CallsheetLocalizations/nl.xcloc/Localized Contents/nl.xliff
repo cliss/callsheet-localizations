@@ -1176,7 +1176,7 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="Pin This Item" xml:space="preserve">
         <source>Pin This Item</source>
-        <target state="translated">Zet dit item vast</target>
+        <target state="translated">Maak dit item vast</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pin Type" xml:space="preserve">
@@ -1201,7 +1201,7 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people." xml:space="preserve">
         <source>Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people.</source>
-        <target state="translated">Vastgemaakte items worden getoond bovenaan het hoofdscherm als je Callsheet opent. Je kunt films, series of personen vastzetten.</target>
+        <target state="translated">Vastgemaakte items worden getoond bovenaan het hoofdscherm als je Callsheet opent. Je kunt films, series of personen vastmaken.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pins" xml:space="preserve">
