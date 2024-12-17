@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="Open ${applicationName} pins" xml:space="preserve">
         <source>Open ${applicationName} pins</source>
-        <target>Open vastgezette items in ${applicationName}</target>
+        <target>Open vastgemaakte items in ${applicationName}</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open ${applicationName} recent search" xml:space="preserve">
@@ -256,7 +256,7 @@
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
         <source>Add pin</source>
-        <target state="translated">Voeg vastgezet item toe</target>
+        <target state="translated">Voeg vastgemaakt item toe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ads" xml:space="preserve">
@@ -1001,7 +1001,7 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
         <source>No TV show pins found.</source>
-        <target state="translated">Geen vastgezette series gevonden.</target>
+        <target state="translated">Geen vastgemaakte series gevonden.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No credits found." xml:space="preserve">
@@ -1016,7 +1016,7 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="No movie pins found." xml:space="preserve">
         <source>No movie pins found.</source>
-        <target state="translated">Geen vastgezette films gevonden.</target>
+        <target state="translated">Geen vastgemaakte films gevonden.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
@@ -1036,22 +1036,22 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="No people pins found." xml:space="preserve">
         <source>No people pins found.</source>
-        <target state="translated">Geen vastgezette personen gevonden.</target>
+        <target state="translated">Geen vastgemaakte personen gevonden.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pinned items found." xml:space="preserve">
         <source>No pinned items found.</source>
-        <target state="translated">Geen vastgezette items gevonden.</target>
+        <target state="translated">Geen vastgemaakte items gevonden.</target>
         <note>Shown on the home screen</note>
       </trans-unit>
       <trans-unit id="No pins" xml:space="preserve">
         <source>No pins</source>
-        <target>Geen vastgezette items</target>
+        <target>Geen vastgemaakte items</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pins found." xml:space="preserve">
         <source>No pins found.</source>
-        <target>Geen vastgezette items gevonden.</target>
+        <target>Geen vastgemaakte items gevonden.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No providers found." xml:space="preserve">
@@ -1096,12 +1096,12 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="Open Pinned Items" xml:space="preserve">
         <source>Open Pinned Items</source>
-        <target>Open vastgezette items</target>
+        <target>Open vastgemaakte items</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Pins" xml:space="preserve">
         <source>Open Pins</source>
-        <target>Open vastgezette items</target>
+        <target>Open vastgemaakte items</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open in browser" xml:space="preserve">
@@ -1111,7 +1111,7 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="Open the list of your pinned items" xml:space="preserve">
         <source>Open the list of your pinned items</source>
-        <target>Open de lijst met jouw vastgezette items</target>
+        <target>Open de lijst met jouw vastgemaakte items</target>
         <note/>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
@@ -1191,22 +1191,22 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
         <source>Pinned Items</source>
-        <target state="translated">Vastgezette items</target>
+        <target state="translated">Vastgemaakte items</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pinned items" xml:space="preserve">
         <source>Pinned items</source>
-        <target state="translated">Vastgezette items</target>
+        <target state="translated">Vastgemaakte items</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people." xml:space="preserve">
         <source>Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people.</source>
-        <target>Vastgezette items worden getoond bovenaan het hoofdscherm als je Callsheet opent. Je kunt films, series of personen vastzetten.</target>
+        <target state="translated">Vastgemaakte items worden getoond bovenaan het hoofdscherm als je Callsheet opent. Je kunt films, series of personen vastzetten.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pins" xml:space="preserve">
         <source>Pins</source>
-        <target>Vastgezette items</target>
+        <target state="translated">Vastgemaakte items</target>
         <note/>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
@@ -1666,7 +1666,7 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="There are a total of %lld lists and %lld pins." xml:space="preserve">
         <source>There are a total of %1$lld lists and %2$lld pins.</source>
-        <target>Er zijn in totaal %1$lld lijsten en %2$lld vastgezette items.</target>
+        <target>Er zijn in totaal %1$lld lijsten en %2$lld vastgemaakte items.</target>
         <note/>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
@@ -1923,12 +1923,12 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
         <source>pin</source>
-        <target state="translated">vastgezet item</target>
+        <target state="translated">vastgemaakt item</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="pinned items" xml:space="preserve">
         <source>pinned items</source>
-        <target state="translated">Vastgezette items</target>
+        <target state="translated">Vastgemaakte items</target>
         <note/>
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
@@ -1991,22 +1991,22 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="Open Pinned Items" xml:space="preserve">
         <source>Open Pinned Items</source>
-        <target>Open vastgezette items</target>
+        <target>Open vastgemaakte items</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Pins" xml:space="preserve">
         <source>Open Pins</source>
-        <target>Open vastgezette items</target>
+        <target>Open vastgemaakte items</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open the list of your pinned items" xml:space="preserve">
         <source>Open the list of your pinned items</source>
-        <target>Open de lijst met jouw vastgezette items</target>
+        <target>Open de lijst met jouw vastgemaakte items</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open your pins in Callsheet" xml:space="preserve">
         <source>Open your pins in Callsheet</source>
-        <target>Open vastgezette items in Callsheet</target>
+        <target>Open vastgemaakte items in Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Perform your most recent search in Callsheet" xml:space="preserve">
@@ -2016,12 +2016,12 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="Pin" xml:space="preserve">
         <source>Pin</source>
-        <target>Vastgezet item</target>
+        <target state="translated">Vastgemaakt item</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
         <source>Pinned Items</source>
-        <target>Vastgezette items</target>
+        <target status="translated">Vastgemaakte items</target>
         <note/>
       </trans-unit>
       <trans-unit id="Recent Search" xml:space="preserve">
@@ -2056,7 +2056,7 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="Shows one or more of your most recent pinned items" xml:space="preserve">
         <source>Shows one or more of your most recent pinned items</source>
-        <target>Toont een of meerdere van je onlangs vastgezette items</target>
+        <target state="translated">Toont een of meerdere van je onlangs vastgemaakt items</target>
         <note/>
       </trans-unit>
       <trans-unit id="Start a new search in Callsheet" xml:space="preserve">
@@ -2081,12 +2081,12 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
         <source>pin</source>
-        <target>vastgezet item</target>
+        <target target="translated">vastgemaakt item</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="pinned items" xml:space="preserve">
         <source>pinned items</source>
-        <target>vastgezette items</target>
+        <target>vastgemaakte items</target>
         <note/>
       </trans-unit>
     </body>
