@@ -246,7 +246,7 @@
       </trans-unit>
       <trans-unit id="Add list…" xml:space="preserve">
         <source>Add list…</source>
-        <target state="translated">Voeg lijst toe…</target>
+        <target state="translated">Lijst toevoegen…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add or Remove From Other Lists" xml:space="preserve">
