@@ -1,8 +1,9 @@
-/* Bundle display name */
-"CFBundleDisplayName" = "Callsheet";
-/* Bundle name */
-"CFBundleName" = "Callsheet";
 /* Privacy - Local Network Usage Description */
-"NSLocalNetworkUsageDescription" = "If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.";
-"Search" = "Search";
-"Title, cast, or crew" = "Title, cast, or crew";
+"NSLocalNetworkUsageDescription" = "Jos Callsheet voi käyttää paikallista verkkoasi, se voi mahdollisesti näyttää linkkejä mitä olet juuri katsomassa päänäytölläsi. Tämän käyttö on täysin vapaaehtoista. Mitään dataa verkostasi ei lähetetä laitteeltasi";
+
+/* (No Comment) */
+"Search" = "Etsi";
+
+/* (No Comment) */
+"Title, cast, or crew" = "Otsikko, näyttelijät tai työryhmä";
+

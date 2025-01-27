@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Flookup/en.lproj/AppShortcuts.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.1" build-num="16B40"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
     </header>
     <body>
       <trans-unit id="Open ${applicationName} favorites" xml:space="preserve">
@@ -59,7 +59,7 @@
   </file>
   <file original="Flookup/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.1" build-num="16B40"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -73,25 +73,25 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
-        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
-        <target>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</target>
+        <source>Jos Callsheet voi käyttää paikallista verkkoasi, se voi mahdollisesti näyttää linkkejä mitä olet juuri katsomassa päänäytölläsi. Tämän käyttö on täysin vapaaehtoista. Mitään dataa verkostasi ei lähetetä laitteeltasi</source>
+        <target>Jos Callsheet voi käyttää paikallista verkkoasi, se voi mahdollisesti näyttää linkkejä mitä olet juuri katsomassa päänäytölläsi. Tämän käyttö on täysin vapaaehtoista. Mitään dataa verkostasi ei lähetetä laitteeltasi</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
-        <source>Search</source>
-        <target>Search</target>
-        <note/>
+        <source>Etsi</source>
+        <target>Etsi</target>
+        <note>(No Comment)</note>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
-        <source>Title, cast, or crew</source>
-        <target>Title, cast, or crew</target>
-        <note/>
+        <source>Otsikko, näyttelijät tai työryhmä</source>
+        <target>Otsikko, näyttelijät tai työryhmä</target>
+        <note>(No Comment)</note>
       </trans-unit>
     </body>
   </file>
   <file original="Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.1" build-num="16B40"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
@@ -455,8 +455,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Clear all" xml:space="preserve">
-        <source>Clear all</source>
-        <target state="new">Clear all</target>
+        <source>Clear All</source>
+        <target state="translated">Clear All</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
@@ -488,6 +488,11 @@
         <source>Copy e-mail address</source>
         <target state="new">Copy e-mail address</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Copy to %@" xml:space="preserve">
+        <source>Copy to %@</source>
+        <target state="new">Copy to %@</target>
+        <note>Shown in the context menu for a pin</note>
       </trans-unit>
       <trans-unit id="Credits" xml:space="preserve">
         <source>Credits</source>
@@ -545,8 +550,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Delete search history" xml:space="preserve">
-        <source>Delete search history</source>
-        <target state="new">Delete search history</target>
+        <source>Delete Search History</source>
+        <target state="translated">Delete Search History</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete the list &quot;%@&quot;?&#10;&#10;It currently has %lld pins.|==|plural.one" xml:space="preserve">
@@ -575,7 +580,7 @@ It currently has %2$lld pins.</target>
       <trans-unit id="Details" xml:space="preserve">
         <source>Details</source>
         <target state="new">Details</target>
-        <note/>
+        <note>Button in the sheet/overlay when a random pin is selected; when tapped it will navigate to this item's details view.</note>
       </trans-unit>
       <trans-unit id="Discover" xml:space="preserve">
         <source>Discover</source>
@@ -585,7 +590,7 @@ It currently has %2$lld pins.</target>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
         <target state="new">Done</target>
-        <note/>
+        <note>Button shown in the sheet/overlay when a random pin is selected; when tapped it will clear the overlay.</note>
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
         <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
@@ -933,6 +938,16 @@ It currently has %2$lld pins.</target>
         <source>More…</source>
         <target state="new">More…</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Move" xml:space="preserve">
+        <source>Move</source>
+        <target state="new">Move</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Move to %@" xml:space="preserve">
+        <source>Move to %@</source>
+        <target state="new">Move to %@</target>
+        <note>Shown in context menu for a pin</note>
       </trans-unit>
       <trans-unit id="Movie Poster" xml:space="preserve">
         <source>Movie Poster</source>
@@ -1314,6 +1329,11 @@ It currently has %2$lld pins.</target>
         <target state="new">Quickly place emoji on photos — for privacy or fun!</target>
         <note>MaskerAid subtitle in Settings</note>
       </trans-unit>
+      <trans-unit id="Random Pin" xml:space="preserve">
+        <source>Random Pin</source>
+        <target state="new">Random Pin</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Rate this version of Callsheet" xml:space="preserve">
         <source>Rate this version of Callsheet</source>
         <target state="new">Rate this version of Callsheet</target>
@@ -1572,7 +1592,7 @@ It currently has %2$lld pins.</target>
       <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
         <source>Starts a new Search within Callsheet.</source>
         <target state="new">Starts a new Search within Callsheet.</target>
-        <note/>
+        <note>For the search intent.</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
         <source>Subscribe</source>
@@ -1955,7 +1975,7 @@ It currently has %2$lld pins.</target>
   </file>
   <file original="Widgets/InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.1" build-num="16B40"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1977,7 +1997,7 @@ It currently has %2$lld pins.</target>
   </file>
   <file original="Widgets/Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.1" build-num="16B40"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
     </header>
     <body>
       <trans-unit id="Name or job in %@" xml:space="preserve">

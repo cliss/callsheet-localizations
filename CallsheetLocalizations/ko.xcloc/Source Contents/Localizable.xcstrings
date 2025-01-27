@@ -379,7 +379,15 @@
 
     },
     "Clear all" : {
-      "comment" : "Shown when clearing recent searches or search history"
+      "comment" : "Shown when clearing recent searches or search history",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear All"
+          }
+        }
+      }
     },
     "Close" : {
 
@@ -398,6 +406,9 @@
     },
     "Copy Error Information" : {
 
+    },
+    "Copy to %@" : {
+      "comment" : "Shown in the context menu for a pin"
     },
     "Credits" : {
       "comment" : "Shown as a header on the movie view for the mid- and post-credits scene icons"
@@ -433,7 +444,14 @@
 
     },
     "Delete search history" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Search History"
+          }
+        }
+      }
     },
     "Delete the list \"%@\"?\n\nIt currently has %lld pins." : {
       "localizations" : {
@@ -461,13 +479,13 @@
 
     },
     "Details" : {
-
+      "comment" : "Button in the sheet/overlay when a random pin is selected; when tapped it will navigate to this item's details view."
     },
     "Discover" : {
 
     },
     "Done" : {
-
+      "comment" : "Button shown in the sheet/overlay when a random pin is selected; when tapped it will clear the overlay."
     },
     "Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." : {
 
@@ -765,6 +783,12 @@
     "More…" : {
 
     },
+    "Move" : {
+
+    },
+    "Move to %@" : {
+      "comment" : "Shown in context menu for a pin"
+    },
     "Movie Poster" : {
 
     },
@@ -1020,6 +1044,9 @@
     "Quickly place emoji on photos — for privacy or fun!" : {
       "comment" : "MaskerAid subtitle in Settings"
     },
+    "Random Pin" : {
+
+    },
     "Rate this version of Callsheet" : {
 
     },
@@ -1181,7 +1208,7 @@
       "comment" : "Shown on the \"Buy Now\" button when subscribing"
     },
     "Starts a new Search within Callsheet." : {
-
+      "comment" : "For the search intent."
     },
     "Subscribe" : {
 

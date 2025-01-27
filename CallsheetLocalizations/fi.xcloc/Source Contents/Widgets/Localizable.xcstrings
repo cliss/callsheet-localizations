@@ -1,0 +1,72 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Name or job in %@" : {
+      "comment" : "Crew search prompt; I'll replace \"%@\" with the name of the media in question, so for the translation, please include \"%@\" where appropriate."
+    },
+    "Name or role in %@" : {
+      "comment" : "Cast search prompt; I'll replace \"%@\" with the name of the media in question, so for the translation, please include \"%@\" where appropriate."
+    },
+    "Open Pinned Items" : {
+
+    },
+    "Open Pins" : {
+
+    },
+    "Open the list of your pinned items" : {
+
+    },
+    "Open your pins in Callsheet" : {
+
+    },
+    "Perform your most recent search in Callsheet" : {
+
+    },
+    "pin" : {
+      "comment" : "Noun, a pin/favorite"
+    },
+    "Pin" : {
+      "comment" : "Noun, a pin/favorite"
+    },
+    "pinned items" : {
+
+    },
+    "Pinned Items" : {
+
+    },
+    "Recent Search" : {
+
+    },
+    "Repeat Last Search" : {
+
+    },
+    "Repeat Search" : {
+
+    },
+    "Repeats the most recent search." : {
+
+    },
+    "Search" : {
+
+    },
+    "Search Callsheet" : {
+
+    },
+    "Shows one or more of your most recent pinned items" : {
+
+    },
+    "Start a new search in Callsheet" : {
+
+    },
+    "Starts a new Search within Callsheet." : {
+
+    },
+    "Title or job" : {
+      "comment" : "Crew search prompt in the context of a single person (not a movie/show/etc)"
+    },
+    "Title or role" : {
+      "comment" : "Cast search prompt in the context of a single person (not a movie/show/etc)"
+    }
+  },
+  "version" : "1.0"
+}
