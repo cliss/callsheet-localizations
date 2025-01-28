@@ -1625,11 +1625,6 @@ Den inneholder %2$lld festede elementer.</target>
         <target state="translated">Sammendrag</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Switch list" xml:space="preserve">
-        <source>Switch list</source>
-        <target state="translated">Bytt liste</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="System" xml:space="preserve">
         <source>System</source>
         <target state="translated">System</target>

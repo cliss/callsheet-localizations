@@ -1622,11 +1622,6 @@ Er staan %2$lld items op.</target>
         <target state="translated">Samenvatting</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Switch list" xml:space="preserve">
-        <source>Switch list</source>
-        <target state="translated">Wissel van lijst</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="System" xml:space="preserve">
         <source>System</source>
         <target state="translated">Systeem</target>

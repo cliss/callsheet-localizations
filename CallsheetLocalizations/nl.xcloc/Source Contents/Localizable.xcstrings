@@ -1231,9 +1231,6 @@
     "Summary" : {
 
     },
-    "Switch list" : {
-      "extractionState" : "stale"
-    },
     "System" : {
       "comment" : "System theme; this represents \"the light/dark mode the device is in\" (other options are always light and always dark)"
     },

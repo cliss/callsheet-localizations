@@ -1677,10 +1677,6 @@ It currently has %2$lld pins.</source>
         <target state="translated">תקציר</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Switch list" xml:space="preserve">
-        <source>Switch list</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="System" xml:space="preserve">
         <source>System</source>
         <target state="translated">מערכת</target>

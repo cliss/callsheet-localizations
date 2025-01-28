@@ -1446,10 +1446,6 @@ It currently has %2$lld pins.</source>
         <source>Summary</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Switch list" xml:space="preserve">
-        <source>Switch list</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="System" xml:space="preserve">
         <source>System</source>
         <note>System theme; this represents "the light/dark mode the device is in" (other options are always light and always dark)</note>

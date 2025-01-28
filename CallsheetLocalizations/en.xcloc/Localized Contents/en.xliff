@@ -1629,11 +1629,6 @@ It currently has %2$lld pins.</target>
         <target state="new">Summary</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Switch list" xml:space="preserve">
-        <source>Switch list</source>
-        <target state="new">Switch list</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="System" xml:space="preserve">
         <source>System</source>
         <target state="new">System</target>
