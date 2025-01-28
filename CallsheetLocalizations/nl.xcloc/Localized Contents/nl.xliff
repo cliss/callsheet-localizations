@@ -488,6 +488,7 @@
       </trans-unit>
       <trans-unit id="Copy to %@" xml:space="preserve">
         <source>Copy to %@</source>
+        <target state="translated">Kopiëren naar %@</target>
         <note>Shown in the context menu for a pin</note>
       </trans-unit>
       <trans-unit id="Credits" xml:space="preserve">
@@ -937,10 +938,12 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="Move" xml:space="preserve">
         <source>Move</source>
+        <target state="translated">Beweging</target>
         <note/>
       </trans-unit>
       <trans-unit id="Move to %@" xml:space="preserve">
         <source>Move to %@</source>
+        <target state="translated">Verplaatsen naar %@</target>
         <note>Shown in context menu for a pin</note>
       </trans-unit>
       <trans-unit id="Movie Poster" xml:space="preserve">
@@ -1325,6 +1328,7 @@ Er staan %2$lld items op.</target>
       </trans-unit>
       <trans-unit id="Random Pin" xml:space="preserve">
         <source>Random Pin</source>
+        <target state="translated">Willekeurige pin</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rate this version of Callsheet" xml:space="preserve">

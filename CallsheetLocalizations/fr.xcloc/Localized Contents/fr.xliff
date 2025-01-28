@@ -686,6 +686,7 @@ Elle contient actuellement %2$lld favoris.</target>
       </trans-unit>
       <trans-unit id="Free search remaining" xml:space="preserve">
         <source>Free search remaining</source>
+        <target state="translated">Recherche libre restante</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
@@ -885,6 +886,7 @@ Elle contient actuellement %2$lld favoris.</target>
       </trans-unit>
       <trans-unit id="Long-Running Series" xml:space="preserve">
         <source>Long-Running Series</source>
+        <target state="translated">Série de longue durée</target>
         <note>Header shown on a person's credit list, for long-running series such as Saturday Night Live</note>
       </trans-unit>
       <trans-unit id="Macro State at %@" xml:space="preserve">
@@ -1334,6 +1336,7 @@ Elle contient actuellement %2$lld favoris.</target>
       </trans-unit>
       <trans-unit id="Recent Search" xml:space="preserve">
         <source>Recent Search</source>
+        <target state="translated">Recherche récente</target>
         <note/>
       </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">
@@ -1383,10 +1386,12 @@ Elle contient actuellement %2$lld favoris.</target>
       </trans-unit>
       <trans-unit id="Repeat Search" xml:space="preserve">
         <source>Repeat Search</source>
+        <target state="translated">Répéter la recherche</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeats the most recent search." xml:space="preserve">
         <source>Repeats the most recent search.</source>
+        <target state="translated">Répète la recherche la plus récente</target>
         <note/>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
@@ -1576,6 +1581,7 @@ Elle contient actuellement %2$lld favoris.</target>
       </trans-unit>
       <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
         <source>Starts a new Search within Callsheet.</source>
+        <target state="translated">Commence une nouvelle recherche dans Callsheet</target>
         <note>For the search intent.</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
