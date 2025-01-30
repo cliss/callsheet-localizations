@@ -216,6 +216,7 @@
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
+        <target state="translated">Añadir</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.one" xml:space="preserve">
@@ -235,10 +236,12 @@
       </trans-unit>
       <trans-unit id="Add list…" xml:space="preserve">
         <source>Add list…</source>
+        <target state="translated">Añadir lista…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add or Remove From Other Lists" xml:space="preserve">
         <source>Add or Remove From Other Lists</source>
+        <target state="translated">Añadir o quitar de otras listas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
@@ -298,6 +301,7 @@
       </trans-unit>
       <trans-unit id="Are You Sure?" xml:space="preserve">
         <source>Are You Sure?</source>
+        <target state="translated">¿Estás seguro?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
@@ -442,7 +446,7 @@
       </trans-unit>
       <trans-unit id="Clear all" xml:space="preserve">
         <source>Clear All</source>
-        <target state="needs-review-l10n">Limpiar todo</target>
+        <target state="translated">Limpiar todo</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
@@ -477,6 +481,7 @@
       </trans-unit>
       <trans-unit id="Copy to %@" xml:space="preserve">
         <source>Copy to %@</source>
+        <target state="translated">Copiar en %@</target>
         <note>Shown in the context menu for a pin</note>
       </trans-unit>
       <trans-unit id="Credits" xml:space="preserve">
@@ -536,23 +541,30 @@
       </trans-unit>
       <trans-unit id="Delete search history" xml:space="preserve">
         <source>Delete Search History</source>
-        <target state="needs-review-l10n">Borrar historial de búsquedas</target>
+        <target state="translated">Borrar historial de búsquedas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete the list &quot;%@&quot;?&#10;&#10;It currently has %lld pins.|==|plural.one" xml:space="preserve">
         <source>Delete the list "%1$@"?
 
 It currently has %2$lld pin.</source>
+        <target state="translated">¿Eliminar la lista “%1$@? 
+
+Actualmente tiene %2$lld elemento.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete the list &quot;%@&quot;?&#10;&#10;It currently has %lld pins.|==|plural.other" xml:space="preserve">
         <source>Delete the list "%1$@"?
 
 It currently has %2$lld pins.</source>
+        <target state="translated">¿Eliminar la lista “%1$@? 
+
+Actualmente tiene %2$lld elementos.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete this list?" xml:space="preserve">
         <source>Delete this list?</source>
+        <target state="translated">¿Eliminar esta lista?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
@@ -674,6 +686,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Free search remaining" xml:space="preserve">
         <source>Free search remaining</source>
+        <target state="translated">Búsqueda libre restante</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
@@ -858,6 +871,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="List Name" xml:space="preserve">
         <source>List Name</source>
+        <target state="translated">Nombre de la lista</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
@@ -872,6 +886,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Long-Running Series" xml:space="preserve">
         <source>Long-Running Series</source>
+        <target state="translated">Serie de larga duración</target>
         <note>Header shown on a person's credit list, for long-running series such as Saturday Night Live</note>
       </trans-unit>
       <trans-unit id="Macro State at %@" xml:space="preserve">
@@ -881,6 +896,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Manage Lists" xml:space="preserve">
         <source>Manage Lists</source>
+        <target state="translated">Administrar listas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
@@ -890,6 +906,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Manage lists…" xml:space="preserve">
         <source>Manage lists…</source>
+        <target state="translated">Administrar listas…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
@@ -914,10 +931,12 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Move" xml:space="preserve">
         <source>Move</source>
+        <target state="translated">Mover</target>
         <note/>
       </trans-unit>
       <trans-unit id="Move to %@" xml:space="preserve">
         <source>Move to %@</source>
+        <target state="translated">Mover a %@</target>
         <note>Shown in context menu for a pin</note>
       </trans-unit>
       <trans-unit id="Movie Poster" xml:space="preserve">
@@ -982,6 +1001,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="No" xml:space="preserve">
         <source>No</source>
+        <target state="translated">No</target>
         <note/>
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
@@ -1031,10 +1051,12 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="No pins" xml:space="preserve">
         <source>No pins</source>
+        <target state="translated">No hay elementos guardados</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pins found." xml:space="preserve">
         <source>No pins found.</source>
+        <target state="translated">No se encontraron elementos guardados.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No providers found." xml:space="preserve">
@@ -1079,10 +1101,12 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Open Pinned Items" xml:space="preserve">
         <source>Open Pinned Items</source>
+        <target state="translated">Abrir elementos guardados</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Pins" xml:space="preserve">
         <source>Open Pins</source>
+        <target state="translated">Abrir guardados</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open in browser" xml:space="preserve">
@@ -1092,6 +1116,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Open the list of your pinned items" xml:space="preserve">
         <source>Open the list of your pinned items</source>
+        <target state="translated">Abrir la lista de tus elementos guardados</target>
         <note/>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
@@ -1156,6 +1181,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Pin This Item" xml:space="preserve">
         <source>Pin This Item</source>
+        <target state="translated">Guardar este elemento</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pin Type" xml:space="preserve">
@@ -1180,10 +1206,12 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people." xml:space="preserve">
         <source>Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people.</source>
+        <target state="translated">Los elementos guardados se muestran en la parte superior de la pantalla principal cuando abres Callsheet. Puedes anclar películas, programas o personas.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pins" xml:space="preserve">
         <source>Pins</source>
+        <target state="translated">Elementos</target>
         <note/>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
@@ -1293,6 +1321,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Random Pin" xml:space="preserve">
         <source>Random Pin</source>
+        <target state="translated">Elemento guardado aleatorio</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rate this version of Callsheet" xml:space="preserve">
@@ -1307,6 +1336,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Recent Search" xml:space="preserve">
         <source>Recent Search</source>
+        <target state="translated">Búsqueda reciente</target>
         <note/>
       </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">
@@ -1356,10 +1386,12 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Repeat Search" xml:space="preserve">
         <source>Repeat Search</source>
+        <target state="translated">Repetir búsqueda</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeats the most recent search." xml:space="preserve">
         <source>Repeats the most recent search.</source>
+        <target state="translated">Repite la búsqueda más reciente.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
@@ -1549,6 +1581,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
         <source>Starts a new Search within Callsheet.</source>
+        <target state="translated">Inicia una nueva búsqueda dentro de Callsheet.</target>
         <note>For the search intent.</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
@@ -1613,6 +1646,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists." xml:space="preserve">
         <source>Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists.</source>
+        <target state="translated">Mantén presionado el pin en la barra de herramientas para ver un menú con más acciones. Usa esto como una forma rápida de agregar o quitar este elemento de otras listas.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
@@ -1637,6 +1671,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="There are a total of %lld lists and %lld pins." xml:space="preserve">
         <source>There are a total of %1$lld lists and %2$lld pins.</source>
+        <target state="translated">Hay un total de %1$lld listas y %2$lld elementos.</target>
         <note/>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
@@ -1786,6 +1821,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Yes" xml:space="preserve">
         <source>Yes</source>
+        <target state="translated">Sí</target>
         <note/>
       </trans-unit>
       <trans-unit id="You Can Help" xml:space="preserve">

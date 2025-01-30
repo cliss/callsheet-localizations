@@ -276,6 +276,7 @@
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
+        <target state="translated">Додати</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.few" xml:space="preserve">
@@ -305,10 +306,12 @@
       </trans-unit>
       <trans-unit id="Add list…" xml:space="preserve">
         <source>Add list…</source>
+        <target state="translated">Додати список…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add or Remove From Other Lists" xml:space="preserve">
         <source>Add or Remove From Other Lists</source>
+        <target state="translated">Додати або видалити з інших списків</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
@@ -368,6 +371,7 @@
       </trans-unit>
       <trans-unit id="Are You Sure?" xml:space="preserve">
         <source>Are You Sure?</source>
+        <target state="translated">Ви впевнені?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
@@ -512,7 +516,7 @@
       </trans-unit>
       <trans-unit id="Clear all" xml:space="preserve">
         <source>Clear All</source>
-        <target state="needs-review-l10n">Очистити</target>
+        <target state="translated">Очистити</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
@@ -547,6 +551,7 @@
       </trans-unit>
       <trans-unit id="Copy to %@" xml:space="preserve">
         <source>Copy to %@</source>
+        <target state="translated">Копіювати в %@</target>
         <note>Shown in the context menu for a pin</note>
       </trans-unit>
       <trans-unit id="Credits" xml:space="preserve">
@@ -606,35 +611,48 @@
       </trans-unit>
       <trans-unit id="Delete search history" xml:space="preserve">
         <source>Delete Search History</source>
-        <target state="needs-review-l10n">Видалити історію пошуків</target>
+        <target state="translated">Видалити історію пошуків</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete the list &quot;%@&quot;?&#10;&#10;It currently has %lld pins.|==|plural.few" xml:space="preserve">
         <source>Delete the list "%1$@"?
 
 It currently has %2$lld pins.</source>
+        <target state="translated">Видалити список "%1$@"?
+
+Наразі він має %2$lld контакти.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete the list &quot;%@&quot;?&#10;&#10;It currently has %lld pins.|==|plural.many" xml:space="preserve">
         <source>Delete the list "%1$@"?
 
 It currently has %2$lld pins.</source>
+        <target state="translated">Видалити список "%1$@"?
+
+Зараз він має %2$lld пінів.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete the list &quot;%@&quot;?&#10;&#10;It currently has %lld pins.|==|plural.one" xml:space="preserve">
         <source>Delete the list "%1$@"?
 
 It currently has %2$lld pin.</source>
+        <target state="translated">Видалити список "%1$@"?
+
+Наразі він має %2$lld шпильку.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete the list &quot;%@&quot;?&#10;&#10;It currently has %lld pins.|==|plural.other" xml:space="preserve">
         <source>Delete the list "%1$@"?
 
 It currently has %2$lld pins.</source>
+        <target state="translated">Видалити список "%1$@"?
+
+Зараз він має %2$lld пінів.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete this list?" xml:space="preserve">
         <source>Delete this list?</source>
+        <target state="translated">Видалити цей список?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
@@ -756,6 +774,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Free search remaining" xml:space="preserve">
         <source>Free search remaining</source>
+        <target state="translated">Залишився вільний пошук</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
@@ -940,6 +959,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="List Name" xml:space="preserve">
         <source>List Name</source>
+        <target state="translated">Назва списку</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
@@ -954,6 +974,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Long-Running Series" xml:space="preserve">
         <source>Long-Running Series</source>
+        <target state="translated">Тривала серія</target>
         <note>Header shown on a person's credit list, for long-running series such as Saturday Night Live</note>
       </trans-unit>
       <trans-unit id="Macro State at %@" xml:space="preserve">
@@ -963,6 +984,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Manage Lists" xml:space="preserve">
         <source>Manage Lists</source>
+        <target state="translated">Керування списками</target>
         <note/>
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
@@ -972,6 +994,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Manage lists…" xml:space="preserve">
         <source>Manage lists…</source>
+        <target state="translated">Керування спискамиv…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
@@ -996,10 +1019,12 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Move" xml:space="preserve">
         <source>Move</source>
+        <target state="translated">Перемістити</target>
         <note/>
       </trans-unit>
       <trans-unit id="Move to %@" xml:space="preserve">
         <source>Move to %@</source>
+        <target state="translated">Перемістити в %@</target>
         <note>Shown in context menu for a pin</note>
       </trans-unit>
       <trans-unit id="Movie Poster" xml:space="preserve">
@@ -1064,6 +1089,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="No" xml:space="preserve">
         <source>No</source>
+        <target state="translated">Ні</target>
         <note/>
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
@@ -1113,10 +1139,12 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="No pins" xml:space="preserve">
         <source>No pins</source>
+        <target state="translated">Немає закріплених</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pins found." xml:space="preserve">
         <source>No pins found.</source>
+        <target state="translated">Закріплені не знайдені.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No providers found." xml:space="preserve">
@@ -1161,10 +1189,12 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Open Pinned Items" xml:space="preserve">
         <source>Open Pinned Items</source>
+        <target state="translated">Відкрити закріплені</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Pins" xml:space="preserve">
         <source>Open Pins</source>
+        <target state="translated">Відкрити закріплені</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open in browser" xml:space="preserve">
@@ -1174,6 +1204,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Open the list of your pinned items" xml:space="preserve">
         <source>Open the list of your pinned items</source>
+        <target state="translated">Відкрити список ваших закріплених елементів</target>
         <note/>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
@@ -1248,6 +1279,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Pin This Item" xml:space="preserve">
         <source>Pin This Item</source>
+        <target state="translated">Закріпити цей елемент</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pin Type" xml:space="preserve">
@@ -1272,10 +1304,12 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people." xml:space="preserve">
         <source>Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people.</source>
+        <target state="translated">Закріплені елементи відображаються у верхній частині головного екрана, коли ви відкриваєте Таблицю викликів. Ви можете закріплювати фільми, шоу або людей.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pins" xml:space="preserve">
         <source>Pins</source>
+        <target state="translated">Шпильки</target>
         <note/>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
@@ -1385,6 +1419,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Random Pin" xml:space="preserve">
         <source>Random Pin</source>
+        <target state="translated">Випадковий закріплений елемент</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rate this version of Callsheet" xml:space="preserve">
@@ -1399,6 +1434,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Recent Search" xml:space="preserve">
         <source>Recent Search</source>
+        <target state="translated">Нещодавній пошук</target>
         <note/>
       </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">
@@ -1448,10 +1484,12 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Repeat Search" xml:space="preserve">
         <source>Repeat Search</source>
+        <target state="translated">Повторити пошук</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeats the most recent search." xml:space="preserve">
         <source>Repeats the most recent search.</source>
+        <target state="translated">Повторює останній пошук.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
@@ -1641,6 +1679,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
         <source>Starts a new Search within Callsheet.</source>
+        <target state="translated">Початок нового пошуку в таблиці викликів.</target>
         <note>For the search intent.</note>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
@@ -1705,6 +1744,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists." xml:space="preserve">
         <source>Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists.</source>
+        <target state="translated">Натисніть і утримуйте закріплений елемент на панелі інструментів, щоб побачити меню з додатковими діями. Використовуйте це як швидкий спосіб додати або видалити цей елемент з інших списків.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
@@ -1729,6 +1769,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="There are a total of %lld lists and %lld pins." xml:space="preserve">
         <source>There are a total of %1$lld lists and %2$lld pins.</source>
+        <target state="translated">Всього %1$lld списків і %2$lld закріплених.</target>
         <note/>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
@@ -1878,6 +1919,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Yes" xml:space="preserve">
         <source>Yes</source>
+        <target state="translated">Так</target>
         <note/>
       </trans-unit>
       <trans-unit id="You Can Help" xml:space="preserve">
