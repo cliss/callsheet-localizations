@@ -344,6 +344,11 @@
         <target state="translated">Усі повідомлення</target>
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
+      <trans-unit id="All Pins" xml:space="preserve">
+        <source>All Pins</source>
+        <target state="translated">Усі предмети</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="All Roles" xml:space="preserve">
         <source>All Roles</source>
         <target state="translated">Усі ролі</target>
@@ -1257,6 +1262,11 @@ It currently has %2$lld pins.</source>
         <target state="translated">Батьківський нагляд не буде показано для акторів та знімальної групи.</target>
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
       </trans-unit>
+      <trans-unit id="People" xml:space="preserve">
+        <source>People</source>
+        <target state="translated">Люди</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
         <source>Persnickety Preferences</source>
         <target state="translated">Прискіпливі параметри</target>
@@ -1640,6 +1650,11 @@ It currently has %2$lld pins.</source>
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
         <source>Show titles a person may be known from.</source>
         <target state="translated">Показувати медіа, завдяки яким людина може бути відомою.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Shows" xml:space="preserve">
+        <source>Shows</source>
+        <target state="translated">Показує</target>
         <note/>
       </trans-unit>
       <trans-unit id="So sorry!" xml:space="preserve">

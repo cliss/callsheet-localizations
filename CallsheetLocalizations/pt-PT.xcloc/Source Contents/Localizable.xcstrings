@@ -275,6 +275,9 @@
     "All Messages" : {
       "comment" : "Shown in the context of a semi-hidden debugging screen."
     },
+    "All Pins" : {
+
+    },
     "All Roles" : {
       "comment" : "When viewing a person, show their movie & TV acting roles"
     },
@@ -939,6 +942,9 @@
     "Parental guidance won't be shown for cast and crew." : {
       "comment" : "Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button"
     },
+    "People" : {
+
+    },
     "per %@" : {
       "comment" : "cost per period; ie \"per month\" or \"per year\""
     },
@@ -1184,6 +1190,9 @@
       "comment" : "Shown when trying to sell a subscription"
     },
     "Show titles a person may be known from." : {
+
+    },
+    "Shows" : {
 
     },
     "So sorry!" : {

@@ -262,6 +262,10 @@
         <target state="translated">Todas as Mensagens</target>
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
+      <trans-unit id="All Pins" xml:space="preserve">
+        <source>All Pins</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="All Roles" xml:space="preserve">
         <source>All Roles</source>
         <target state="translated">Todos os papéis</target>
@@ -1085,6 +1089,10 @@ It currently has %2$lld pins.</source>
         <target state="translated">Recomendações aos pais não será exibida para elenco e equipe.</target>
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
       </trans-unit>
+      <trans-unit id="People" xml:space="preserve">
+        <source>People</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
         <source>Persnickety Preferences</source>
         <target state="translated">Faniquitos</target>
@@ -1447,6 +1455,10 @@ It currently has %2$lld pins.</source>
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
         <source>Show titles a person may be known from.</source>
         <target state="translated">Títulos de programas pelos quais uma pessoa pode ser conhecida.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Shows" xml:space="preserve">
+        <source>Shows</source>
         <note/>
       </trans-unit>
       <trans-unit id="So sorry!" xml:space="preserve">

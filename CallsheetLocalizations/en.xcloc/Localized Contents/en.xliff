@@ -284,6 +284,11 @@
         <target state="new">All Messages</target>
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
+      <trans-unit id="All Pins" xml:space="preserve">
+        <source>All Pins</source>
+        <target state="new">All Pins</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="All Roles" xml:space="preserve">
         <source>All Roles</source>
         <target state="new">All Roles</target>
@@ -1169,6 +1174,11 @@ It currently has %2$lld pins.</target>
         <target state="new">Parental guidance won't be shown for cast and crew.</target>
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
       </trans-unit>
+      <trans-unit id="People" xml:space="preserve">
+        <source>People</source>
+        <target state="new">People</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
         <source>Persnickety Preferences</source>
         <target state="new">Persnickety Preferences</target>
@@ -1552,6 +1562,11 @@ It currently has %2$lld pins.</target>
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
         <source>Show titles a person may be known from.</source>
         <target state="new">Show titles a person may be known from.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Shows" xml:space="preserve">
+        <source>Shows</source>
+        <target state="new">Shows</target>
         <note/>
       </trans-unit>
       <trans-unit id="So sorry!" xml:space="preserve">

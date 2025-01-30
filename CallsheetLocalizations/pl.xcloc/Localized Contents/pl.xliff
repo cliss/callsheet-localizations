@@ -344,6 +344,11 @@
         <target state="translated">Wszystkie wiadomości</target>
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
+      <trans-unit id="All Pins" xml:space="preserve">
+        <source>All Pins</source>
+        <target state="translated">Wszystkie elementy</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="All Roles" xml:space="preserve">
         <source>All Roles</source>
         <target state="translated">Wszystkie role</target>
@@ -1256,6 +1261,11 @@ Obecnie zawiera %2$lld elementów.</target>
         <target state="translated">Ograniczenie wiekowe nie będzie pokazywane dla obsady i ekipy.</target>
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
       </trans-unit>
+      <trans-unit id="People" xml:space="preserve">
+        <source>People</source>
+        <target state="translated">Ludzie</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
         <source>Persnickety Preferences</source>
         <target state="translated">Opcje dla wybrednych</target>
@@ -1639,6 +1649,11 @@ Obecnie zawiera %2$lld elementów.</target>
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
         <source>Show titles a person may be known from.</source>
         <target state="translated">Pokaż tytuły, z których dana osoba może być znana.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Shows" xml:space="preserve">
+        <source>Shows</source>
+        <target state="translated">Widać</target>
         <note/>
       </trans-unit>
       <trans-unit id="So sorry!" xml:space="preserve">
