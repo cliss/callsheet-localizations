@@ -1,9 +1,9 @@
 /* Privacy - Local Network Usage Description */
-"NSLocalNetworkUsageDescription" = "Jos Callsheet voi käyttää paikallista verkkoasi, se voi mahdollisesti näyttää linkkejä mitä olet juuri katsomassa päänäytölläsi. Tämän käyttö on täysin vapaaehtoista. Mitään dataa verkostasi ei lähetetä laitteeltasi";
+"NSLocalNetworkUsageDescription" = "If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.";
 
 /* (No Comment) */
-"Search" = "Etsi";
+"Search" = "Search";
 
 /* (No Comment) */
-"Title, cast, or crew" = "Otsikko, näyttelijät tai työryhmä";
+"Title, cast, or crew" = "Title, cast, or crew";
 

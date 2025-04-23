@@ -1,6 +1,15 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "%lld" : {
+
+    },
+    "Callsheet app icon" : {
+
+    },
+    "E" : {
+      "comment" : "Abbreviation for a TV episode; in English, short for \"Episode\"."
+    },
     "Name or job in %@" : {
       "comment" : "Crew search prompt; I'll replace \"%@\" with the name of the media in question, so for the translation, please include \"%@\" where appropriate."
     },
@@ -34,6 +43,9 @@
     "Pinned Items" : {
 
     },
+    "Poster for %@" : {
+
+    },
     "Recent Search" : {
 
     },
@@ -45,6 +57,9 @@
     },
     "Repeats the most recent search." : {
 
+    },
+    "S" : {
+      "comment" : "Abbreviation for a TV season; in English, short for \"Season\"."
     },
     "Search" : {
 

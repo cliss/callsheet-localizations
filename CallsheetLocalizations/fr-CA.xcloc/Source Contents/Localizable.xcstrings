@@ -184,6 +184,39 @@
         }
       }
     },
+    "%lld year old, %lld now" : {
+      "comment" : "The age of an actor at the time a piece of media was released, as well as now. For example, \"34 years old, 73 now\"",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@arg1@ old, %2$lld now"
+          },
+          "substitutions" : {
+            "arg1" : {
+              "argNum" : 1,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg year"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg years"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "%lld years" : {
       "comment" : "How old a person was when they passed"
     },
@@ -260,6 +293,9 @@
     "Add Pin" : {
 
     },
+    "Add to %@" : {
+      "comment" : "Accessibility label for a context menu item that lets a user add an object to a list"
+    },
     "Ads" : {
       "comment" : "A kind of service to watch media on. Contrast with \"Free\", \"Rent\", \"Buy\", \"Subscription\""
     },
@@ -335,6 +371,9 @@
     "Buy" : {
       "comment" : "A kind of service to watch media on. Contrast with \"Free\", \"Ads\", \"Rent\", \"Subscription\""
     },
+    "Callsheet app icon" : {
+      "comment" : "Accessibility label for callsheet's icon in live activities"
+    },
     "Callsheet couldn't parse the information from The Movie Database." : {
 
     },
@@ -377,6 +416,9 @@
     "Choose spoiler-risky things to hide by default." : {
       "comment" : "Subtitle for a row in Settings",
       "extractionState" : "manual"
+    },
+    "Choose which links you'd like available when using Callsheet." : {
+      "comment" : "Headline for the Select Links view"
     },
     "Clear" : {
 
@@ -443,6 +485,9 @@
     "Default Spoiler Settings" : {
 
     },
+    "Delete" : {
+      "comment" : "Used in the context of an \"Are you sure?\" prompt when deleting a pin"
+    },
     "Delete recent searches" : {
 
     },
@@ -489,6 +534,9 @@
     },
     "Done" : {
       "comment" : "Button shown in the sheet/overlay when a random pin is selected; when tapped it will clear the overlay."
+    },
+    "E" : {
+      "comment" : "Abbreviation for a TV episode; in English, short for \"Episode\"."
     },
     "Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." : {
 
@@ -771,6 +819,9 @@
     "Manage lists…" : {
 
     },
+    "Manage Pins" : {
+      "comment" : "Title for context menu section"
+    },
     "Manage Subscription" : {
 
     },
@@ -828,8 +879,11 @@
     "Next Episode" : {
 
     },
+    "Next movie in %@" : {
+      "comment" : "Toolbar arrow to go forward a movie within a collection. Say, Empire Strikes Back → Return of the Jedi"
+    },
     "No" : {
-
+      "extractionState" : "stale"
     },
     "No credits found." : {
       "comment" : "Shown when a person has no cast nor crew credits"
@@ -888,8 +942,8 @@
     "Oldest First" : {
       "comment" : "When setting sort order"
     },
-    "Open in browser" : {
-      "comment" : "Shown on the share menu to open the active screen on the web"
+    "Open Callsheet" : {
+      "comment" : "Description for app shortcut"
     },
     "Open Pinned Items" : {
 
@@ -1014,11 +1068,17 @@
     "Poster" : {
 
     },
+    "Poster for %@" : {
+      "comment" : "Accessibility label for posters shown in live activities"
+    },
     "Prevent giving away spoilers by choosing to redact details." : {
 
     },
     "Preview" : {
 
+    },
+    "Previous movie in %@" : {
+      "comment" : "Toolbar arrow to go backward a movie within a collection. Say, Return of the Jedi → Empire Strikes Back"
     },
     "Privacy Policy" : {
 
@@ -1080,6 +1140,9 @@
     "Releases" : {
       "comment" : "When a TV episode or movie will be released"
     },
+    "Remove from %@" : {
+      "comment" : "Accessibility label for a context menu item that lets a user remove an object from a pin list"
+    },
     "Remove pin" : {
 
     },
@@ -1115,6 +1178,9 @@
     },
     "Runtime" : {
       "comment" : "Heading for the total runtime of a TV episode"
+    },
+    "S" : {
+      "comment" : "Abbreviation for a TV season; in English, short for \"Season\"."
     },
     "Same perks as all other plans" : {
       "comment" : "Shown when trying to sell a subscription"
@@ -1153,6 +1219,9 @@
     "Select a View" : {
       "comment" : "Shown when choosing between cast & crew"
     },
+    "Select Links" : {
+      "comment" : "Title for the Select Links screen; this screen lets you customize which links are available when using Callsheet"
+    },
     "Send Feedback" : {
       "extractionState" : "manual"
     },
@@ -1162,10 +1231,7 @@
     "Share" : {
 
     },
-    "Share Callsheet link…" : {
-
-    },
-    "Share web link…" : {
+    "Share…" : {
 
     },
     "Shared image" : {
@@ -1216,8 +1282,14 @@
     "Start %@ Free Trial" : {
       "comment" : "Shown on the \"Buy Now\" button when subscribing"
     },
+    "Start Live Activity" : {
+
+    },
     "Starts a new Search within Callsheet." : {
       "comment" : "For the search intent."
+    },
+    "Stop Live Activity" : {
+
     },
     "Subscribe" : {
 
@@ -1257,6 +1329,9 @@
     },
     "Thank you for trying out Callsheet. 💙" : {
 
+    },
+    "The Quick Access Link cannot be disabled." : {
+      "comment" : "Message associated with the link that is currently the user's Quick Access Link; this link cannot be disabled."
     },
     "Theme" : {
       "comment" : "Persnickety Preference for light/dark/system theme"
@@ -1375,7 +1450,7 @@
       "comment" : "Shown as a header for a year in a person's filmography; \"52 - 53 years old"
     },
     "Yes" : {
-
+      "extractionState" : "stale"
     },
     "You can be second! That’s pretty great!" : {
       "comment" : "Shown to try to encourage the user to rate the app"

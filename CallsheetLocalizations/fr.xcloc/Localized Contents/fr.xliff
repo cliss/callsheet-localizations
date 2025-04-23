@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Flookup/en.lproj/AppShortcuts.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
       <trans-unit id="Open ${applicationName} favorites" xml:space="preserve">
@@ -49,7 +49,7 @@
   </file>
   <file original="Flookup/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -63,17 +63,17 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
-        <source>Jos Callsheet voi käyttää paikallista verkkoasi, se voi mahdollisesti näyttää linkkejä mitä olet juuri katsomassa päänäytölläsi. Tämän käyttö on täysin vapaaehtoista. Mitään dataa verkostasi ei lähetetä laitteeltasi</source>
+        <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
         <target>Si Callsheet peut utiliser votre réseau local, il peut afficher des liens vers ce que vous regardez sur l’écran principal. Autoriser l’accès au réseau local est totalement optionnel. Aucune données de votre réseau ne sont envoyées à l’extérieur.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
-        <source>Etsi</source>
+        <source>Search</source>
         <target>Recherche</target>
         <note>(No Comment)</note>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
-        <source>Otsikko, näyttelijät tai työryhmä</source>
+        <source>Title, cast, or crew</source>
         <target>Titre, distribution ou équipe</target>
         <note>(No Comment)</note>
       </trans-unit>
@@ -81,7 +81,7 @@
   </file>
   <file original="Localizable.xcstrings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
@@ -174,6 +174,21 @@
         <target state="translated">%1$lld sur %2$lld</target>
         <note/>
       </trans-unit>
+      <trans-unit id="%lld year old, %lld now" xml:space="preserve">
+        <source>%1$#@arg1@ old, %2$lld now</source>
+        <target state="translated">%1$#@arg1@, %2$lld aujourd’hui</target>
+        <note>The age of an actor at the time a piece of media was released, as well as now. For example, "34 years old, 73 now"</note>
+      </trans-unit>
+      <trans-unit id="%lld year old, %lld now|==|substitutions.arg1.plural.one" xml:space="preserve">
+        <source>%1$lld year</source>
+        <target state="translated">%1$lld an</target>
+        <note>The age of an actor at the time a piece of media was released, as well as now. For example, "34 years old, 73 now"</note>
+      </trans-unit>
+      <trans-unit id="%lld year old, %lld now|==|substitutions.arg1.plural.other" xml:space="preserve">
+        <source>%1$lld years</source>
+        <target state="translated">%1$lld ans</target>
+        <note>The age of an actor at the time a piece of media was released, as well as now. For example, "34 years old, 73 now"</note>
+      </trans-unit>
       <trans-unit id="%lld year old|==|plural.one" xml:space="preserve">
         <source>%lld year old</source>
         <target state="translated">%lld an</target>
@@ -248,6 +263,11 @@
         <source>Add pin</source>
         <target state="translated">Épingler</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Add to %@" xml:space="preserve">
+        <source>Add to %@</source>
+        <target state="translated">Ajouter à %@</target>
+        <note>Accessibility label for a context menu item that lets a user add an object to a list</note>
       </trans-unit>
       <trans-unit id="Ads" xml:space="preserve">
         <source>Ads</source>
@@ -379,6 +399,11 @@
         <target state="translated">Callsheet Prémium</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Callsheet app icon" xml:space="preserve">
+        <source>Callsheet app icon</source>
+        <target state="translated">Icône de l’app Callsheet</target>
+        <note>Accessibility label for callsheet's icon in live activities</note>
+      </trans-unit>
       <trans-unit id="Callsheet couldn't parse the information from The Movie Database." xml:space="preserve">
         <source>Callsheet couldn't parse the information from The Movie Database.</source>
         <target state="translated">Callsheet n’a pas pu analyser les informations de « The Movie Database ».</target>
@@ -443,6 +468,11 @@
         <source>Choose spoiler-risky things to hide by default.</source>
         <target state="translated">Choissisez les spoilers potentiels à cacher par défaut.</target>
         <note>Subtitle for a row in Settings</note>
+      </trans-unit>
+      <trans-unit id="Choose which links you'd like available when using Callsheet." xml:space="preserve">
+        <source>Choose which links you'd like available when using Callsheet.</source>
+        <target state="translated">Choisissez les liens que vous souhaitez rendre disponibles lors de l’utilisation de Callsheet.</target>
+        <note>Headline for the Select Links view</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
         <source>Clear</source>
@@ -539,6 +569,11 @@
         <target state="translated">Réglages de Spoilers par Défaut</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target state="translated">Supprimer</target>
+        <note>Used in the context of an "Are you sure?" prompt when deleting a pin</note>
+      </trans-unit>
       <trans-unit id="Delete recent searches" xml:space="preserve">
         <source>Delete recent searches</source>
         <target state="translated">Effacer les recherches récentes</target>
@@ -586,6 +621,11 @@ Elle contient actuellement %2$lld favoris.</target>
         <source>Done</source>
         <target state="translated">OK</target>
         <note>Button shown in the sheet/overlay when a random pin is selected; when tapped it will clear the overlay.</note>
+      </trans-unit>
+      <trans-unit id="E" xml:space="preserve">
+        <source>E</source>
+        <target state="translated">É</target>
+        <note>Abbreviation for a TV episode; in English, short for "Episode".</note>
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
         <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
@@ -904,6 +944,11 @@ Elle contient actuellement %2$lld favoris.</target>
         <target state="translated">Gérer les listes</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Manage Pins" xml:space="preserve">
+        <source>Manage Pins</source>
+        <target state="translated">Gérer les épingles</target>
+        <note>Title for context menu section</note>
+      </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
         <source>Manage Subscription</source>
         <target state="translated">Gérer l’Abonnement</target>
@@ -1003,6 +1048,11 @@ Elle contient actuellement %2$lld favoris.</target>
         <source>Next Episode</source>
         <target state="translated">Épisode suivant</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Next movie in %@" xml:space="preserve">
+        <source>Next movie in %@</source>
+        <target state="translated">Film suivant dans %@</target>
+        <note>Toolbar arrow to go forward a movie within a collection. Say, Empire Strikes Back → Return of the Jedi</note>
       </trans-unit>
       <trans-unit id="No" xml:space="preserve">
         <source>No</source>
@@ -1104,6 +1154,11 @@ Elle contient actuellement %2$lld favoris.</target>
         <target state="translated">Les Plus Ancien en Premier</target>
         <note>When setting sort order</note>
       </trans-unit>
+      <trans-unit id="Open Callsheet" xml:space="preserve">
+        <source>Open Callsheet</source>
+        <target state="translated">Ouvrir Callsheet</target>
+        <note>Description for app shortcut</note>
+      </trans-unit>
       <trans-unit id="Open Pinned Items" xml:space="preserve">
         <source>Open Pinned Items</source>
         <target state="translated">Ouvrir Les Favoris</target>
@@ -1113,11 +1168,6 @@ Elle contient actuellement %2$lld favoris.</target>
         <source>Open Pins</source>
         <target state="translated">Ouvrir les favoris</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Open in browser" xml:space="preserve">
-        <source>Open in browser</source>
-        <target state="translated">Ouvrir dans le navigateur</target>
-        <note>Shown on the share menu to open the active screen on the web</note>
       </trans-unit>
       <trans-unit id="Open the list of your pinned items" xml:space="preserve">
         <source>Open the list of your pinned items</source>
@@ -1269,6 +1319,11 @@ Elle contient actuellement %2$lld favoris.</target>
         <target state="translated">Affiche</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Poster for %@" xml:space="preserve">
+        <source>Poster for %@</source>
+        <target state="translated">Affiche pour %@</target>
+        <note>Accessibility label for posters shown in live activities</note>
+      </trans-unit>
       <trans-unit id="Prevent giving away spoilers by choosing to redact details." xml:space="preserve">
         <source>Prevent giving away spoilers by choosing to redact details.</source>
         <target state="translated">Empêcher les spoilers en choisissant d’expurger les détails</target>
@@ -1278,6 +1333,11 @@ Elle contient actuellement %2$lld favoris.</target>
         <source>Preview</source>
         <target state="translated">Prévisualisation</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Previous movie in %@" xml:space="preserve">
+        <source>Previous movie in %@</source>
+        <target state="translated">Film précédent dans %@</target>
+        <note>Toolbar arrow to go backward a movie within a collection. Say, Return of the Jedi → Empire Strikes Back</note>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
         <source>Privacy Policy</source>
@@ -1384,6 +1444,11 @@ Elle contient actuellement %2$lld favoris.</target>
         <target state="translated">Enlever Épingle</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Remove from %@" xml:space="preserve">
+        <source>Remove from %@</source>
+        <target state="translated">Retirer de %@</target>
+        <note>Accessibility label for a context menu item that lets a user remove an object from a pin list</note>
+      </trans-unit>
       <trans-unit id="Remove pin" xml:space="preserve">
         <source>Remove pin</source>
         <target state="translated">Enlever épingle</target>
@@ -1439,6 +1504,11 @@ Elle contient actuellement %2$lld favoris.</target>
         <target state="translated">Durée</target>
         <note>Heading for the total runtime of a TV episode</note>
       </trans-unit>
+      <trans-unit id="S" xml:space="preserve">
+        <source>S</source>
+        <target state="translated">S</target>
+        <note>Abbreviation for a TV season; in English, short for "Season".</note>
+      </trans-unit>
       <trans-unit id="Same perks as all other plans" xml:space="preserve">
         <source>Same perks as all other plans</source>
         <target state="translated">Mêmes avantages que les autres choix</target>
@@ -1484,6 +1554,11 @@ Elle contient actuellement %2$lld favoris.</target>
         <target state="translated">Saisons</target>
         <note>Navigation title for the screen showing the seasons of a TV show; NOT spring/summer</note>
       </trans-unit>
+      <trans-unit id="Select Links" xml:space="preserve">
+        <source>Select Links</source>
+        <target state="translated">Sélectionner les liens</target>
+        <note>Title for the Select Links screen; this screen lets you customize which links are available when using Callsheet</note>
+      </trans-unit>
       <trans-unit id="Select a View" xml:space="preserve">
         <source>Select a View</source>
         <target state="translated">Choisir une Vue</target>
@@ -1504,20 +1579,15 @@ Elle contient actuellement %2$lld favoris.</target>
         <target state="translated">Partager</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Share Callsheet link…" xml:space="preserve">
-        <source>Share Callsheet link…</source>
-        <target state="translated">Partager un lien Callsheet...</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Share web link…" xml:space="preserve">
-        <source>Share web link…</source>
-        <target state="translated">Partager un lien internet</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Shared image" xml:space="preserve">
         <source>Shared image</source>
         <target state="translated">Image partagée</target>
         <note>Export preview</note>
+      </trans-unit>
+      <trans-unit id="Share…" xml:space="preserve">
+        <source>Share…</source>
+        <target state="translated">Partager…</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Show Poster" xml:space="preserve">
         <source>Show Poster</source>
@@ -1594,10 +1664,20 @@ Elle contient actuellement %2$lld favoris.</target>
         <target state="translated">Commencer %@ l’essai gratuit</target>
         <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
+      <trans-unit id="Start Live Activity" xml:space="preserve">
+        <source>Start Live Activity</source>
+        <target state="translated">Démarrer l’activité en direct</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
         <source>Starts a new Search within Callsheet.</source>
         <target state="translated">Commence une nouvelle recherche dans Callsheet</target>
         <note>For the search intent.</note>
+      </trans-unit>
+      <trans-unit id="Stop Live Activity" xml:space="preserve">
+        <source>Stop Live Activity</source>
+        <target state="translated">Arrêter l’activité en direct</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
         <source>Subscribe</source>
@@ -1678,6 +1758,11 @@ Elle contient actuellement %2$lld favoris.</target>
         <source>Thank you for trying out Callsheet. 💙</source>
         <target state="translated">Merci d’avoir essayé Callsheet. 💙</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="The Quick Access Link cannot be disabled." xml:space="preserve">
+        <source>The Quick Access Link cannot be disabled.</source>
+        <target state="translated">Le lien d’accès rapide ne peut pas être désactivé.</target>
+        <note>Message associated with the link that is currently the user's Quick Access Link; this link cannot be disabled.</note>
       </trans-unit>
       <trans-unit id="Theme" xml:space="preserve">
         <source>Theme</source>
@@ -1974,7 +2059,7 @@ Elle contient actuellement %2$lld favoris.</target>
   </file>
   <file original="Widgets/InfoPlist.xcstrings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1993,9 +2078,21 @@ Elle contient actuellement %2$lld favoris.</target>
   </file>
   <file original="Widgets/Localizable.xcstrings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
+      <trans-unit id="%lld" xml:space="preserve">
+        <source>%lld</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Callsheet app icon" xml:space="preserve">
+        <source>Callsheet app icon</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="E" xml:space="preserve">
+        <source>E</source>
+        <note>Abbreviation for a TV episode; in English, short for "Episode".</note>
+      </trans-unit>
       <trans-unit id="Name or job in %@" xml:space="preserve">
         <source>Name or job in %@</source>
         <note>Crew search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
@@ -2032,6 +2129,10 @@ Elle contient actuellement %2$lld favoris.</target>
         <source>Pinned Items</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Poster for %@" xml:space="preserve">
+        <source>Poster for %@</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Recent Search" xml:space="preserve">
         <source>Recent Search</source>
         <note/>
@@ -2047,6 +2148,10 @@ Elle contient actuellement %2$lld favoris.</target>
       <trans-unit id="Repeats the most recent search." xml:space="preserve">
         <source>Repeats the most recent search.</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="S" xml:space="preserve">
+        <source>S</source>
+        <note>Abbreviation for a TV season; in English, short for "Season".</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
         <source>Search</source>
