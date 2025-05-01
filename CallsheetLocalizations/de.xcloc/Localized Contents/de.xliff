@@ -241,7 +241,7 @@
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.other" xml:space="preserve">
         <source>Add %lld Free Searches</source>
-        <target state="translated">Füge %lld konstenlose Suchen hinzu</target>
+        <target state="translated">Füge %lld kostenlose Suchen hinzu</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
@@ -256,7 +256,7 @@
       </trans-unit>
       <trans-unit id="Add or Remove From Other Lists" xml:space="preserve">
         <source>Add or Remove From Other Lists</source>
-        <target state="translated">Zu anderen listen hinzufügen oder daraus entfernen</target>
+        <target state="translated">Zu anderen Listen hinzufügen oder daraus entfernen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
@@ -766,7 +766,7 @@ Sie enthält derzeit %2$lld pins.</target>
       </trans-unit>
       <trans-unit id="Hand your phone to someone knowing they **cannot mess up your photos**." xml:space="preserve">
         <source>Hand your phone to someone knowing they **cannot mess up your photos**.</source>
-        <target state="translated">**Deine Fotos sind in sicheren Händen**, selbst wenn dein Handy grad nicht in deinen ist.</target>
+        <target state="translated">**Deine Fotos sind in sicheren Händen**, selbst wenn dein Handy gerade nicht in deinen ist.</target>
         <note>Peek-a-View subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Height" xml:space="preserve">
@@ -1161,7 +1161,7 @@ Sie enthält derzeit %2$lld pins.</target>
       </trans-unit>
       <trans-unit id="Open Pinned Items" xml:space="preserve">
         <source>Open Pinned Items</source>
-        <target state="translated">Öffne Angepinnte Inhalte</target>
+        <target state="translated">Öffne angepinnte Inhalte</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Pins" xml:space="preserve">
@@ -1201,7 +1201,7 @@ Sie enthält derzeit %2$lld pins.</target>
       </trans-unit>
       <trans-unit id="Other settings for more _particular_ users." xml:space="preserve">
         <source>Other settings for more _particular_ users.</source>
-        <target state="translated">Weitere Einstellungen für _besondere_ Nutzende.</target>
+        <target state="translated">Weitere Einstellungen für _wählerische_ Nutzende.</target>
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
@@ -1221,12 +1221,12 @@ Sie enthält derzeit %2$lld pins.</target>
       </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
         <source>Persnickety Preferences</source>
-        <target state="translated">Pingelige Präferenzen</target>
+        <target state="translated">Penible Einstellungen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Persnickety Prefs" xml:space="preserve">
         <source>Persnickety Prefs</source>
-        <target state="translated">Pingelige Präferenzen</target>
+        <target state="translated">Penible Einstellungen</target>
         <note>Navigation title for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Pick a country" xml:space="preserve">
@@ -1266,7 +1266,7 @@ Sie enthält derzeit %2$lld pins.</target>
       </trans-unit>
       <trans-unit id="Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people." xml:space="preserve">
         <source>Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people.</source>
-        <target state="translated">Angehäftete Elemente werden oben auf dem Hauptbildschirm angezeigt, wenn Sie Callsheet öffnen. Sie können Filme, Serien oder Personen anheften.</target>
+        <target state="translated">Angeheftete Elemente werden oben auf dem Hauptbildschirm angezeigt, wenn du Callsheet öffnest. Du kannst Filme, Serien oder Personen anheften.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pins" xml:space="preserve">
@@ -1281,7 +1281,7 @@ Sie enthält derzeit %2$lld pins.</target>
       </trans-unit>
       <trans-unit id="Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet." xml:space="preserve">
         <source>Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet.</source>
-        <target state="translated">Bitte löse dein Zahlungsproblem so schnell du kannst im App Store, um Callsheet weiter nutzen zu können.</target>
+        <target state="translated">Bitte löse dein Zahlungsproblem zeitnah im App Store, um Callsheet weiter nutzen zu können.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
@@ -1441,7 +1441,7 @@ Sie enthält derzeit %2$lld pins.</target>
       </trans-unit>
       <trans-unit id="Remove Pin" xml:space="preserve">
         <source>Remove Pin</source>
-        <target state="translated">Pin Löschen</target>
+        <target state="translated">Pin löschen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove from %@" xml:space="preserve">
@@ -1591,12 +1591,12 @@ Sie enthält derzeit %2$lld pins.</target>
       </trans-unit>
       <trans-unit id="Show Poster" xml:space="preserve">
         <source>Show Poster</source>
-        <target state="translated">Plakat anzeigen</target>
+        <target state="translated">Poster anzeigen</target>
         <note>Accessibility label</note>
       </trans-unit>
       <trans-unit id="Show Poster Placeholder" xml:space="preserve">
         <source>Show Poster Placeholder</source>
-        <target state="translated">Serienplatzhalterplakat</target>
+        <target state="translated">Serienplatzhalterposter</target>
         <note>Shown in an accessibility label</note>
       </trans-unit>
       <trans-unit id="Show Spoilers" xml:space="preserve">
@@ -1611,7 +1611,7 @@ Sie enthält derzeit %2$lld pins.</target>
       </trans-unit>
       <trans-unit id="Show movies, shows, or both in credit lists." xml:space="preserve">
         <source>Show movies, shows, or both in credit lists.</source>
-        <target state="translated">Zeige Filme, TV Sendungen oder beides in der Liste der Credits an.</target>
+        <target state="translated">Zeige Filme, Serien oder beides in der Liste der Credits an.</target>
         <note>Persnickety Preferences subtitle</note>
       </trans-unit>
       <trans-unit id="Show that you _really_ care" xml:space="preserve">
@@ -1741,7 +1741,7 @@ Sie enthält derzeit %2$lld pins.</target>
       </trans-unit>
       <trans-unit id="Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists." xml:space="preserve">
         <source>Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists.</source>
-        <target state="translated">Halten Sie die Pin-Schaltfläche in der Symbolleiste gedrückt, um ein Menü mit weiteren Aktionen anzuzeigen. Verwenden Sie dies, um dieses Element schnell zu anderen Listen hinzuzufügen oder daraus zu entfernen.</target>
+        <target state="translated">Halte das Pin-Symbol in der Symbolleiste gedrückt, um ein Menü mit weiteren Aktionen anzuzeigen. Verwende dies, um dieses Element schnell zu anderen Listen hinzuzufügen oder daraus zu entfernen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
@@ -1756,7 +1756,7 @@ Sie enthält derzeit %2$lld pins.</target>
       </trans-unit>
       <trans-unit id="Thank you for trying out Callsheet. 💙" xml:space="preserve">
         <source>Thank you for trying out Callsheet. 💙</source>
-        <target state="translated">Danke, dass du Callsheet ausprobiert hast. 💙</target>
+        <target state="translated">Danke, dass du Callsheet ausprobierst. 💙</target>
         <note/>
       </trans-unit>
       <trans-unit id="The Quick Access Link cannot be disabled." xml:space="preserve">
@@ -1886,7 +1886,7 @@ Sie enthält derzeit %2$lld pins.</target>
       </trans-unit>
       <trans-unit id="Which browser to use to open external links." xml:space="preserve">
         <source>Which browser to use to open external links.</source>
-        <target state="translated">Wähle einen Browser, der zum Öffnen externer Verknüpfungen genutzt werden soll.</target>
+        <target state="translated">Wähle einen Browser, der zum Öffnen externer Links genutzt werden soll.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Which quick access link is shown." xml:space="preserve">
@@ -2013,12 +2013,12 @@ Sie enthält derzeit %2$lld pins.</target>
       </trans-unit>
       <trans-unit id="Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
         <source>Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription.</source>
-        <target state="translated">Dein Abo ist abgelaufen. Um weiterhin Callsheet zu nutzen, schließe ein neues Abo ab.</target>
+        <target state="translated">Dein Abo ist abgelaufen. Um Callsheet weiterhin zu nutzen, schließe ein neues Abo ab.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
         <source>Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</source>
-        <target state="translated">Dein Abo wurde erstattet oder anderweitig aufgelöst. Um weiterhin Callsheet zu nutzen, schließe ein neues Abo ab.</target>
+        <target state="translated">Dein Abo wurde erstattet oder anderweitig aufgelöst. Um Callsheet weiterhin zu nutzen, schließe ein neues Abo ab.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
