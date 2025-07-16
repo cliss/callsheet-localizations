@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Flookup/en.lproj/AppShortcuts.strings" datatype="plaintext" source-language="en" target-language="sv">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="Open ${applicationName} favorites" xml:space="preserve">
@@ -49,7 +49,7 @@
   </file>
   <file original="Flookup/en.lproj/InfoPlist.strings" source-language="en" target-language="sv" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -81,7 +81,7 @@
   </file>
   <file original="Localizable.xcstrings" source-language="en" target-language="sv" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
@@ -139,6 +139,16 @@
         <target state="translated">%lld Säsonger</target>
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
+      <trans-unit id="%lld credits|==|plural.one" xml:space="preserve">
+        <source>%lld credit</source>
+        <target state="translated">%lld roll</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld credits|==|plural.other" xml:space="preserve">
+        <source>%lld credits</source>
+        <target state="translated">%lld roller</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="%lld episode|==|plural.one" xml:space="preserve">
         <source>%lld episode</source>
         <target state="translated">%lld avsnitt</target>
@@ -169,50 +179,30 @@
         <target state="translated">%lld minuter</target>
         <note/>
       </trans-unit>
+      <trans-unit id="%lld now" xml:space="preserve">
+        <source>%lld now</source>
+        <target state="translated">nu %lld år</target>
+        <note>The age of an actor right now. Part of a larger string. For example, "34 years old, 73 now"</note>
+      </trans-unit>
       <trans-unit id="%lld of %lld" xml:space="preserve">
         <source>%1$lld of %2$lld</source>
         <target state="translated">%1$lld av %2$lld</target>
         <note/>
       </trans-unit>
-      <trans-unit id="%lld year old, %lld now" xml:space="preserve">
-        <source>%1$#@arg1@ old, %2$lld now</source>
-        <target state="translated">%1$#@arg1@, nu %2$lld</target>
-        <note>The age of an actor at the time a piece of media was released, as well as now. For example, "34 years old, 73 now"</note>
-      </trans-unit>
-      <trans-unit id="%lld year old, %lld now|==|substitutions.arg1.plural.one" xml:space="preserve">
-        <source>%1$lld year</source>
-        <target state="translated">%1$lld år</target>
-        <note>The age of an actor at the time a piece of media was released, as well as now. For example, "34 years old, 73 now"</note>
-      </trans-unit>
-      <trans-unit id="%lld year old, %lld now|==|substitutions.arg1.plural.other" xml:space="preserve">
-        <source>%1$lld years</source>
-        <target state="translated">%1$lld år</target>
-        <note>The age of an actor at the time a piece of media was released, as well as now. For example, "34 years old, 73 now"</note>
-      </trans-unit>
       <trans-unit id="%lld year old|==|plural.one" xml:space="preserve">
         <source>%lld year old</source>
         <target state="translated">%lld år gammal</target>
-        <note>The age of an actor at the time a piece of media was released</note>
+        <note>The age of an actor at the time a piece of media was released.</note>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
         <source>%lld years old</source>
         <target state="translated">%lld år gammal</target>
-        <note>The age of an actor at the time a piece of media was released</note>
+        <note>The age of an actor at the time a piece of media was released.</note>
       </trans-unit>
       <trans-unit id="%lld years" xml:space="preserve">
         <source>%lld years</source>
         <target state="translated">%lld år</target>
         <note>How old a person was when they passed</note>
-      </trans-unit>
-      <trans-unit id="%lld years old|==|plural.one" xml:space="preserve">
-        <source>%lld year old</source>
-        <target state="translated">%lld år gammal</target>
-        <note>How old a person is right now</note>
-      </trans-unit>
-      <trans-unit id="%lld years old|==|plural.other" xml:space="preserve">
-        <source>%lld years old</source>
-        <target state="translated">%lld år gammal</target>
-        <note>How old a person is right now</note>
       </trans-unit>
       <trans-unit id="%lld — " xml:space="preserve">
         <source>%lld — </source>
@@ -338,6 +328,11 @@
         <source>As rated by users of</source>
         <target state="translated">Betygsatt av användare på</target>
         <note>Shown in a popover explaining TV/movie scores</note>
+      </trans-unit>
+      <trans-unit id="Available Links" xml:space="preserve">
+        <source>Available Links</source>
+        <target state="translated">Tillgängliga länkar</target>
+        <note>Screen in settings that lets you choose which quick links (Trivia, Technical Details, etc) are shown</note>
       </trans-unit>
       <trans-unit id="Average runtime" xml:space="preserve">
         <source>Average runtime</source>
@@ -468,6 +463,11 @@
         <source>Choose spoiler-risky things to hide by default.</source>
         <target state="translated">Välj de saker med spoilerrisk som ska döljas som standard.</target>
         <note>Subtitle for a row in Settings</note>
+      </trans-unit>
+      <trans-unit id="Choose which links are shown." xml:space="preserve">
+        <source>Choose which links are shown.</source>
+        <target state="translated">Välj vilka länkar som ska visas.</target>
+        <note>Description for the screen in Settings which lets you choose which quick links (Trivia, Technical Details, etc) are shown.</note>
       </trans-unit>
       <trans-unit id="Choose which links you'd like available when using Callsheet." xml:space="preserve">
         <source>Choose which links you'd like available when using Callsheet.</source>
@@ -929,11 +929,6 @@ Den innehåller för närvarande %2$lld objekt.</target>
         <target state="translated">Laddar…</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Long-Running Series" xml:space="preserve">
-        <source>Long-Running Series</source>
-        <target state="translated">Långloppsserie</target>
-        <note>Header shown on a person's credit list, for long-running series such as Saturday Night Live</note>
-      </trans-unit>
       <trans-unit id="Macro State at %@" xml:space="preserve">
         <source>Macro State at %@</source>
         <target state="translated">Makrotillstånd vid %@</target>
@@ -1064,10 +1059,16 @@ Den innehåller för närvarande %2$lld objekt.</target>
         <target state="translated">Inga fästningar av TV-serier hittades.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="No credits found for &quot;%@&quot;." xml:space="preserve">
+        <source>No credits found for "%@".</source>
+        <target state="translated">Inga roller hittades för "%@".</target>
+        <note>Shown when a person has searched for something but no matching credits were found.</note>
+      </trans-unit>
       <trans-unit id="No credits found." xml:space="preserve">
         <source>No credits found.</source>
         <target state="translated">Inga medverkningar hittades.</target>
-        <note>Shown when a person has no cast nor crew credits</note>
+        <note>Shown when a person has no cast nor crew credits
+Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="No media found." xml:space="preserve">
         <source>No media found.</source>
@@ -2021,6 +2022,21 @@ Den innehåller för närvarande %2$lld objekt.</target>
         <target state="translated">Din prenumeration ångrades eller avbröts på annat sätt. Starta en ny för att fortsätta använda Callsheet.</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
+      <trans-unit id="_(Posthumous; died in %@ aged %lld)_" xml:space="preserve">
+        <source>_(Posthumous; died in %1$@ aged %2$lld)_</source>
+        <target state="translated">_(Postumt; avled %1$@ vid %2$lld års ålder)_</target>
+        <note>Shown when a cast or crew member died before the release of a piece of media. For example, _(Posthumous; died in 2000 aged 18)_</note>
+      </trans-unit>
+      <trans-unit id="_(Posthumous; died in %@)_" xml:space="preserve">
+        <source>_(Posthumous; died in %@)_</source>
+        <target state="translated">_(Postumt; avled %@)_</target>
+        <note>Shown when a cast or crew member died before the release of a piece of media. For example, _(Posthumous; died in 2000)_</note>
+      </trans-unit>
+      <trans-unit id="died %@ (age %lld)" xml:space="preserve">
+        <source>died %@ (age %lld)</source>
+        <target state="translated">avled %@ (ålder %lld)</target>
+        <note>When an actor passed, as well as their age at that time. Part of a larger string. For example "59 years old, died 2020 (age 90)"</note>
+      </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
         <source>per %@</source>
         <target state="translated">per %@</target>
@@ -2060,7 +2076,7 @@ Den innehåller för närvarande %2$lld objekt.</target>
   </file>
   <file original="Widgets/InfoPlist.xcstrings" source-language="en" target-language="sv" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2079,115 +2095,142 @@ Den innehåller för närvarande %2$lld objekt.</target>
   </file>
   <file original="Widgets/Localizable.xcstrings" source-language="en" target-language="sv" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="%lld" xml:space="preserve">
         <source>%lld</source>
+        <target state="translated">%lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet app icon" xml:space="preserve">
         <source>Callsheet app icon</source>
+        <target state="translated">Appikon</target>
         <note/>
       </trans-unit>
       <trans-unit id="E" xml:space="preserve">
         <source>E</source>
+        <target state="translated">A</target>
         <note>Abbreviation for a TV episode; in English, short for "Episode".</note>
       </trans-unit>
       <trans-unit id="Name or job in %@" xml:space="preserve">
         <source>Name or job in %@</source>
+        <target state="translated">Namn eller jobb i %@</target>
         <note>Crew search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
       <trans-unit id="Name or role in %@" xml:space="preserve">
         <source>Name or role in %@</source>
+        <target state="translated">Namn eller roll i %@</target>
         <note>Cast search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
       <trans-unit id="Open Pinned Items" xml:space="preserve">
         <source>Open Pinned Items</source>
+        <target state="translated">Öppna fästa objekt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Pins" xml:space="preserve">
         <source>Open Pins</source>
+        <target state="translated">Öppna fästa objekt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open the list of your pinned items" xml:space="preserve">
         <source>Open the list of your pinned items</source>
+        <target state="translated">Öppna listan över dina fästa objekt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open your pins in Callsheet" xml:space="preserve">
         <source>Open your pins in Callsheet</source>
+        <target state="translated">Öppna dina favoriter i Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Perform your most recent search in Callsheet" xml:space="preserve">
         <source>Perform your most recent search in Callsheet</source>
+        <target state="translated">Utför din senaste sökning i Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pin" xml:space="preserve">
         <source>Pin</source>
+        <target state="translated">Fästning</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
         <source>Pinned Items</source>
+        <target state="translated">Fästa Objekt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Poster for %@" xml:space="preserve">
         <source>Poster for %@</source>
+        <target state="translated">Affisch för %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Recent Search" xml:space="preserve">
         <source>Recent Search</source>
+        <target state="translated">Senaste sökning</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeat Last Search" xml:space="preserve">
         <source>Repeat Last Search</source>
+        <target state="translated">Upprepa senaste sökning</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeat Search" xml:space="preserve">
         <source>Repeat Search</source>
+        <target state="translated">Upprepa sökning</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeats the most recent search." xml:space="preserve">
         <source>Repeats the most recent search.</source>
+        <target state="translated">Upprepar den senaste sökningen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="S" xml:space="preserve">
         <source>S</source>
+        <target state="translated">S</target>
         <note>Abbreviation for a TV season; in English, short for "Season".</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
         <source>Search</source>
+        <target state="translated">Sök</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search Callsheet" xml:space="preserve">
         <source>Search Callsheet</source>
+        <target state="translated">Sök i Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shows one or more of your most recent pinned items" xml:space="preserve">
         <source>Shows one or more of your most recent pinned items</source>
+        <target state="translated">Visar en eller flera av dina senaste favoriter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Start a new search in Callsheet" xml:space="preserve">
         <source>Start a new search in Callsheet</source>
+        <target state="translated">Starta en ny sökning i Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
         <source>Starts a new Search within Callsheet.</source>
+        <target state="translated">Startar en ny sökning i Callsheet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title or job" xml:space="preserve">
         <source>Title or job</source>
+        <target state="translated">Titre ou poste</target>
         <note>Crew search prompt in the context of a single person (not a movie/show/etc)</note>
       </trans-unit>
       <trans-unit id="Title or role" xml:space="preserve">
         <source>Title or role</source>
+        <target state="translated">Titre ou rôle</target>
         <note>Cast search prompt in the context of a single person (not a movie/show/etc)</note>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
         <source>pin</source>
+        <target state="translated">fästning</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="pinned items" xml:space="preserve">
         <source>pinned items</source>
+        <target state="translated">fästa objekt</target>
         <note/>
       </trans-unit>
     </body>

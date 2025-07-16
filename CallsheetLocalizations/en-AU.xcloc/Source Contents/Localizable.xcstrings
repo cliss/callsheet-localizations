@@ -4,6 +4,20 @@
     "" : {
 
     },
+    "_(Posthumous; died in %@ aged %lld)_" : {
+      "comment" : "Shown when a cast or crew member died before the release of a piece of media. For example, _(Posthumous; died in 2000 aged 18)_",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "_(Posthumous; died in %1$@ aged %2$lld)_"
+          }
+        }
+      }
+    },
+    "_(Posthumous; died in %@)_" : {
+      "comment" : "Shown when a cast or crew member died before the release of a piece of media. For example, _(Posthumous; died in 2000)_"
+    },
     "#%lld" : {
 
     },
@@ -59,6 +73,28 @@
     },
     "%lld — " : {
 
+    },
+    "%lld credits" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld credit"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld credits"
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "%lld episode" : {
       "comment" : "How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season",
@@ -128,6 +164,9 @@
         }
       }
     },
+    "%lld now" : {
+      "comment" : "The age of an actor right now. Part of a larger string. For example, \"34 years old, 73 now\""
+    },
     "%lld of %lld" : {
       "localizations" : {
         "en" : {
@@ -162,7 +201,7 @@
       }
     },
     "%lld year old" : {
-      "comment" : "The age of an actor at the time a piece of media was released",
+      "comment" : "The age of an actor at the time a piece of media was released.",
       "localizations" : {
         "en" : {
           "variations" : {
@@ -177,39 +216,6 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "%lld years old"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "%lld year old, %lld now" : {
-      "comment" : "The age of an actor at the time a piece of media was released, as well as now. For example, \"34 years old, 73 now\"",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%#@arg1@ old, %2$lld now"
-          },
-          "substitutions" : {
-            "arg1" : {
-              "argNum" : 1,
-              "formatSpecifier" : "lld",
-              "variations" : {
-                "plural" : {
-                  "one" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "%arg year"
-                    }
-                  },
-                  "other" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "%arg years"
-                    }
-                  }
                 }
               }
             }
@@ -219,29 +225,6 @@
     },
     "%lld years" : {
       "comment" : "How old a person was when they passed"
-    },
-    "%lld years old" : {
-      "comment" : "How old a person is right now",
-      "localizations" : {
-        "en" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld year old"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "%lld years old"
-                }
-              }
-            }
-          }
-        }
-      }
     },
     "🤝" : {
 
@@ -338,6 +321,9 @@
     "As rated by users of" : {
       "comment" : "Shown in a popover explaining TV/movie scores"
     },
+    "Available Links" : {
+      "comment" : "Screen in settings that lets you choose which quick links (Trivia, Technical Details, etc) are shown"
+    },
     "Average runtime" : {
       "comment" : "How long episodes run in a single season of TV"
     },
@@ -416,6 +402,9 @@
     "Choose spoiler-risky things to hide by default." : {
       "comment" : "Subtitle for a row in Settings",
       "extractionState" : "manual"
+    },
+    "Choose which links are shown." : {
+      "comment" : "Description for the screen in Settings which lets you choose which quick links (Trivia, Technical Details, etc) are shown."
     },
     "Choose which links you'd like available when using Callsheet." : {
       "comment" : "Headline for the Select Links view"
@@ -528,6 +517,9 @@
     },
     "Details" : {
       "comment" : "Button in the sheet/overlay when a random pin is selected; when tapped it will navigate to this item's details view."
+    },
+    "died %@ (age %lld)" : {
+      "comment" : "When an actor passed, as well as their age at that time. Part of a larger string. For example \"59 years old, died 2020 (age 90)\""
     },
     "Discover" : {
 
@@ -807,9 +799,6 @@
     "Loading…" : {
 
     },
-    "Long-Running Series" : {
-      "comment" : "Header shown on a person's credit list, for long-running series such as Saturday Night Live"
-    },
     "Macro State at %@" : {
       "comment" : "Shown in a semi-hidden debugging view"
     },
@@ -885,8 +874,11 @@
     "No" : {
       "extractionState" : "stale"
     },
+    "No credits found for \"%@\"." : {
+      "comment" : "Shown when a person has searched for something but no matching credits were found."
+    },
     "No credits found." : {
-      "comment" : "Shown when a person has no cast nor crew credits"
+      "comment" : "Shown when a person has no cast nor crew credits\nShown when a person has no credits."
     },
     "No media found." : {
       "comment" : "Shown when there's no data for new movies / new shows / etc"
