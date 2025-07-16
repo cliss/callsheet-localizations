@@ -16,7 +16,7 @@ As of [77578a6](https://github.com/cliss/callsheet-localizations/commit/77578a6a
 | English ([Traditional](https://en.wikipedia.org/wiki/United_Kingdom)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
 | English ([Simplified](https://en.wikipedia.org/wiki/Australia)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
 | Dutch              | 100% :tada: | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
-| Finnish            | 81%         |                 | Kalle Lahtinen |
+| Finnish            | 81%         |                 | [Kalle Lahtinen](https://github.com/Kaaponen) |
 | French (🇫🇷)        | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak), [sayrer](https://github.com/sayrer), ChatGPT-4.o |
 | French (🇨🇦)        | 100% :tada: |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak), ChatGPT-4.o |
 | German             | 100% :tada: | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de), [virtualrapha](https://github.com/virtualrapha), ChatGPT-4.o |
