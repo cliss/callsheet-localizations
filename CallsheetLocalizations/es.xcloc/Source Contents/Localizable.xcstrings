@@ -57,6 +57,16 @@
         }
       }
     },
+    "%@ and %@ have not been in any films together." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ and %2$@ have not been in any films together."
+          }
+        }
+      }
+    },
     "%@ by %@" : {
       "comment" : "{Icon name} by {Icon artist}",
       "localizations" : {
@@ -200,6 +210,17 @@
         }
       }
     },
+    "%lld until their death in %@ (age %lld)" : {
+      "comment" : "Age of an actor who passed away during the run of a TV series. For example, \"27 until their death in 2013 (age 31)\"",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld until their death in %2$@ (age %3$lld)"
+          }
+        }
+      }
+    },
     "%lld year old" : {
       "comment" : "The age of an actor at the time a piece of media was released.",
       "localizations" : {
@@ -225,6 +246,17 @@
     },
     "%lld years" : {
       "comment" : "How old a person was when they passed"
+    },
+    "%lld-%lld years old" : {
+      "comment" : "The age of an actor at the time a piece of media was released.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld–%2$lld years old"
+          }
+        }
+      }
     },
     "🤝" : {
 
@@ -409,6 +441,9 @@
     "Choose which links you'd like available when using Callsheet." : {
       "comment" : "Headline for the Select Links view"
     },
+    "Choose which sections to show on the Discover screen." : {
+
+    },
     "Clear" : {
 
     },
@@ -461,6 +496,9 @@
     },
     "Custom icons" : {
       "comment" : "Shown on the pre-sales screen to get users to subscribe"
+    },
+    "Customize your main screen." : {
+      "comment" : "Help text shown on the screen that allows customization of the Discover view."
     },
     "Dark" : {
       "comment" : "Dark theme (other options are \"light\" and \"system\")"
@@ -521,8 +559,14 @@
     "died %@ (age %lld)" : {
       "comment" : "When an actor passed, as well as their age at that time. Part of a larger string. For example \"59 years old, died 2020 (age 90)\""
     },
+    "Discard Changes" : {
+
+    },
     "Discover" : {
 
+    },
+    "Discover Sections" : {
+      "comment" : "Heading in Persnickety Preferences; this lets you choose which sections to show on the Discover screen."
     },
     "Done" : {
       "comment" : "Button shown in the sheet/overlay when a random pin is selected; when tapped it will clear the overlay."
@@ -544,6 +588,9 @@
     },
     "Episode Scores" : {
 
+    },
+    "Everything" : {
+      "comment" : "When viewing a person, show all their cast & crew records"
     },
     "Expired" : {
       "comment" : "Shown in a semi-hidden debugging view"
@@ -630,6 +677,9 @@
     "Hide episode titles" : {
       "comment" : "Toggle for TV spoiler settings"
     },
+    "Hide Self Credits" : {
+
+    },
     "Hide Spoilers" : {
 
     },
@@ -640,7 +690,7 @@
       "comment" : "Toggle for TV spoiler settings"
     },
     "How seasons and episodes are sorted." : {
-
+      "comment" : "Shown in Settings"
     },
     "IAP: Monthly Description" : {
       "comment" : "Description for the monthly subscription in-app purchase; 45 characters or less",
@@ -738,8 +788,15 @@
         }
       }
     },
-    "If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." : {
-
+    "If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen. [More info…](%@://%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen. [More info…](%1$@://%2$@)"
+          }
+        }
+      }
     },
     "Image" : {
 
@@ -755,6 +812,9 @@
     },
     "In-Credits Bonus Scenes" : {
 
+    },
+    "Include “Self”" : {
+      "comment" : "Toggle whether or not to include people being credited as themselves in cast lists."
     },
     "Integrations" : {
       "comment" : "Header in Persnickety Preferences"
@@ -832,6 +892,9 @@
     "Move to %@" : {
       "comment" : "Shown in context menu for a pin"
     },
+    "Move to top" : {
+
+    },
     "Movie Poster" : {
 
     },
@@ -871,9 +934,6 @@
     "Next movie in %@" : {
       "comment" : "Toolbar arrow to go forward a movie within a collection. Say, Empire Strikes Back → Return of the Jedi"
     },
-    "No" : {
-      "extractionState" : "stale"
-    },
     "No credits found for \"%@\"." : {
       "comment" : "Shown when a person has searched for something but no matching credits were found."
     },
@@ -910,10 +970,16 @@
     "No providers found." : {
       "comment" : "Shown when there's no data for Where to Watch"
     },
+    "No Recent Searches Found" : {
+
+    },
     "No results found for \"%@\"" : {
       "comment" : "Generic \"couldn't find anything for this query\" message"
     },
     "No search history found." : {
+
+    },
+    "No shared films" : {
 
     },
     "No TV show pins found." : {
@@ -944,6 +1010,9 @@
 
     },
     "Open the list of your pinned items" : {
+
+    },
+    "Open-Source Software" : {
 
     },
     "Optionally, you can choose to help more." : {
@@ -1008,6 +1077,9 @@
     },
     "Pin" : {
       "comment" : "Noun, a pin/favorite"
+    },
+    "Pin Icon Guide" : {
+      "comment" : "Title of the sheet/screen that explains pin icons"
     },
     "Pin This Item" : {
 
@@ -1195,6 +1267,9 @@
     "Search History" : {
       "comment" : "Title of the Search History screen"
     },
+    "Search Results" : {
+
+    },
     "Season %lld Episode %lld" : {
       "localizations" : {
         "en" : {
@@ -1207,6 +1282,9 @@
     },
     "Seasons" : {
       "comment" : "Navigation title for the screen showing the seasons of a TV show; NOT spring/summer"
+    },
+    "See Preview" : {
+      "comment" : "Button shown when rearranging the Discover screen that allows the user to open a preview of Discover."
     },
     "Select a View" : {
       "comment" : "Shown when choosing between cast & crew"
@@ -1322,6 +1400,12 @@
     "Thank you for trying out Callsheet. 💙" : {
 
     },
+    "The above open-source software helps make Callsheet possible. 💙" : {
+
+    },
+    "The currently active list is `%@`" : {
+      "comment" : "This is a caption under the \"This item is pinned on the active list\" line"
+    },
     "The Quick Access Link cannot be disabled." : {
       "comment" : "Message associated with the link that is currently the user's Quick Access Link; this link cannot be disabled."
     },
@@ -1347,6 +1431,15 @@
     "These settings will only affect *%@*." : {
       "comment" : "Shown in spoiler settings for a particular show"
     },
+    "This item is not pinned in any list" : {
+
+    },
+    "This item is pinned on a different list" : {
+
+    },
+    "This item is pinned on the active list" : {
+
+    },
     "Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:" : {
 
     },
@@ -1358,6 +1451,12 @@
     },
     "Title, cast, or crew" : {
       "comment" : "Main search prompt on the bottom bar!"
+    },
+    "Title, role, or job" : {
+      "comment" : "Search prompt when viewing a person's entire (cast & crew) filmography"
+    },
+    "today" : {
+      "comment" : "Shown on the \"how long ago was this?\" popover when a TV episode was released today."
     },
     "Total runtime %@" : {
       "comment" : "Shown in a popover when looking at a TV season"
@@ -1395,6 +1494,12 @@
     "Upgraded" : {
       "comment" : "Shown in a semi-hidden debugging view"
     },
+    "Use the gripper to rearrange them." : {
+      "comment" : "Help text shown on the screen that allows customization of the Discover view."
+    },
+    "Use the toggles to turn sections on or off." : {
+      "comment" : "Help text shown on the screen that allows customization of the Discover view."
+    },
     "User Interface" : {
       "comment" : "Header in Persnickety Preferences"
     },
@@ -1409,6 +1514,9 @@
     },
     "Website" : {
       "comment" : "Quick access link"
+    },
+    "What do the icons mean?" : {
+      "comment" : "Menu item when a user shows the context menu for a pin. This will show a popup that explains what the different pin icons mean."
     },
     "What was that thing I looked up yesterday?" : {
       "comment" : "Subtitle for \"Search history\"; shown on the pre-sales screen to get users to subscribe"
@@ -1440,9 +1548,6 @@
     },
     "years old" : {
       "comment" : "Shown as a header for a year in a person's filmography; \"52 - 53 years old"
-    },
-    "Yes" : {
-      "extractionState" : "stale"
     },
     "You can be second! That’s pretty great!" : {
       "comment" : "Shown to try to encourage the user to rate the app"
@@ -1479,7 +1584,13 @@
         }
       }
     },
+    "You have unsaved changes. Are you sure you want to discard them?" : {
+
+    },
     "You have used all your free searches. Subscribe for unlimited searches." : {
+
+    },
+    "You haven't used Callsheet to search for anything!\nUse the search field to get started." : {
 
     },
     "You may know them from" : {
@@ -1487,6 +1598,9 @@
     },
     "You must have a subscription to use the app." : {
       "comment" : "Shown in Settings as a subtitle if you haven't purchased the app"
+    },
+    "You must select at least one section to be shown." : {
+      "comment" : "Shown as a footer in the Discover Sections view in Persnickety Preferences."
     },
     "Your %@ will expire on\n%@" : {
       "comment" : "Shown on the \"Purchase now\" row in Settings if purchasing is unavailable",

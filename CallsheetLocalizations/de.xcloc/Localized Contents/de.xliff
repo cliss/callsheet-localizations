@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Flookup/en.lproj/AppShortcuts.strings" datatype="plaintext" source-language="en" target-language="de">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="Open ${applicationName} favorites" xml:space="preserve">
@@ -49,7 +49,7 @@
   </file>
   <file original="Flookup/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -81,7 +81,7 @@
   </file>
   <file original="Localizable.xcstrings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
@@ -117,6 +117,11 @@
       <trans-unit id="%@ / %@" xml:space="preserve">
         <source>%1$@ / %2$@</source>
         <target state="translated">%1$@ / %2$@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ and %@ have not been in any films together." xml:space="preserve">
+        <source>%1$@ and %2$@ have not been in any films together.</source>
+        <target state="translated">%1$@ und %2$@ waren in keinem Film zusammen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ by %@" xml:space="preserve">
@@ -189,6 +194,11 @@
         <target state="translated">%1$lld von %2$lld</target>
         <note/>
       </trans-unit>
+      <trans-unit id="%lld until their death in %@ (age %lld)" xml:space="preserve">
+        <source>%1$lld until their death in %2$@ (age %3$lld)</source>
+        <target state="translated">%1$lld bis zu ihrem Tod im %2$@ (Alter %3$lld)</target>
+        <note>Age of an actor who passed away during the run of a TV series. For example, "27 until their death in 2013 (age 31)"</note>
+      </trans-unit>
       <trans-unit id="%lld year old|==|plural.one" xml:space="preserve">
         <source>%lld year old</source>
         <target state="translated">%lld Jahr alt</target>
@@ -208,6 +218,11 @@
         <source>%lld — </source>
         <target state="translated">%lld – </target>
         <note/>
+      </trans-unit>
+      <trans-unit id="%lld-%lld years old" xml:space="preserve">
+        <source>%1$lld–%2$lld years old</source>
+        <target state="translated">%1$lld–%2$lld Jahre alt</target>
+        <note>The age of an actor at the time a piece of media was released.</note>
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
         <source>A few more free ones please?</source>
@@ -474,6 +489,11 @@
         <target state="translated">Wähle aus, welche Links in Callsheet verfügbar sein sollen.</target>
         <note>Headline for the Select Links view</note>
       </trans-unit>
+      <trans-unit id="Choose which sections to show on the Discover screen." xml:space="preserve">
+        <source>Choose which sections to show on the Discover screen.</source>
+        <target state="translated">Wähle aus, welche Bereiche auf dem Entdecken-Bildschirm angezeigt werden sollen.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
         <source>Clear</source>
         <target state="translated">Löschen</target>
@@ -549,6 +569,11 @@
         <target state="translated">Individuelle Icons</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
+      <trans-unit id="Customize your main screen." xml:space="preserve">
+        <source>Customize your main screen.</source>
+        <target state="translated">Passe deinen Hauptbildschirm an.</target>
+        <note>Help text shown on the screen that allows customization of the Discover view.</note>
+      </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
         <target state="translated">Dunkel</target>
@@ -612,10 +637,20 @@ Sie enthält derzeit %2$lld pins.</target>
         <target state="translated">Details</target>
         <note>Button in the sheet/overlay when a random pin is selected; when tapped it will navigate to this item's details view.</note>
       </trans-unit>
+      <trans-unit id="Discard Changes" xml:space="preserve">
+        <source>Discard Changes</source>
+        <target state="translated">Änderungen verwerfen</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Discover" xml:space="preserve">
         <source>Discover</source>
         <target state="translated">Entdecken</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Discover Sections" xml:space="preserve">
+        <source>Discover Sections</source>
+        <target state="translated">Entdecken-Bereiche</target>
+        <note>Heading in Persnickety Preferences; this lets you choose which sections to show on the Discover screen.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
@@ -651,6 +686,11 @@ Sie enthält derzeit %2$lld pins.</target>
         <source>Episode Scores</source>
         <target state="translated">Bewertungen nach Folge</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Everything" xml:space="preserve">
+        <source>Everything</source>
+        <target state="translated">Alle</target>
+        <note>When viewing a person, show all their cast &amp; crew records</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
         <source>Expired</source>
@@ -774,6 +814,11 @@ Sie enthält derzeit %2$lld pins.</target>
         <target state="translated">Größe</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Hide Self Credits" xml:space="preserve">
+        <source>Hide Self Credits</source>
+        <target state="translated">„Selbst"-Credits ausblenden</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Hide Spoilers" xml:space="preserve">
         <source>Hide Spoilers</source>
         <target state="translated">Spoiler ausblenden</target>
@@ -812,7 +857,7 @@ Sie enthält derzeit %2$lld pins.</target>
       <trans-unit id="How seasons and episodes are sorted." xml:space="preserve">
         <source>How seasons and episodes are sorted.</source>
         <target state="translated">Lege die Sortierung von Staffeln und Folgen fest.</target>
-        <note/>
+        <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
         <source>Unlimited searches for a month. Auto-renews</source>
@@ -854,9 +899,9 @@ Sie enthält derzeit %2$lld pins.</target>
         <target state="translated">Jährlicher Ultrasupporter</target>
         <note>Name of the maximum-cost annual subscription </note>
       </trans-unit>
-      <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen." xml:space="preserve">
-        <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen.</source>
-        <target state="translated">Wenn du auf einem anderen Gerät etwas mit [Channels](https://getchannels.com/) oder [Plex](https://plex.tv/) abspielst, kann Callsheet dir die Sendung oder den Film ganz oben in der Entdecken-Ansicht anzeigen.</target>
+      <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen. [More info…](%@://%@)" xml:space="preserve">
+        <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen. [More info…](%1$@://%2$@)</source>
+        <target state="translated">Wenn du auf einem anderen Gerät etwas mit [Channels](https://getchannels.com/) oder [Plex](https://plex.tv/) abspielst, kann Callsheet dir die Sendung oder den Film ganz oben in der Entdecken-Ansicht anzeigen. [Mehr Infos…](%1$@://%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
@@ -883,6 +928,11 @@ Sie enthält derzeit %2$lld pins.</target>
         <source>In-Credits Bonus Scenes</source>
         <target state="translated">Bonus-Szenen im Abspann</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Include “Self”" xml:space="preserve">
+        <source>Include “Self”</source>
+        <target state="translated">„Selbst” einschließen</target>
+        <note>Toggle whether or not to include people being credited as themselves in cast lists.</note>
       </trans-unit>
       <trans-unit id="Integrations" xml:space="preserve">
         <source>Integrations</source>
@@ -984,6 +1034,11 @@ Sie enthält derzeit %2$lld pins.</target>
         <target state="translated">Verschieben nach %@</target>
         <note>Shown in context menu for a pin</note>
       </trans-unit>
+      <trans-unit id="Move to top" xml:space="preserve">
+        <source>Move to top</source>
+        <target state="translated">Nach oben verschieben</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Movie Poster" xml:space="preserve">
         <source>Movie Poster</source>
         <target state="translated">Filmplakat</target>
@@ -1049,9 +1104,9 @@ Sie enthält derzeit %2$lld pins.</target>
         <target state="translated">Nächster Film in %@</target>
         <note>Toolbar arrow to go forward a movie within a collection. Say, Empire Strikes Back → Return of the Jedi</note>
       </trans-unit>
-      <trans-unit id="No" xml:space="preserve">
-        <source>No</source>
-        <target state="translated">Nein</target>
+      <trans-unit id="No Recent Searches Found" xml:space="preserve">
+        <source>No Recent Searches Found</source>
+        <target state="translated">Keine kürzlichen Suchen gefunden</target>
         <note/>
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
@@ -1130,6 +1185,11 @@ Shown when a person has no credits.</note>
         <target state="translated">Suchhistorie nicht gefunden.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="No shared films" xml:space="preserve">
+        <source>No shared films</source>
+        <target state="translated">Keine gemeinsamen Filme</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Not a subscription" xml:space="preserve">
         <source>Not a subscription</source>
         <target state="translated">Kein Abo</target>
@@ -1173,6 +1233,11 @@ Shown when a person has no credits.</note>
       <trans-unit id="Open the list of your pinned items" xml:space="preserve">
         <source>Open the list of your pinned items</source>
         <target state="translated">Öffne die Liste deiner angepinnten Inhalte</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open-Source Software" xml:space="preserve">
+        <source>Open-Source Software</source>
+        <target state="translated">Open-Source-Software</target>
         <note/>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
@@ -1240,6 +1305,11 @@ Shown when a person has no credits.</note>
         <target state="translated">Pin</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
+      <trans-unit id="Pin Icon Guide" xml:space="preserve">
+        <source>Pin Icon Guide</source>
+        <target state="translated">Erklärung der Pin-Symbole</target>
+        <note>Title of the sheet/screen that explains pin icons</note>
+      </trans-unit>
       <trans-unit id="Pin This Item" xml:space="preserve">
         <source>Pin This Item</source>
         <target state="translated">Pinne diesen Inhalt</target>
@@ -1252,7 +1322,7 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Pin your favorites for quick access." xml:space="preserve">
         <source>Pin your favorites for quick access.</source>
-        <target state="translated">Pinne deine Favoriten an für schnellen Zugriff.</target>
+        <target state="translated">Pinne deine Favoriten für schnellen Zugriff an.</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
@@ -1540,6 +1610,11 @@ Shown when a person has no credits.</note>
         <target state="translated">Suchhistorie</target>
         <note>Title of the Search History screen</note>
       </trans-unit>
+      <trans-unit id="Search Results" xml:space="preserve">
+        <source>Search Results</source>
+        <target state="translated">Suchergebnisse</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
         <source>Search history</source>
         <target state="translated">Suchhistorie</target>
@@ -1554,6 +1629,11 @@ Shown when a person has no credits.</note>
         <source>Seasons</source>
         <target state="translated">Staffeln</target>
         <note>Navigation title for the screen showing the seasons of a TV show; NOT spring/summer</note>
+      </trans-unit>
+      <trans-unit id="See Preview" xml:space="preserve">
+        <source>See Preview</source>
+        <target state="translated">Vorschau anzeigen</target>
+        <note>Button shown when rearranging the Discover screen that allows the user to open a preview of Discover.</note>
       </trans-unit>
       <trans-unit id="Select Links" xml:space="preserve">
         <source>Select Links</source>
@@ -1765,6 +1845,16 @@ Shown when a person has no credits.</note>
         <target state="translated">Der Schnellzugriffslink kann nicht deaktiviert werden.</target>
         <note>Message associated with the link that is currently the user's Quick Access Link; this link cannot be disabled.</note>
       </trans-unit>
+      <trans-unit id="The above open-source software helps make Callsheet possible. 💙" xml:space="preserve">
+        <source>The above open-source software helps make Callsheet possible. 💙</source>
+        <target state="translated">Die oben genannte Open-Source-Software macht Callsheet möglich. 💙</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The currently active list is `%@`" xml:space="preserve">
+        <source>The currently active list is `%@`</source>
+        <target state="translated">Die aktuell aktive Liste ist `%@`</target>
+        <note>This is a caption under the "This item is pinned on the active list" line</note>
+      </trans-unit>
       <trans-unit id="Theme" xml:space="preserve">
         <source>Theme</source>
         <target state="translated">Erscheinungsbild</target>
@@ -1790,6 +1880,21 @@ Shown when a person has no credits.</note>
         <target state="translated">Diese Einstellungen gelten nur für *%@*.</target>
         <note>Shown in spoiler settings for a particular show</note>
       </trans-unit>
+      <trans-unit id="This item is not pinned in any list" xml:space="preserve">
+        <source>This item is not pinned in any list</source>
+        <target state="translated">Dieser Eintrag ist auf keiner Liste angepinnt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This item is pinned on a different list" xml:space="preserve">
+        <source>This item is pinned on a different list</source>
+        <target state="translated">Dieser Eintrag ist auf einer anderen Liste angepinnt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This item is pinned on the active list" xml:space="preserve">
+        <source>This item is pinned on the active list</source>
+        <target state="translated">Dieser Eintrag ist auf der aktiven Liste angepinnt</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:" xml:space="preserve">
         <source>Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:</source>
         <target state="translated">Ohne die folgenden Personen wäre ich niemals in der Lage gewesen, Callsheet zu entwickeln:</target>
@@ -1809,6 +1914,11 @@ Shown when a person has no credits.</note>
         <source>Title, cast, or crew</source>
         <target state="translated">Titel, Darstellende oder Crew</target>
         <note>Main search prompt on the bottom bar!</note>
+      </trans-unit>
+      <trans-unit id="Title, role, or job" xml:space="preserve">
+        <source>Title, role, or job</source>
+        <target state="translated">Titel, Rolle oder Beruf</target>
+        <note>Search prompt when viewing a person's entire (cast &amp; crew) filmography</note>
       </trans-unit>
       <trans-unit id="Total runtime %@" xml:space="preserve">
         <source>Total runtime %@</source>
@@ -1855,6 +1965,16 @@ Shown when a person has no credits.</note>
         <target state="translated">Upgrade gekauft</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
+      <trans-unit id="Use the gripper to rearrange them." xml:space="preserve">
+        <source>Use the gripper to rearrange them.</source>
+        <target state="translated">Verwende den Griff, um sie neu anzuordnen.</target>
+        <note>Help text shown on the screen that allows customization of the Discover view.</note>
+      </trans-unit>
+      <trans-unit id="Use the toggles to turn sections on or off." xml:space="preserve">
+        <source>Use the toggles to turn sections on or off.</source>
+        <target state="translated">Verwende die Schalter, um Bereiche ein- oder auszuschalten.</target>
+        <note>Help text shown on the screen that allows customization of the Discover view.</note>
+      </trans-unit>
       <trans-unit id="User Interface" xml:space="preserve">
         <source>User Interface</source>
         <target state="translated">Benutzungsoberfläche</target>
@@ -1874,6 +1994,11 @@ Shown when a person has no credits.</note>
         <source>Website</source>
         <target state="translated">Webseite</target>
         <note>Quick access link</note>
+      </trans-unit>
+      <trans-unit id="What do the icons mean?" xml:space="preserve">
+        <source>What do the icons mean?</source>
+        <target state="translated">Was bedeuten die Symbole?</target>
+        <note>Menu item when a user shows the context menu for a pin. This will show a popup that explains what the different pin icons mean.</note>
       </trans-unit>
       <trans-unit id="What was that thing I looked up yesterday?" xml:space="preserve">
         <source>What was that thing I looked up yesterday?</source>
@@ -1920,11 +2045,6 @@ Shown when a person has no credits.</note>
         <target state="translated">Mit einem Abo hast du Zugriff auf:</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Yes" xml:space="preserve">
-        <source>Yes</source>
-        <target state="translated">Ja</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="You Can Help" xml:space="preserve">
         <source>You Can Help</source>
         <target state="translated">Du willst mehr helfen?</target>
@@ -1955,9 +2075,20 @@ Shown when a person has no credits.</note>
         <target state="translated">Dein Probeabo läuft noch %lld Tage.</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
+      <trans-unit id="You have unsaved changes. Are you sure you want to discard them?" xml:space="preserve">
+        <source>You have unsaved changes. Are you sure you want to discard them?</source>
+        <target state="translated">Du hast ungespeicherte Änderungen. Möchtest du sie wirklich verwerfen?</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
         <source>You have used all your free searches. Subscribe for unlimited searches.</source>
         <target state="translated">Du hast alle kostenlosen Suchanfragen aufgebraucht. Für unbegrenzte Suchanfragen, schließ ein Abo ab.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You haven't used Callsheet to search for anything!&#10;Use the search field to get started." xml:space="preserve">
+        <source>You haven't used Callsheet to search for anything!
+Use the search field to get started.</source>
+        <target state="translated">Du hast Callsheet noch nicht verwendet, um nach etwas zu suchen! Nutze das Suchfeld, um loszulegen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You may know them from" xml:space="preserve">
@@ -1969,6 +2100,11 @@ Shown when a person has no credits.</note>
         <source>You must have a subscription to use the app.</source>
         <target state="translated">Du brauchst ein Abo, um die App zu benutzen.</target>
         <note>Shown in Settings as a subtitle if you haven't purchased the app</note>
+      </trans-unit>
+      <trans-unit id="You must select at least one section to be shown." xml:space="preserve">
+        <source>You must select at least one section to be shown.</source>
+        <target state="translated">Du musst mindestens einen Bereich auswählen, der angezeigt werden soll.</target>
+        <note>Shown as a footer in the Discover Sections view in Persnickety Preferences.</note>
       </trans-unit>
       <trans-unit id="Your %@ will expire on&#10;%@" xml:space="preserve">
         <source>Your %1$@ will expire on
@@ -2052,6 +2188,11 @@ Shown when a person has no credits.</note>
         <target state="translated">angepinnte Inhalte</target>
         <note/>
       </trans-unit>
+      <trans-unit id="today" xml:space="preserve">
+        <source>today</source>
+        <target state="translated">heute</target>
+        <note>Shown on the "how long ago was this?" popover when a TV episode was released today.</note>
+      </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
         <source>visionOS does not support changing icons yet.</source>
         <target state="translated">visionOS unterstützt das Ändern des App-Icons noch nicht.</target>
@@ -2076,7 +2217,7 @@ Shown when a person has no credits.</note>
   </file>
   <file original="Widgets/InfoPlist.xcstrings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2095,7 +2236,7 @@ Shown when a person has no credits.</note>
   </file>
   <file original="Widgets/Localizable.xcstrings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="%lld" xml:space="preserve">
@@ -2222,6 +2363,14 @@ Shown when a person has no credits.</note>
         <source>Title or role</source>
         <target state="translated">Titel oder Rolle</target>
         <note>Cast search prompt in the context of a single person (not a movie/show/etc)</note>
+      </trans-unit>
+      <trans-unit id="Title, cast, or crew" xml:space="preserve">
+        <source>Title, cast, or crew</source>
+        <note>Main search prompt on the bottom bar!</note>
+      </trans-unit>
+      <trans-unit id="Title, role, or job" xml:space="preserve">
+        <source>Title, role, or job</source>
+        <note>Search prompt when viewing a person's entire (cast &amp; crew) filmography</note>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
         <source>pin</source>

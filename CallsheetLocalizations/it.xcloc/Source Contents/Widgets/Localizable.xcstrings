@@ -81,6 +81,12 @@
     },
     "Title or role" : {
       "comment" : "Cast search prompt in the context of a single person (not a movie/show/etc)"
+    },
+    "Title, cast, or crew" : {
+      "comment" : "Main search prompt on the bottom bar!"
+    },
+    "Title, role, or job" : {
+      "comment" : "Search prompt when viewing a person's entire (cast & crew) filmography"
     }
   },
   "version" : "1.0"
