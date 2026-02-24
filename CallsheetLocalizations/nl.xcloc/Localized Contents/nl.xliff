@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Flookup/en.lproj/AppShortcuts.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
     </header>
     <body>
       <trans-unit id="Open ${applicationName} favorites" xml:space="preserve">
@@ -59,7 +59,7 @@
   </file>
   <file original="Flookup/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -88,7 +88,7 @@
   </file>
   <file original="Localizable.xcstrings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
@@ -876,14 +876,19 @@ Er staan %2$lld items op.</target>
         <target state="translated">Maandelijks</target>
         <note>Name of the monthly subscription in-app purchase</note>
       </trans-unit>
+      <trans-unit id="IAP: Subscriptions" xml:space="preserve">
+        <source>Subscriptions</source>
+        <target state="translated">Abonnementen</target>
+        <note>The display name for the subscription group that contains Monthly, Yearly, Yearly Supporter, and Yearly Super-Supporter</note>
+      </trans-unit>
       <trans-unit id="IAP: Yearly Description" xml:space="preserve">
         <source>Access to Callsheet for 1 year. Auto-renews</source>
         <target state="translated">Een jaar lang toegang tot Callsheet. Verlengt automatisch</target>
         <note>Description for the annual subscription in-app purchase; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
-        <source>Yearly Subscription</source>
-        <target state="translated">Jaarabonnement</target>
+        <source>Yearly</source>
+        <target state="translated">Jaarlijks</target>
         <note>Name of the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Description" xml:space="preserve">
@@ -960,6 +965,11 @@ Er staan %2$lld items op.</target>
         <source>Language Override</source>
         <target state="translated">Taal overschrijven</target>
         <note>Shown in Settings</note>
+      </trans-unit>
+      <trans-unit id="Learn about the open-source software that powers Callsheet" xml:space="preserve">
+        <source>Learn about the open-source software that powers Callsheet</source>
+        <target state="translated">Leer meer over de open-source software die Callsheet aandrijft</target>
+        <note>Open-Source Software subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
         <source>Learn about the people behind Callsheet.</source>
@@ -1089,12 +1099,12 @@ Er staan %2$lld items op.</target>
       <trans-unit id="New Episodes" xml:space="preserve">
         <source>New Episodes</source>
         <target state="translated">Nieuwe afleveringen</target>
-        <note/>
+        <note>Discover section (portion of the main screen) for episodes that have been released recently</note>
       </trans-unit>
       <trans-unit id="New Movies" xml:space="preserve">
         <source>New Movies</source>
         <target state="translated">Nieuwe films</target>
-        <note/>
+        <note>Discover section (portion of the main screen) for movies that have been released recently</note>
       </trans-unit>
       <trans-unit id="Newest First" xml:space="preserve">
         <source>Newest First</source>
@@ -1335,7 +1345,7 @@ Shown when a person has no credits.</note>
       <trans-unit id="Pinned Items" xml:space="preserve">
         <source>Pinned Items</source>
         <target state="translated">Vastgezette items</target>
-        <note/>
+        <note>Discover section (portion of the main screen) for your pinned/favorited/saved items</note>
       </trans-unit>
       <trans-unit id="Pinned items" xml:space="preserve">
         <source>Pinned items</source>
@@ -1375,12 +1385,12 @@ Shown when a person has no credits.</note>
       <trans-unit id="Popular Movies" xml:space="preserve">
         <source>Popular Movies</source>
         <target state="translated">Populaire films</target>
-        <note/>
+        <note>Discover section (portion of the main screen) for movies that are popular on TMDB right now</note>
       </trans-unit>
       <trans-unit id="Popular TV Shows" xml:space="preserve">
         <source>Popular TV Shows</source>
         <target state="translated">Populaire series</target>
-        <note/>
+        <note>Discover section (portion of the main screen) for shows that are popular on TMDB right now</note>
       </trans-unit>
       <trans-unit id="Portrait" xml:space="preserve">
         <source>Portrait</source>
@@ -1490,7 +1500,7 @@ Shown when a person has no credits.</note>
       <trans-unit id="Recent Searches" xml:space="preserve">
         <source>Recent Searches</source>
         <target state="translated">Recente zoekopdrachten</target>
-        <note/>
+        <note>Discover section (portion of the main screen) for the search results you've tapped on recently</note>
       </trans-unit>
       <trans-unit id="Refresh" xml:space="preserve">
         <source>Refresh</source>
@@ -1802,6 +1812,11 @@ Shown when a person has no credits.</note>
         <target state="translated">Samenvatting</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Switch list" xml:space="preserve">
+        <source>Switch list</source>
+        <target state="translated">Wissel lijst</target>
+        <note>Button to switch between lists when looking at the Favorites screen</note>
+      </trans-unit>
       <trans-unit id="System" xml:space="preserve">
         <source>System</source>
         <target state="translated">Systeem</target>
@@ -1950,7 +1965,7 @@ Shown when a person has no credits.</note>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
         <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source>
         <target state="translated">Helaas ondersteunt [The Movie Database](https://www.themoviedb.org/) nog geen gecombineerde zoekopdrachten voor series. Ik heb gevraagd dit toe te voegen – we zullen zien!</target>
-        <note/>
+        <note>A "union" search answers the question "What movies were X and Y both in?". The word "Union" is likely not a great fit for other languages.</note>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
@@ -2224,7 +2239,7 @@ Use the search field to get started.</source>
   </file>
   <file original="Widgets/InfoPlist.xcstrings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2245,7 +2260,7 @@ Use the search field to get started.</source>
   </file>
   <file original="Widgets/Localizable.xcstrings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
     </header>
     <body>
       <trans-unit id="%lld" xml:space="preserve">

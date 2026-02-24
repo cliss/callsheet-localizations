@@ -716,6 +716,18 @@
         }
       }
     },
+    "IAP: Subscriptions" : {
+      "comment" : "The display name for the subscription group that contains Monthly, Yearly, Yearly Supporter, and Yearly Super-Supporter",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subscriptions"
+          }
+        }
+      }
+    },
     "IAP: Yearly Description" : {
       "comment" : "Description for the annual subscription in-app purchase; 45 characters or less",
       "extractionState" : "manual",
@@ -735,7 +747,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yearly Subscription"
+            "value" : "Yearly"
           }
         }
       }
@@ -844,6 +856,9 @@
     "Language Override" : {
       "comment" : "Shown in Settings"
     },
+    "Learn about the open-source software that powers Callsheet" : {
+      "comment" : "Open-Source Software subtitle in Settings"
+    },
     "Learn about the people behind Callsheet." : {
       "extractionState" : "manual"
     },
@@ -920,10 +935,10 @@
       "comment" : "Cast search prompt; I'll replace \"%@\" with the name of the media in question, so for the translation, please include \"%@\" where appropriate."
     },
     "New Episodes" : {
-
+      "comment" : "Discover section (portion of the main screen) for episodes that have been released recently"
     },
     "New Movies" : {
-
+      "comment" : "Discover section (portion of the main screen) for movies that have been released recently"
     },
     "Newest First" : {
       "comment" : "When setting sort order"
@@ -1097,7 +1112,7 @@
       "comment" : "Shown on the pre-sales screen to get users to subscribe"
     },
     "Pinned Items" : {
-
+      "comment" : "Discover section (portion of the main screen) for your pinned/favorited/saved items"
     },
     "Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people." : {
 
@@ -1118,10 +1133,10 @@
       "comment" : "Subtitle when collecting log entries to send"
     },
     "Popular Movies" : {
-
+      "comment" : "Discover section (portion of the main screen) for movies that are popular on TMDB right now"
     },
     "Popular TV Shows" : {
-
+      "comment" : "Discover section (portion of the main screen) for shows that are popular on TMDB right now"
     },
     "Portrait" : {
       "comment" : "Shown in an accessibility label"
@@ -1187,7 +1202,7 @@
 
     },
     "Recent Searches" : {
-
+      "comment" : "Discover section (portion of the main screen) for the search results you've tapped on recently"
     },
     "Refresh" : {
 
@@ -1382,6 +1397,9 @@
     "Summary" : {
 
     },
+    "Switch list" : {
+      "comment" : "Button to switch between lists when looking at the Favorites screen"
+    },
     "System" : {
       "comment" : "System theme; this represents \"the light/dark mode the device is in\" (other options are always light and always dark)"
     },
@@ -1480,7 +1498,7 @@
       "comment" : "On cast list, display movies, shows, or movies & shows"
     },
     "Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" : {
-
+      "comment" : "A \"union\" search answers the question \"What movies were X and Y both in?\". The word \"Union\" is likely not a great fit for other languages."
     },
     "Unknown" : {
 

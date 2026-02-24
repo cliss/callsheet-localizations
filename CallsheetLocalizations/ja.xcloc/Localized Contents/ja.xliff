@@ -1,70 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Flookup/en.lproj/AppShortcuts.strings" datatype="plaintext" source-language="en" target-language="ja">
+  <file original="Flookup/en.lproj/AppShortcuts.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
     </header>
     <body>
       <trans-unit id="Open ${applicationName} favorites" xml:space="preserve">
         <source>Open ${applicationName} favorites</source>
+        <target>${applicationName} お気に入りを開く</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open ${applicationName} pins" xml:space="preserve">
         <source>Open ${applicationName} pins</source>
+        <target>${applicationName} ピンを開く</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open ${applicationName} recent search" xml:space="preserve">
         <source>Open ${applicationName} recent search</source>
+        <target>${applicationName} 最近の検索を開く</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open my most recent search in ${applicationName}" xml:space="preserve">
         <source>Open my most recent search in ${applicationName}</source>
+        <target>${applicationName} で最新の検索を開く</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open recent search in ${applicationName}" xml:space="preserve">
         <source>Open recent search in ${applicationName}</source>
+        <target>${applicationName} で最近の検索を開く</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open saved items in ${applicationName}" xml:space="preserve">
         <source>Open saved items in ${applicationName}</source>
+        <target>${applicationName} に保存した項目を開く</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Search ${applicationName}" xml:space="preserve">
         <source>Search ${applicationName}</source>
+        <target>${applicationName} 検索</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show ${applicationName} recent search" xml:space="preserve">
         <source>Show ${applicationName} recent search</source>
+        <target>${applicationName} 最近の検索を表示</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show my most recent search in ${applicationName}" xml:space="preserve">
         <source>Show my most recent search in ${applicationName}</source>
+        <target>${applicationName} で最新の検索を表示</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show recent search in ${applicationName}" xml:space="preserve">
         <source>Show recent search in ${applicationName}</source>
+        <target>${applicationName} の最近の検索を表示</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
   </file>
   <file original="Flookup/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Callsheet</source>
-        <target>コールシート</target>
+        <target>Callsheet</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Callsheet</source>
-        <target>コールシート</target>
+        <target>Callsheet</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
         <source>If Callsheet can use your local network, it may be able to show links to what you're currently watching on the main screen. Enabling local network usage is completely optional. No data about your network is sent off your device.</source>
-        <target>コールシートをローカルネットワークに接続すれば、現在視聴している作品のリンクを表示することができる場合があります。ローカルネットワークへの接続許可は任意です。ネットワークについての情報はデバイスから送られていません。</target>
+        <target>Callsheet をローカル ネットワークに接続すれば、現在視聴している作品のリンクを表示することができる場合があります。ローカル ネットワークへの接続許可は任意です。ネットワークについての情報はデバイスから送られていません。</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -74,25 +84,29 @@
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source>
+        <target>タイトル、キャスト、スタッフ</target>
         <note>(No Comment)</note>
       </trans-unit>
     </body>
   </file>
   <file original="Localizable.xcstrings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
         <source/>
+        <target state="translated"/>
         <note/>
       </trans-unit>
       <trans-unit id="#%lld" xml:space="preserve">
         <source>#%lld</source>
+        <target state="translated">#%lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="#%llu" xml:space="preserve">
         <source>#%llu</source>
+        <target state="translated">#%llu</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
@@ -102,10 +116,12 @@
       </trans-unit>
       <trans-unit id="%@ (%@)" xml:space="preserve">
         <source>%1$@ (%2$@)</source>
+        <target state="translated">%1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ - %@" xml:space="preserve">
         <source>%1$@ - %2$@</source>
+        <target state="translated">%1$@ - %2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ / %@" xml:space="preserve">
@@ -115,33 +131,37 @@
       </trans-unit>
       <trans-unit id="%@ and %@ have not been in any films together." xml:space="preserve">
         <source>%1$@ and %2$@ have not been in any films together.</source>
+        <target state="translated">%1$@ と %2$@ は映画で共演したことはありません。</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ by %@" xml:space="preserve">
         <source>%1$@ by %2$@</source>
+        <target state="translated">%2$@ による %1$@</target>
         <note>{Icon name} by {Icon artist}</note>
       </trans-unit>
       <trans-unit id="%lld" xml:space="preserve">
         <source>%lld</source>
+        <target state="translated">%lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld Season|==|plural.other" xml:space="preserve">
         <source>%lld Seasons</source>
-        <target state="new">%lld Seasons</target>
+        <target state="translated">%lld シーズン</target>
         <note>Shown in the TV seasons carousel (on the TV show screen)</note>
       </trans-unit>
       <trans-unit id="%lld credits|==|plural.other" xml:space="preserve">
         <source>%lld credits</source>
+        <target state="translated">%lld クレジット</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld episode|==|plural.other" xml:space="preserve">
         <source>%lld episodes</source>
-        <target state="new">%lld episodes</target>
+        <target state="translated">%lld エピソード</target>
         <note>How many episodes a person has been appeared in for a TV show, or how many episodes are in a TV season</note>
       </trans-unit>
       <trans-unit id="%lld free search remaining|==|plural.other" xml:space="preserve">
         <source>%lld free searches remaining</source>
-        <target state="new">%lld free searches remaining</target>
+        <target state="translated">残りの無料検索 %lld 回</target>
         <note>Shown on the main/bottom bar when the user has fewer than 10 of their free searches left</note>
       </trans-unit>
       <trans-unit id="%lld minutes|==|plural.other" xml:space="preserve">
@@ -151,14 +171,17 @@
       </trans-unit>
       <trans-unit id="%lld now" xml:space="preserve">
         <source>%lld now</source>
+        <target state="translated">現在 %lld 歳</target>
         <note>The age of an actor right now. Part of a larger string. For example, "34 years old, 73 now"</note>
       </trans-unit>
       <trans-unit id="%lld of %lld" xml:space="preserve">
         <source>%1$lld of %2$lld</source>
+        <target state="translated">%1$lld / %2$lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld until their death in %@ (age %lld)" xml:space="preserve">
         <source>%1$lld until their death in %2$@ (age %3$lld)</source>
+        <target state="translated">%1$lld 歳から %2$@ に %3$lld 歳で死去するまで</target>
         <note>Age of an actor who passed away during the run of a TV series. For example, "27 until their death in 2013 (age 31)"</note>
       </trans-unit>
       <trans-unit id="%lld year old|==|plural.other" xml:space="preserve">
@@ -173,10 +196,12 @@
       </trans-unit>
       <trans-unit id="%lld — " xml:space="preserve">
         <source>%lld — </source>
+        <target state="translated">%lld — </target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld-%lld years old" xml:space="preserve">
         <source>%1$lld–%2$lld years old</source>
+        <target state="translated">%1$lld–%2$lld 歳</target>
         <note>The age of an actor at the time a piece of media was released.</note>
       </trans-unit>
       <trans-unit id="A few more free ones please?" xml:space="preserve">
@@ -186,16 +211,17 @@
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
         <source>About Callsheet</source>
-        <target state="translated">コールシートについて</target>
+        <target state="translated">Callsheet について</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
+        <target state="translated">追加</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add %lld Free Search|==|plural.other" xml:space="preserve">
         <source>Add %lld Free Searches</source>
-        <target state="new">Add %lld Free Searches</target>
+        <target state="translated">%lld 回の無料検索を追加</target>
         <note>Shown on the "Buy Now" button when asking for more free searches</note>
       </trans-unit>
       <trans-unit id="Add Pin" xml:space="preserve">
@@ -205,10 +231,12 @@
       </trans-unit>
       <trans-unit id="Add list…" xml:space="preserve">
         <source>Add list…</source>
+        <target state="translated">リストを追加…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add or Remove From Other Lists" xml:space="preserve">
         <source>Add or Remove From Other Lists</source>
+        <target state="translated">他のリストから追加または削除</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add pin" xml:space="preserve">
@@ -218,6 +246,7 @@
       </trans-unit>
       <trans-unit id="Add to %@" xml:space="preserve">
         <source>Add to %@</source>
+        <target state="translated">%@ に追加</target>
         <note>Accessibility label for a context menu item that lets a user add an object to a list</note>
       </trans-unit>
       <trans-unit id="Ads" xml:space="preserve">
@@ -237,6 +266,7 @@
       </trans-unit>
       <trans-unit id="All Jobs" xml:space="preserve">
         <source>All Jobs</source>
+        <target state="translated">すべての仕事</target>
         <note>When viewing a person, show their movie &amp; TV crew jobs</note>
       </trans-unit>
       <trans-unit id="All Messages" xml:space="preserve">
@@ -246,15 +276,17 @@
       </trans-unit>
       <trans-unit id="All Pins" xml:space="preserve">
         <source>All Pins</source>
+        <target state="translated">すべてのピン</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Roles" xml:space="preserve">
         <source>All Roles</source>
+        <target state="translated">すべての役</target>
         <note>When viewing a person, show their movie &amp; TV acting roles</note>
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
         <source>App Icon</source>
-        <target state="translated">アプリアイコン</target>
+        <target state="translated">アプリ アイコン</target>
         <note/>
       </trans-unit>
       <trans-unit id="App Language" xml:space="preserve">
@@ -264,16 +296,17 @@
       </trans-unit>
       <trans-unit id="Apple Keynote" xml:space="preserve">
         <source>Apple Keynote</source>
-        <target state="translated">Apple基調講演</target>
+        <target state="translated">Apple Keynote</target>
         <note>Example episode name shown in Spoiler Settings</note>
       </trans-unit>
       <trans-unit id="Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet." xml:space="preserve">
         <source>Apple couldn't charge you for your subscription renewal. You will need to fix your payment and re-subscribe to continue to use Callsheet.</source>
-        <target state="translated">Appleがユーザー様のお支払いを受け取れなかったため、サブスクリプションの更新ができませんでした。お支払い方法をご確認の上、再度ご登録をお願いいたします。</target>
+        <target state="translated">Apple がサブスクリプションの更新料を請求できませんでした。Callsheet を引き続きご利用いただくには、お支払い情報を修正して再度サブスクリプションにご登録いただく必要があります。</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Are You Sure?" xml:space="preserve">
         <source>Are You Sure?</source>
+        <target state="translated">よろしいですか？</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
@@ -288,6 +321,7 @@
       </trans-unit>
       <trans-unit id="Available Links" xml:space="preserve">
         <source>Available Links</source>
+        <target state="translated">利用可能なリンク</target>
         <note>Screen in settings that lets you choose which quick links (Trivia, Technical Details, etc) are shown</note>
       </trans-unit>
       <trans-unit id="Average runtime" xml:space="preserve">
@@ -302,12 +336,12 @@
       </trans-unit>
       <trans-unit id="Be a hero and support independent apps" xml:space="preserve">
         <source>Be a hero and support independent apps</source>
-        <target state="translated">ヒーローになって独立系アプリを支援しよう</target>
+        <target state="translated">独立系アプリをご支援ください</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Be like the many other beautiful people who have rated this version." xml:space="preserve">
         <source>Be like the many other beautiful people who have rated this version.</source>
-        <target state="translated">アプリの評価をお願いいたします。</target>
+        <target state="translated">このバージョンのアプリを評価してください。</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="Began Airing" xml:space="preserve">
@@ -322,12 +356,12 @@
       </trans-unit>
       <trans-unit id="Biography" xml:space="preserve">
         <source>Biography</source>
-        <target state="translated">伝記</target>
+        <target state="translated">バイオグラフィー</target>
         <note/>
       </trans-unit>
       <trans-unit id="Born" xml:space="preserve">
         <source>Born</source>
-        <target state="translated">生まれ</target>
+        <target state="translated">生年月日</target>
         <note/>
       </trans-unit>
       <trans-unit id="Botanist" xml:space="preserve">
@@ -342,16 +376,17 @@
       </trans-unit>
       <trans-unit id="Buy" xml:space="preserve">
         <source>Buy</source>
-        <target state="translated">買う</target>
+        <target state="translated">購入</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Subscription"</note>
       </trans-unit>
       <trans-unit id="Callsheet Premium" xml:space="preserve">
         <source>Callsheet Premium</source>
-        <target state="translated">コールシートプレミアム</target>
+        <target state="translated">Callsheet Premium</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet app icon" xml:space="preserve">
         <source>Callsheet app icon</source>
+        <target state="translated">Callsheet アプリ アイコン</target>
         <note>Accessibility label for callsheet's icon in live activities</note>
       </trans-unit>
       <trans-unit id="Callsheet couldn't parse the information from The Movie Database." xml:space="preserve">
@@ -361,22 +396,22 @@
       </trans-unit>
       <trans-unit id="Callsheet couldn't reach The Movie Database." xml:space="preserve">
         <source>Callsheet couldn't reach The Movie Database.</source>
-        <target state="translated">The Movie Databaseに接続ができませんでした。</target>
+        <target state="translated">The Movie Databaseに接続できませんでした。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**." xml:space="preserve">
         <source>Callsheet was built in Virginia by **[Casey Liss](https://www.caseyliss.com/)**.</source>
-        <target state="translated">コールシートは、**[Casey Liss](https://www.caseyliss.com/)** によってバージニア州で構築されました。</target>
+        <target state="translated">Callsheet は、**[Casey Liss] (https://www.caseyliss.com/)** によってバージニア州で構築されました。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target state="translated">取り消す</target>
+        <target state="translated">キャンセル</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel Subscription" xml:space="preserve">
         <source>Cancel Subscription</source>
-        <target state="translated">サブスクリプションを解約する</target>
+        <target state="translated">サブスクリプションをキャンセルする</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cast" xml:space="preserve">
@@ -386,11 +421,12 @@
       </trans-unit>
       <trans-unit id="Cast Options" xml:space="preserve">
         <source>Cast Options</source>
+        <target state="translated">キャスト オプション</target>
         <note>Accessibility title of the menu item for all/movie/TV cast selection</note>
       </trans-unit>
       <trans-unit id="Change what language Callsheet itself uses" xml:space="preserve">
         <source>Change what language Callsheet itself uses</source>
-        <target state="translated">コールシートの使用言語を変更</target>
+        <target state="translated">Callsheet の使用言語を変更</target>
         <note>Description for the row in settings that allows you to set the app's language</note>
       </trans-unit>
       <trans-unit id="Choose New Subscription" xml:space="preserve">
@@ -405,29 +441,32 @@
       </trans-unit>
       <trans-unit id="Choose a quick link" xml:space="preserve">
         <source>Choose a quick link</source>
-        <target state="translated">クイックリンクを選択</target>
+        <target state="translated">クイック リンクを選択</target>
         <note>Accessibility label for the quick access picker in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Choose an icon that fits your aesthetic." xml:space="preserve">
         <source>Choose an icon that fits your aesthetic.</source>
-        <target state="translated">あなたの趣味に合ったアイコンを選択</target>
+        <target state="translated">あなたの趣味に合ったアイコンを選択します。</target>
         <note>Subtitle for "Custom icons"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
         <source>Choose spoiler-risky things to hide by default.</source>
-        <target state="translated">ネタバレのリスクがある情報を隠す</target>
+        <target state="translated">デフォルトでネタバレのリスクがある情報を隠します。</target>
         <note>Subtitle for a row in Settings</note>
       </trans-unit>
       <trans-unit id="Choose which links are shown." xml:space="preserve">
         <source>Choose which links are shown.</source>
+        <target state="translated">表示するリンクを選択してください。</target>
         <note>Description for the screen in Settings which lets you choose which quick links (Trivia, Technical Details, etc) are shown.</note>
       </trans-unit>
       <trans-unit id="Choose which links you'd like available when using Callsheet." xml:space="preserve">
         <source>Choose which links you'd like available when using Callsheet.</source>
+        <target state="translated">Callsheet を使用するときに利用したいリンクを選択します。</target>
         <note>Headline for the Select Links view</note>
       </trans-unit>
       <trans-unit id="Choose which sections to show on the Discover screen." xml:space="preserve">
         <source>Choose which sections to show on the Discover screen.</source>
+        <target state="translated">発見画面に表示するセクションを選択します。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
@@ -437,7 +476,7 @@
       </trans-unit>
       <trans-unit id="Clear all" xml:space="preserve">
         <source>Clear All</source>
-        <target state="needs-review-l10n">すべて消去</target>
+        <target state="translated">すべてクリア</target>
         <note>Shown when clearing recent searches or search history</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
@@ -452,7 +491,7 @@
       </trans-unit>
       <trans-unit id="Connect to devices on your local network to show what's playing." xml:space="preserve">
         <source>Connect to devices on your local network to show what's playing.</source>
-        <target state="translated">ローカルネットワーク上のデバイスに接続して再生中の作品を表示する</target>
+        <target state="translated">ローカル ネットワーク上のデバイスに接続して再生中の作品を表示します。</target>
         <note>Subtitle in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Copy" xml:space="preserve">
@@ -472,16 +511,17 @@
       </trans-unit>
       <trans-unit id="Copy to %@" xml:space="preserve">
         <source>Copy to %@</source>
+        <target state="translated">%@ にコピー</target>
         <note>Shown in the context menu for a pin</note>
       </trans-unit>
       <trans-unit id="Credits" xml:space="preserve">
         <source>Credits</source>
-        <target state="translated">タイトルバック</target>
+        <target state="translated">クレジット</target>
         <note>Shown as a header on the movie view for the mid- and post-credits scene icons</note>
       </trans-unit>
       <trans-unit id="Credits Lists" xml:space="preserve">
         <source>Credits Lists</source>
-        <target state="translated">クレジットのリスト</target>
+        <target state="translated">クレジット リスト</target>
         <note>Persnickety Preferences header</note>
       </trans-unit>
       <trans-unit id="Crew" xml:space="preserve">
@@ -491,20 +531,22 @@
       </trans-unit>
       <trans-unit id="Crew Options" xml:space="preserve">
         <source>Crew Options</source>
+        <target state="translated">スタッフ オプション</target>
         <note>Accessibility title of the menu item for all/movie/TV crew selection</note>
       </trans-unit>
       <trans-unit id="Current Location" xml:space="preserve">
         <source>Current Location</source>
-        <target state="translated">現在の所在地</target>
+        <target state="translated">現在地</target>
         <note>Shown in Where to Watch if the current locale can't be found</note>
       </trans-unit>
       <trans-unit id="Custom icons" xml:space="preserve">
         <source>Custom icons</source>
-        <target state="translated">カスタムアイコン</target>
+        <target state="translated">カスタム アイコン</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Customize your main screen." xml:space="preserve">
         <source>Customize your main screen.</source>
+        <target state="translated">メイン画面をカスタマイズします。</target>
         <note>Help text shown on the screen that allows customization of the Discover view.</note>
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
@@ -524,11 +566,12 @@
       </trans-unit>
       <trans-unit id="Default Spoiler Settings" xml:space="preserve">
         <source>Default Spoiler Settings</source>
-        <target state="translated">ネタバレの設定を初期化</target>
+        <target state="translated">デフォルトのネタバレの設定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
+        <target state="translated">削除</target>
         <note>Used in the context of an "Are you sure?" prompt when deleting a pin</note>
       </trans-unit>
       <trans-unit id="Delete recent searches" xml:space="preserve">
@@ -538,17 +581,21 @@
       </trans-unit>
       <trans-unit id="Delete search history" xml:space="preserve">
         <source>Delete Search History</source>
-        <target state="needs-review-l10n">検索履歴を消去する</target>
+        <target state="translated">検索履歴を削除</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete the list &quot;%@&quot;?&#10;&#10;It currently has %lld pins.|==|plural.other" xml:space="preserve">
         <source>Delete the list "%1$@"?
 
 It currently has %2$lld pins.</source>
+        <target state="translated">リスト "%1$@"を削除しますか？
+
+現在、%2$lld 個のピンがあります。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete this list?" xml:space="preserve">
         <source>Delete this list?</source>
+        <target state="translated">このリストを削除しますか？</target>
         <note/>
       </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
@@ -558,15 +605,17 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Discard Changes" xml:space="preserve">
         <source>Discard Changes</source>
+        <target state="translated">変更を破棄</target>
         <note/>
       </trans-unit>
       <trans-unit id="Discover" xml:space="preserve">
         <source>Discover</source>
-        <target state="translated">ディスカバー</target>
+        <target state="translated">発見</target>
         <note/>
       </trans-unit>
       <trans-unit id="Discover Sections" xml:space="preserve">
         <source>Discover Sections</source>
+        <target state="translated">セクションを見つける</target>
         <note>Heading in Persnickety Preferences; this lets you choose which sections to show on the Discover screen.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
@@ -576,21 +625,22 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="E" xml:space="preserve">
         <source>E</source>
+        <target state="translated">E</target>
         <note>Abbreviation for a TV episode; in English, short for "Episode".</note>
       </trans-unit>
       <trans-unit id="Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode." xml:space="preserve">
         <source>Each TV show can have their own settings, set by tapping the `Hide` `Spoilers…` button when looking at a show or episode.</source>
-        <target state="translated">特定の作品やエピソードを表示しているときに「ネタバレを隠す」を押すことで、番組ごとに設定をすることができます</target>
+        <target state="translated">テレビ番組やエピソードを見ているときに「ネタバレを隠す」ボタンを押すことで、番組ごとに設定することができます。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends at %@" xml:space="preserve">
         <source>Ends at %@</source>
-        <target state="translated">%@に終了</target>
+        <target state="translated">%@ に終了</target>
         <note>When a show or movie ends if you start it right now</note>
       </trans-unit>
       <trans-unit id="Episode" xml:space="preserve">
         <source>Episode</source>
-        <target state="translated">話</target>
+        <target state="translated">エピソード</target>
         <note/>
       </trans-unit>
       <trans-unit id="Episode Poster" xml:space="preserve">
@@ -600,11 +650,12 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Episode Scores" xml:space="preserve">
         <source>Episode Scores</source>
-        <target state="translated">エピソードスコア</target>
+        <target state="translated">エピソード スコア</target>
         <note/>
       </trans-unit>
       <trans-unit id="Everything" xml:space="preserve">
         <source>Everything</source>
+        <target state="translated">すべて</target>
         <note>When viewing a person, show all their cast &amp; crew records</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
@@ -614,16 +665,17 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Expires" xml:space="preserve">
         <source>Expires</source>
-        <target state="translated">切れる</target>
+        <target state="translated">期限切れ</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Export" xml:space="preserve">
         <source>Export</source>
-        <target state="translated">エキスポート</target>
+        <target state="translated">エクスポート</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Faults" xml:space="preserve">
         <source>Faults</source>
+        <target state="translated">エラー</target>
         <note>Shown in the context of a semi-hidden debugging screen.</note>
       </trans-unit>
       <trans-unit id="Feedback emails are lovely to read!" xml:space="preserve">
@@ -633,21 +685,23 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Film Jobs" xml:space="preserve">
         <source>Film Jobs</source>
+        <target state="translated">映画の仕事</target>
         <note>When viewing a person, show only their movie crew jobs</note>
       </trans-unit>
       <trans-unit id="Film Roles" xml:space="preserve">
         <source>Film Roles</source>
+        <target state="translated">映画の役</target>
         <note>When viewing a person, show only their movie acting roles</note>
       </trans-unit>
       <trans-unit id="Find a way to watch in:" xml:space="preserve">
         <source>Find a way to watch in:</source>
-        <target state="translated">視聴する方法を見つける:</target>
+        <target state="translated">視聴する方法を見つける：</target>
         <note>Shown when choosing a country to use for Where to Watch (long version)</note>
       </trans-unit>
       <trans-unit id="Find movies where&#10;%@ worked with:" xml:space="preserve">
         <source>Find movies where
 %@ worked with:</source>
-        <target state="translated">%@が携わった作品を見つける:</target>
+        <target state="translated">%@ が携わった作品を見つける：</target>
         <note/>
       </trans-unit>
       <trans-unit id="Find shared film credits" xml:space="preserve">
@@ -667,6 +721,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Force Callsheet's theme, or use the system one." xml:space="preserve">
         <source>Force Callsheet's theme, or use the system one.</source>
+        <target state="translated">Callsheet のテーマを強制するか、システムのテーマを使用します。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
@@ -681,6 +736,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Free search remaining" xml:space="preserve">
         <source>Free search remaining</source>
+        <target state="translated">残りの無料検索</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free searches remaining" xml:space="preserve">
@@ -695,7 +751,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Free, but you can only ask once. 😏" xml:space="preserve">
         <source>Free, but you can only ask once. 😏</source>
-        <target state="translated">タダですが、お願いできるのは一回だけですよ😏</target>
+        <target state="translated">タダですが、お願いできるのは一回だけですよ。😏</target>
         <note>Subtitle for the "A few more searches please" option on the "Additional options" purchasing screen</note>
       </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
@@ -715,6 +771,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Hand your phone to someone knowing they **cannot mess up your photos**." xml:space="preserve">
         <source>Hand your phone to someone knowing they **cannot mess up your photos**.</source>
+        <target state="translated">**写真が改変されることを心配せずに**、携帯電話を他の人に貸すことができます。</target>
         <note>Peek-a-View subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Height" xml:space="preserve">
@@ -724,6 +781,7 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Hide Self Credits" xml:space="preserve">
         <source>Hide Self Credits</source>
+        <target state="translated">自己クレジットを非表示</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide Spoilers" xml:space="preserve">
@@ -763,11 +821,12 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="How seasons and episodes are sorted." xml:space="preserve">
         <source>How seasons and episodes are sorted.</source>
-        <target state="translated">シーズンやエピソードの並び順</target>
+        <target state="translated">シーズンやエピソードの並べ替え順。</target>
         <note>Shown in Settings</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Description" xml:space="preserve">
         <source>Unlimited searches for a month. Auto-renews</source>
+        <target state="translated">1 か月間無制限の検索。自動更新</target>
         <note>Description for the monthly subscription in-app purchase; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Monthly Display Name" xml:space="preserve">
@@ -775,47 +834,59 @@ It currently has %2$lld pins.</source>
         <target state="translated">月次</target>
         <note>Name of the monthly subscription in-app purchase</note>
       </trans-unit>
+      <trans-unit id="IAP: Subscriptions" xml:space="preserve">
+        <source>Subscriptions</source>
+        <target state="translated">サブスクリプション</target>
+        <note>The display name for the subscription group that contains Monthly, Yearly, Yearly Supporter, and Yearly Super-Supporter</note>
+      </trans-unit>
       <trans-unit id="IAP: Yearly Description" xml:space="preserve">
         <source>Access to Callsheet for 1 year. Auto-renews</source>
-        <target state="translated">コールシートに1年アクセスする。自動的に更新。</target>
+        <target state="translated">Callsheet に 1 年間アクセスする。自動的に更新</target>
         <note>Description for the annual subscription in-app purchase; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Display Name" xml:space="preserve">
-        <source>Yearly Subscription</source>
-        <target state="translated">年間購読</target>
+        <source>Yearly</source>
+        <target state="translated">年間</target>
         <note>Name of the annual subscription in-app purchase</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Description" xml:space="preserve">
         <source>Show your added support!</source>
+        <target state="translated">あなたのさらなるサポートを示してください！</target>
         <note>Description for the medium-cost annual subscription; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Max Display Name" xml:space="preserve">
         <source>Yearly Max-Supporter</source>
+        <target state="translated">年間最大サポーター</target>
         <note>Name of the annual subscription that is a bit more money than the normal one</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Description" xml:space="preserve">
         <source>Show your extreme support!</source>
+        <target state="translated">熱烈な応援をお願いします！</target>
         <note>Description for the maximum-cost annual subscription; 45 characters or less</note>
       </trans-unit>
       <trans-unit id="IAP: Yearly Ultra Display Name" xml:space="preserve">
         <source>Yearly Ultra-Supporter</source>
+        <target state="translated">年間 Ultra サポーター</target>
         <note>Name of the maximum-cost annual subscription </note>
       </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen. [More info…](%@://%@)" xml:space="preserve">
         <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen. [More info…](%1$@://%2$@)</source>
+        <target state="translated">他のデバイスで [Channels] (https://getchannels.com/) または [Plex] (https://plex.tv/) を使用して何かを再生すると、Callsheet はその番組や映画を発見画面の上部に表示できます。(%1$@://%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
         <source>Image</source>
-        <target state="translated">イメージ</target>
+        <target state="translated">画像</target>
         <note/>
       </trans-unit>
       <trans-unit id="In Grace Period" xml:space="preserve">
         <source>In Grace Period</source>
+        <target state="translated">猶予期間中</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="In Retry Period" xml:space="preserve">
         <source>In Retry Period</source>
+        <target state="translated">再試行期間中</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="In-App Browser" xml:space="preserve">
@@ -825,24 +896,27 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="In-Credits Bonus Scenes" xml:space="preserve">
         <source>In-Credits Bonus Scenes</source>
+        <target state="translated">クレジットのボーナス シーン</target>
         <note/>
       </trans-unit>
       <trans-unit id="Include “Self”" xml:space="preserve">
         <source>Include “Self”</source>
+        <target state="translated">「自身」を含める</target>
         <note>Toggle whether or not to include people being credited as themselves in cast lists.</note>
       </trans-unit>
       <trans-unit id="Integrations" xml:space="preserve">
         <source>Integrations</source>
+        <target state="translated">統合</target>
         <note>Header in Persnickety Preferences</note>
       </trans-unit>
       <trans-unit id="Known-For-People-Key" xml:space="preserve">
         <source>Known For</source>
-        <target state="translated">で知られている</target>
+        <target state="translated">既知のキャリア</target>
         <note>Shown on the people screen; "Known For" in English</note>
       </trans-unit>
       <trans-unit id="Known-For-Settings-Key" xml:space="preserve">
         <source>Known For</source>
-        <target state="translated">で知られている</target>
+        <target state="translated">既知のキャリア</target>
         <note>Shown as a header in Settings; "Known For" in English</note>
       </trans-unit>
       <trans-unit id="Language Override" xml:space="preserve">
@@ -850,9 +924,14 @@ It currently has %2$lld pins.</source>
         <target state="translated">言語オーバーライド</target>
         <note>Shown in Settings</note>
       </trans-unit>
+      <trans-unit id="Learn about the open-source software that powers Callsheet" xml:space="preserve">
+        <source>Learn about the open-source software that powers Callsheet</source>
+        <target state="translated">Callsheetを支えるオープンソースソフトウェアについて学ぶ</target>
+        <note>Open-Source Software subtitle in Settings</note>
+      </trans-unit>
       <trans-unit id="Learn about the people behind Callsheet." xml:space="preserve">
         <source>Learn about the people behind Callsheet.</source>
-        <target state="translated">コールシートを運営している人たちについて学ぶ。</target>
+        <target state="translated">Callsheet を運営している人たちについて学ぶ。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Light" xml:space="preserve">
@@ -862,10 +941,12 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="List Name" xml:space="preserve">
         <source>List Name</source>
+        <target state="translated">リスト名</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lived" xml:space="preserve">
         <source>Lived</source>
+        <target state="translated">享年</target>
         <note>How long an actor lived</note>
       </trans-unit>
       <trans-unit id="Loading…" xml:space="preserve">
@@ -875,54 +956,62 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Macro State at %@" xml:space="preserve">
         <source>Macro State at %@</source>
+        <target state="translated">マクロ状態 %@</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Manage Lists" xml:space="preserve">
         <source>Manage Lists</source>
+        <target state="translated">リストを管理</target>
         <note/>
       </trans-unit>
       <trans-unit id="Manage Pins" xml:space="preserve">
         <source>Manage Pins</source>
+        <target state="translated">ピンを管理</target>
         <note>Title for context menu section</note>
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
         <source>Manage Subscription</source>
-        <target state="translated">サブスクリプションの管理</target>
+        <target state="translated">サブスクリプションを管理</target>
         <note/>
       </trans-unit>
       <trans-unit id="Manage lists…" xml:space="preserve">
         <source>Manage lists…</source>
+        <target state="translated">リストを管理…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
         <source>Mid-credits</source>
+        <target state="translated">ミッドクレジット</target>
         <note/>
       </trans-unit>
       <trans-unit id="More Info…" xml:space="preserve">
         <source>More Info…</source>
-        <target state="translated">より詳しい情報</target>
+        <target state="translated">詳細情報…</target>
         <note/>
       </trans-unit>
       <trans-unit id="More Purchase Options…" xml:space="preserve">
         <source>More Purchase Options…</source>
-        <target state="translated">他の購入オプション</target>
+        <target state="translated">他の購入オプション…</target>
         <note/>
       </trans-unit>
       <trans-unit id="More…" xml:space="preserve">
         <source>More…</source>
-        <target state="translated">もっと表示する…</target>
+        <target state="translated">さらに表示…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Move" xml:space="preserve">
         <source>Move</source>
+        <target state="translated">移動</target>
         <note/>
       </trans-unit>
       <trans-unit id="Move to %@" xml:space="preserve">
         <source>Move to %@</source>
+        <target state="translated">%@ に移動</target>
         <note>Shown in context menu for a pin</note>
       </trans-unit>
       <trans-unit id="Move to top" xml:space="preserve">
         <source>Move to top</source>
+        <target state="translated">先頭へ移動</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movie Poster" xml:space="preserve">
@@ -942,126 +1031,153 @@ It currently has %2$lld pins.</source>
       </trans-unit>
       <trans-unit id="Movies &amp; Shows" xml:space="preserve">
         <source>Movies &amp; Shows</source>
-        <target state="translated">映画とショー</target>
+        <target state="translated">映画とテレビ番組</target>
         <note>On cast list, display movies, shows, or movies &amp; shows</note>
       </trans-unit>
       <trans-unit id="Movies and TV shows will show one link for quick access. The others are available in the More menu." xml:space="preserve">
         <source>Movies and TV shows will show one link for quick access. The others are available in the More menu.</source>
+        <target state="translated">映画とテレビ番組には、すぐにアクセスできるリンクが 1 つ表示されます。その他のリンクは「その他」メニューからアクセスできます。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Movies featuring" xml:space="preserve">
         <source>Movies featuring</source>
+        <target state="translated">出演映画</target>
         <note>Title for cast union view</note>
       </trans-unit>
       <trans-unit id="Name or job in %@" xml:space="preserve">
         <source>Name or job in %@</source>
+        <target state="translated">%@ での名前または仕事</target>
         <note>Crew search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
       <trans-unit id="Name or role in %@" xml:space="preserve">
         <source>Name or role in %@</source>
+        <target state="translated">%@ での名前または役</target>
         <note>Cast search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
       <trans-unit id="New Episodes" xml:space="preserve">
         <source>New Episodes</source>
-        <note/>
+        <target state="translated">新しいエピソード</target>
+        <note>Discover section (portion of the main screen) for episodes that have been released recently</note>
       </trans-unit>
       <trans-unit id="New Movies" xml:space="preserve">
         <source>New Movies</source>
         <target state="translated">新作映画</target>
-        <note/>
+        <note>Discover section (portion of the main screen) for movies that have been released recently</note>
       </trans-unit>
       <trans-unit id="Newest First" xml:space="preserve">
         <source>Newest First</source>
+        <target state="translated">新着順</target>
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Next Episode" xml:space="preserve">
         <source>Next Episode</source>
+        <target state="translated">次のエピソード</target>
         <note/>
       </trans-unit>
       <trans-unit id="Next movie in %@" xml:space="preserve">
         <source>Next movie in %@</source>
+        <target state="translated">%@ の次回作</target>
         <note>Toolbar arrow to go forward a movie within a collection. Say, Empire Strikes Back → Return of the Jedi</note>
       </trans-unit>
       <trans-unit id="No Recent Searches Found" xml:space="preserve">
         <source>No Recent Searches Found</source>
+        <target state="translated">最近の検索が見つかりませんでした</target>
         <note/>
       </trans-unit>
       <trans-unit id="No TV show pins found." xml:space="preserve">
         <source>No TV show pins found.</source>
+        <target state="translated">テレビ番組のピンが見つかりませんでした。</target>
         <note/>
       </trans-unit>
       <trans-unit id="No credits found for &quot;%@&quot;." xml:space="preserve">
         <source>No credits found for "%@".</source>
+        <target state="translated">"%@" のクレジットが見つかりませんでした。</target>
         <note>Shown when a person has searched for something but no matching credits were found.</note>
       </trans-unit>
       <trans-unit id="No credits found." xml:space="preserve">
         <source>No credits found.</source>
+        <target state="translated">クレジットが見つかりませんでした。</target>
         <note>Shown when a person has no cast nor crew credits
 Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="No media found." xml:space="preserve">
         <source>No media found.</source>
+        <target state="translated">データが見つかりませんでした。</target>
         <note>Shown when there's no data for new movies / new shows / etc</note>
       </trans-unit>
       <trans-unit id="No movie pins found." xml:space="preserve">
         <source>No movie pins found.</source>
+        <target state="translated">映画のピンが見つかりませんでした。</target>
         <note/>
       </trans-unit>
       <trans-unit id="No override" xml:space="preserve">
         <source>No override</source>
+        <target state="translated">オーバーライドなし</target>
         <note>Default option for language/region override</note>
       </trans-unit>
       <trans-unit id="No people found." xml:space="preserve">
         <source>No people found.</source>
+        <target state="translated">人が見つかりませんでした。</target>
         <note>Shown when a movie/show has no cast/crew</note>
       </trans-unit>
       <trans-unit id="No people matching *%@* found." xml:space="preserve">
         <source>No people matching *%@* found.</source>
+        <target state="translated">%@* に一致する人は見つかりませんでした。</target>
         <note>Shown when searching a list of credits, but no matches were found</note>
       </trans-unit>
       <trans-unit id="No people pins found." xml:space="preserve">
         <source>No people pins found.</source>
+        <target state="translated">人のピンが見つかりませんでした。</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pinned items found." xml:space="preserve">
         <source>No pinned items found.</source>
+        <target state="translated">ピン留めされた項目は見つかりませんでした。</target>
         <note>Shown on the home screen</note>
       </trans-unit>
       <trans-unit id="No pins" xml:space="preserve">
         <source>No pins</source>
+        <target state="translated">ピンなし</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pins found." xml:space="preserve">
         <source>No pins found.</source>
+        <target state="translated">ピンが見つかりませんでした。</target>
         <note/>
       </trans-unit>
       <trans-unit id="No providers found." xml:space="preserve">
         <source>No providers found.</source>
+        <target state="translated">プロバイダーが見つかりませんでした。</target>
         <note>Shown when there's no data for Where to Watch</note>
       </trans-unit>
       <trans-unit id="No results found for &quot;%@&quot;" xml:space="preserve">
         <source>No results found for "%@"</source>
+        <target state="translated">"%@" の結果が見つかりませんでした</target>
         <note>Generic "couldn't find anything for this query" message</note>
       </trans-unit>
       <trans-unit id="No search history found." xml:space="preserve">
         <source>No search history found.</source>
+        <target state="translated">検索履歴が見つかりませんでした。</target>
         <note/>
       </trans-unit>
       <trans-unit id="No shared films" xml:space="preserve">
         <source>No shared films</source>
+        <target state="translated">一緒に働いた映画はありません</target>
         <note/>
       </trans-unit>
       <trans-unit id="Not a subscription" xml:space="preserve">
         <source>Not a subscription</source>
+        <target state="translated">サブスクリプションではありません</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Not purchased" xml:space="preserve">
         <source>Not purchased</source>
-        <target state="translated">購入されていない</target>
+        <target state="translated">購入されていません</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Now Playing" xml:space="preserve">
         <source>Now Playing</source>
+        <target state="translated">上映中</target>
         <note>A header on the home screen &amp; a row in Settings; shows what is currently playing in Plex and/or Channels.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -1071,35 +1187,42 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Oldest First" xml:space="preserve">
         <source>Oldest First</source>
+        <target state="translated">古い順</target>
         <note>When setting sort order</note>
       </trans-unit>
       <trans-unit id="Open Callsheet" xml:space="preserve">
         <source>Open Callsheet</source>
+        <target state="translated">Callsheet を開く</target>
         <note>Description for app shortcut</note>
       </trans-unit>
       <trans-unit id="Open Pinned Items" xml:space="preserve">
         <source>Open Pinned Items</source>
+        <target state="translated">ピン留めした項目を開く</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Pins" xml:space="preserve">
         <source>Open Pins</source>
+        <target state="translated">ピンを開く</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open the list of your pinned items" xml:space="preserve">
         <source>Open the list of your pinned items</source>
+        <target state="translated">ピン留めした項目のリストを開く</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open-Source Software" xml:space="preserve">
         <source>Open-Source Software</source>
+        <target state="translated">オープンソース ソフトウェア</target>
         <note/>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
         <source>Optionally, you can choose to help more.</source>
+        <target state="translated">任意で、さらに支援することもできます。</target>
         <note>Shown when trying to upsell the user on expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Or, you can have %lld more free search. Just this once.|==|plural.other" xml:space="preserve">
         <source>Or, you can have %lld more free searches. Just this once.</source>
-        <target state="new">Or, you can have %lld more free searches. Just this once.</target>
+        <target state="translated">または、今回に限り、さらに %lld 回の無料検索を行えます。</target>
         <note>Shown when trying to sell more expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="Other Great Apps" xml:space="preserve">
@@ -1109,10 +1232,12 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Other person" xml:space="preserve">
         <source>Other person</source>
+        <target state="translated">他の人物</target>
         <note>Shown when doing cast union search for movies</note>
       </trans-unit>
       <trans-unit id="Other settings for more _particular_ users." xml:space="preserve">
         <source>Other settings for more _particular_ users.</source>
+        <target state="translated">より _特定の _ユーザー向けのその他の設定。</target>
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
@@ -1122,10 +1247,12 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Parental guidance won't be shown for cast and crew." xml:space="preserve">
         <source>Parental guidance won't be shown for cast and crew.</source>
+        <target state="translated">キャストおよびスタッフには保護者の指導は表示されません。</target>
         <note>Shown in Quick Access settings when the user selects Parental Guidance as their Quick Access button</note>
       </trans-unit>
       <trans-unit id="People" xml:space="preserve">
         <source>People</source>
+        <target state="translated">人々</target>
         <note/>
       </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
@@ -1150,10 +1277,12 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Pin Icon Guide" xml:space="preserve">
         <source>Pin Icon Guide</source>
+        <target state="translated">ピン アイコン ガイド</target>
         <note>Title of the sheet/screen that explains pin icons</note>
       </trans-unit>
       <trans-unit id="Pin This Item" xml:space="preserve">
         <source>Pin This Item</source>
+        <target state="translated">この項目をピン留め</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pin Type" xml:space="preserve">
@@ -1163,24 +1292,27 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Pin your favorites for quick access." xml:space="preserve">
         <source>Pin your favorites for quick access.</source>
+        <target state="translated">お気に入りをピン留めして、すぐにアクセスできます。</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
         <source>Pinned Items</source>
-        <target state="translated">ピンした作品</target>
-        <note/>
+        <target state="translated">ピン留めした項目</target>
+        <note>Discover section (portion of the main screen) for your pinned/favorited/saved items</note>
       </trans-unit>
       <trans-unit id="Pinned items" xml:space="preserve">
         <source>Pinned items</source>
-        <target state="translated">ピンした作品</target>
+        <target state="translated">ピン留めした項目</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people." xml:space="preserve">
         <source>Pinned items are shown at the top of the main screen when you open Callsheet. You can pin movies, shows, or people.</source>
+        <target state="translated">ピン留めされた項目は、Callsheet を開くとメイン画面の上部に表示されます。映画や番組、人物をピン留めできます。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pins" xml:space="preserve">
         <source>Pins</source>
+        <target state="translated">ピン</target>
         <note/>
       </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
@@ -1190,36 +1322,37 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet." xml:space="preserve">
         <source>Please fix your billing issue as soon as possible using the App Store app in order to keep using Callsheet.</source>
-        <target state="translated">コールシートをご利用いただくために、App Storeでお支払い方法の問題を解消する必要があります。ご確認をお願いいたします。</target>
+        <target state="translated">Callsheet を引き続きご利用いただくために、App Store アプリを使用してできるだけ早くお支払い方法の問題を解消する必要があります。</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Please send feedback to `hello@limitliss.co`" xml:space="preserve">
         <source>Please send feedback to `hello@limitliss.co`</source>
-        <target state="translated">フィードバックを`hello@limitliss.co`にお送りください</target>
+        <target state="translated">フィードバックを `hello@limitliss.co` にお送りください</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please wait a moment." xml:space="preserve">
         <source>Please wait a moment.</source>
-        <target state="translated">少々お待ちください</target>
+        <target state="translated">少々お待ちください。</target>
         <note>Subtitle when collecting log entries to send</note>
       </trans-unit>
       <trans-unit id="Popular Movies" xml:space="preserve">
         <source>Popular Movies</source>
         <target state="translated">人気の映画</target>
-        <note/>
+        <note>Discover section (portion of the main screen) for movies that are popular on TMDB right now</note>
       </trans-unit>
       <trans-unit id="Popular TV Shows" xml:space="preserve">
         <source>Popular TV Shows</source>
         <target state="translated">人気のテレビ番組</target>
-        <note/>
+        <note>Discover section (portion of the main screen) for shows that are popular on TMDB right now</note>
       </trans-unit>
       <trans-unit id="Portrait" xml:space="preserve">
         <source>Portrait</source>
-        <target state="translated">肖像</target>
+        <target state="translated">ポートレート</target>
         <note>Shown in an accessibility label</note>
       </trans-unit>
       <trans-unit id="Post-credits" xml:space="preserve">
         <source>Post-credits</source>
+        <target state="translated">エンドクレジット</target>
         <note/>
       </trans-unit>
       <trans-unit id="Poster" xml:space="preserve">
@@ -1229,10 +1362,12 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Poster for %@" xml:space="preserve">
         <source>Poster for %@</source>
+        <target state="translated">%@ のポスター</target>
         <note>Accessibility label for posters shown in live activities</note>
       </trans-unit>
       <trans-unit id="Prevent giving away spoilers by choosing to redact details." xml:space="preserve">
         <source>Prevent giving away spoilers by choosing to redact details.</source>
+        <target state="translated">詳細を編集することを選択して、ネタバレを防ぎます。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
@@ -1242,36 +1377,42 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Previous movie in %@" xml:space="preserve">
         <source>Previous movie in %@</source>
+        <target state="translated">%@ の前回作</target>
         <note>Toolbar arrow to go backward a movie within a collection. Say, Return of the Jedi → Empire Strikes Back</note>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
         <source>Privacy Policy</source>
-        <target state="translated">プライバシーポリシー</target>
+        <target state="translated">プライバシー ポリシー</target>
         <note/>
       </trans-unit>
       <trans-unit id="Provided by" xml:space="preserve">
         <source>Provided by</source>
+        <target state="translated">提供：</target>
         <note>In the context of "Provided by JustWatch"</note>
       </trans-unit>
       <trans-unit id="Provided by [JustWatch](https://www.justwatch.com/)" xml:space="preserve">
         <source>Provided by [JustWatch](https://www.justwatch.com/)</source>
+        <target state="translated">提供：[JustWatch] (https://www.justwatch.com/)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Purchase Error" xml:space="preserve">
         <source>Purchase Error</source>
+        <target state="translated">購入エラー</target>
         <note/>
       </trans-unit>
       <trans-unit id="Purchase a subscription" xml:space="preserve">
         <source>Purchase a subscription</source>
-        <target state="translated">購読を購入する</target>
+        <target state="translated">サブスクリプションを購入</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
         <source>Purchased</source>
+        <target state="translated">購入済み</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Purchasing is unavailable at this time." xml:space="preserve">
         <source>Purchasing is unavailable at this time.</source>
+        <target state="translated">現時点では購入できません。</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Purchasing…" xml:space="preserve">
@@ -1281,38 +1422,42 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Quick Access Link" xml:space="preserve">
         <source>Quick Access Link</source>
-        <target state="translated">クイックアクセスリンク</target>
+        <target state="translated">クイック アクセス リンク</target>
         <note>Title of the Quick Access Link screen in Settings</note>
       </trans-unit>
       <trans-unit id="Quickly place emoji on photos — for privacy or fun!" xml:space="preserve">
         <source>Quickly place emoji on photos — for privacy or fun!</source>
+        <target state="translated">プライバシーや楽しみのために、写真に絵文字をすばやく配置できます！</target>
         <note>MaskerAid subtitle in Settings</note>
       </trans-unit>
       <trans-unit id="Random Pin" xml:space="preserve">
         <source>Random Pin</source>
+        <target state="translated">ランダム ピン</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rate this version of Callsheet" xml:space="preserve">
         <source>Rate this version of Callsheet</source>
+        <target state="translated">このバージョンの Callsheet を評価</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rating" xml:space="preserve">
         <source>Rating</source>
-        <target state="translated">格付け</target>
+        <target state="translated">レーティング</target>
         <note>A content rating like G/PG/PG-13/R</note>
       </trans-unit>
       <trans-unit id="Recent Search" xml:space="preserve">
         <source>Recent Search</source>
+        <target state="translated">最近の検索</target>
         <note/>
       </trans-unit>
       <trans-unit id="Recent Searches" xml:space="preserve">
         <source>Recent Searches</source>
         <target state="translated">最近の検索</target>
-        <note/>
+        <note>Discover section (portion of the main screen) for the search results you've tapped on recently</note>
       </trans-unit>
       <trans-unit id="Refresh" xml:space="preserve">
         <source>Refresh</source>
-        <target state="translated">リフレッシュ</target>
+        <target state="translated">更新</target>
         <note/>
       </trans-unit>
       <trans-unit id="Region Override" xml:space="preserve">
@@ -1332,16 +1477,17 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Releases" xml:space="preserve">
         <source>Releases</source>
-        <target state="translated">リリースされます</target>
+        <target state="translated">公開</target>
         <note>When a TV episode or movie will be released</note>
       </trans-unit>
       <trans-unit id="Remove Pin" xml:space="preserve">
         <source>Remove Pin</source>
-        <target state="translated">ピンを外す</target>
+        <target state="translated">ピンを削除</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove from %@" xml:space="preserve">
         <source>Remove from %@</source>
+        <target state="translated">%@ から削除</target>
         <note>Accessibility label for a context menu item that lets a user remove an object from a pin list</note>
       </trans-unit>
       <trans-unit id="Remove pin" xml:space="preserve">
@@ -1356,48 +1502,57 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Repeat Search" xml:space="preserve">
         <source>Repeat Search</source>
+        <target state="translated">検索を繰り返す</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeats the most recent search." xml:space="preserve">
         <source>Repeats the most recent search.</source>
+        <target state="translated">最新の検索を繰り返します。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
         <source>Request Refund</source>
+        <target state="translated">返金を要請</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore Purchase" xml:space="preserve">
         <source>Restore Purchase</source>
+        <target state="translated">購入を復元</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore Purchases" xml:space="preserve">
         <source>Restore Purchases</source>
+        <target state="translated">購入を復元</target>
         <note>Button title in Settings</note>
       </trans-unit>
       <trans-unit id="Restoring…" xml:space="preserve">
         <source>Restoring…</source>
+        <target state="translated">復元中…</target>
         <note>Button title in Settings when actively restoring a purchase</note>
       </trans-unit>
       <trans-unit id="Reverse sort order" xml:space="preserve">
         <source>Reverse sort order</source>
+        <target state="translated">逆順の並べ替え</target>
         <note/>
       </trans-unit>
       <trans-unit id="Revoked" xml:space="preserve">
         <source>Revoked</source>
-        <target state="translated">取り消される</target>
+        <target state="translated">取り消し済み</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Runtime" xml:space="preserve">
         <source>Runtime</source>
-        <target state="translated">ランタイム</target>
+        <target state="translated">上映時間</target>
         <note>Heading for the total runtime of a TV episode</note>
       </trans-unit>
       <trans-unit id="S" xml:space="preserve">
         <source>S</source>
+        <target state="translated">S</target>
         <note>Abbreviation for a TV season; in English, short for "Season".</note>
       </trans-unit>
       <trans-unit id="Same perks as all other plans" xml:space="preserve">
         <source>Same perks as all other plans</source>
+        <target state="translated">他のすべてのプランと同じ特典</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -1407,12 +1562,12 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Save %@" xml:space="preserve">
         <source>Save %@</source>
-        <target state="translated">%@割引</target>
+        <target state="translated">%@ 割引</target>
         <note>Encouraging users to save money by purchasing a yearly subscription — "Save 17%"</note>
       </trans-unit>
       <trans-unit id="Score" xml:space="preserve">
         <source>Score</source>
-        <target state="translated">点数</target>
+        <target state="translated">スコア</target>
         <note>A 0-100 score of the quality of a movie/show</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -1422,14 +1577,17 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Search History" xml:space="preserve">
         <source>Search History</source>
+        <target state="translated">検索履歴</target>
         <note>Title of the Search History screen</note>
       </trans-unit>
       <trans-unit id="Search Results" xml:space="preserve">
         <source>Search Results</source>
+        <target state="translated">検索結果</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
         <source>Search history</source>
+        <target state="translated">検索履歴</target>
         <note/>
       </trans-unit>
       <trans-unit id="Season %lld Episode %lld" xml:space="preserve">
@@ -1439,23 +1597,27 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Seasons" xml:space="preserve">
         <source>Seasons</source>
-        <target state="translated">セゾン</target>
+        <target state="translated">シーズン</target>
         <note>Navigation title for the screen showing the seasons of a TV show; NOT spring/summer</note>
       </trans-unit>
       <trans-unit id="See Preview" xml:space="preserve">
         <source>See Preview</source>
+        <target state="translated">プレビューを見る</target>
         <note>Button shown when rearranging the Discover screen that allows the user to open a preview of Discover.</note>
       </trans-unit>
       <trans-unit id="Select Links" xml:space="preserve">
         <source>Select Links</source>
+        <target state="translated">リンクを選択</target>
         <note>Title for the Select Links screen; this screen lets you customize which links are available when using Callsheet</note>
       </trans-unit>
       <trans-unit id="Select a View" xml:space="preserve">
         <source>Select a View</source>
+        <target state="translated">ビューを選択してください</target>
         <note>Shown when choosing between cast &amp; crew</note>
       </trans-unit>
       <trans-unit id="Send Feedback" xml:space="preserve">
         <source>Send Feedback</source>
+        <target state="translated">フィードバックを送信</target>
         <note/>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
@@ -1470,18 +1632,22 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Shared image" xml:space="preserve">
         <source>Shared image</source>
+        <target state="translated">共有画像</target>
         <note>Export preview</note>
       </trans-unit>
       <trans-unit id="Share…" xml:space="preserve">
         <source>Share…</source>
+        <target state="translated">共有…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Poster" xml:space="preserve">
         <source>Show Poster</source>
+        <target state="translated">テレビ番組のポスター</target>
         <note>Accessibility label</note>
       </trans-unit>
       <trans-unit id="Show Poster Placeholder" xml:space="preserve">
         <source>Show Poster Placeholder</source>
+        <target state="translated">テレビ番組ポスターのプレースホルダー</target>
         <note>Shown in an accessibility label</note>
       </trans-unit>
       <trans-unit id="Show Spoilers" xml:space="preserve">
@@ -1491,39 +1657,47 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Show age information within credits lists. Ages are always shown for birth/death dates." xml:space="preserve">
         <source>Show age information within credits lists. Ages are always shown for birth/death dates.</source>
+        <target state="translated">クレジット リストに年齢情報を表示します。生年月日と死亡日には常に年齢が表示されます。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show movies, shows, or both in credit lists." xml:space="preserve">
         <source>Show movies, shows, or both in credit lists.</source>
-        <target state="translated">映画、テレビ番組、またはその両方をクレジットリストに表示します。</target>
+        <target state="translated">映画、テレビ番組、またはその両方をクレジット リストに表示します。</target>
         <note>Persnickety Preferences subtitle</note>
       </trans-unit>
       <trans-unit id="Show that you _really_ care" xml:space="preserve">
         <source>Show that you _really_ care</source>
+        <target state="translated">あなたに _とって _重要だと示してください</target>
         <note>Shown when trying to sell a subscription</note>
       </trans-unit>
       <trans-unit id="Show titles a person may be known from." xml:space="preserve">
         <source>Show titles a person may be known from.</source>
+        <target state="translated">この人が知られている作品のタイトルを表示します。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shows" xml:space="preserve">
         <source>Shows</source>
+        <target state="translated">テレビ番組</target>
         <note/>
       </trans-unit>
       <trans-unit id="So sorry!" xml:space="preserve">
         <source>So sorry!</source>
+        <target state="translated">申し訳ありません！</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Sorry, there was a problem." xml:space="preserve">
         <source>Sorry, there was a problem.</source>
+        <target state="translated">申し訳ありません、問題がありました。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, there was an error making your purchase. Please try it again later." xml:space="preserve">
         <source>Sorry, there was an error making your purchase. Please try it again later.</source>
+        <target state="translated">申し訳ありませんが、ご購入の際にエラーが発生しました。後ほどもう一度お試しください。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
         <source>Sort Order</source>
+        <target state="translated">並べ替え順</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spoiler Settings" xml:space="preserve">
@@ -1538,66 +1712,81 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Start %@ Free Trial" xml:space="preserve">
         <source>Start %@ Free Trial</source>
-        <target state="translated">無料体験を始める</target>
+        <target state="translated">%@ 無料トライアルを開始</target>
         <note>Shown on the "Buy Now" button when subscribing</note>
       </trans-unit>
       <trans-unit id="Start Live Activity" xml:space="preserve">
         <source>Start Live Activity</source>
+        <target state="translated">ライブ アクティビティを開始</target>
         <note/>
       </trans-unit>
       <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
         <source>Starts a new Search within Callsheet.</source>
+        <target state="translated">Callsheet 内で新しい検索を開始します。</target>
         <note>For the search intent.</note>
       </trans-unit>
       <trans-unit id="Stop Live Activity" xml:space="preserve">
         <source>Stop Live Activity</source>
+        <target state="translated">ライブ アクティビティを停止</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscribe" xml:space="preserve">
         <source>Subscribe</source>
+        <target state="translated">サブスクリプションを購入</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscribed" xml:space="preserve">
         <source>Subscribed</source>
-        <target state="translated">購読しました</target>
+        <target state="translated">サブスクリプションを購入済み</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscribers can change the app’s icon." xml:space="preserve">
         <source>Subscribers can change the app’s icon.</source>
-        <target state="translated">サブスクの登録者はアプリのアイコンを変更できます。</target>
+        <target state="translated">サブスクリプション購入者はアプリのアイコンを変更できます。</target>
         <note>Subtitle for the App Icon row in Settings</note>
       </trans-unit>
       <trans-unit id="Subscription" xml:space="preserve">
         <source>Subscription</source>
+        <target state="translated">サブスクリプション</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Rent", "Buy"</note>
       </trans-unit>
       <trans-unit id="Subscription Status" xml:space="preserve">
         <source>Subscription Status</source>
+        <target state="translated">サブスクリプション ステータス</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscriptions Debugging" xml:space="preserve">
         <source>Subscriptions Debugging</source>
+        <target state="translated">サブスクリプション デバッグ</target>
         <note>Title of a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Summary" xml:space="preserve">
         <source>Summary</source>
+        <target state="translated">概要</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Switch list" xml:space="preserve">
+        <source>Switch list</source>
+        <note>Button to switch between lists when looking at the Favorites screen</note>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
         <source>System</source>
+        <target state="translated">システム</target>
         <note>System theme; this represents "the light/dark mode the device is in" (other options are always light and always dark)</note>
       </trans-unit>
       <trans-unit id="System Default" xml:space="preserve">
         <source>System Default</source>
-        <target state="translated">システムのデフォルト</target>
+        <target state="translated">システム デフォルト</target>
         <note>Which browser to use for web links (the other option is "In-App Browser")</note>
       </trans-unit>
       <trans-unit id="TV Jobs" xml:space="preserve">
         <source>TV Jobs</source>
+        <target state="translated">テレビの仕事</target>
         <note>When viewing a pesron, show only their TV crew jobs</note>
       </trans-unit>
       <trans-unit id="TV Roles" xml:space="preserve">
         <source>TV Roles</source>
+        <target state="translated">テレビの役</target>
         <note>When viewing a person, show only their TV acting roles</note>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
@@ -1607,6 +1796,7 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists." xml:space="preserve">
         <source>Tap-and-hold on the pin in the toolbar to see a menu with more actions. Use this as a quick way to add or remove this item from other lists.</source>
+        <target state="translated">ツールバーのピンを長押しすると、その他の操作メニューが表示されます。これを使って、他のリストにこの項目を追加したり削除できます。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Technical Details" xml:space="preserve">
@@ -1621,84 +1811,102 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Thank you for trying out Callsheet. 💙" xml:space="preserve">
         <source>Thank you for trying out Callsheet. 💙</source>
-        <target state="translated">コールシートをお試しいただきありがとうございます。💙</target>
+        <target state="translated">Callsheet をお試しいただき、ありがとうございます。💙</target>
         <note/>
       </trans-unit>
       <trans-unit id="The Quick Access Link cannot be disabled." xml:space="preserve">
         <source>The Quick Access Link cannot be disabled.</source>
+        <target state="translated">クイック アクセス リンクを無効にすることはできません。</target>
         <note>Message associated with the link that is currently the user's Quick Access Link; this link cannot be disabled.</note>
       </trans-unit>
       <trans-unit id="The above open-source software helps make Callsheet possible. 💙" xml:space="preserve">
         <source>The above open-source software helps make Callsheet possible. 💙</source>
+        <target state="translated">上記のオープンソース ソフトウェアは Callsheet の実現に役立っています。💙</target>
         <note/>
       </trans-unit>
       <trans-unit id="The currently active list is `%@`" xml:space="preserve">
         <source>The currently active list is `%@`</source>
+        <target state="translated">現在アクティブなリストは `%@` です</target>
         <note>This is a caption under the "This item is pinned on the active list" line</note>
       </trans-unit>
       <trans-unit id="Theme" xml:space="preserve">
         <source>Theme</source>
+        <target state="translated">テーマ</target>
         <note>Persnickety Preference for light/dark/system theme</note>
       </trans-unit>
       <trans-unit id="There are a total of %lld lists and %lld pins." xml:space="preserve">
         <source>There are a total of %1$lld lists and %2$lld pins.</source>
+        <target state="translated">合計 %1$lld 個のリストと %2$lld 個のピンがあります。</target>
         <note/>
       </trans-unit>
       <trans-unit id="There is no watch information available for *%@*." xml:space="preserve">
         <source>There is no watch information available for *%@*.</source>
+        <target state="translated">*%@* の視聴情報はありません。</target>
         <note/>
       </trans-unit>
       <trans-unit id="These are the default settings." xml:space="preserve">
         <source>These are the default settings.</source>
+        <target state="translated">これらはデフォルト設定です。</target>
         <note/>
       </trans-unit>
       <trans-unit id="These settings will only affect *%@*." xml:space="preserve">
         <source>These settings will only affect *%@*.</source>
+        <target state="translated">これらの設定は *%@* にのみ影響します。</target>
         <note>Shown in spoiler settings for a particular show</note>
       </trans-unit>
       <trans-unit id="This item is not pinned in any list" xml:space="preserve">
         <source>This item is not pinned in any list</source>
+        <target state="translated">この項目はどのリストにもピン留めされていません</target>
         <note/>
       </trans-unit>
       <trans-unit id="This item is pinned on a different list" xml:space="preserve">
         <source>This item is pinned on a different list</source>
+        <target state="translated">この項目は別のリストにピン留めされています</target>
         <note/>
       </trans-unit>
       <trans-unit id="This item is pinned on the active list" xml:space="preserve">
         <source>This item is pinned on the active list</source>
+        <target state="translated">この項目はアクティブなリストにピン留めされています</target>
         <note/>
       </trans-unit>
       <trans-unit id="Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:" xml:space="preserve">
         <source>Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:</source>
+        <target state="translated">Callsheet は私が作成しましたが、以下の方々の努力なしには実現できませんでした：</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title or job" xml:space="preserve">
         <source>Title or job</source>
+        <target state="translated">タイトルまたは職務</target>
         <note>Crew search prompt in the context of a single person (not a movie/show/etc)</note>
       </trans-unit>
       <trans-unit id="Title or role" xml:space="preserve">
         <source>Title or role</source>
+        <target state="translated">タイトルまたは役割</target>
         <note>Cast search prompt in the context of a single person (not a movie/show/etc)</note>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source>
+        <target state="translated">タイトル、キャスト、スタッフ</target>
         <note>Main search prompt on the bottom bar!</note>
       </trans-unit>
       <trans-unit id="Title, role, or job" xml:space="preserve">
         <source>Title, role, or job</source>
+        <target state="translated">タイトル、役割、または職務</target>
         <note>Search prompt when viewing a person's entire (cast &amp; crew) filmography</note>
       </trans-unit>
       <trans-unit id="Total runtime %@" xml:space="preserve">
         <source>Total runtime %@</source>
-        <target state="translated">ランタイム合計%@</target>
+        <target state="translated">合計上映時間 %@</target>
         <note>Shown in a popover when looking at a TV season</note>
       </trans-unit>
       <trans-unit id="Transaction" xml:space="preserve">
         <source>Transaction</source>
+        <target state="translated">トランザクション</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Trial Period" xml:space="preserve">
         <source>Trial Period</source>
+        <target state="translated">トライアル期間</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Trivia" xml:space="preserve">
@@ -1708,32 +1916,37 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
         <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source>
-        <target state="translated"/>
-        <note/>
+        <target state="translated">残念ながら、[The Movie Database] (https://www.themoviedb.org/) では、番組の AND 検索がまだサポートされていません。追加するように依頼しましたので、今後の展開をお待ちください！</target>
+        <note>A "union" search answers the question "What movies were X and Y both in?". The word "Union" is likely not a great fit for other languages.</note>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
-        <target state="translated">無名</target>
+        <target state="translated">不明</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unlimited searches" xml:space="preserve">
         <source>Unlimited searches</source>
+        <target state="translated">無制限検索</target>
         <note>Shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Upcoming" xml:space="preserve">
         <source>Upcoming</source>
+        <target state="translated">今後</target>
         <note>Header for titles a person will be in, but have not been released yet</note>
       </trans-unit>
       <trans-unit id="Upgraded" xml:space="preserve">
         <source>Upgraded</source>
+        <target state="translated">アップグレード済み</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
       <trans-unit id="Use the gripper to rearrange them." xml:space="preserve">
         <source>Use the gripper to rearrange them.</source>
+        <target state="translated">グリッパーを使用して並べ替えます。</target>
         <note>Help text shown on the screen that allows customization of the Discover view.</note>
       </trans-unit>
       <trans-unit id="Use the toggles to turn sections on or off." xml:space="preserve">
         <source>Use the toggles to turn sections on or off.</source>
+        <target state="translated">トグルを使用してセクションのオン/オフを切り替えます。</target>
         <note>Help text shown on the screen that allows customization of the Discover view.</note>
       </trans-unit>
       <trans-unit id="User Interface" xml:space="preserve">
@@ -1743,10 +1956,12 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Waiting for approval…" xml:space="preserve">
         <source>Waiting for approval…</source>
+        <target state="translated">承認待ちです…</target>
         <note>Shown when waiting for a purchase to be approved (probably by a parent)</note>
       </trans-unit>
       <trans-unit id="Watch in:" xml:space="preserve">
         <source>Watch in:</source>
+        <target state="translated">視聴場所：</target>
         <note>Shown when choosing a country to use for Where to Watch (short version)</note>
       </trans-unit>
       <trans-unit id="Website" xml:space="preserve">
@@ -1756,26 +1971,32 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="What do the icons mean?" xml:space="preserve">
         <source>What do the icons mean?</source>
+        <target state="translated">アイコンは何を意味しますか？</target>
         <note>Menu item when a user shows the context menu for a pin. This will show a popup that explains what the different pin icons mean.</note>
       </trans-unit>
       <trans-unit id="What was that thing I looked up yesterday?" xml:space="preserve">
         <source>What was that thing I looked up yesterday?</source>
+        <target state="translated">昨日探したのは何でしたか？</target>
         <note>Subtitle for "Search history"; shown on the pre-sales screen to get users to subscribe</note>
       </trans-unit>
       <trans-unit id="Where to Watch" xml:space="preserve">
         <source>Where to Watch</source>
+        <target state="translated">視聴できる場所</target>
         <note>Quick access link</note>
       </trans-unit>
       <trans-unit id="Which browser to use to open external links." xml:space="preserve">
         <source>Which browser to use to open external links.</source>
+        <target state="translated">外部リンクを開くときに使用するブラウザ。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Which quick access link is shown." xml:space="preserve">
         <source>Which quick access link is shown.</source>
+        <target state="translated">表示されるクイック アクセス リンク。</target>
         <note>Shown as a subtitle for a row on Settings</note>
       </trans-unit>
       <trans-unit id="Why not shows?" xml:space="preserve">
         <source>Why not shows?</source>
+        <target state="translated">なぜテレビ番組は含まれませんか？</target>
         <note>Shown at the bottom of the "what movies are both of these actors in?" screen</note>
       </trans-unit>
       <trans-unit id="Wikipedia" xml:space="preserve">
@@ -1785,22 +2006,27 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Will NOT renew" xml:space="preserve">
         <source>Will NOT renew</source>
+        <target state="translated">更新しない</target>
         <note>Shown in a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="Will renew" xml:space="preserve">
         <source>Will renew</source>
+        <target state="translated">更新する</target>
         <note>Shown in a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="With a subscription, you get:" xml:space="preserve">
         <source>With a subscription, you get:</source>
+        <target state="translated">サブスクリプションを購入すると、次の特典が得られます：</target>
         <note/>
       </trans-unit>
       <trans-unit id="You Can Help" xml:space="preserve">
         <source>You Can Help</source>
+        <target state="translated">支援を提供</target>
         <note>Title shown when trying to upsell users to more-expensive subscriptions</note>
       </trans-unit>
       <trans-unit id="You can be second! That’s pretty great!" xml:space="preserve">
         <source>You can be second! That’s pretty great!</source>
+        <target state="translated">2 位になれます！すごい！</target>
         <note>Shown to try to encourage the user to rate the app</note>
       </trans-unit>
       <trans-unit id="You can be the first! Don’t be shy!" xml:space="preserve">
@@ -1810,97 +2036,116 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="You don't seem to have a subscription. 🤨" xml:space="preserve">
         <source>You don't seem to have a subscription. 🤨</source>
+        <target state="translated">サブスクリプションをお持ちではないようです。🤨</target>
         <note/>
       </trans-unit>
       <trans-unit id="You have %lld day remaining in your trial.|==|plural.other" xml:space="preserve">
         <source>You have %lld days remaining in your trial.</source>
-        <target state="new">You have %lld days remaining in your trial.</target>
+        <target state="translated">トライアルはあと %lld 日残っています。</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="You have unsaved changes. Are you sure you want to discard them?" xml:space="preserve">
         <source>You have unsaved changes. Are you sure you want to discard them?</source>
+        <target state="translated">保存されていない変更があります。破棄してもよろしいですか？</target>
         <note/>
       </trans-unit>
       <trans-unit id="You have used all your free searches. Subscribe for unlimited searches." xml:space="preserve">
         <source>You have used all your free searches. Subscribe for unlimited searches.</source>
+        <target state="translated">無料検索をすべて使い切りました。無制限に検索するには、サブスクリプションを購入してください。</target>
         <note/>
       </trans-unit>
       <trans-unit id="You haven't used Callsheet to search for anything!&#10;Use the search field to get started." xml:space="preserve">
         <source>You haven't used Callsheet to search for anything!
 Use the search field to get started.</source>
+        <target state="translated">Callsheet を使って何も検索していません！
+検索フィールドを使って検索を始めてください。</target>
         <note/>
       </trans-unit>
       <trans-unit id="You may know them from" xml:space="preserve">
         <source>You may know them from</source>
+        <target state="translated">次の作品でご存じかもしれません</target>
         <note>Header shown for people</note>
       </trans-unit>
       <trans-unit id="You must have a subscription to use the app." xml:space="preserve">
         <source>You must have a subscription to use the app.</source>
-        <target state="translated">アプリを利用するためにはサブスクリプションの登録が必要です。</target>
+        <target state="translated">アプリを利用するためにはサブスクリプションの購入が必要です。</target>
         <note>Shown in Settings as a subtitle if you haven't purchased the app</note>
       </trans-unit>
       <trans-unit id="You must select at least one section to be shown." xml:space="preserve">
         <source>You must select at least one section to be shown.</source>
+        <target state="translated">表示するセクションを少なくとも 1 つ選択する必要があります。</target>
         <note>Shown as a footer in the Discover Sections view in Persnickety Preferences.</note>
       </trans-unit>
       <trans-unit id="Your %@ will expire on&#10;%@" xml:space="preserve">
         <source>Your %1$@ will expire on
 %2$@</source>
+        <target state="translated">%1$@ は
+%2$@ に期限切れになります</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Your access to Callsheet will end on %@." xml:space="preserve">
         <source>Your access to Callsheet will end on %@.</source>
-        <target state="translated">コールシートへのアクセスは%@に終了します</target>
+        <target state="translated">Callsheet へのアクセスは %@ に終了します。</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Your favorite characters finally get married." xml:space="preserve">
         <source>Your favorite characters finally get married.</source>
+        <target state="translated">お気に入りのキャラクターがついに結婚します。</target>
         <note>A fake summary shown when demonstrating hiding spoilers</note>
       </trans-unit>
       <trans-unit id="Your free trial has expired; you must purchase a subscription to use Callsheet." xml:space="preserve">
         <source>Your free trial has expired; you must purchase a subscription to use Callsheet.</source>
-        <target state="translated">無料体験期間が終わりました。コールシートのご利用を継続する場合は、サブスクリプションを購入してください。</target>
+        <target state="translated">無料トライアル期間が終了しました。Callsheet を引き続きご利用いただくには、サブスクリプションを購入する必要があります。</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Your purchase is still pending. Please wait for it to be approved." xml:space="preserve">
         <source>Your purchase is still pending. Please wait for it to be approved.</source>
+        <target state="translated">ご購入はまだ保留中です。承認されるまでお待ちください。</target>
         <note>Shown when a a purchase needs to be approved; likely a child needs a parent to approve it</note>
       </trans-unit>
       <trans-unit id="Your subscription **will not** auto-renew" xml:space="preserve">
         <source>Your subscription **will not** auto-renew</source>
+        <target state="translated">サブスクリプションは **自動更新されません**</target>
         <note>Only shown on a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="Your subscription **will** auto-renew" xml:space="preserve">
         <source>Your subscription **will** auto-renew</source>
+        <target state="translated">サブスクリプションは **自動更新されます**</target>
         <note>Only shown on a semi-hidden debugging screen</note>
       </trans-unit>
       <trans-unit id="Your subscription has expired; you must purchase a new subscription to use Callsheet." xml:space="preserve">
         <source>Your subscription has expired; you must purchase a new subscription to use Callsheet.</source>
+        <target state="translated">サブスクリプションの有効期限が切れています。Callsheet を使用するには、新しいサブスクリプションを購入する必要があります。</target>
         <note>Shown on the "Purchase now" row in Settings if purchasing is unavailable</note>
       </trans-unit>
       <trans-unit id="Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
         <source>Your subscription lapsed. To continue using Callsheet, you'll need to start a new subscription.</source>
+        <target state="translated">サブスクリプションが失効しました。Callsheet を引き続きご利用いただくには、新しいサブスクリプションを開始する必要があります。</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription." xml:space="preserve">
         <source>Your subscription was refunded or otherwise revoked. To continue using Callsheet, you'll need to start a new subscription.</source>
+        <target state="translated">サブスクリプションは返金されたか取り消されました。Callsheet を引き続きご利用いただくには、新しいサブスクリプションを開始する必要があります。</target>
         <note>Shown in the subscription status screen @ callsheet://subs</note>
       </trans-unit>
       <trans-unit id="_(Posthumous; died in %@ aged %lld)_" xml:space="preserve">
         <source>_(Posthumous; died in %1$@ aged %2$lld)_</source>
+        <target state="translated">_(死後；%1$@ 年に %2$lld 歳で死去)_</target>
         <note>Shown when a cast or crew member died before the release of a piece of media. For example, _(Posthumous; died in 2000 aged 18)_</note>
       </trans-unit>
       <trans-unit id="_(Posthumous; died in %@)_" xml:space="preserve">
         <source>_(Posthumous; died in %@)_</source>
+        <target state="translated">_(死後；%@ 年に死去)_</target>
         <note>Shown when a cast or crew member died before the release of a piece of media. For example, _(Posthumous; died in 2000)_</note>
       </trans-unit>
       <trans-unit id="died %@ (age %lld)" xml:space="preserve">
         <source>died %@ (age %lld)</source>
+        <target state="translated">%@ 年に死去 (%lld 歳)</target>
         <note>When an actor passed, as well as their age at that time. Part of a larger string. For example "59 years old, died 2020 (age 90)"</note>
       </trans-unit>
       <trans-unit id="per %@" xml:space="preserve">
         <source>per %@</source>
-        <target state="translated">%@割り</target>
+        <target state="translated">%@ 当たり</target>
         <note>cost per period; ie "per month" or "per year"</note>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
@@ -1910,15 +2155,17 @@ Use the search field to get started.</source>
       </trans-unit>
       <trans-unit id="pinned items" xml:space="preserve">
         <source>pinned items</source>
-        <target state="translated">ピンした作品</target>
+        <target state="translated">ピン留めした項目</target>
         <note/>
       </trans-unit>
       <trans-unit id="today" xml:space="preserve">
         <source>today</source>
+        <target state="translated">今日</target>
         <note>Shown on the "how long ago was this?" popover when a TV episode was released today.</note>
       </trans-unit>
       <trans-unit id="visionOS does not support changing icons yet." xml:space="preserve">
         <source>visionOS does not support changing icons yet.</source>
+        <target state="translated">visionOS はまだアイコンの変更をサポートしていません。</target>
         <note>Subtitle for the App Icon row in Settings on visionOS</note>
       </trans-unit>
       <trans-unit id="years old" xml:space="preserve">
@@ -1940,142 +2187,174 @@ Use the search field to get started.</source>
   </file>
   <file original="Widgets/InfoPlist.xcstrings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Widgets</source>
+        <target state="translated">ウィジェット</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>WidgetsExtension</source>
+        <target state="translated">WidgetsExtension</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source/>
+        <target state="translated"/>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="Widgets/Localizable.xcstrings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
     </header>
     <body>
       <trans-unit id="%lld" xml:space="preserve">
         <source>%lld</source>
+        <target state="translated">%lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet app icon" xml:space="preserve">
         <source>Callsheet app icon</source>
+        <target state="translated">Callsheet アプリ アイコン</target>
         <note/>
       </trans-unit>
       <trans-unit id="E" xml:space="preserve">
         <source>E</source>
+        <target state="translated">E</target>
         <note>Abbreviation for a TV episode; in English, short for "Episode".</note>
       </trans-unit>
       <trans-unit id="Name or job in %@" xml:space="preserve">
         <source>Name or job in %@</source>
+        <target state="translated">%@ での名前または仕事</target>
         <note>Crew search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
       <trans-unit id="Name or role in %@" xml:space="preserve">
         <source>Name or role in %@</source>
+        <target state="translated">%@ での名前または役</target>
         <note>Cast search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
       <trans-unit id="Open Pinned Items" xml:space="preserve">
         <source>Open Pinned Items</source>
+        <target state="translated">ピン留めした項目を開く</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Pins" xml:space="preserve">
         <source>Open Pins</source>
+        <target state="translated">ピンを開く</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open the list of your pinned items" xml:space="preserve">
         <source>Open the list of your pinned items</source>
+        <target state="translated">ピン留めした項目のリストを開く</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open your pins in Callsheet" xml:space="preserve">
         <source>Open your pins in Callsheet</source>
+        <target state="translated">Callsheet でピンを開いてください</target>
         <note/>
       </trans-unit>
       <trans-unit id="Perform your most recent search in Callsheet" xml:space="preserve">
         <source>Perform your most recent search in Callsheet</source>
+        <target state="translated">Callsheet で最新の検索を行ってください</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pin" xml:space="preserve">
         <source>Pin</source>
+        <target state="translated">ピン</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="Pinned Items" xml:space="preserve">
         <source>Pinned Items</source>
+        <target state="translated">ピン留めした項目</target>
         <note/>
       </trans-unit>
       <trans-unit id="Poster for %@" xml:space="preserve">
         <source>Poster for %@</source>
+        <target state="translated">%@ のポスター</target>
         <note/>
       </trans-unit>
       <trans-unit id="Recent Search" xml:space="preserve">
         <source>Recent Search</source>
+        <target state="translated">最近の検索</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeat Last Search" xml:space="preserve">
         <source>Repeat Last Search</source>
+        <target state="translated">前回の検索を繰り返す</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeat Search" xml:space="preserve">
         <source>Repeat Search</source>
+        <target state="translated">検索を繰り返す</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeats the most recent search." xml:space="preserve">
         <source>Repeats the most recent search.</source>
+        <target state="translated">最新の検索を繰り返します。</target>
         <note/>
       </trans-unit>
       <trans-unit id="S" xml:space="preserve">
         <source>S</source>
+        <target state="translated">S</target>
         <note>Abbreviation for a TV season; in English, short for "Season".</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
         <source>Search</source>
+        <target state="translated">検索</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search Callsheet" xml:space="preserve">
         <source>Search Callsheet</source>
+        <target state="translated">Callsheet を検索</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shows one or more of your most recent pinned items" xml:space="preserve">
         <source>Shows one or more of your most recent pinned items</source>
+        <target state="translated">最も最近ピン留めした項目を 1 つ以上表示します</target>
         <note/>
       </trans-unit>
       <trans-unit id="Start a new search in Callsheet" xml:space="preserve">
         <source>Start a new search in Callsheet</source>
+        <target state="translated">Callsheet で新しい検索を開始します</target>
         <note/>
       </trans-unit>
       <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
         <source>Starts a new Search within Callsheet.</source>
+        <target state="translated">Callsheet 内で新しい検索を開始します。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title or job" xml:space="preserve">
         <source>Title or job</source>
+        <target state="translated">タイトルまたは職務</target>
         <note>Crew search prompt in the context of a single person (not a movie/show/etc)</note>
       </trans-unit>
       <trans-unit id="Title or role" xml:space="preserve">
         <source>Title or role</source>
+        <target state="translated">タイトルまたは役割</target>
         <note>Cast search prompt in the context of a single person (not a movie/show/etc)</note>
       </trans-unit>
       <trans-unit id="Title, cast, or crew" xml:space="preserve">
         <source>Title, cast, or crew</source>
+        <target state="translated">タイトル、キャスト、スタッフ</target>
         <note>Main search prompt on the bottom bar!</note>
       </trans-unit>
       <trans-unit id="Title, role, or job" xml:space="preserve">
         <source>Title, role, or job</source>
+        <target state="translated">タイトル、役割、または職務</target>
         <note>Search prompt when viewing a person's entire (cast &amp; crew) filmography</note>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
         <source>pin</source>
+        <target state="translated">ピン</target>
         <note>Noun, a pin/favorite</note>
       </trans-unit>
       <trans-unit id="pinned items" xml:space="preserve">
         <source>pinned items</source>
+        <target state="translated">ピン留めした項目</target>
         <note/>
       </trans-unit>
     </body>
