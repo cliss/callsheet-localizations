@@ -267,6 +267,9 @@
     "A few more free ones please?" : {
       "comment" : "Shown on the \"Additional options\" purchasing screen, offering the user five more free searches"
     },
+    "A search result from the Search Media action. When provided, Media Type and ID are not needed." : {
+
+    },
     "About Callsheet" : {
       "extractionState" : "manual"
     },
@@ -377,6 +380,9 @@
     "Biography" : {
 
     },
+    "Birthday" : {
+
+    },
     "Born" : {
 
     },
@@ -427,6 +433,9 @@
     },
     "Choose an icon that fits your aesthetic." : {
       "comment" : "Subtitle for \"Custom icons\"; shown on the pre-sales screen to get users to subscribe"
+    },
+    "Choose between providing a result from another Callsheet action, or providing a Media Type & ID." : {
+
     },
     "Choose New Subscription" : {
 
@@ -509,6 +518,9 @@
     "Data provided by:" : {
 
     },
+    "Deathday" : {
+
+    },
     "Default Spoiler Settings" : {
 
     },
@@ -583,6 +595,9 @@
     "Episode" : {
 
     },
+    "Episode Count" : {
+
+    },
     "Episode Poster" : {
 
     },
@@ -608,6 +623,15 @@
       "comment" : "Shown in Settings to try to get users to rate the app",
       "extractionState" : "manual"
     },
+    "Female" : {
+      "comment" : "Gender for a person that identifies as female"
+    },
+    "Fetches details about a movie, TV show, or person from TMDB." : {
+
+    },
+    "Fetches videos (trailers, teasers, clips, etc.) for a movie or TV show from TMDB. Returns a list of video results, each with a name, type, and URL." : {
+
+    },
     "Film Jobs" : {
       "comment" : "When viewing a person, show only their movie crew jobs"
     },
@@ -621,6 +645,9 @@
 
     },
     "Find shared film credits" : {
+
+    },
+    "First Aired" : {
 
     },
     "For new & popular media." : {
@@ -650,10 +677,37 @@
     "Free, but you can only ask once. 😏" : {
       "comment" : "Subtitle for the \"A few more searches please\" option on the \"Additional options\" purchasing screen"
     },
+    "Gender" : {
+
+    },
     "Genre" : {
 
     },
     "Genres" : {
+
+    },
+    "Get info" : {
+
+    },
+    "Get info for ${mediaType} #${id}" : {
+
+    },
+    "Get info for ${result}" : {
+
+    },
+    "Get Media Info" : {
+
+    },
+    "Get Media Videos" : {
+
+    },
+    "Get videos" : {
+
+    },
+    "Get videos for ${mediaType} #${id}" : {
+
+    },
+    "Get videos for ${result}" : {
 
     },
     "Guests" : {
@@ -800,6 +854,9 @@
         }
       }
     },
+    "ID" : {
+
+    },
     "If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen. [More info…](%@://%@)" : {
       "localizations" : {
         "en" : {
@@ -825,11 +882,14 @@
     "In-Credits Bonus Scenes" : {
 
     },
-    "Include “Self”" : {
-      "comment" : "Toggle whether or not to include people being credited as themselves in cast lists."
+    "Include “Self” & “Thanks”" : {
+      "comment" : "Toggle whether or not to include people being credited as themselves, or simply as \"Thanks\", in cast/crew lists."
     },
     "Integrations" : {
       "comment" : "Header in Persnickety Preferences"
+    },
+    "Known For" : {
+
     },
     "Known-For-People-Key" : {
       "comment" : "Shown on the people screen; \"Known For\" in English",
@@ -856,6 +916,9 @@
     "Language Override" : {
       "comment" : "Shown in Settings"
     },
+    "Last Aired" : {
+
+    },
     "Learn about the open-source software that powers Callsheet" : {
       "comment" : "Open-Source Software subtitle in Settings"
     },
@@ -877,6 +940,9 @@
     "Macro State at %@" : {
       "comment" : "Shown in a semi-hidden debugging view"
     },
+    "Male" : {
+      "comment" : "Gender for a person that identifies as male"
+    },
     "Manage Lists" : {
 
     },
@@ -887,6 +953,21 @@
       "comment" : "Title for context menu section"
     },
     "Manage Subscription" : {
+
+    },
+    "Media Info" : {
+
+    },
+    "Media Request Type" : {
+
+    },
+    "Media search result" : {
+
+    },
+    "Media Type" : {
+
+    },
+    "Media type & ID" : {
 
     },
     "Mid-credits" : {
@@ -910,6 +991,9 @@
     "Move to top" : {
 
     },
+    "Movie" : {
+
+    },
     "Movie Poster" : {
 
     },
@@ -927,6 +1011,9 @@
     },
     "Movies featuring" : {
       "comment" : "Title for cast union view"
+    },
+    "Name" : {
+
     },
     "Name or job in %@" : {
       "comment" : "Crew search prompt; I'll replace \"%@\" with the name of the media in question, so for the translation, please include \"%@\" where appropriate."
@@ -1000,6 +1087,9 @@
     "No TV show pins found." : {
 
     },
+    "Non-binary" : {
+      "comment" : "Gender for a person that identifies as neither male nor female."
+    },
     "Not a subscription" : {
       "comment" : "Shown in a semi-hidden debugging view"
     },
@@ -1018,16 +1108,28 @@
     "Open Callsheet" : {
       "comment" : "Description for app shortcut"
     },
+    "Open Last Search" : {
+
+    },
     "Open Pinned Items" : {
 
     },
     "Open Pins" : {
 
     },
-    "Open the list of your pinned items" : {
+    "Open Search" : {
 
     },
     "Open-Source Software" : {
+
+    },
+    "Opens Callsheet and repeats the most recent search." : {
+
+    },
+    "Opens Callsheet and starts a new, blank, search." : {
+
+    },
+    "Opens Callsheet to the list of your pinned items" : {
 
     },
     "Optionally, you can choose to help more." : {
@@ -1066,6 +1168,9 @@
       "comment" : "Subtitle for Persnickety Preferences in Settings",
       "extractionState" : "manual"
     },
+    "Overview" : {
+
+    },
     "Parental Guidance" : {
       "comment" : "Quick access link"
     },
@@ -1078,11 +1183,17 @@
     "per %@" : {
       "comment" : "cost per period; ie \"per month\" or \"per year\""
     },
+    "Perform Search" : {
+
+    },
     "Persnickety Preferences" : {
 
     },
     "Persnickety Prefs" : {
       "comment" : "Navigation title for Persnickety Preferences in Settings"
+    },
+    "Person" : {
+
     },
     "Pick a country" : {
       "comment" : "Picker label for accessibility purposes, in Where to Watch"
@@ -1120,6 +1231,9 @@
     "Pins" : {
 
     },
+    "Place of Birth" : {
+
+    },
     "Plans:" : {
       "comment" : "In the context of different subscription/IAP plans"
     },
@@ -1150,6 +1264,9 @@
     "Poster for %@" : {
       "comment" : "Accessibility label for posters shown in live activities"
     },
+    "Poster URL" : {
+
+    },
     "Prevent giving away spoilers by choosing to redact details." : {
 
     },
@@ -1160,6 +1277,9 @@
       "comment" : "Toolbar arrow to go backward a movie within a collection. Say, Return of the Jedi → Empire Strikes Back"
     },
     "Privacy Policy" : {
+
+    },
+    "Provide info as" : {
 
     },
     "Provided by" : {
@@ -1181,6 +1301,9 @@
       "comment" : "Shown on the \"Purchase now\" row in Settings if purchasing is unavailable"
     },
     "Purchasing…" : {
+
+    },
+    "Query" : {
 
     },
     "Quick Access Link" : {
@@ -1210,6 +1333,9 @@
     "Region Override" : {
       "comment" : "Shown in Settings"
     },
+    "Release Date" : {
+
+    },
     "Released" : {
       "comment" : "When a TV episode or movie was released in the past"
     },
@@ -1231,12 +1357,6 @@
     "Rent" : {
       "comment" : "A kind of service to watch media on. Contrast with \"Free\", \"Ads\", \"Buy\", \"Subscription\""
     },
-    "Repeat Search" : {
-
-    },
-    "Repeats the most recent search." : {
-
-    },
     "Request Refund" : {
 
     },
@@ -1248,6 +1368,9 @@
     },
     "Restoring…" : {
       "comment" : "Button title in Settings when actively restoring a purchase"
+    },
+    "Result" : {
+
     },
     "Reverse sort order" : {
 
@@ -1276,13 +1399,22 @@
     "Search" : {
 
     },
+    "Search for ${query}" : {
+
+    },
     "Search history" : {
 
     },
     "Search History" : {
       "comment" : "Title of the Search History screen"
     },
+    "Search Result" : {
+
+    },
     "Search Results" : {
+
+    },
+    "Searches TMDB for movies, TV shows, and people matching the given query. Returns up to 20 results, each containing a TMDB ID, title, and media type." : {
 
     },
     "Season %lld Episode %lld" : {
@@ -1295,6 +1427,9 @@
         }
       }
     },
+    "Season Count" : {
+
+    },
     "Seasons" : {
       "comment" : "Navigation title for the screen showing the seasons of a TV show; NOT spring/summer"
     },
@@ -1303,6 +1438,12 @@
     },
     "Select a View" : {
       "comment" : "Shown when choosing between cast & crew"
+    },
+    "Select between a movie or TV show. Persons do not have videos." : {
+
+    },
+    "Select between a movie, TV show, or person. When provided, you must also provide an ID, but a Result is not needed." : {
+
     },
     "Select Links" : {
       "comment" : "Title for the Select Links screen; this screen lets you customize which links are available when using Callsheet"
@@ -1370,8 +1511,8 @@
     "Start Live Activity" : {
 
     },
-    "Starts a new Search within Callsheet." : {
-      "comment" : "For the search intent."
+    "Status" : {
+
     },
     "Stop Live Activity" : {
 
@@ -1418,6 +1559,9 @@
     "Thank you for trying out Callsheet. 💙" : {
 
     },
+    "The  identifier for this media item. When provided, you must also provide a Media Type, but a Result is not needed." : {
+
+    },
     "The above open-source software helps make Callsheet possible. 💙" : {
 
     },
@@ -1426,6 +1570,12 @@
     },
     "The Quick Access Link cannot be disabled." : {
       "comment" : "Message associated with the link that is currently the user's Quick Access Link; this link cannot be disabled."
+    },
+    "The search term to look up on TMDB." : {
+
+    },
+    "The TMDB identifier for this media item." : {
+
     },
     "Theme" : {
       "comment" : "Persnickety Preference for light/dark/system theme"
@@ -1446,6 +1596,9 @@
     "These are the default settings." : {
 
     },
+    "These often-redundant credits can be hidden by default." : {
+      "comment" : "Subtitle in Persnickety Preferences for the Self & Thanks toggle; the toggle's default is to show these credits."
+    },
     "These settings will only affect *%@*." : {
       "comment" : "Shown in spoiler settings for a particular show"
     },
@@ -1461,6 +1614,9 @@
     "Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:" : {
 
     },
+    "Title" : {
+
+    },
     "Title or job" : {
       "comment" : "Crew search prompt in the context of a single person (not a movie/show/etc)"
     },
@@ -1472,6 +1628,9 @@
     },
     "Title, role, or job" : {
       "comment" : "Search prompt when viewing a person's entire (cast & crew) filmography"
+    },
+    "TMDB ID" : {
+
     },
     "today" : {
       "comment" : "Shown on the \"how long ago was this?\" popover when a TV episode was released today."
@@ -1494,14 +1653,20 @@
     "TV Roles" : {
       "comment" : "When viewing a person, show only their TV acting roles"
     },
+    "TV Show" : {
+
+    },
     "TV Shows" : {
       "comment" : "On cast list, display movies, shows, or movies & shows"
+    },
+    "Type" : {
+
     },
     "Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" : {
       "comment" : "A \"union\" search answers the question \"What movies were X and Y both in?\". The word \"Union\" is likely not a great fit for other languages."
     },
     "Unknown" : {
-
+      "comment" : "An unknown gender"
     },
     "Unlimited searches" : {
       "comment" : "Shown on the pre-sales screen to get users to subscribe"
@@ -1512,6 +1677,9 @@
     "Upgraded" : {
       "comment" : "Shown in a semi-hidden debugging view"
     },
+    "URL" : {
+
+    },
     "Use the gripper to rearrange them." : {
       "comment" : "Help text shown on the screen that allows customization of the Discover view."
     },
@@ -1520,6 +1688,12 @@
     },
     "User Interface" : {
       "comment" : "Header in Persnickety Preferences"
+    },
+    "User Score" : {
+
+    },
+    "Video" : {
+
     },
     "visionOS does not support changing icons yet." : {
       "comment" : "Subtitle for the App Icon row in Settings on visionOS"

@@ -2,9 +2,19 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Flookup/en.lproj/AppShortcuts.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E5170d"/>
     </header>
     <body>
+      <trans-unit id="Get info from ${applicationName}" xml:space="preserve">
+        <source>Get info from ${applicationName}</source>
+        <target>Get info from ${applicationName}</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Look up in ${applicationName}" xml:space="preserve">
+        <source>Look up in ${applicationName}</source>
+        <target>Look up in ${applicationName}</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Open ${applicationName} favorites" xml:space="preserve">
         <source>Open ${applicationName} favorites</source>
         <target>Open ${applicationName} favorites</target>
@@ -59,7 +69,7 @@
   </file>
   <file original="Flookup/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E5170d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -91,7 +101,7 @@
   </file>
   <file original="Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E5170d"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
@@ -238,6 +248,11 @@
         <source>A few more free ones please?</source>
         <target state="new">A few more free ones please?</target>
         <note>Shown on the "Additional options" purchasing screen, offering the user five more free searches</note>
+      </trans-unit>
+      <trans-unit id="A search result from the Search Media action. When provided, Media Type and ID are not needed." xml:space="preserve">
+        <source>A search result from the Search Media action. When provided, Media Type and ID are not needed.</source>
+        <target state="new">A search result from the Search Media action. When provided, Media Type and ID are not needed.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="About Callsheet" xml:space="preserve">
         <source>About Callsheet</source>
@@ -394,6 +409,11 @@
         <target state="new">Biography</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Birthday" xml:space="preserve">
+        <source>Birthday</source>
+        <target state="new">Birthday</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Born" xml:space="preserve">
         <source>Born</source>
         <target state="new">Born</target>
@@ -483,6 +503,11 @@
         <source>Choose an icon that fits your aesthetic.</source>
         <target state="new">Choose an icon that fits your aesthetic.</target>
         <note>Subtitle for "Custom icons"; shown on the pre-sales screen to get users to subscribe</note>
+      </trans-unit>
+      <trans-unit id="Choose between providing a result from another Callsheet action, or providing a Media Type &amp; ID." xml:space="preserve">
+        <source>Choose between providing a result from another Callsheet action, or providing a Media Type &amp; ID.</source>
+        <target state="new">Choose between providing a result from another Callsheet action, or providing a Media Type &amp; ID.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Choose spoiler-risky things to hide by default." xml:space="preserve">
         <source>Choose spoiler-risky things to hide by default.</source>
@@ -599,6 +624,11 @@
         <target state="new">Data provided by:</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Deathday" xml:space="preserve">
+        <source>Deathday</source>
+        <target state="new">Deathday</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Default Spoiler Settings" xml:space="preserve">
         <source>Default Spoiler Settings</source>
         <target state="new">Default Spoiler Settings</target>
@@ -687,6 +717,11 @@ It currently has %2$lld pins.</target>
         <target state="new">Episode</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Episode Count" xml:space="preserve">
+        <source>Episode Count</source>
+        <target state="new">Episode Count</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Episode Poster" xml:space="preserve">
         <source>Episode Poster</source>
         <target state="new">Episode Poster</target>
@@ -727,6 +762,21 @@ It currently has %2$lld pins.</target>
         <target state="new">Feedback emails are lovely to read!</target>
         <note>Shown in Settings to try to get users to rate the app</note>
       </trans-unit>
+      <trans-unit id="Female" xml:space="preserve">
+        <source>Female</source>
+        <target state="new">Female</target>
+        <note>Gender for a person that identifies as female</note>
+      </trans-unit>
+      <trans-unit id="Fetches details about a movie, TV show, or person from TMDB." xml:space="preserve">
+        <source>Fetches details about a movie, TV show, or person from TMDB.</source>
+        <target state="new">Fetches details about a movie, TV show, or person from TMDB.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fetches videos (trailers, teasers, clips, etc.) for a movie or TV show from TMDB. Returns a list of video results, each with a name, type, and URL." xml:space="preserve">
+        <source>Fetches videos (trailers, teasers, clips, etc.) for a movie or TV show from TMDB. Returns a list of video results, each with a name, type, and URL.</source>
+        <target state="new">Fetches videos (trailers, teasers, clips, etc.) for a movie or TV show from TMDB. Returns a list of video results, each with a name, type, and URL.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Film Jobs" xml:space="preserve">
         <source>Film Jobs</source>
         <target state="new">Film Jobs</target>
@@ -752,6 +802,11 @@ It currently has %2$lld pins.</target>
       <trans-unit id="Find shared film credits" xml:space="preserve">
         <source>Find shared film credits</source>
         <target state="new">Find shared film credits</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="First Aired" xml:space="preserve">
+        <source>First Aired</source>
+        <target state="new">First Aired</target>
         <note/>
       </trans-unit>
       <trans-unit id="For Where to Watch." xml:space="preserve">
@@ -799,6 +854,11 @@ It currently has %2$lld pins.</target>
         <target state="new">Free, but you can only ask once. 😏</target>
         <note>Subtitle for the "A few more searches please" option on the "Additional options" purchasing screen</note>
       </trans-unit>
+      <trans-unit id="Gender" xml:space="preserve">
+        <source>Gender</source>
+        <target state="new">Gender</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Genre" xml:space="preserve">
         <source>Genre</source>
         <target state="new">Genre</target>
@@ -807,6 +867,46 @@ It currently has %2$lld pins.</target>
       <trans-unit id="Genres" xml:space="preserve">
         <source>Genres</source>
         <target state="new">Genres</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get Media Info" xml:space="preserve">
+        <source>Get Media Info</source>
+        <target state="new">Get Media Info</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get Media Videos" xml:space="preserve">
+        <source>Get Media Videos</source>
+        <target state="new">Get Media Videos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get info" xml:space="preserve">
+        <source>Get info</source>
+        <target state="new">Get info</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get info for ${mediaType} #${id}" xml:space="preserve">
+        <source>Get info for ${mediaType} #${id}</source>
+        <target state="new">Get info for ${mediaType} #${id}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get info for ${result}" xml:space="preserve">
+        <source>Get info for ${result}</source>
+        <target state="new">Get info for ${result}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get videos" xml:space="preserve">
+        <source>Get videos</source>
+        <target state="new">Get videos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get videos for ${mediaType} #${id}" xml:space="preserve">
+        <source>Get videos for ${mediaType} #${id}</source>
+        <target state="new">Get videos for ${mediaType} #${id}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get videos for ${result}" xml:space="preserve">
+        <source>Get videos for ${result}</source>
+        <target state="new">Get videos for ${result}</target>
         <note/>
       </trans-unit>
       <trans-unit id="Guests" xml:space="preserve">
@@ -914,6 +1014,11 @@ It currently has %2$lld pins.</target>
         <target state="translated">Yearly Ultra-Supporter</target>
         <note>Name of the maximum-cost annual subscription </note>
       </trans-unit>
+      <trans-unit id="ID" xml:space="preserve">
+        <source>ID</source>
+        <target state="new">ID</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen. [More info…](%@://%@)" xml:space="preserve">
         <source>If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen. [More info…](%1$@://%2$@)</source>
         <target state="new">If you play something using [Channels](https://getchannels.com/) or [Plex](https://plex.tv/) on another device, Callsheet can display that show or movie at the top of the Discover screen. [More info…](%1$@://%2$@)</target>
@@ -944,15 +1049,20 @@ It currently has %2$lld pins.</target>
         <target state="new">In-Credits Bonus Scenes</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Include “Self”" xml:space="preserve">
-        <source>Include “Self”</source>
-        <target state="new">Include “Self”</target>
-        <note>Toggle whether or not to include people being credited as themselves in cast lists.</note>
+      <trans-unit id="Include “Self” &amp; “Thanks”" xml:space="preserve">
+        <source>Include “Self” &amp; “Thanks”</source>
+        <target state="new">Include “Self” &amp; “Thanks”</target>
+        <note>Toggle whether or not to include people being credited as themselves, or simply as "Thanks", in cast/crew lists.</note>
       </trans-unit>
       <trans-unit id="Integrations" xml:space="preserve">
         <source>Integrations</source>
         <target state="new">Integrations</target>
         <note>Header in Persnickety Preferences</note>
+      </trans-unit>
+      <trans-unit id="Known For" xml:space="preserve">
+        <source>Known For</source>
+        <target state="new">Known For</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Known-For-People-Key" xml:space="preserve">
         <source>Known For</source>
@@ -968,6 +1078,11 @@ It currently has %2$lld pins.</target>
         <source>Language Override</source>
         <target state="new">Language Override</target>
         <note>Shown in Settings</note>
+      </trans-unit>
+      <trans-unit id="Last Aired" xml:space="preserve">
+        <source>Last Aired</source>
+        <target state="new">Last Aired</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Learn about the open-source software that powers Callsheet" xml:space="preserve">
         <source>Learn about the open-source software that powers Callsheet</source>
@@ -1004,6 +1119,11 @@ It currently has %2$lld pins.</target>
         <target state="new">Macro State at %@</target>
         <note>Shown in a semi-hidden debugging view</note>
       </trans-unit>
+      <trans-unit id="Male" xml:space="preserve">
+        <source>Male</source>
+        <target state="new">Male</target>
+        <note>Gender for a person that identifies as male</note>
+      </trans-unit>
       <trans-unit id="Manage Lists" xml:space="preserve">
         <source>Manage Lists</source>
         <target state="new">Manage Lists</target>
@@ -1022,6 +1142,31 @@ It currently has %2$lld pins.</target>
       <trans-unit id="Manage lists…" xml:space="preserve">
         <source>Manage lists…</source>
         <target state="new">Manage lists…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Media Info" xml:space="preserve">
+        <source>Media Info</source>
+        <target state="new">Media Info</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Media Request Type" xml:space="preserve">
+        <source>Media Request Type</source>
+        <target state="new">Media Request Type</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Media Type" xml:space="preserve">
+        <source>Media Type</source>
+        <target state="new">Media Type</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Media search result" xml:space="preserve">
+        <source>Media search result</source>
+        <target state="new">Media search result</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Media type &amp; ID" xml:space="preserve">
+        <source>Media type &amp; ID</source>
+        <target state="new">Media type &amp; ID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mid-credits" xml:space="preserve">
@@ -1059,6 +1204,11 @@ It currently has %2$lld pins.</target>
         <target state="new">Move to top</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Movie" xml:space="preserve">
+        <source>Movie</source>
+        <target state="new">Movie</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Movie Poster" xml:space="preserve">
         <source>Movie Poster</source>
         <target state="new">Movie Poster</target>
@@ -1088,6 +1238,11 @@ It currently has %2$lld pins.</target>
         <source>Movies featuring</source>
         <target state="new">Movies featuring</target>
         <note>Title for cast union view</note>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Name or job in %@" xml:space="preserve">
         <source>Name or job in %@</source>
@@ -1210,6 +1365,11 @@ Shown when a person has no credits.</note>
         <target state="new">No shared films</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Non-binary" xml:space="preserve">
+        <source>Non-binary</source>
+        <target state="new">Non-binary</target>
+        <note>Gender for a person that identifies as neither male nor female.</note>
+      </trans-unit>
       <trans-unit id="Not a subscription" xml:space="preserve">
         <source>Not a subscription</source>
         <target state="new">Not a subscription</target>
@@ -1240,6 +1400,11 @@ Shown when a person has no credits.</note>
         <target state="new">Open Callsheet</target>
         <note>Description for app shortcut</note>
       </trans-unit>
+      <trans-unit id="Open Last Search" xml:space="preserve">
+        <source>Open Last Search</source>
+        <target state="new">Open Last Search</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Open Pinned Items" xml:space="preserve">
         <source>Open Pinned Items</source>
         <target state="new">Open Pinned Items</target>
@@ -1250,14 +1415,29 @@ Shown when a person has no credits.</note>
         <target state="new">Open Pins</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Open the list of your pinned items" xml:space="preserve">
-        <source>Open the list of your pinned items</source>
-        <target state="new">Open the list of your pinned items</target>
+      <trans-unit id="Open Search" xml:space="preserve">
+        <source>Open Search</source>
+        <target state="new">Open Search</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open-Source Software" xml:space="preserve">
         <source>Open-Source Software</source>
         <target state="new">Open-Source Software</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Opens Callsheet and repeats the most recent search." xml:space="preserve">
+        <source>Opens Callsheet and repeats the most recent search.</source>
+        <target state="new">Opens Callsheet and repeats the most recent search.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Opens Callsheet and starts a new, blank, search." xml:space="preserve">
+        <source>Opens Callsheet and starts a new, blank, search.</source>
+        <target state="new">Opens Callsheet and starts a new, blank, search.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Opens Callsheet to the list of your pinned items" xml:space="preserve">
+        <source>Opens Callsheet to the list of your pinned items</source>
+        <target state="new">Opens Callsheet to the list of your pinned items</target>
         <note/>
       </trans-unit>
       <trans-unit id="Optionally, you can choose to help more." xml:space="preserve">
@@ -1290,6 +1470,11 @@ Shown when a person has no credits.</note>
         <target state="new">Other settings for more _particular_ users.</target>
         <note>Subtitle for Persnickety Preferences in Settings</note>
       </trans-unit>
+      <trans-unit id="Overview" xml:space="preserve">
+        <source>Overview</source>
+        <target state="new">Overview</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Parental Guidance" xml:space="preserve">
         <source>Parental Guidance</source>
         <target state="new">Parental Guidance</target>
@@ -1305,6 +1490,11 @@ Shown when a person has no credits.</note>
         <target state="new">People</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Perform Search" xml:space="preserve">
+        <source>Perform Search</source>
+        <target state="new">Perform Search</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
         <source>Persnickety Preferences</source>
         <target state="new">Persnickety Preferences</target>
@@ -1314,6 +1504,11 @@ Shown when a person has no credits.</note>
         <source>Persnickety Prefs</source>
         <target state="new">Persnickety Prefs</target>
         <note>Navigation title for Persnickety Preferences in Settings</note>
+      </trans-unit>
+      <trans-unit id="Person" xml:space="preserve">
+        <source>Person</source>
+        <target state="new">Person</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Pick a country" xml:space="preserve">
         <source>Pick a country</source>
@@ -1365,6 +1560,11 @@ Shown when a person has no credits.</note>
         <target state="new">Pins</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Place of Birth" xml:space="preserve">
+        <source>Place of Birth</source>
+        <target state="new">Place of Birth</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Plans:" xml:space="preserve">
         <source>Plans:</source>
         <target state="new">Plans:</target>
@@ -1410,6 +1610,11 @@ Shown when a person has no credits.</note>
         <target state="new">Poster</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Poster URL" xml:space="preserve">
+        <source>Poster URL</source>
+        <target state="new">Poster URL</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Poster for %@" xml:space="preserve">
         <source>Poster for %@</source>
         <target state="new">Poster for %@</target>
@@ -1433,6 +1638,11 @@ Shown when a person has no credits.</note>
       <trans-unit id="Privacy Policy" xml:space="preserve">
         <source>Privacy Policy</source>
         <target state="new">Privacy Policy</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Provide info as" xml:space="preserve">
+        <source>Provide info as</source>
+        <target state="new">Provide info as</target>
         <note/>
       </trans-unit>
       <trans-unit id="Provided by" xml:space="preserve">
@@ -1468,6 +1678,11 @@ Shown when a person has no credits.</note>
       <trans-unit id="Purchasing…" xml:space="preserve">
         <source>Purchasing…</source>
         <target state="new">Purchasing…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Query" xml:space="preserve">
+        <source>Query</source>
+        <target state="new">Query</target>
         <note/>
       </trans-unit>
       <trans-unit id="Quick Access Link" xml:space="preserve">
@@ -1515,6 +1730,11 @@ Shown when a person has no credits.</note>
         <target state="new">Region Override</target>
         <note>Shown in Settings</note>
       </trans-unit>
+      <trans-unit id="Release Date" xml:space="preserve">
+        <source>Release Date</source>
+        <target state="new">Release Date</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Released" xml:space="preserve">
         <source>Released</source>
         <target state="new">Released</target>
@@ -1550,16 +1770,6 @@ Shown when a person has no credits.</note>
         <target state="new">Rent</target>
         <note>A kind of service to watch media on. Contrast with "Free", "Ads", "Buy", "Subscription"</note>
       </trans-unit>
-      <trans-unit id="Repeat Search" xml:space="preserve">
-        <source>Repeat Search</source>
-        <target state="new">Repeat Search</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Repeats the most recent search." xml:space="preserve">
-        <source>Repeats the most recent search.</source>
-        <target state="new">Repeats the most recent search.</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Request Refund" xml:space="preserve">
         <source>Request Refund</source>
         <target state="new">Request Refund</target>
@@ -1579,6 +1789,11 @@ Shown when a person has no credits.</note>
         <source>Restoring…</source>
         <target state="new">Restoring…</target>
         <note>Button title in Settings when actively restoring a purchase</note>
+      </trans-unit>
+      <trans-unit id="Result" xml:space="preserve">
+        <source>Result</source>
+        <target state="new">Result</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Reverse sort order" xml:space="preserve">
         <source>Reverse sort order</source>
@@ -1630,9 +1845,19 @@ Shown when a person has no credits.</note>
         <target state="new">Search History</target>
         <note>Title of the Search History screen</note>
       </trans-unit>
+      <trans-unit id="Search Result" xml:space="preserve">
+        <source>Search Result</source>
+        <target state="new">Search Result</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Search Results" xml:space="preserve">
         <source>Search Results</source>
         <target state="new">Search Results</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search for ${query}" xml:space="preserve">
+        <source>Search for ${query}</source>
+        <target state="new">Search for ${query}</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search history" xml:space="preserve">
@@ -1640,9 +1865,19 @@ Shown when a person has no credits.</note>
         <target state="new">Search history</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Searches TMDB for movies, TV shows, and people matching the given query. Returns up to 20 results, each containing a TMDB ID, title, and media type." xml:space="preserve">
+        <source>Searches TMDB for movies, TV shows, and people matching the given query. Returns up to 20 results, each containing a TMDB ID, title, and media type.</source>
+        <target state="new">Searches TMDB for movies, TV shows, and people matching the given query. Returns up to 20 results, each containing a TMDB ID, title, and media type.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Season %lld Episode %lld" xml:space="preserve">
         <source>Season %1$lld Episode %2$lld</source>
         <target state="new">Season %1$lld Episode %2$lld</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Season Count" xml:space="preserve">
+        <source>Season Count</source>
+        <target state="new">Season Count</target>
         <note/>
       </trans-unit>
       <trans-unit id="Seasons" xml:space="preserve">
@@ -1664,6 +1899,16 @@ Shown when a person has no credits.</note>
         <source>Select a View</source>
         <target state="new">Select a View</target>
         <note>Shown when choosing between cast &amp; crew</note>
+      </trans-unit>
+      <trans-unit id="Select between a movie or TV show. Persons do not have videos." xml:space="preserve">
+        <source>Select between a movie or TV show. Persons do not have videos.</source>
+        <target state="new">Select between a movie or TV show. Persons do not have videos.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Select between a movie, TV show, or person. When provided, you must also provide an ID, but a Result is not needed." xml:space="preserve">
+        <source>Select between a movie, TV show, or person. When provided, you must also provide an ID, but a Result is not needed.</source>
+        <target state="new">Select between a movie, TV show, or person. When provided, you must also provide an ID, but a Result is not needed.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Send Feedback" xml:space="preserve">
         <source>Send Feedback</source>
@@ -1770,10 +2015,10 @@ Shown when a person has no credits.</note>
         <target state="new">Start Live Activity</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
-        <source>Starts a new Search within Callsheet.</source>
-        <target state="new">Starts a new Search within Callsheet.</target>
-        <note>For the search intent.</note>
+      <trans-unit id="Status" xml:space="preserve">
+        <source>Status</source>
+        <target state="new">Status</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Stop Live Activity" xml:space="preserve">
         <source>Stop Live Activity</source>
@@ -1830,6 +2075,11 @@ Shown when a person has no credits.</note>
         <target state="new">System Default</target>
         <note>Which browser to use for web links (the other option is "In-App Browser")</note>
       </trans-unit>
+      <trans-unit id="TMDB ID" xml:space="preserve">
+        <source>TMDB ID</source>
+        <target state="new">TMDB ID</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="TV Jobs" xml:space="preserve">
         <source>TV Jobs</source>
         <target state="new">TV Jobs</target>
@@ -1839,6 +2089,11 @@ Shown when a person has no credits.</note>
         <source>TV Roles</source>
         <target state="new">TV Roles</target>
         <note>When viewing a person, show only their TV acting roles</note>
+      </trans-unit>
+      <trans-unit id="TV Show" xml:space="preserve">
+        <source>TV Show</source>
+        <target state="new">TV Show</target>
+        <note/>
       </trans-unit>
       <trans-unit id="TV Shows" xml:space="preserve">
         <source>TV Shows</source>
@@ -1865,10 +2120,20 @@ Shown when a person has no credits.</note>
         <target state="new">Thank you for trying out Callsheet. 💙</target>
         <note/>
       </trans-unit>
+      <trans-unit id="The  identifier for this media item. When provided, you must also provide a Media Type, but a Result is not needed." xml:space="preserve">
+        <source>The  identifier for this media item. When provided, you must also provide a Media Type, but a Result is not needed.</source>
+        <target state="new">The  identifier for this media item. When provided, you must also provide a Media Type, but a Result is not needed.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="The Quick Access Link cannot be disabled." xml:space="preserve">
         <source>The Quick Access Link cannot be disabled.</source>
         <target state="new">The Quick Access Link cannot be disabled.</target>
         <note>Message associated with the link that is currently the user's Quick Access Link; this link cannot be disabled.</note>
+      </trans-unit>
+      <trans-unit id="The TMDB identifier for this media item." xml:space="preserve">
+        <source>The TMDB identifier for this media item.</source>
+        <target state="new">The TMDB identifier for this media item.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="The above open-source software helps make Callsheet possible. 💙" xml:space="preserve">
         <source>The above open-source software helps make Callsheet possible. 💙</source>
@@ -1879,6 +2144,11 @@ Shown when a person has no credits.</note>
         <source>The currently active list is `%@`</source>
         <target state="new">The currently active list is `%@`</target>
         <note>This is a caption under the "This item is pinned on the active list" line</note>
+      </trans-unit>
+      <trans-unit id="The search term to look up on TMDB." xml:space="preserve">
+        <source>The search term to look up on TMDB.</source>
+        <target state="new">The search term to look up on TMDB.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Theme" xml:space="preserve">
         <source>Theme</source>
@@ -1899,6 +2169,11 @@ Shown when a person has no credits.</note>
         <source>These are the default settings.</source>
         <target state="new">These are the default settings.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="These often-redundant credits can be hidden by default." xml:space="preserve">
+        <source>These often-redundant credits can be hidden by default.</source>
+        <target state="new">These often-redundant credits can be hidden by default.</target>
+        <note>Subtitle in Persnickety Preferences for the Self &amp; Thanks toggle; the toggle's default is to show these credits.</note>
       </trans-unit>
       <trans-unit id="These settings will only affect *%@*." xml:space="preserve">
         <source>These settings will only affect *%@*.</source>
@@ -1923,6 +2198,11 @@ Shown when a person has no credits.</note>
       <trans-unit id="Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:" xml:space="preserve">
         <source>Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:</source>
         <target state="new">Though it was written by me, Callsheet wouldn't be possible without the efforts of the following people:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Title" xml:space="preserve">
+        <source>Title</source>
+        <target state="new">Title</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title or job" xml:space="preserve">
@@ -1965,6 +2245,16 @@ Shown when a person has no credits.</note>
         <target state="new">Trivia</target>
         <note>Quick access link</note>
       </trans-unit>
+      <trans-unit id="Type" xml:space="preserve">
+        <source>Type</source>
+        <target state="new">Type</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="URL" xml:space="preserve">
+        <source>URL</source>
+        <target state="new">URL</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!" xml:space="preserve">
         <source>Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</source>
         <target state="new">Unfortunately, [The Movie Database](https://www.themoviedb.org/) does not yet support doing a union search for shows. I've asked them to add it; we'll see what happens!</target>
@@ -1973,7 +2263,7 @@ Shown when a person has no credits.</note>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
         <target state="new">Unknown</target>
-        <note/>
+        <note>An unknown gender</note>
       </trans-unit>
       <trans-unit id="Unlimited searches" xml:space="preserve">
         <source>Unlimited searches</source>
@@ -2004,6 +2294,16 @@ Shown when a person has no credits.</note>
         <source>User Interface</source>
         <target state="new">User Interface</target>
         <note>Header in Persnickety Preferences</note>
+      </trans-unit>
+      <trans-unit id="User Score" xml:space="preserve">
+        <source>User Score</source>
+        <target state="new">User Score</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Video" xml:space="preserve">
+        <source>Video</source>
+        <target state="new">Video</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Waiting for approval…" xml:space="preserve">
         <source>Waiting for approval…</source>
@@ -2243,7 +2543,7 @@ Use the search field to get started.</target>
   </file>
   <file original="Widgets/InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E5170d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2265,12 +2565,27 @@ Use the search field to get started.</target>
   </file>
   <file original="Widgets/Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C519"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E5170d"/>
     </header>
     <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <target state="new">%@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="%lld" xml:space="preserve">
         <source>%lld</source>
         <target state="new">%lld</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A search result from the Search Media action. When provided, Media Type and ID are not needed." xml:space="preserve">
+        <source>A search result from the Search Media action. When provided, Media Type and ID are not needed.</source>
+        <target state="new">A search result from the Search Media action. When provided, Media Type and ID are not needed.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Birthday" xml:space="preserve">
+        <source>Birthday</source>
+        <target state="new">Birthday</target>
         <note/>
       </trans-unit>
       <trans-unit id="Callsheet app icon" xml:space="preserve">
@@ -2278,10 +2593,150 @@ Use the search field to get started.</target>
         <target state="new">Callsheet app icon</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Choose between providing a result from another Callsheet action, or providing a Media Type &amp; ID." xml:space="preserve">
+        <source>Choose between providing a result from another Callsheet action, or providing a Media Type &amp; ID.</source>
+        <target state="new">Choose between providing a result from another Callsheet action, or providing a Media Type &amp; ID.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Deathday" xml:space="preserve">
+        <source>Deathday</source>
+        <target state="new">Deathday</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="E" xml:space="preserve">
         <source>E</source>
         <target state="new">E</target>
         <note>Abbreviation for a TV episode; in English, short for "Episode".</note>
+      </trans-unit>
+      <trans-unit id="Episode Count" xml:space="preserve">
+        <source>Episode Count</source>
+        <target state="new">Episode Count</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Female" xml:space="preserve">
+        <source>Female</source>
+        <target state="new">Female</target>
+        <note>Gender for a person that identifies as female</note>
+      </trans-unit>
+      <trans-unit id="Fetches details about a movie, TV show, or person from TMDB." xml:space="preserve">
+        <source>Fetches details about a movie, TV show, or person from TMDB.</source>
+        <target state="new">Fetches details about a movie, TV show, or person from TMDB.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fetches videos (trailers, teasers, clips, etc.) for a movie or TV show from TMDB. Returns a list of video results, each with a name, type, and URL." xml:space="preserve">
+        <source>Fetches videos (trailers, teasers, clips, etc.) for a movie or TV show from TMDB. Returns a list of video results, each with a name, type, and URL.</source>
+        <target state="new">Fetches videos (trailers, teasers, clips, etc.) for a movie or TV show from TMDB. Returns a list of video results, each with a name, type, and URL.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="First Aired" xml:space="preserve">
+        <source>First Aired</source>
+        <target state="new">First Aired</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gender" xml:space="preserve">
+        <source>Gender</source>
+        <target state="new">Gender</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Genres" xml:space="preserve">
+        <source>Genres</source>
+        <target state="new">Genres</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get Media Info" xml:space="preserve">
+        <source>Get Media Info</source>
+        <target state="new">Get Media Info</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get Media Videos" xml:space="preserve">
+        <source>Get Media Videos</source>
+        <target state="new">Get Media Videos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get info" xml:space="preserve">
+        <source>Get info</source>
+        <target state="new">Get info</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get info for ${mediaType} #${id}" xml:space="preserve">
+        <source>Get info for ${mediaType} #${id}</source>
+        <target state="new">Get info for ${mediaType} #${id}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get info for ${result}" xml:space="preserve">
+        <source>Get info for ${result}</source>
+        <target state="new">Get info for ${result}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get videos" xml:space="preserve">
+        <source>Get videos</source>
+        <target state="new">Get videos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get videos for ${mediaType} #${id}" xml:space="preserve">
+        <source>Get videos for ${mediaType} #${id}</source>
+        <target state="new">Get videos for ${mediaType} #${id}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get videos for ${result}" xml:space="preserve">
+        <source>Get videos for ${result}</source>
+        <target state="new">Get videos for ${result}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ID" xml:space="preserve">
+        <source>ID</source>
+        <target state="new">ID</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Known For" xml:space="preserve">
+        <source>Known For</source>
+        <target state="new">Known For</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last Aired" xml:space="preserve">
+        <source>Last Aired</source>
+        <target state="new">Last Aired</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Male" xml:space="preserve">
+        <source>Male</source>
+        <target state="new">Male</target>
+        <note>Gender for a person that identifies as male</note>
+      </trans-unit>
+      <trans-unit id="Media Info" xml:space="preserve">
+        <source>Media Info</source>
+        <target state="new">Media Info</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Media Request Type" xml:space="preserve">
+        <source>Media Request Type</source>
+        <target state="new">Media Request Type</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Media Type" xml:space="preserve">
+        <source>Media Type</source>
+        <target state="new">Media Type</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Media search result" xml:space="preserve">
+        <source>Media search result</source>
+        <target state="new">Media search result</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Media type &amp; ID" xml:space="preserve">
+        <source>Media type &amp; ID</source>
+        <target state="new">Media type &amp; ID</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Movie" xml:space="preserve">
+        <source>Movie</source>
+        <target state="new">Movie</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Name or job in %@" xml:space="preserve">
         <source>Name or job in %@</source>
@@ -2293,6 +2748,16 @@ Use the search field to get started.</target>
         <target state="new">Name or role in %@</target>
         <note>Cast search prompt; I'll replace "%@" with the name of the media in question, so for the translation, please include "%@" where appropriate.</note>
       </trans-unit>
+      <trans-unit id="Non-binary" xml:space="preserve">
+        <source>Non-binary</source>
+        <target state="new">Non-binary</target>
+        <note>Gender for a person that identifies as neither male nor female.</note>
+      </trans-unit>
+      <trans-unit id="Open Last Search" xml:space="preserve">
+        <source>Open Last Search</source>
+        <target state="new">Open Last Search</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Open Pinned Items" xml:space="preserve">
         <source>Open Pinned Items</source>
         <target state="new">Open Pinned Items</target>
@@ -2301,6 +2766,11 @@ Use the search field to get started.</target>
       <trans-unit id="Open Pins" xml:space="preserve">
         <source>Open Pins</source>
         <target state="new">Open Pins</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Search" xml:space="preserve">
+        <source>Open Search</source>
+        <target state="new">Open Search</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open the list of your pinned items" xml:space="preserve">
@@ -2313,9 +2783,39 @@ Use the search field to get started.</target>
         <target state="new">Open your pins in Callsheet</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Opens Callsheet and repeats the most recent search." xml:space="preserve">
+        <source>Opens Callsheet and repeats the most recent search.</source>
+        <target state="new">Opens Callsheet and repeats the most recent search.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Opens Callsheet and starts a new, blank, search." xml:space="preserve">
+        <source>Opens Callsheet and starts a new, blank, search.</source>
+        <target state="new">Opens Callsheet and starts a new, blank, search.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Opens Callsheet to the list of your pinned items" xml:space="preserve">
+        <source>Opens Callsheet to the list of your pinned items</source>
+        <target state="new">Opens Callsheet to the list of your pinned items</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Overview" xml:space="preserve">
+        <source>Overview</source>
+        <target state="new">Overview</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Perform Search" xml:space="preserve">
+        <source>Perform Search</source>
+        <target state="new">Perform Search</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Perform your most recent search in Callsheet" xml:space="preserve">
         <source>Perform your most recent search in Callsheet</source>
         <target state="new">Perform your most recent search in Callsheet</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Person" xml:space="preserve">
+        <source>Person</source>
+        <target state="new">Person</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pin" xml:space="preserve">
@@ -2328,14 +2828,39 @@ Use the search field to get started.</target>
         <target state="new">Pinned Items</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Place of Birth" xml:space="preserve">
+        <source>Place of Birth</source>
+        <target state="new">Place of Birth</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Poster URL" xml:space="preserve">
+        <source>Poster URL</source>
+        <target state="new">Poster URL</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Poster for %@" xml:space="preserve">
         <source>Poster for %@</source>
         <target state="new">Poster for %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Provide info as" xml:space="preserve">
+        <source>Provide info as</source>
+        <target state="new">Provide info as</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Query" xml:space="preserve">
+        <source>Query</source>
+        <target state="new">Query</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Recent Search" xml:space="preserve">
         <source>Recent Search</source>
         <target state="new">Recent Search</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Release Date" xml:space="preserve">
+        <source>Release Date</source>
+        <target state="new">Release Date</target>
         <note/>
       </trans-unit>
       <trans-unit id="Repeat Last Search" xml:space="preserve">
@@ -2353,6 +2878,16 @@ Use the search field to get started.</target>
         <target state="new">Repeats the most recent search.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Result" xml:space="preserve">
+        <source>Result</source>
+        <target state="new">Result</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Runtime" xml:space="preserve">
+        <source>Runtime</source>
+        <target state="new">Runtime</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="S" xml:space="preserve">
         <source>S</source>
         <target state="new">S</target>
@@ -2368,6 +2903,36 @@ Use the search field to get started.</target>
         <target state="new">Search Callsheet</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Search Result" xml:space="preserve">
+        <source>Search Result</source>
+        <target state="new">Search Result</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search for ${query}" xml:space="preserve">
+        <source>Search for ${query}</source>
+        <target state="new">Search for ${query}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Searches TMDB for movies, TV shows, and people matching the given query. Returns up to 20 results, each containing a TMDB ID, title, and media type." xml:space="preserve">
+        <source>Searches TMDB for movies, TV shows, and people matching the given query. Returns up to 20 results, each containing a TMDB ID, title, and media type.</source>
+        <target state="new">Searches TMDB for movies, TV shows, and people matching the given query. Returns up to 20 results, each containing a TMDB ID, title, and media type.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Season Count" xml:space="preserve">
+        <source>Season Count</source>
+        <target state="new">Season Count</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Select between a movie or TV show. Persons do not have videos." xml:space="preserve">
+        <source>Select between a movie or TV show. Persons do not have videos.</source>
+        <target state="new">Select between a movie or TV show. Persons do not have videos.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Select between a movie, TV show, or person. When provided, you must also provide an ID, but a Result is not needed." xml:space="preserve">
+        <source>Select between a movie, TV show, or person. When provided, you must also provide an ID, but a Result is not needed.</source>
+        <target state="new">Select between a movie, TV show, or person. When provided, you must also provide an ID, but a Result is not needed.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Shows one or more of your most recent pinned items" xml:space="preserve">
         <source>Shows one or more of your most recent pinned items</source>
         <target state="new">Shows one or more of your most recent pinned items</target>
@@ -2381,6 +2946,46 @@ Use the search field to get started.</target>
       <trans-unit id="Starts a new Search within Callsheet." xml:space="preserve">
         <source>Starts a new Search within Callsheet.</source>
         <target state="new">Starts a new Search within Callsheet.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Status" xml:space="preserve">
+        <source>Status</source>
+        <target state="new">Status</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Summary" xml:space="preserve">
+        <source>Summary</source>
+        <target state="new">Summary</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="TMDB ID" xml:space="preserve">
+        <source>TMDB ID</source>
+        <target state="new">TMDB ID</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="TV Show" xml:space="preserve">
+        <source>TV Show</source>
+        <target state="new">TV Show</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The  identifier for this media item. When provided, you must also provide a Media Type, but a Result is not needed." xml:space="preserve">
+        <source>The  identifier for this media item. When provided, you must also provide a Media Type, but a Result is not needed.</source>
+        <target state="new">The  identifier for this media item. When provided, you must also provide a Media Type, but a Result is not needed.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The TMDB identifier for this media item." xml:space="preserve">
+        <source>The TMDB identifier for this media item.</source>
+        <target state="new">The TMDB identifier for this media item.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The search term to look up on TMDB." xml:space="preserve">
+        <source>The search term to look up on TMDB.</source>
+        <target state="new">The search term to look up on TMDB.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Title" xml:space="preserve">
+        <source>Title</source>
+        <target state="new">Title</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title or job" xml:space="preserve">
@@ -2402,6 +3007,31 @@ Use the search field to get started.</target>
         <source>Title, role, or job</source>
         <target state="new">Title, role, or job</target>
         <note>Search prompt when viewing a person's entire (cast &amp; crew) filmography</note>
+      </trans-unit>
+      <trans-unit id="Type" xml:space="preserve">
+        <source>Type</source>
+        <target state="new">Type</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="URL" xml:space="preserve">
+        <source>URL</source>
+        <target state="new">URL</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <target state="new">Unknown</target>
+        <note>An unknown gender</note>
+      </trans-unit>
+      <trans-unit id="User Score" xml:space="preserve">
+        <source>User Score</source>
+        <target state="new">User Score</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Video" xml:space="preserve">
+        <source>Video</source>
+        <target state="new">Video</target>
+        <note/>
       </trans-unit>
       <trans-unit id="pin" xml:space="preserve">
         <source>pin</source>

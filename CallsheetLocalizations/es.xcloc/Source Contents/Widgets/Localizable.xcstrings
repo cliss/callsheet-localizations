@@ -1,14 +1,107 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "%@" : {
+
+    },
     "%lld" : {
+
+    },
+    "A search result from the Search Media action. When provided, Media Type and ID are not needed." : {
+
+    },
+    "Birthday" : {
 
     },
     "Callsheet app icon" : {
 
     },
+    "Choose between providing a result from another Callsheet action, or providing a Media Type & ID." : {
+
+    },
+    "Deathday" : {
+
+    },
     "E" : {
       "comment" : "Abbreviation for a TV episode; in English, short for \"Episode\"."
+    },
+    "Episode Count" : {
+
+    },
+    "Female" : {
+      "comment" : "Gender for a person that identifies as female"
+    },
+    "Fetches details about a movie, TV show, or person from TMDB." : {
+
+    },
+    "Fetches videos (trailers, teasers, clips, etc.) for a movie or TV show from TMDB. Returns a list of video results, each with a name, type, and URL." : {
+
+    },
+    "First Aired" : {
+
+    },
+    "Gender" : {
+
+    },
+    "Genres" : {
+
+    },
+    "Get info" : {
+
+    },
+    "Get info for ${mediaType} #${id}" : {
+
+    },
+    "Get info for ${result}" : {
+
+    },
+    "Get Media Info" : {
+
+    },
+    "Get Media Videos" : {
+
+    },
+    "Get videos" : {
+
+    },
+    "Get videos for ${mediaType} #${id}" : {
+
+    },
+    "Get videos for ${result}" : {
+
+    },
+    "ID" : {
+
+    },
+    "Known For" : {
+
+    },
+    "Last Aired" : {
+
+    },
+    "Male" : {
+      "comment" : "Gender for a person that identifies as male"
+    },
+    "Media Info" : {
+
+    },
+    "Media Request Type" : {
+
+    },
+    "Media search result" : {
+
+    },
+    "Media Type" : {
+
+    },
+    "Media type & ID" : {
+
+    },
+    "Movie" : {
+
+    },
+    "Name" : {
+
     },
     "Name or job in %@" : {
       "comment" : "Crew search prompt; I'll replace \"%@\" with the name of the media in question, so for the translation, please include \"%@\" where appropriate."
@@ -16,19 +109,46 @@
     "Name or role in %@" : {
       "comment" : "Cast search prompt; I'll replace \"%@\" with the name of the media in question, so for the translation, please include \"%@\" where appropriate."
     },
+    "Non-binary" : {
+      "comment" : "Gender for a person that identifies as neither male nor female."
+    },
+    "Open Last Search" : {
+
+    },
     "Open Pinned Items" : {
 
     },
     "Open Pins" : {
 
     },
-    "Open the list of your pinned items" : {
+    "Open Search" : {
 
+    },
+    "Open the list of your pinned items" : {
+      "extractionState" : "stale"
     },
     "Open your pins in Callsheet" : {
 
     },
+    "Opens Callsheet and repeats the most recent search." : {
+
+    },
+    "Opens Callsheet and starts a new, blank, search." : {
+
+    },
+    "Opens Callsheet to the list of your pinned items" : {
+
+    },
+    "Overview" : {
+
+    },
+    "Perform Search" : {
+
+    },
     "Perform your most recent search in Callsheet" : {
+
+    },
+    "Person" : {
 
     },
     "pin" : {
@@ -43,19 +163,40 @@
     "Pinned Items" : {
 
     },
+    "Place of Birth" : {
+
+    },
     "Poster for %@" : {
 
     },
+    "Poster URL" : {
+
+    },
+    "Provide info as" : {
+
+    },
+    "Query" : {
+
+    },
     "Recent Search" : {
+
+    },
+    "Release Date" : {
 
     },
     "Repeat Last Search" : {
 
     },
     "Repeat Search" : {
-
+      "extractionState" : "stale"
     },
     "Repeats the most recent search." : {
+      "extractionState" : "stale"
+    },
+    "Result" : {
+
+    },
+    "Runtime" : {
 
     },
     "S" : {
@@ -67,6 +208,24 @@
     "Search Callsheet" : {
 
     },
+    "Search for ${query}" : {
+
+    },
+    "Search Result" : {
+
+    },
+    "Searches TMDB for movies, TV shows, and people matching the given query. Returns up to 20 results, each containing a TMDB ID, title, and media type." : {
+
+    },
+    "Season Count" : {
+
+    },
+    "Select between a movie or TV show. Persons do not have videos." : {
+
+    },
+    "Select between a movie, TV show, or person. When provided, you must also provide an ID, but a Result is not needed." : {
+
+    },
     "Shows one or more of your most recent pinned items" : {
 
     },
@@ -74,6 +233,24 @@
 
     },
     "Starts a new Search within Callsheet." : {
+      "extractionState" : "stale"
+    },
+    "Status" : {
+
+    },
+    "Summary" : {
+
+    },
+    "The  identifier for this media item. When provided, you must also provide a Media Type, but a Result is not needed." : {
+
+    },
+    "The search term to look up on TMDB." : {
+
+    },
+    "The TMDB identifier for this media item." : {
+
+    },
+    "Title" : {
 
     },
     "Title or job" : {
@@ -87,6 +264,27 @@
     },
     "Title, role, or job" : {
       "comment" : "Search prompt when viewing a person's entire (cast & crew) filmography"
+    },
+    "TMDB ID" : {
+
+    },
+    "TV Show" : {
+
+    },
+    "Type" : {
+
+    },
+    "Unknown" : {
+      "comment" : "An unknown gender"
+    },
+    "URL" : {
+
+    },
+    "User Score" : {
+
+    },
+    "Video" : {
+
     }
   },
   "version" : "1.0"

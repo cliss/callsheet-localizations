@@ -1,4 +1,10 @@
 /* No comment provided by engineer. */
+"Get info from ${applicationName}" = "Get info from ${applicationName}";
+
+/* No comment provided by engineer. */
+"Look up in ${applicationName}" = "Look up in ${applicationName}";
+
+/* No comment provided by engineer. */
 "Open ${applicationName} pins" = "Open ${applicationName} pins";
 
 /* No comment provided by engineer. */
