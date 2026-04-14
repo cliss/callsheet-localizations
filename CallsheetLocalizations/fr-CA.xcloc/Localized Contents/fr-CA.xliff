@@ -1448,12 +1448,12 @@ Shown when a person has no credits.</note>
       </trans-unit>
       <trans-unit id="Persnickety Preferences" xml:space="preserve">
         <source>Persnickety Preferences</source>
-        <target state="translated">Paramètres pointilleuses</target>
+        <target state="translated">Paramètres pointilleux</target>
         <note/>
       </trans-unit>
       <trans-unit id="Persnickety Prefs" xml:space="preserve">
         <source>Persnickety Prefs</source>
-        <target state="translated">Paramètres pointilleuses</target>
+        <target state="translated">Paramètres pointilleux</target>
         <note>Navigation title for Persnickety Preferences in Settings</note>
       </trans-unit>
       <trans-unit id="Person" xml:space="preserve">
